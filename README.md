@@ -1,16 +1,20 @@
+![Cover image](
+https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwfQ%3D%3D/patreon-media/p/campaign/2094625/cbbbeee13db841d89e9e6185e3f0f7b2/1.jpg?token-time=1599177600&token-hash=z5lj1RZa48AFoTj47OvCp5XkDnSQruxnXyKa7eD9mh4%3D)
+
 ### Hi there 👋
 
-<!--
-**Spomky/Spomky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Florent Morselli. I am a French web developer passionated by PHP, ReactJS and Free, Libre & Open-Source Softwares
+As far as possible, I contribute to projects or publish my own work.
 
-Here are some ideas to get you started:
+Among all of these project, let me encourage you to read more about [Webauthn](https://github.com/web-auth), a PHP implementation I am working on and that will help you to get rid of passords.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently learning how to build fast and reliable static websites usingGatsbyJS / NextJS. Also I read lot of papers and online courses regarding Finite State Machines principles.
+
+Feel free to ask me about all of these FLOSS projects or reach me on any other topics you may want to discuss.
+
+Hereafter an overview on my involvement in the Open-Source ecosystem.
+If you wish, you can sponsor me. The [Gihub Sponsor page](https://github.com/sponsors/Spomky/) or the [Patreon page](https://www.patreon.com/FlorentMorselli) are made on that purpose. Any help is greatly appreciated and allow me spending time on these projects.
+
+<a href="https://stackoverflow.com/users/2157818/florent-morselli"><img src="https://stackoverflow.com/users/flair/2157818.png" width="208" height="58" alt="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+[![Florent Morselli's github stats](https://github-readme-stats.vercel.app/api?username=Spomky&count_private=true&show_icons=true)](https://github.com/Spomky)
