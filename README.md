@@ -17,4 +17,9 @@ If you wish, you can sponsor me. The [Gihub Sponsor page](https://github.com/spo
 
 <a href="https://stackoverflow.com/users/2157818/florent-morselli"><img src="https://stackoverflow.com/users/flair/2157818.png" width="208" height="58" alt="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-[![Florent Morselli's github stats](https://github-readme-stats.vercel.app/api?username=Spomky&count_private=true&show_icons=true)](https://github.com/Spomky)
+
+
+
+[![Top Langs](https://wakatime.com/share/@Spomky/aa41d408-c524-4a5f-936d-0b9446698abd.svg)](https://wakatime.com/@Spomky)
+
+
