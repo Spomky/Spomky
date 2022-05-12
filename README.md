@@ -6,7 +6,7 @@
 My name is Florent Morselli. I am a French web developer passionated by PHP, ReactJS and Free, Libre & Open-Source Softwares
 As far as possible, I contribute to projects or publish my own work.
 
-Among all of these project, let me encourage you to read more about [Webauthn](https://github.com/web-auth), a PHP implementation I am working on and that will help you to get rid of passords.
+Among all of these project, let me encourage you to read more about [Webauthn](https://github.com/web-auth), a PHP implementation I am working on and that will help you to get rid of passwords.
 
 I am currently learning how to build fast and reliable static websites usingGatsbyJS / NextJS. Also I read lot of papers and online courses regarding Finite State Machines principles.
 
