@@ -10,7 +10,7 @@ The projects I am working on are mainly related to security over web application
 
 Among all of these project, let me encourage you to read more about [Webauthn](https://github.com/web-auth), a PHP implementation I am working on since end of 2018 and that will help you to get rid of passwords. I presented the possibilities offered by this technology during the second edition of ApiPlatformCon in September 2022 in Lille, France.
 
-![52371137838_9e9e93b20d_o2](https://user-images.githubusercontent.com/1091072/191684778-b9e26104-038d-45c2-a1b3-287233d15ecc.jpg)
+[![52371137838_9e9e93b20d_o2](https://user-images.githubusercontent.com/1091072/191684778-b9e26104-038d-45c2-a1b3-287233d15ecc.jpg)](https://api-platform.com/con/2022/conferences/webauthn-se-debarrasser-des-mots-de-passe-definitivement/)
 
 Feel free to ask me about all of these FLOSS projects or reach me on any other topics you may want to discuss.
 
