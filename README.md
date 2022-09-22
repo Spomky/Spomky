@@ -3,12 +3,14 @@
 
 ### Hi there 👋
 
-My name is Florent Morselli. I am a French web developer passionated by PHP, ReactJS and Free, Libre & Open-Source Softwares
+My name is **Florent Morselli** (*flɔʁɑ̃ mɔʁseli*). I am a French web developer and project manager passionated by PHP, ReactJS and Free, Libre & Open-Source Softwares
 As far as possible, I contribute to projects or publish my own work.
 
-Among all of these project, let me encourage you to read more about [Webauthn](https://github.com/web-auth), a PHP implementation I am working on and that will help you to get rid of passwords.
+The projects I am working on are mainly related to security over web applications. In particular, you will find useful libraries of Symfony bundles for One-Time Passwords (TOTP/HOTP), Json Web Tokens (JWT, including signed and encrypted ones), Concise Binary Object Representation (CBOR) and Webauthn.
 
-I am currently learning how to build fast and reliable static websites usingGatsbyJS / NextJS. Also I read lot of papers and online courses regarding Finite State Machines principles.
+Among all of these project, let me encourage you to read more about [Webauthn](https://github.com/web-auth), a PHP implementation I am working on since end of 2018 and that will help you to get rid of passwords. I presented the possibilities offered by this technology during the second edition of ApiPlatformCon in September 2022 in Lille, France.
+
+![52371137838_9e9e93b20d_o2](https://user-images.githubusercontent.com/1091072/191684778-b9e26104-038d-45c2-a1b3-287233d15ecc.jpg)
 
 Feel free to ask me about all of these FLOSS projects or reach me on any other topics you may want to discuss.
 
