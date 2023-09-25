@@ -39,7 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [First try for user identifier normalization](https://github.com/symfony/symfony/pull/51744) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security] First try for user identifier normalization](https://github.com/symfony/symfony/pull/51744) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security] Add CSRF migration strategy](https://github.com/symfony/symfony/pull/51724) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - [4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/480) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Fix title level](https://github.com/symfony/symfony-docs/pull/18859) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
