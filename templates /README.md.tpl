@@ -1,5 +1,4 @@
-![Cover image](
-1.webp)
+![Cover image](1.webp)
 
 ### Hi there 👋
 
