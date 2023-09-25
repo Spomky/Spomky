@@ -37,14 +37,6 @@ If you wish, you can sponsor me. The [Gihub Sponsor page](https://github.com/spo
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (4 months ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (4 months ago)
 
-#### 🌱 My latest projects
-
-- [Spomky/ApiPlatformCon-2022](https://github.com/Spomky/ApiPlatformCon-2022) - Slides showed during the ApiPlatformCon 2022
-- [Spomky/festive-birch-b3607](https://github.com/Spomky/festive-birch-b3607) - Jamstack site created with Stackbit
-- [Spomky/bc101-manytoone](https://github.com/Spomky/bc101-manytoone) - 
-- [Spomky/spomky-labs-website](https://github.com/Spomky/spomky-labs-website) - Gatsby starter for a Contentful project from the community. 
-- [Spomky/jquery.unitoken](https://github.com/Spomky/jquery.unitoken) - A jQuery plugin to ease the use of eSecutech UniToken devices
-
 #### 🔨 My recent Pull Requests
 
 - [[Security] Add CSRF migration strategy](https://github.com/symfony/symfony/pull/51724) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
