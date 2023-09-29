@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix class-string extend issue](https://github.com/web-auth/webauthn-framework/pull/490) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [@private statement removed](https://github.com/web-auth/webauthn-framework/pull/489) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Blob update](https://github.com/web-auth/webauthn-framework/pull/488) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [The list of PKC Params is empty by default and not required anymore](https://github.com/web-auth/webauthn-framework/pull/487) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix title level](https://github.com/symfony/symfony-docs/pull/18859) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - [Fix title level](https://github.com/Spomky/symfony-docs/pull/1) on [Spomky/symfony-docs](https://github.com/Spomky/symfony-docs) (2 weeks ago)
 - [MDS Denormalizer](https://github.com/web-auth/webauthn-framework/pull/476) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
-- [4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/475) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
