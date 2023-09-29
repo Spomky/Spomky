@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 day ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
@@ -39,16 +39,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[Security] Add a normalization step for the user-identifier in firewalls](https://github.com/symfony/symfony/pull/51744) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- [[Security] Add CSRF migration strategy](https://github.com/symfony/symfony/pull/51724) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- [[Security] Add a normalization step for the user-identifier in firewalls](https://github.com/symfony/symfony/pull/51744) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- [[Security] Add CSRF migration strategy](https://github.com/symfony/symfony/pull/51724) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/480) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Fix title level](https://github.com/symfony/symfony-docs/pull/18859) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - [Fix title level](https://github.com/Spomky/symfony-docs/pull/1) on [Spomky/symfony-docs](https://github.com/Spomky/symfony-docs) (2 weeks ago)
-- [MDS Denormalizer](https://github.com/web-auth/webauthn-framework/pull/476) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/475) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [Sync 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/474) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [NoneAttestationStatementSupport enabled by default](https://github.com/web-auth/webauthn-framework/pull/473) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [Lock closed issues action](https://github.com/web-auth/webauthn-framework/pull/471) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
+- [MDS Denormalizer](https://github.com/web-auth/webauthn-framework/pull/476) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
+- [4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/475) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
+- [Sync 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/474) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
+- [NoneAttestationStatementSupport enabled by default](https://github.com/web-auth/webauthn-framework/pull/473) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
+- [Lock closed issues action](https://github.com/web-auth/webauthn-framework/pull/471) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
