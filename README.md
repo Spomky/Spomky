@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (4 days ago)
+- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (5 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
@@ -39,26 +39,26 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Fix MDS encoding](https://github.com/web-auth/webauthn-framework/pull/492) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Missing schema on MDS JSON encoded](https://github.com/web-auth/webauthn-framework/pull/491) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Fix MDS encoding](https://github.com/web-auth/webauthn-framework/pull/492) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [Missing schema on MDS JSON encoded](https://github.com/web-auth/webauthn-framework/pull/491) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Fix class-string extend issue](https://github.com/web-auth/webauthn-framework/pull/490) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [@private statement removed](https://github.com/web-auth/webauthn-framework/pull/489) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Blob update](https://github.com/web-auth/webauthn-framework/pull/488) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [The list of PKC Params is empty by default and not required anymore](https://github.com/web-auth/webauthn-framework/pull/487) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [[Security] Add a normalization step for the user-identifier in firewalls](https://github.com/symfony/symfony/pull/51744) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- [[Security] Add a normalization step for the user-identifier in firewalls](https://github.com/symfony/symfony/pull/51744) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [[Security] Add CSRF migration strategy](https://github.com/symfony/symfony/pull/51724) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/480) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 - [Fix title level](https://github.com/symfony/symfony-docs/pull/18859) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.2), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.2), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.3.5](https://github.com/symfony/validator/releases/tag/v6.3.5), 1 week ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.5](https://github.com/symfony/security-bundle/releases/tag/v6.3.5), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.5](https://github.com/symfony/symfony/releases/tag/v6.3.5), 1 week ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.8](https://github.com/web-token/jwt-framework/releases/tag/3.2.8), 1 month ago) - JWT Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.2.3](https://github.com/web-auth/cose-lib/releases/tag/4.2.3), 2 months ago) - Cose Key and Algorithms support
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([2.0.2](https://github.com/Spomky-Labs/web-push/releases/tag/2.0.2), 4 months ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([2.0.2](https://github.com/Spomky-Labs/web-push/releases/tag/2.0.2), 5 months ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.2.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.2.0), 6 months ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [web-token/jwt-app](https://github.com/web-token/jwt-app) ([3.1.7](https://github.com/web-token/jwt-app/releases/tag/3.1.7), 6 months ago) - Standalone PHAR application to manage JWK, JWKSet and more
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.2](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.2), 7 months ago) - CBOR Encoder/Decoder for PHP
