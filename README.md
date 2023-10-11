@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Password Strength Controller](https://github.com/symfony/ux/pull/1179) on [symfony/ux](https://github.com/symfony/ux) (today)
+- [Password Strength Controller](https://github.com/symfony/ux/pull/1178) on [symfony/ux](https://github.com/symfony/ux) (today)
 - [Fix MDS encoding](https://github.com/web-auth/webauthn-framework/pull/492) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Missing schema on MDS JSON encoded](https://github.com/web-auth/webauthn-framework/pull/491) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Fix class-string extend issue](https://github.com/web-auth/webauthn-framework/pull/490) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [The list of PKC Params is empty by default and not required anymore](https://github.com/web-auth/webauthn-framework/pull/487) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [[Security] Add a normalization step for the user-identifier in firewalls](https://github.com/symfony/symfony/pull/51744) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [[Security] Add CSRF migration strategy](https://github.com/symfony/symfony/pull/51724) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/480) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
-- [Fix title level](https://github.com/symfony/symfony-docs/pull/18859) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
