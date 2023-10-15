@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Bug/pkc source repository nullable](https://github.com/web-auth/webauthn-framework/pull/496) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Class is missing from the query](https://github.com/web-auth/webauthn-framework/pull/495) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Update .gitattributes](https://github.com/Spomky/ux/pull/1) on [Spomky/ux](https://github.com/Spomky/ux) (2 days ago)
 - [Password Strength Controller](https://github.com/symfony/ux/pull/1179) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
 - [Password Strength Controller](https://github.com/symfony/ux/pull/1178) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix class-string extend issue](https://github.com/web-auth/webauthn-framework/pull/490) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [@private statement removed](https://github.com/web-auth/webauthn-framework/pull/489) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Blob update](https://github.com/web-auth/webauthn-framework/pull/488) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [The list of PKC Params is empty by default and not required anymore](https://github.com/web-auth/webauthn-framework/pull/487) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [[Security] Add a normalization step for the user-identifier in firewalls](https://github.com/symfony/symfony/pull/51744) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
