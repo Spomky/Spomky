@@ -26,8 +26,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (4 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
@@ -39,7 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Bug/pkc source repository nullable](https://github.com/web-auth/webauthn-framework/pull/496) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/497) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [PKC Source repository should not be null when using CredentialID](https://github.com/web-auth/webauthn-framework/pull/496) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Class is missing from the query](https://github.com/web-auth/webauthn-framework/pull/495) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Update .gitattributes](https://github.com/Spomky/ux/pull/1) on [Spomky/ux](https://github.com/Spomky/ux) (2 days ago)
 - [Password Strength Controller](https://github.com/symfony/ux/pull/1179) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
@@ -48,11 +49,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Missing schema on MDS JSON encoded](https://github.com/web-auth/webauthn-framework/pull/491) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Fix class-string extend issue](https://github.com/web-auth/webauthn-framework/pull/490) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [@private statement removed](https://github.com/web-auth/webauthn-framework/pull/489) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [Blob update](https://github.com/web-auth/webauthn-framework/pull/488) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.2), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.3), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.3.5](https://github.com/symfony/validator/releases/tag/v6.3.5), 2 weeks ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.5](https://github.com/symfony/security-bundle/releases/tag/v6.3.5), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.5](https://github.com/symfony/symfony/releases/tag/v6.3.5), 2 weeks ago) - The Symfony PHP framework
