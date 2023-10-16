@@ -26,25 +26,25 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (4 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (5 days ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 months ago)
 - [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (4 months ago)
-- [Spomky-Labs/skeleton-web](https://github.com/Spomky-Labs/skeleton-web) - Squelette d’application web (4 months ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (4 months ago)
+- [Spomky-Labs/skeleton-web](https://github.com/Spomky-Labs/skeleton-web) - Squelette d’application web (5 months ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/497) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [PKC Source repository should not be null when using CredentialID](https://github.com/web-auth/webauthn-framework/pull/496) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Class is missing from the query](https://github.com/web-auth/webauthn-framework/pull/495) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Update .gitattributes](https://github.com/Spomky/ux/pull/1) on [Spomky/ux](https://github.com/Spomky/ux) (2 days ago)
-- [Password Strength Controller](https://github.com/symfony/ux/pull/1179) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- [Password Strength Controller](https://github.com/symfony/ux/pull/1178) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- [4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/497) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [PKC Source repository should not be null when using CredentialID](https://github.com/web-auth/webauthn-framework/pull/496) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Class is missing from the query](https://github.com/web-auth/webauthn-framework/pull/495) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Update .gitattributes](https://github.com/Spomky/ux/pull/1) on [Spomky/ux](https://github.com/Spomky/ux) (3 days ago)
+- [Password Strength Controller](https://github.com/symfony/ux/pull/1179) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- [Password Strength Controller](https://github.com/symfony/ux/pull/1178) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
 - [Fix MDS encoding](https://github.com/web-auth/webauthn-framework/pull/492) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Missing schema on MDS JSON encoded](https://github.com/web-auth/webauthn-framework/pull/491) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Fix class-string extend issue](https://github.com/web-auth/webauthn-framework/pull/490) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
@@ -52,7 +52,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.3), today) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.3), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.3.5](https://github.com/symfony/validator/releases/tag/v6.3.5), 2 weeks ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.5](https://github.com/symfony/security-bundle/releases/tag/v6.3.5), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.5](https://github.com/symfony/symfony/releases/tag/v6.3.5), 2 weeks ago) - The Symfony PHP framework
