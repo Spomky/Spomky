@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Security] Ability to add roles in form_login_ldap by ldap group](https://github.com/symfony/symfony/pull/52181) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/497) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [PKC Source repository should not be null when using CredentialID](https://github.com/web-auth/webauthn-framework/pull/496) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Class is missing from the query](https://github.com/web-auth/webauthn-framework/pull/495) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix MDS encoding](https://github.com/web-auth/webauthn-framework/pull/492) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Missing schema on MDS JSON encoded](https://github.com/web-auth/webauthn-framework/pull/491) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Fix class-string extend issue](https://github.com/web-auth/webauthn-framework/pull/490) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [@private statement removed](https://github.com/web-auth/webauthn-framework/pull/489) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
