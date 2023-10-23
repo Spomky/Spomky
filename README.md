@@ -26,8 +26,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [Spomky-Labs/php-aes-gcm](https://github.com/Spomky-Labs/php-aes-gcm) - AES Galois Counter Mode encryption library for PHP (6 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (3 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Remove deprecations](https://github.com/web-auth/webauthn-framework/pull/501) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Merge up from 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/500) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Fix missing pieces for moving to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/499) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Sync from 4.7 to 4.8](https://github.com/web-auth/webauthn-framework/pull/498) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [[Security] Ability to add roles in form_login_ldap by ldap group](https://github.com/symfony/symfony/pull/52181) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Class is missing from the query](https://github.com/web-auth/webauthn-framework/pull/495) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Update .gitattributes](https://github.com/Spomky/ux/pull/1) on [Spomky/ux](https://github.com/Spomky/ux) (1 week ago)
 - [Password Strength Controller](https://github.com/symfony/ux/pull/1179) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- [Password Strength Controller](https://github.com/symfony/ux/pull/1178) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- [Fix MDS encoding](https://github.com/web-auth/webauthn-framework/pull/492) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
