@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Sync/missing pieces 5 0 0](https://github.com/web-auth/webauthn-framework/pull/502) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Remove deprecations](https://github.com/web-auth/webauthn-framework/pull/501) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Merge up from 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/500) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Fix missing pieces for moving to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/499) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [PKC Source repository should not be null when using CredentialID](https://github.com/web-auth/webauthn-framework/pull/496) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Class is missing from the query](https://github.com/web-auth/webauthn-framework/pull/495) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Update .gitattributes](https://github.com/Spomky/ux/pull/1) on [Spomky/ux](https://github.com/Spomky/ux) (1 week ago)
-- [Password Strength Controller](https://github.com/symfony/ux/pull/1179) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
