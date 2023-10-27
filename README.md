@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/504) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/503) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Sync/missing pieces 5 0 0](https://github.com/web-auth/webauthn-framework/pull/502) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Remove deprecations](https://github.com/web-auth/webauthn-framework/pull/501) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Security] Ability to add roles in form_login_ldap by ldap group](https://github.com/symfony/symfony/pull/52181) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/497) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [PKC Source repository should not be null when using CredentialID](https://github.com/web-auth/webauthn-framework/pull/496) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Class is missing from the query](https://github.com/web-auth/webauthn-framework/pull/495) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
