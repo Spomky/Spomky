@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
 - [Spomky-Labs/php-aes-gcm](https://github.com/Spomky-Labs/php-aes-gcm) - AES Galois Counter Mode encryption library for PHP (1 week ago)
 - [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (2 weeks ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
@@ -39,23 +39,23 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/504) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/503) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Sync/missing pieces 5 0 0](https://github.com/web-auth/webauthn-framework/pull/502) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Remove deprecations](https://github.com/web-auth/webauthn-framework/pull/501) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [Merge up from 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/500) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [Fix missing pieces for moving to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/499) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/504) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/503) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [Sync/missing pieces 5 0 0](https://github.com/web-auth/webauthn-framework/pull/502) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Remove deprecations](https://github.com/web-auth/webauthn-framework/pull/501) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Merge up from 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/500) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Fix missing pieces for moving to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/499) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Sync from 4.7 to 4.8](https://github.com/web-auth/webauthn-framework/pull/498) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [[Security] Ability to add roles in form_login_ldap by ldap group](https://github.com/symfony/symfony/pull/52181) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/497) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [PKC Source repository should not be null when using CredentialID](https://github.com/web-auth/webauthn-framework/pull/496) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/497) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
+- [PKC Source repository should not be null when using CredentialID](https://github.com/web-auth/webauthn-framework/pull/496) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.0-BETA1](https://github.com/symfony/validator/releases/tag/v7.0.0-BETA1), 1 week ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0-BETA1](https://github.com/symfony/security-bundle/releases/tag/v7.0.0-BETA1), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA1), 1 week ago) - The Symfony PHP framework
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.3), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.8](https://github.com/web-token/jwt-framework/releases/tag/3.2.8), 2 months ago) - JWT Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.2.3](https://github.com/web-auth/cose-lib/releases/tag/4.2.3), 3 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([2.0.2](https://github.com/Spomky-Labs/web-push/releases/tag/2.0.2), 5 months ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
