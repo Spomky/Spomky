@@ -52,9 +52,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.8](https://github.com/symfony/validator/releases/tag/v6.3.8), today) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.8](https://github.com/symfony/security-bundle/releases/tag/v6.3.8), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.8](https://github.com/symfony/symfony/releases/tag/v6.3.8), today) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v7.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v7.0.0-BETA3), today) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0-BETA3](https://github.com/symfony/security-bundle/releases/tag/v7.0.0-BETA3), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3), today) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.3), 3 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.8](https://github.com/web-token/jwt-framework/releases/tag/3.2.8), 2 months ago) - JWT Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.2.3](https://github.com/web-auth/cose-lib/releases/tag/4.2.3), 3 months ago) - Cose Key and Algorithms support
