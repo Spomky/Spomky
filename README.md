@@ -26,13 +26,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (today)
-- [Spomky-Labs/keycloak-app](https://github.com/Spomky-Labs/keycloak-app) - Keycloak (2 days ago)
+- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (1 day ago)
+- [Spomky-Labs/keycloak-app](https://github.com/Spomky-Labs/keycloak-app) - Keycloak (3 days ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [Spomky-Labs/php-aes-gcm](https://github.com/Spomky-Labs/php-aes-gcm) - AES Galois Counter Mode encryption library for PHP (3 weeks ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 months ago)
@@ -47,14 +47,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Remove deprecations](https://github.com/web-auth/webauthn-framework/pull/501) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Merge up from 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/500) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Fix missing pieces for moving to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/499) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [Sync from 4.7 to 4.8](https://github.com/web-auth/webauthn-framework/pull/498) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
+- [Sync from 4.7 to 4.8](https://github.com/web-auth/webauthn-framework/pull/498) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 - [[Security] Ability to add roles in form_login_ldap by ldap group](https://github.com/symfony/symfony/pull/52181) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v7.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v7.0.0-BETA3), today) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0-BETA3](https://github.com/symfony/security-bundle/releases/tag/v7.0.0-BETA3), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3), today) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v7.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v7.0.0-BETA3), 1 day ago) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0-BETA3](https://github.com/symfony/security-bundle/releases/tag/v7.0.0-BETA3), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3), 1 day ago) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.3), 3 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.8](https://github.com/web-token/jwt-framework/releases/tag/3.2.8), 2 months ago) - JWT Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.2.3](https://github.com/web-auth/cose-lib/releases/tag/4.2.3), 3 months ago) - Cose Key and Algorithms support
