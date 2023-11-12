@@ -26,8 +26,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (1 day ago)
-- [Spomky-Labs/keycloak-app](https://github.com/Spomky-Labs/keycloak-app) - Keycloak (3 days ago)
+- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (2 days ago)
+- [Spomky-Labs/keycloak-app](https://github.com/Spomky-Labs/keycloak-app) - Keycloak (4 days ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
@@ -39,7 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [feature: Convenient methods for getting component type instances](https://github.com/themesberg/flowbite/pull/712) on [themesberg/flowbite](https://github.com/themesberg/flowbite) (today)
+- [feature: Convenient methods for getting component type instances](https://github.com/themesberg/flowbite/pull/712) on [themesberg/flowbite](https://github.com/themesberg/flowbite) (1 day ago)
 - [Dependencies update](https://github.com/Spomky-Labs/otphp/pull/198) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
 - [[Security] Facilitate the management of user sessions](https://github.com/symfony/symfony/pull/52412) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/504) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
@@ -47,14 +47,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Sync/missing pieces 5 0 0](https://github.com/web-auth/webauthn-framework/pull/502) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Remove deprecations](https://github.com/web-auth/webauthn-framework/pull/501) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Merge up from 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/500) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [Fix missing pieces for moving to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/499) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
+- [Fix missing pieces for moving to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/499) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 - [Sync from 4.7 to 4.8](https://github.com/web-auth/webauthn-framework/pull/498) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v7.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v7.0.0-BETA3), 1 day ago) - Provides tools to validate values
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3), 1 day ago) - The Symfony PHP framework
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.3), 3 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [symfony/validator](https://github.com/symfony/validator) ([v7.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v7.0.0-BETA3), 2 days ago) - Provides tools to validate values
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3), 2 days ago) - The Symfony PHP framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.3), 4 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.8](https://github.com/web-token/jwt-framework/releases/tag/3.2.8), 2 months ago) - JWT Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.2.3](https://github.com/web-auth/cose-lib/releases/tag/4.2.3), 3 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([2.0.2](https://github.com/Spomky-Labs/web-push/releases/tag/2.0.2), 6 months ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
