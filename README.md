@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/512) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Missing Optional PublicKeyCredentialParameters for creation options](https://github.com/web-auth/webauthn-framework/pull/511) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feature: Convenient methods for getting component type instances](https://github.com/themesberg/flowbite/pull/712) on [themesberg/flowbite](https://github.com/themesberg/flowbite) (1 day ago)
 - [Dependencies update](https://github.com/Spomky-Labs/otphp/pull/198) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Sync/missing pieces 5 0 0](https://github.com/web-auth/webauthn-framework/pull/502) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Remove deprecations](https://github.com/web-auth/webauthn-framework/pull/501) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Merge up from 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/500) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [Fix missing pieces for moving to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/499) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
