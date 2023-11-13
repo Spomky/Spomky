@@ -39,7 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Merge up dqspo](https://github.com/web-auth/webauthn-framework/pull/514) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/514) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Ceremony steps](https://github.com/web-auth/webauthn-framework/pull/513) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/512) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Missing Optional PublicKeyCredentialParameters for creation options](https://github.com/web-auth/webauthn-framework/pull/511) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
