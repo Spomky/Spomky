@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (5 days ago)
 - [Spomky-Labs/keycloak-app](https://github.com/Spomky-Labs/keycloak-app) - Keycloak (1 week ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 week ago)
@@ -39,16 +39,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Deprecations/no pk loader](https://github.com/web-auth/webauthn-framework/pull/515) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/519) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Remove tests that use PKLoader](https://github.com/web-auth/webauthn-framework/pull/518) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/517) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Deprecate PKLoader in favor of Symfony Serializer](https://github.com/web-auth/webauthn-framework/pull/515) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/514) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Ceremony steps](https://github.com/web-auth/webauthn-framework/pull/513) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/512) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Missing Optional PublicKeyCredentialParameters for creation options](https://github.com/web-auth/webauthn-framework/pull/511) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [feature: Convenient methods for getting component type instances](https://github.com/themesberg/flowbite/pull/712) on [themesberg/flowbite](https://github.com/themesberg/flowbite) (4 days ago)
 - [Dependencies update](https://github.com/Spomky-Labs/otphp/pull/198) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
-- [[Security] Facilitate the management of user sessions](https://github.com/symfony/symfony/pull/52412) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/504) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/503) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
