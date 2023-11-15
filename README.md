@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Deprecations/no pk loader](https://github.com/web-auth/webauthn-framework/pull/515) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/514) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Ceremony steps](https://github.com/web-auth/webauthn-framework/pull/513) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/512) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Security] Facilitate the management of user sessions](https://github.com/symfony/symfony/pull/52412) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/504) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/503) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [Sync/missing pieces 5 0 0](https://github.com/web-auth/webauthn-framework/pull/502) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
