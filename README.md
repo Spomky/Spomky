@@ -52,9 +52,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/validator](https://github.com/symfony/validator) ([v7.0.0-RC1](https://github.com/symfony/validator/releases/tag/v7.0.0-RC1), today) - Provides tools to validate values
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1), today) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.4](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.4), 3 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [symfony/validator](https://github.com/symfony/validator) ([v7.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v7.0.0-BETA3), 5 days ago) - Provides tools to validate values
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3), 5 days ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.8](https://github.com/web-token/jwt-framework/releases/tag/3.2.8), 2 months ago) - JWT Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.2.3](https://github.com/web-auth/cose-lib/releases/tag/4.2.3), 3 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([2.0.2](https://github.com/Spomky-Labs/web-push/releases/tag/2.0.2), 6 months ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
