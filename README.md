@@ -26,12 +26,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (5 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (6 days ago)
 - [Spomky-Labs/keycloak-app](https://github.com/Spomky-Labs/keycloak-app) - Keycloak (1 week ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 week ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 weeks ago)
-- [Spomky-Labs/php-aes-gcm](https://github.com/Spomky-Labs/php-aes-gcm) - AES Galois Counter Mode encryption library for PHP (4 weeks ago)
+- [Spomky-Labs/php-aes-gcm](https://github.com/Spomky-Labs/php-aes-gcm) - AES Galois Counter Mode encryption library for PHP (1 month ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
@@ -39,22 +39,22 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/519) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Remove tests that use PKLoader](https://github.com/web-auth/webauthn-framework/pull/518) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/517) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Deprecate PKLoader in favor of Symfony Serializer](https://github.com/web-auth/webauthn-framework/pull/515) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/514) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Ceremony steps](https://github.com/web-auth/webauthn-framework/pull/513) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/512) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Missing Optional PublicKeyCredentialParameters for creation options](https://github.com/web-auth/webauthn-framework/pull/511) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [feature: Convenient methods for getting component type instances](https://github.com/themesberg/flowbite/pull/712) on [themesberg/flowbite](https://github.com/themesberg/flowbite) (4 days ago)
-- [Dependencies update](https://github.com/Spomky-Labs/otphp/pull/198) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
+- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/519) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Remove tests that use PKLoader](https://github.com/web-auth/webauthn-framework/pull/518) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/517) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Deprecate PKLoader in favor of Symfony Serializer](https://github.com/web-auth/webauthn-framework/pull/515) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/514) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Ceremony steps](https://github.com/web-auth/webauthn-framework/pull/513) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/512) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [Missing Optional PublicKeyCredentialParameters for creation options](https://github.com/web-auth/webauthn-framework/pull/511) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [feature: Convenient methods for getting component type instances](https://github.com/themesberg/flowbite/pull/712) on [themesberg/flowbite](https://github.com/themesberg/flowbite) (5 days ago)
+- [Dependencies update](https://github.com/Spomky-Labs/otphp/pull/198) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v7.0.0-RC1](https://github.com/symfony/validator/releases/tag/v7.0.0-RC1), today) - Provides tools to validate values
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1), today) - The Symfony PHP framework
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.4](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.4), 3 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [symfony/validator](https://github.com/symfony/validator) ([v7.0.0-RC1](https://github.com/symfony/validator/releases/tag/v7.0.0-RC1), 1 day ago) - Provides tools to validate values
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1), 1 day ago) - The Symfony PHP framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.4](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.4), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.8](https://github.com/web-token/jwt-framework/releases/tag/3.2.8), 2 months ago) - JWT Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.2.3](https://github.com/web-auth/cose-lib/releases/tag/4.2.3), 3 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([2.0.2](https://github.com/Spomky-Labs/web-push/releases/tag/2.0.2), 6 months ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
