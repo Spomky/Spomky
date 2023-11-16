@@ -67,6 +67,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [YousignAdmin](https://github.com/YousignAdmin) (10 months ago)
 - [chalasr](https://github.com/chalasr) (2 years ago)
+- [ErnadoO](https://github.com/ErnadoO) (2 years ago)
 - [passbolt](https://github.com/passbolt) (2 years ago)
 
 <a href="https://stackoverflow.com/users/2157818/florent-morselli"><img src="https://stackoverflow.com/users/flair/2157818.png" width="208" height="58" alt="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
