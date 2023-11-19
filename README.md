@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 4.8.x to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/532) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Comments addressed](https://github.com/web-auth/webauthn-framework/pull/531) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/530) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Deprecations/xsd validation](https://github.com/web-auth/webauthn-framework/pull/529) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/525) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Parameter residentKey should not be ignored when initializing Authent…](https://github.com/web-auth/webauthn-framework/pull/524) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Enable XSD validation for Doctrine ORM 3.0 compat](https://github.com/web-auth/webauthn-framework/pull/523) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Deps updated &#43; Rector &#43; ECS &#43; PHPSTan](https://github.com/Spomky-Labs/web-push/pull/18) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
