@@ -27,7 +27,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [Spomky-Labs/web-push-demo](https://github.com/Spomky-Labs/web-push-demo) -  (3 days ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (3 days ago)
 - [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (1 week ago)
@@ -39,6 +39,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/530) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Deprecations/xsd validation](https://github.com/web-auth/webauthn-framework/pull/529) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Enable XSD validation for Doctrine ORM 3.0 compat](https://github.com/web-auth/webauthn-framework/pull/528) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Remove useless CBOR Bundle (only lib us used)](https://github.com/web-auth/webauthn-framework/pull/527) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/526) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/525) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
@@ -46,13 +49,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Enable XSD validation for Doctrine ORM 3.0 compat](https://github.com/web-auth/webauthn-framework/pull/523) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Deps updated &#43; Rector &#43; ECS &#43; PHPSTan](https://github.com/Spomky-Labs/web-push/pull/18) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (3 days ago)
 - [Preparing 5.0.0](https://github.com/web-auth/webauthn-framework/pull/520) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/519) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [Remove tests that use PKLoader](https://github.com/web-auth/webauthn-framework/pull/518) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/517) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.5](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.5), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.7](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.7), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.0.0](https://github.com/Spomky-Labs/web-push/releases/tag/3.0.0), 3 days ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.0-RC1](https://github.com/symfony/validator/releases/tag/v7.0.0-RC1), 4 days ago) - Provides tools to validate values
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1), 4 days ago) - The Symfony PHP framework
