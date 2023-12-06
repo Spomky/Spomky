@@ -52,8 +52,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.2](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.2), today) - JWT authentication for your Symfony API
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 5 days ago) - The Symfony PHP framework
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.1), 5 days ago) - JWT authentication for your Symfony API
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.0](https://github.com/symfony/validator/releases/tag/v7.0.0), 1 week ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0](https://github.com/symfony/security-bundle/releases/tag/v7.0.0), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.0](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.0), 1 week ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
