@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[HttpFoundation] Similar locale selection](https://github.com/symfony/symfony/pull/52986) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Symfony 7 support](https://github.com/web-auth/webauthn-framework/pull/537) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [[make:auth] Add throttling support to authenticator maker](https://github.com/symfony/maker-bundle/pull/1406) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 days ago)
 - [[make:reset-password] Last Symfony features &#43; recommendation](https://github.com/symfony/maker-bundle/pull/1405) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Comments addressed](https://github.com/web-auth/webauthn-framework/pull/531) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 - [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/530) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 - [Deprecations/xsd validation](https://github.com/web-auth/webauthn-framework/pull/529) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
-- [Enable XSD validation for Doctrine ORM 3.0 compat](https://github.com/web-auth/webauthn-framework/pull/528) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
