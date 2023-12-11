@@ -35,14 +35,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/web-push-demo](https://github.com/Spomky-Labs/web-push-demo) -  (3 weeks ago)
 - [Spomky-Labs/keycloak-app](https://github.com/Spomky-Labs/keycloak-app) - Keycloak (1 month ago)
 - [Spomky-Labs/php-aes-gcm](https://github.com/Spomky-Labs/php-aes-gcm) - AES Galois Counter Mode encryption library for PHP (1 month ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[HttpFoundation] Similar locale selection](https://github.com/symfony/symfony/pull/52986) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [Symfony 7 support](https://github.com/web-auth/webauthn-framework/pull/537) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [[make:auth] Add throttling support to authenticator maker](https://github.com/symfony/maker-bundle/pull/1406) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 days ago)
-- [[make:reset-password] Last Symfony features &#43; recommendation](https://github.com/symfony/maker-bundle/pull/1405) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 days ago)
+- [[HttpFoundation] Similar locale selection](https://github.com/symfony/symfony/pull/52986) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [Symfony 7 support](https://github.com/web-auth/webauthn-framework/pull/537) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [[make:auth] Add throttling support to authenticator maker](https://github.com/symfony/maker-bundle/pull/1406) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (3 days ago)
+- [[make:reset-password] Last Symfony features &#43; recommendation](https://github.com/symfony/maker-bundle/pull/1405) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (3 days ago)
 - [Rector&#43;ECS&#43;Infection&#43;Brick/Math 0.12](https://github.com/Spomky-Labs/pki-framework/pull/41) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
 - [leeway/window Migration path clarification](https://github.com/Spomky-Labs/otphp/pull/201) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
 - [Merge up 4.8.x to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/532) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
@@ -52,8 +52,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.8](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.8), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.2](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.2), 4 days ago) - JWT authentication for your Symfony API
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.8](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.8), 3 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.2](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.2), 5 days ago) - JWT authentication for your Symfony API
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 1 week ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.0](https://github.com/symfony/validator/releases/tag/v7.0.0), 1 week ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0](https://github.com/symfony/security-bundle/releases/tag/v7.0.0), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
