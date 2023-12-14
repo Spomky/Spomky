@@ -52,8 +52,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.3), today) - JWT authentication for your Symfony API
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.8](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.8), 6 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.2](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.2), 1 week ago) - JWT authentication for your Symfony API
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 1 week ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.0](https://github.com/symfony/validator/releases/tag/v7.0.0), 2 weeks ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0](https://github.com/symfony/security-bundle/releases/tag/v7.0.0), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
