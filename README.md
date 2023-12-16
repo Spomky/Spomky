@@ -26,20 +26,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 weeks ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
 - [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (3 weeks ago)
 - [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (3 weeks ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (4 weeks ago)
-- [Spomky-Labs/web-push-demo](https://github.com/Spomky-Labs/web-push-demo) -  (4 weeks ago)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 month ago)
+- [Spomky-Labs/web-push-demo](https://github.com/Spomky-Labs/web-push-demo) -  (1 month ago)
 - [Spomky-Labs/keycloak-app](https://github.com/Spomky-Labs/keycloak-app) - Keycloak (1 month ago)
-- [Spomky-Labs/php-aes-gcm](https://github.com/Spomky-Labs/php-aes-gcm) - AES Galois Counter Mode encryption library for PHP (1 month ago)
+- [Spomky-Labs/php-aes-gcm](https://github.com/Spomky-Labs/php-aes-gcm) - AES Galois Counter Mode encryption library for PHP (2 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[HttpFoundation] Similar locale selection](https://github.com/symfony/symfony/pull/52986) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- [[HttpFoundation] Similar locale selection](https://github.com/symfony/symfony/pull/52986) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - [Symfony 7 support](https://github.com/web-auth/webauthn-framework/pull/537) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [[make:auth] Add throttling support to authenticator maker](https://github.com/symfony/maker-bundle/pull/1406) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (1 week ago)
 - [[make:reset-password] Last Symfony features &#43; recommendation](https://github.com/symfony/maker-bundle/pull/1405) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (1 week ago)
@@ -52,7 +52,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.3), 1 day ago) - JWT authentication for your Symfony API
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.3), 2 days ago) - JWT authentication for your Symfony API
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.8](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.8), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 2 weeks ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.0](https://github.com/symfony/validator/releases/tag/v7.0.0), 2 weeks ago) - Provides tools to validate values
