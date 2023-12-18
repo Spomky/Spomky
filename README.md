@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Progressive Web App](https://github.com/if-web-dev/Technical-Test-01-Symfony/pull/21) on [if-web-dev/Technical-Test-01-Symfony](https://github.com/if-web-dev/Technical-Test-01-Symfony) (today)
 - [Features/service worker](https://github.com/Spomky-Labs/phpwa/pull/9) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [[HttpFoundation] Similar locale selection](https://github.com/symfony/symfony/pull/52986) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [Symfony 7 support](https://github.com/web-auth/webauthn-framework/pull/537) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [leeway/window Migration path clarification](https://github.com/Spomky-Labs/otphp/pull/201) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 weeks ago)
 - [Merge up 4.8.x to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/532) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 weeks ago)
 - [Comments addressed](https://github.com/web-auth/webauthn-framework/pull/531) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 weeks ago)
-- [Merge up 4.7.x to 4.8.x](https://github.com/web-auth/webauthn-framework/pull/530) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
