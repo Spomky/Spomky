@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (3 days ago)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 weeks ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 weeks ago)
@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Added Router support for some routes](https://github.com/Spomky-Labs/phpwa/pull/12) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Progressive Web App](https://github.com/if-web-dev/Technical-Test-01-Symfony/pull/21) on [if-web-dev/Technical-Test-01-Symfony](https://github.com/if-web-dev/Technical-Test-01-Symfony) (3 days ago)
 - [Features/service worker](https://github.com/Spomky-Labs/phpwa/pull/9) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [[HttpFoundation] Similar locale selection](https://github.com/symfony/symfony/pull/52986) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Rector&#43;ECS&#43;Infection&#43;Brick/Math 0.12](https://github.com/Spomky-Labs/pki-framework/pull/41) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 weeks ago)
 - [leeway/window Migration path clarification](https://github.com/Spomky-Labs/otphp/pull/201) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 weeks ago)
 - [Merge up 4.8.x to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/532) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
-- [Comments addressed](https://github.com/web-auth/webauthn-framework/pull/531) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
