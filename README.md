@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Allow screenshots to be loaded from a folder](https://github.com/Spomky-Labs/phpwa/pull/15) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Fix bug and better tests](https://github.com/Spomky-Labs/phpwa/pull/14) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [From WA to PWA](https://github.com/symfony/ux/pull/1350) on [symfony/ux](https://github.com/symfony/ux) (today)
 - [Added Router support for some routes](https://github.com/Spomky-Labs/phpwa/pull/12) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Symfony 7 support](https://github.com/web-auth/webauthn-framework/pull/537) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [[make:auth] Add throttling support to authenticator maker](https://github.com/symfony/maker-bundle/pull/1406) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 weeks ago)
 - [[make:reset-password] Last Symfony features &#43; recommendation](https://github.com/symfony/maker-bundle/pull/1405) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 weeks ago)
-- [Rector&#43;ECS&#43;Infection&#43;Brick/Math 0.12](https://github.com/Spomky-Labs/pki-framework/pull/41) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
