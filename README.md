@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [From WA to PWA](https://github.com/symfony/ux/pull/1350) on [symfony/ux](https://github.com/symfony/ux) (today)
 - [Added Router support for some routes](https://github.com/Spomky-Labs/phpwa/pull/12) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
 - [Progressive Web App](https://github.com/if-web-dev/Technical-Test-01-Symfony/pull/21) on [if-web-dev/Technical-Test-01-Symfony](https://github.com/if-web-dev/Technical-Test-01-Symfony) (4 days ago)
 - [Features/service worker](https://github.com/Spomky-Labs/phpwa/pull/9) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[make:reset-password] Last Symfony features &#43; recommendation](https://github.com/symfony/maker-bundle/pull/1405) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 weeks ago)
 - [Rector&#43;ECS&#43;Infection&#43;Brick/Math 0.12](https://github.com/Spomky-Labs/pki-framework/pull/41) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 weeks ago)
 - [leeway/window Migration path clarification](https://github.com/Spomky-Labs/otphp/pull/201) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 weeks ago)
-- [Merge up 4.8.x to 5.0.0](https://github.com/web-auth/webauthn-framework/pull/532) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
