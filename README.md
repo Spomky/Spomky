@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [SF7, other deps and code refactoring](https://github.com/web-token/jwt-framework/pull/493) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Adds Windows10/11 Widgets, edge_side_panel, iarc_rating_id, scope_ext…](https://github.com/Spomky-Labs/phpwa/pull/18) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [Simplifies the SW build](https://github.com/Spomky-Labs/phpwa/pull/17) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [Allow screenshots to be loaded from a folder](https://github.com/Spomky-Labs/phpwa/pull/15) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Progressive Web App](https://github.com/if-web-dev/Technical-Test-01-Symfony/pull/21) on [if-web-dev/Technical-Test-01-Symfony](https://github.com/if-web-dev/Technical-Test-01-Symfony) (2 weeks ago)
 - [Features/service worker](https://github.com/Spomky-Labs/phpwa/pull/9) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
 - [[HttpFoundation] Similar locale selection](https://github.com/symfony/symfony/pull/52986) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- [Symfony 7 support](https://github.com/web-auth/webauthn-framework/pull/537) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
