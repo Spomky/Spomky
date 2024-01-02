@@ -52,6 +52,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.3), today) - CBOR Encoder/Decoder for PHP
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.2](https://github.com/symfony/validator/releases/tag/v7.0.2), 3 days ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.2](https://github.com/symfony/security-bundle/releases/tag/v7.0.2), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2), 3 days ago) - The Symfony PHP framework
@@ -61,7 +62,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.8](https://github.com/web-token/jwt-framework/releases/tag/3.2.8), 4 months ago) - JWT Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.2.3](https://github.com/web-auth/cose-lib/releases/tag/4.2.3), 5 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.2.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.2.0), 9 months ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [web-token/jwt-app](https://github.com/web-token/jwt-app) ([3.1.7](https://github.com/web-token/jwt-app/releases/tag/3.1.7), 9 months ago) - Standalone PHAR application to manage JWK, JWKSet and more
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
