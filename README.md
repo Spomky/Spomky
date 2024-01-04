@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix detached and non-encoded non-UTF8 string](https://github.com/web-token/jwt-framework/pull/495) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [SF7, other deps and code refactoring](https://github.com/web-token/jwt-framework/pull/493) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 - [Adds Windows10/11 Widgets, edge_side_panel, iarc_rating_id, scope_ext…](https://github.com/Spomky-Labs/phpwa/pull/18) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
 - [Simplifies the SW build](https://github.com/Spomky-Labs/phpwa/pull/17) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Added Router support for some routes](https://github.com/Spomky-Labs/phpwa/pull/12) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
 - [Progressive Web App](https://github.com/if-web-dev/Technical-Test-01-Symfony/pull/21) on [if-web-dev/Technical-Test-01-Symfony](https://github.com/if-web-dev/Technical-Test-01-Symfony) (2 weeks ago)
 - [Features/service worker](https://github.com/Spomky-Labs/phpwa/pull/9) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
-- [[HttpFoundation] Similar locale selection](https://github.com/symfony/symfony/pull/52986) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
