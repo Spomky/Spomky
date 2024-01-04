@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix the presence of padding](https://github.com/web-token/jwt-framework/pull/497) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Phpdoc/incorrect header description](https://github.com/web-token/jwt-framework/pull/496) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Fix detached and non-encoded non-UTF8 string](https://github.com/web-token/jwt-framework/pull/495) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [SF7, other deps and code refactoring](https://github.com/web-token/jwt-framework/pull/493) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix bug and better tests](https://github.com/Spomky-Labs/phpwa/pull/14) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [From WA to PWA](https://github.com/symfony/ux/pull/1350) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - [Added Router support for some routes](https://github.com/Spomky-Labs/phpwa/pull/12) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
-- [Progressive Web App](https://github.com/if-web-dev/Technical-Test-01-Symfony/pull/21) on [if-web-dev/Technical-Test-01-Symfony](https://github.com/if-web-dev/Technical-Test-01-Symfony) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
