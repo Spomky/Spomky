@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge all experimental algorithms into a new package and bundle folde…](https://github.com/web-token/jwt-framework/pull/501) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Merge up 3.2.x to 3.3.x](https://github.com/web-token/jwt-framework/pull/499) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Fix the presence of padding](https://github.com/web-token/jwt-framework/pull/497) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
 - [Phpdoc/incorrect header description](https://github.com/web-token/jwt-framework/pull/496) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Simplifies the SW build](https://github.com/Spomky-Labs/phpwa/pull/17) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Allow screenshots to be loaded from a folder](https://github.com/Spomky-Labs/phpwa/pull/15) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
 - [Fix bug and better tests](https://github.com/Spomky-Labs/phpwa/pull/14) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
-- [From WA to PWA](https://github.com/symfony/ux/pull/1350) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
