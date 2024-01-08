@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
 - [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
@@ -39,12 +39,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Merge all experimental algorithms into a new package and bundle folde…](https://github.com/web-token/jwt-framework/pull/501) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Merge up 3.2.x to 3.3.x](https://github.com/web-token/jwt-framework/pull/499) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Fix the presence of padding](https://github.com/web-token/jwt-framework/pull/497) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [Phpdoc/incorrect header description](https://github.com/web-token/jwt-framework/pull/496) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [Fix detached and non-encoded non-UTF8 string](https://github.com/web-token/jwt-framework/pull/495) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [SF7, other deps and code refactoring](https://github.com/web-token/jwt-framework/pull/493) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [Merge all experimental algorithms into a new package and bundle folde…](https://github.com/web-token/jwt-framework/pull/501) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Merge up 3.2.x to 3.3.x](https://github.com/web-token/jwt-framework/pull/499) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Fix the presence of padding](https://github.com/web-token/jwt-framework/pull/497) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
+- [Phpdoc/incorrect header description](https://github.com/web-token/jwt-framework/pull/496) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
+- [Fix detached and non-encoded non-UTF8 string](https://github.com/web-token/jwt-framework/pull/495) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
+- [SF7, other deps and code refactoring](https://github.com/web-token/jwt-framework/pull/493) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
 - [Adds Windows10/11 Widgets, edge_side_panel, iarc_rating_id, scope_ext…](https://github.com/Spomky-Labs/phpwa/pull/18) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Simplifies the SW build](https://github.com/Spomky-Labs/phpwa/pull/17) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Allow screenshots to be loaded from a folder](https://github.com/Spomky-Labs/phpwa/pull/15) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
@@ -52,8 +52,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.9](https://github.com/web-token/jwt-framework/releases/tag/3.2.9), today) - JWT Framework
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.3), 5 days ago) - CBOR Encoder/Decoder for PHP
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.9](https://github.com/web-token/jwt-framework/releases/tag/3.2.9), 1 day ago) - JWT Framework
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.3), 6 days ago) - CBOR Encoder/Decoder for PHP
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.2](https://github.com/symfony/validator/releases/tag/v7.0.2), 1 week ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.2](https://github.com/symfony/security-bundle/releases/tag/v7.0.2), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2), 1 week ago) - The Symfony PHP framework
