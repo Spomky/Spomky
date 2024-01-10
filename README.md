@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Adds a command for the SW creation](https://github.com/Spomky-Labs/phpwa/pull/26) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
+- [Split in Section Processors instead of a very large command](https://github.com/Spomky-Labs/phpwa/pull/25) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Takes screenshots of your applications and inject them to the manifes…](https://github.com/Spomky-Labs/phpwa/pull/20) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Merge all experimental algorithms into a new package and bundle folde…](https://github.com/web-token/jwt-framework/pull/501) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
 - [Merge up 3.2.x to 3.3.x](https://github.com/web-token/jwt-framework/pull/499) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix detached and non-encoded non-UTF8 string](https://github.com/web-token/jwt-framework/pull/495) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
 - [SF7, other deps and code refactoring](https://github.com/web-token/jwt-framework/pull/493) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Adds Windows10/11 Widgets, edge_side_panel, iarc_rating_id, scope_ext…](https://github.com/Spomky-Labs/phpwa/pull/18) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
-- [Simplifies the SW build](https://github.com/Spomky-Labs/phpwa/pull/17) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
-- [Allow screenshots to be loaded from a folder](https://github.com/Spomky-Labs/phpwa/pull/15) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
