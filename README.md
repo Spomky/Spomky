@@ -26,8 +26,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 days ago)
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 month ago)
@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Takes screenshots of your applications and inject them to the manifes…](https://github.com/Spomky-Labs/phpwa/pull/20) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Merge all experimental algorithms into a new package and bundle folde…](https://github.com/web-token/jwt-framework/pull/501) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
 - [Merge up 3.2.x to 3.3.x](https://github.com/web-token/jwt-framework/pull/499) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
 - [Fix the presence of padding](https://github.com/web-token/jwt-framework/pull/497) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Adds Windows10/11 Widgets, edge_side_panel, iarc_rating_id, scope_ext…](https://github.com/Spomky-Labs/phpwa/pull/18) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Simplifies the SW build](https://github.com/Spomky-Labs/phpwa/pull/17) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Allow screenshots to be loaded from a folder](https://github.com/Spomky-Labs/phpwa/pull/15) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
-- [Fix bug and better tests](https://github.com/Spomky-Labs/phpwa/pull/14) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
