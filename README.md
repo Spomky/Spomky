@@ -26,23 +26,23 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 day ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 month ago)
 - [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (1 month ago)
 - [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (1 month ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 month ago)
-- [Spomky-Labs/web-push-demo](https://github.com/Spomky-Labs/web-push-demo) -  (1 month ago)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (2 months ago)
+- [Spomky-Labs/web-push-demo](https://github.com/Spomky-Labs/web-push-demo) -  (2 months ago)
 - [Spomky-Labs/keycloak-app](https://github.com/Spomky-Labs/keycloak-app) - Keycloak (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Documentation updated](https://github.com/Spomky-Labs/phpwa/pull/27) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
-- [Adds a command for the SW creation](https://github.com/Spomky-Labs/phpwa/pull/26) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
-- [Split in Section Processors instead of a very large command](https://github.com/Spomky-Labs/phpwa/pull/25) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
-- [Takes screenshots of your applications and inject them to the manifes…](https://github.com/Spomky-Labs/phpwa/pull/20) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
+- [Documentation updated](https://github.com/Spomky-Labs/phpwa/pull/27) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
+- [Adds a command for the SW creation](https://github.com/Spomky-Labs/phpwa/pull/26) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
+- [Split in Section Processors instead of a very large command](https://github.com/Spomky-Labs/phpwa/pull/25) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
+- [Takes screenshots of your applications and inject them to the manifes…](https://github.com/Spomky-Labs/phpwa/pull/20) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
 - [Merge all experimental algorithms into a new package and bundle folde…](https://github.com/web-token/jwt-framework/pull/501) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Merge up 3.2.x to 3.3.x](https://github.com/web-token/jwt-framework/pull/499) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Fix the presence of padding](https://github.com/web-token/jwt-framework/pull/497) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
