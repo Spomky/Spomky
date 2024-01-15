@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Leverage on Asset Mapper](https://github.com/Spomky-Labs/phpwa/pull/33) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Documentation updated](https://github.com/Spomky-Labs/phpwa/pull/27) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
 - [Adds a command for the SW creation](https://github.com/Spomky-Labs/phpwa/pull/26) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
 - [Split in Section Processors instead of a very large command](https://github.com/Spomky-Labs/phpwa/pull/25) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix the presence of padding](https://github.com/web-token/jwt-framework/pull/497) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Phpdoc/incorrect header description](https://github.com/web-token/jwt-framework/pull/496) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Fix detached and non-encoded non-UTF8 string](https://github.com/web-token/jwt-framework/pull/495) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [SF7, other deps and code refactoring](https://github.com/web-token/jwt-framework/pull/493) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
