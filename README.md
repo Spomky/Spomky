@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (2 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
@@ -39,12 +39,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Dev server for the manifest file](https://github.com/Spomky-Labs/phpwa/pull/35) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
-- [Leverage on Asset Mapper](https://github.com/Spomky-Labs/phpwa/pull/33) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
-- [Documentation updated](https://github.com/Spomky-Labs/phpwa/pull/27) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (6 days ago)
-- [Adds a command for the SW creation](https://github.com/Spomky-Labs/phpwa/pull/26) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (6 days ago)
-- [Split in Section Processors instead of a very large command](https://github.com/Spomky-Labs/phpwa/pull/25) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (6 days ago)
-- [Takes screenshots of your applications and inject them to the manifes…](https://github.com/Spomky-Labs/phpwa/pull/20) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (6 days ago)
+- [Dev server for the manifest file](https://github.com/Spomky-Labs/phpwa/pull/35) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
+- [Leverage on Asset Mapper](https://github.com/Spomky-Labs/phpwa/pull/33) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
+- [Documentation updated](https://github.com/Spomky-Labs/phpwa/pull/27) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
+- [Adds a command for the SW creation](https://github.com/Spomky-Labs/phpwa/pull/26) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
+- [Split in Section Processors instead of a very large command](https://github.com/Spomky-Labs/phpwa/pull/25) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
+- [Takes screenshots of your applications and inject them to the manifes…](https://github.com/Spomky-Labs/phpwa/pull/20) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Merge all experimental algorithms into a new package and bundle folde…](https://github.com/web-token/jwt-framework/pull/501) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Merge up 3.2.x to 3.3.x](https://github.com/web-token/jwt-framework/pull/499) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Fix the presence of padding](https://github.com/web-token/jwt-framework/pull/497) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
