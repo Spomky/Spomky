@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Smart URLs and Translations](https://github.com/Spomky-Labs/phpwa/pull/37) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Better SW](https://github.com/Spomky-Labs/phpwa/pull/36) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Dev server for the manifest file](https://github.com/Spomky-Labs/phpwa/pull/35) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [Leverage on Asset Mapper](https://github.com/Spomky-Labs/phpwa/pull/33) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Takes screenshots of your applications and inject them to the manifes…](https://github.com/Spomky-Labs/phpwa/pull/20) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Merge all experimental algorithms into a new package and bundle folde…](https://github.com/web-token/jwt-framework/pull/501) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Merge up 3.2.x to 3.3.x](https://github.com/web-token/jwt-framework/pull/499) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Fix the presence of padding](https://github.com/web-token/jwt-framework/pull/497) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
