@@ -15,7 +15,7 @@ The projects I am working on are mainly related to security over web application
 Among all of these projects, let me encourage you to read more about [**Webauthn**](https://github.com/web-auth), a PHP implementation I am working on since end of 2018 and that will help you to get rid of passwords. I presented the possibilities offered by this technology during the second edition of ApiPlatformCon in September 2022 in Lille, France.
 
 In addition, I had the opportunity to share my knowledge on web application security on workshops I gave during [Symfony Live Paris 2023](https://live.symfony.com/2023-paris/workshop/maximiser-la-securite-de-vos-applications-avec-le-bundle-security).
-In December 2024, I will provide new training on [security with Symfony](https://live.symfony.com/2023-brussels-con/workshop/road-to-safer-applications).
+In December 2023, I provided a new training on [security with Symfony](https://live.symfony.com/2023-brussels-con/workshop/road-to-safer-applications).
 
 [![52371137838_9e9e93b20d_o2](https://user-images.githubusercontent.com/1091072/191684778-b9e26104-038d-45c2-a1b3-287233d15ecc.jpg)](https://api-platform.com/con/2022/conferences/webauthn-se-debarrasser-des-mots-de-passe-definitivement/)
 
