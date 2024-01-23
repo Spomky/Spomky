@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 day ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
@@ -39,9 +39,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Better ServiceWorker](https://github.com/Spomky-Labs/phpwa/pull/40) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
-- [Smart URLs and Translations](https://github.com/Spomky-Labs/phpwa/pull/37) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
-- [Better SW](https://github.com/Spomky-Labs/phpwa/pull/36) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
+- [Better ServiceWorker](https://github.com/Spomky-Labs/phpwa/pull/40) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
+- [Smart URLs and Translations](https://github.com/Spomky-Labs/phpwa/pull/37) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
+- [Better SW](https://github.com/Spomky-Labs/phpwa/pull/36) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
 - [Dev server for the manifest file](https://github.com/Spomky-Labs/phpwa/pull/35) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Leverage on Asset Mapper](https://github.com/Spomky-Labs/phpwa/pull/33) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Documentation updated](https://github.com/Spomky-Labs/phpwa/pull/27) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
@@ -53,7 +53,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 🔭 Latest releases I've contributed to
 
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.9](https://github.com/web-token/jwt-framework/releases/tag/3.2.9), 2 weeks ago) - JWT Framework
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.3), 2 weeks ago) - CBOR Encoder/Decoder for PHP
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.3), 3 weeks ago) - CBOR Encoder/Decoder for PHP
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.2](https://github.com/symfony/validator/releases/tag/v7.0.2), 3 weeks ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.2](https://github.com/symfony/security-bundle/releases/tag/v7.0.2), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2), 3 weeks ago) - The Symfony PHP framework
