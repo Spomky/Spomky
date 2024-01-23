@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
