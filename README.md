@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (2 days ago)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (4 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Simplified SW skeleton](https://github.com/Spomky-Labs/phpwa/pull/49) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
+- [Serve Workbox locally or CDN](https://github.com/Spomky-Labs/phpwa/pull/48) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Better ServiceWorker](https://github.com/Spomky-Labs/phpwa/pull/40) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Smart URLs and Translations](https://github.com/Spomky-Labs/phpwa/pull/37) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Better SW](https://github.com/Spomky-Labs/phpwa/pull/36) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Documentation updated](https://github.com/Spomky-Labs/phpwa/pull/27) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
 - [Adds a command for the SW creation](https://github.com/Spomky-Labs/phpwa/pull/26) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
 - [Split in Section Processors instead of a very large command](https://github.com/Spomky-Labs/phpwa/pull/25) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
-- [Takes screenshots of your applications and inject them to the manifes…](https://github.com/Spomky-Labs/phpwa/pull/20) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
-- [Merge all experimental algorithms into a new package and bundle folde…](https://github.com/web-token/jwt-framework/pull/501) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
