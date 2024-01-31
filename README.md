@@ -57,11 +57,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), today) - The Symfony PHP framework
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.4), 2 days ago) - CBOR Encoder/Decoder for PHP
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.9](https://github.com/web-token/jwt-framework/releases/tag/3.2.9), 3 weeks ago) - JWT Framework
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.3), 1 month ago) - JWT authentication for your Symfony API
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.8](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.8), 1 month ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.0](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.0), 2 months ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.2.3](https://github.com/web-auth/cose-lib/releases/tag/4.2.3), 6 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.2.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.2.0), 10 months ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [web-token/jwt-app](https://github.com/web-token/jwt-app) ([3.1.7](https://github.com/web-token/jwt-app/releases/tag/3.1.7), 10 months ago) - Standalone PHAR application to manage JWK, JWKSet and more
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
