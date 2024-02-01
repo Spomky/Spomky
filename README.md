@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Deps/remove useless checks](https://github.com/web-token/jwt-framework/pull/511) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [Rename bundle and library folders](https://github.com/web-token/jwt-framework/pull/510) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Features/merge algorithms](https://github.com/web-token/jwt-framework/pull/509) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Merge small libs to jwt-library](https://github.com/web-token/jwt-framework/pull/508) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Merge ECC to jwt-core](https://github.com/web-token/jwt-framework/pull/507) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Icon generator from configuration](https://github.com/Spomky-Labs/phpwa/pull/50) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
 - [Simplified SW skeleton](https://github.com/Spomky-Labs/phpwa/pull/49) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
 - [Serve Workbox locally or CDN](https://github.com/Spomky-Labs/phpwa/pull/48) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
-- [Better ServiceWorker](https://github.com/Spomky-Labs/phpwa/pull/40) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
-- [Smart URLs and Translations](https://github.com/Spomky-Labs/phpwa/pull/37) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
