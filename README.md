@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Allows Symfony Http Client](https://github.com/web-token/jwt-framework/pull/514) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Ensure JWS serializers only throw InvalidArgumentException](https://github.com/web-token/jwt-framework/pull/513) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Fix openssl error reporting](https://github.com/web-token/jwt-framework/pull/512) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Deps/remove useless checks](https://github.com/web-token/jwt-framework/pull/511) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge ECC to jwt-core](https://github.com/web-token/jwt-framework/pull/507) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 - [Deps/periodic update](https://github.com/Spomky-Labs/pki-framework/pull/42) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 days ago)
 - [deps: allow brick/math 0.12](https://github.com/Spomky-Labs/cbor-php/pull/54) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
-- [Icon generator from configuration](https://github.com/Spomky-Labs/phpwa/pull/50) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
