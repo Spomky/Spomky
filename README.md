@@ -26,16 +26,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (1 day ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
+- [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (1 day ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (4 days ago)
 - [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (6 days ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 months ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 months ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 months ago)
-- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn (2 months ago)
+- [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -57,11 +57,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.3](https://github.com/symfony/security-bundle/releases/tag/v7.0.3), 2 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 2 days ago) - The Symfony PHP framework
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.4), 4 days ago) - CBOR Encoder/Decoder for PHP
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.3), 1 month ago) - JWT authentication for your Symfony API
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.8](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.8), 1 month ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.0](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.0), 2 months ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.2.3](https://github.com/web-auth/cose-lib/releases/tag/4.2.3), 6 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.2.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.2.0), 10 months ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [web-token/jwt-app](https://github.com/web-token/jwt-app) ([3.1.7](https://github.com/web-token/jwt-app/releases/tag/3.1.7), 10 months ago) - Standalone PHAR application to manage JWK, JWKSet and more
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
