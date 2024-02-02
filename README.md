@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Optional Manifest file](https://github.com/Spomky-Labs/phpwa/pull/55) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Allows Symfony Http Client](https://github.com/web-token/jwt-framework/pull/514) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Ensure JWS serializers only throw InvalidArgumentException](https://github.com/web-token/jwt-framework/pull/513) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Fix openssl error reporting](https://github.com/web-token/jwt-framework/pull/512) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge small libs to jwt-library](https://github.com/web-token/jwt-framework/pull/508) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Merge ECC to jwt-core](https://github.com/web-token/jwt-framework/pull/507) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
 - [Deps/periodic update](https://github.com/Spomky-Labs/pki-framework/pull/42) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 days ago)
-- [deps: allow brick/math 0.12](https://github.com/Spomky-Labs/cbor-php/pull/54) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
