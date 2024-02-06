@@ -26,46 +26,46 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) -  (today)
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
-- [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (3 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 days ago)
-- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (3 days ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) -  (1 day ago)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 day ago)
+- [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (4 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 days ago)
+- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (4 days ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 weeks ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix PKUEntity encoding](https://github.com/web-auth/webauthn-framework/pull/547) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Optional Manifest file](https://github.com/Spomky-Labs/phpwa/pull/55) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
-- [Allows Symfony Http Client](https://github.com/web-token/jwt-framework/pull/514) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
-- [Ensure JWS serializers only throw InvalidArgumentException](https://github.com/web-token/jwt-framework/pull/513) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
-- [Fix openssl error reporting](https://github.com/web-token/jwt-framework/pull/512) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
-- [Deps/remove useless checks](https://github.com/web-token/jwt-framework/pull/511) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
-- [Rename bundle and library folders](https://github.com/web-token/jwt-framework/pull/510) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
-- [Features/merge algorithms](https://github.com/web-token/jwt-framework/pull/509) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
-- [Merge small libs to jwt-library](https://github.com/web-token/jwt-framework/pull/508) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
-- [Merge ECC to jwt-core](https://github.com/web-token/jwt-framework/pull/507) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
+- [Fix PKUEntity encoding](https://github.com/web-auth/webauthn-framework/pull/547) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Optional Manifest file](https://github.com/Spomky-Labs/phpwa/pull/55) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
+- [Allows Symfony Http Client](https://github.com/web-token/jwt-framework/pull/514) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [Ensure JWS serializers only throw InvalidArgumentException](https://github.com/web-token/jwt-framework/pull/513) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [Fix openssl error reporting](https://github.com/web-token/jwt-framework/pull/512) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [Deps/remove useless checks](https://github.com/web-token/jwt-framework/pull/511) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [Rename bundle and library folders](https://github.com/web-token/jwt-framework/pull/510) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [Features/merge algorithms](https://github.com/web-token/jwt-framework/pull/509) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [Merge small libs to jwt-library](https://github.com/web-token/jwt-framework/pull/508) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [Merge ECC to jwt-core](https://github.com/web-token/jwt-framework/pull/507) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), today) - Cose Key and Algorithms support
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), today) - Public Key Infrastructure
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.9](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.9), today) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.0-alpha3](https://github.com/web-token/jwt-framework/releases/tag/3.3.0-alpha3), 3 days ago) - JWT Framework
-- [symfony/validator](https://github.com/symfony/validator) ([v7.0.3](https://github.com/symfony/validator/releases/tag/v7.0.3), 5 days ago) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.3](https://github.com/symfony/security-bundle/releases/tag/v7.0.3), 5 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 5 days ago) - The Symfony PHP framework
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 1 day ago) - Cose Key and Algorithms support
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 1 day ago) - Public Key Infrastructure
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.9](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.9), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.0-alpha3](https://github.com/web-token/jwt-framework/releases/tag/3.3.0-alpha3), 4 days ago) - JWT Framework
+- [symfony/validator](https://github.com/symfony/validator) ([v7.0.3](https://github.com/symfony/validator/releases/tag/v7.0.3), 6 days ago) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.3](https://github.com/symfony/security-bundle/releases/tag/v7.0.3), 6 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 6 days ago) - The Symfony PHP framework
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.4), 1 week ago) - CBOR Encoder/Decoder for PHP
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.3), 1 month ago) - JWT authentication for your Symfony API
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.0](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.0), 2 months ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [tacman](https://github.com/tacman) (today)
+- [tacman](https://github.com/tacman) (1 day ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (1 year ago)
 - [chalasr](https://github.com/chalasr) (2 years ago)
 - [passbolt](https://github.com/passbolt) (3 years ago)
