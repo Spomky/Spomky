@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[SW] Purge cache on install](https://github.com/Spomky-Labs/phpwa/pull/69) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Fix incorrect name format](https://github.com/Spomky-Labs/phpwa/pull/68) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Fix incorrect name format](https://github.com/Spomky-Labs/phpwa/pull/67) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Update rector to 1.0](https://github.com/Spomky-Labs/phpwa/pull/65) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Better Service Worker](https://github.com/Spomky-Labs/phpwa/pull/57) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [Fix PKUEntity encoding](https://github.com/web-auth/webauthn-framework/pull/547) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Optional Manifest file](https://github.com/Spomky-Labs/phpwa/pull/55) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
-- [Allows Symfony Http Client](https://github.com/web-token/jwt-framework/pull/514) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
