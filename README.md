@@ -26,19 +26,22 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 day ago)
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (2 days ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (4 days ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (4 days ago)
-- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (1 week ago)
+- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 weeks ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Fix incorrect name format](https://github.com/Spomky-Labs/phpwa/pull/68) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
+- [Fix incorrect name format](https://github.com/Spomky-Labs/phpwa/pull/67) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
+- [Update rector to 1.0](https://github.com/Spomky-Labs/phpwa/pull/65) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Fix command outputs](https://github.com/Spomky-Labs/phpwa/pull/64) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Skip Waiting support](https://github.com/Spomky-Labs/phpwa/pull/61) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
 - [Features/font cache](https://github.com/Spomky-Labs/phpwa/pull/58) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
@@ -46,9 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix PKUEntity encoding](https://github.com/web-auth/webauthn-framework/pull/547) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Optional Manifest file](https://github.com/Spomky-Labs/phpwa/pull/55) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Allows Symfony Http Client](https://github.com/web-token/jwt-framework/pull/514) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Ensure JWS serializers only throw InvalidArgumentException](https://github.com/web-token/jwt-framework/pull/513) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Fix openssl error reporting](https://github.com/web-token/jwt-framework/pull/512) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Deps/remove useless checks](https://github.com/web-token/jwt-framework/pull/511) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
