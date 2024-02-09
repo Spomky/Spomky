@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix command outputs](https://github.com/Spomky-Labs/phpwa/pull/64) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Skip Waiting support](https://github.com/Spomky-Labs/phpwa/pull/61) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
 - [Features/font cache](https://github.com/Spomky-Labs/phpwa/pull/58) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [Better Service Worker](https://github.com/Spomky-Labs/phpwa/pull/57) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Ensure JWS serializers only throw InvalidArgumentException](https://github.com/web-token/jwt-framework/pull/513) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Fix openssl error reporting](https://github.com/web-token/jwt-framework/pull/512) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Deps/remove useless checks](https://github.com/web-token/jwt-framework/pull/511) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Rename bundle and library folders](https://github.com/web-token/jwt-framework/pull/510) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
