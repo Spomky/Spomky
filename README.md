@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (2 days ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (5 days ago)
@@ -39,6 +39,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge-up 1.0.x to 1.1.x](https://github.com/Spomky-Labs/phpwa/pull/73) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
+- [Fix image and font fallbacks](https://github.com/Spomky-Labs/phpwa/pull/72) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
+- [Fix image and font fallbacks](https://github.com/Spomky-Labs/phpwa/pull/71) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [No auto-merge](https://github.com/web-token/jwt-framework/pull/518) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Stan error](https://github.com/web-token/jwt-framework/pull/517) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [To Rector 1.0](https://github.com/web-token/jwt-framework/pull/516) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
@@ -46,13 +49,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix incorrect name format](https://github.com/Spomky-Labs/phpwa/pull/68) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
 - [Fix incorrect name format](https://github.com/Spomky-Labs/phpwa/pull/67) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
 - [Update rector to 1.0](https://github.com/Spomky-Labs/phpwa/pull/65) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
-- [Fix command outputs](https://github.com/Spomky-Labs/phpwa/pull/64) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
-- [Skip Waiting support](https://github.com/Spomky-Labs/phpwa/pull/61) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
-- [Features/font cache](https://github.com/Spomky-Labs/phpwa/pull/58) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.0](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.0), 1 day ago) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.1](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.1), today) - PHP library for generating a full featured PWA manifest
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 5 days ago) - Cose Key and Algorithms support
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 5 days ago) - Public Key Infrastructure
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.9](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.9), 5 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
