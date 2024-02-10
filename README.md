@@ -26,11 +26,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 day ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (4 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (4 days ago)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (2 days ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (5 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (5 days ago)
 - [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (1 week ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
@@ -39,23 +39,23 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [No auto-merge](https://github.com/web-token/jwt-framework/pull/518) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Stan error](https://github.com/web-token/jwt-framework/pull/517) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [To Rector 1.0](https://github.com/web-token/jwt-framework/pull/516) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [[SW] Purge cache on install](https://github.com/Spomky-Labs/phpwa/pull/69) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
-- [Fix incorrect name format](https://github.com/Spomky-Labs/phpwa/pull/68) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
-- [Fix incorrect name format](https://github.com/Spomky-Labs/phpwa/pull/67) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
-- [Update rector to 1.0](https://github.com/Spomky-Labs/phpwa/pull/65) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
-- [Fix command outputs](https://github.com/Spomky-Labs/phpwa/pull/64) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
-- [Skip Waiting support](https://github.com/Spomky-Labs/phpwa/pull/61) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
-- [Features/font cache](https://github.com/Spomky-Labs/phpwa/pull/58) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
+- [No auto-merge](https://github.com/web-token/jwt-framework/pull/518) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Stan error](https://github.com/web-token/jwt-framework/pull/517) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [To Rector 1.0](https://github.com/web-token/jwt-framework/pull/516) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [[SW] Purge cache on install](https://github.com/Spomky-Labs/phpwa/pull/69) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
+- [Fix incorrect name format](https://github.com/Spomky-Labs/phpwa/pull/68) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
+- [Fix incorrect name format](https://github.com/Spomky-Labs/phpwa/pull/67) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
+- [Update rector to 1.0](https://github.com/Spomky-Labs/phpwa/pull/65) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
+- [Fix command outputs](https://github.com/Spomky-Labs/phpwa/pull/64) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
+- [Skip Waiting support](https://github.com/Spomky-Labs/phpwa/pull/61) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
+- [Features/font cache](https://github.com/Spomky-Labs/phpwa/pull/58) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.0](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.0), today) - PHP library for generating a full featured PWA manifest
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 4 days ago) - Cose Key and Algorithms support
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 4 days ago) - Public Key Infrastructure
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.9](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.9), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.0](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.0), 1 day ago) - PHP library for generating a full featured PWA manifest
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 5 days ago) - Cose Key and Algorithms support
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 5 days ago) - Public Key Infrastructure
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.9](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.9), 5 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.0-alpha3](https://github.com/web-token/jwt-framework/releases/tag/3.3.0-alpha3), 1 week ago) - JWT Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.3](https://github.com/symfony/validator/releases/tag/v7.0.3), 1 week ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.3](https://github.com/symfony/security-bundle/releases/tag/v7.0.3), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
@@ -65,7 +65,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [tacman](https://github.com/tacman) (4 days ago)
+- [tacman](https://github.com/tacman) (5 days ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (1 year ago)
 - [chalasr](https://github.com/chalasr) (2 years ago)
 - [passbolt](https://github.com/passbolt) (3 years ago)
