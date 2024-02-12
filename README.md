@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Do not load KW algorithms if the dependency is not available](https://github.com/web-token/jwt-framework/pull/520) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [Fix ed25519 public key](https://github.com/web-token/jwt-framework/pull/519) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Unshallow](https://github.com/Spomky-Labs/phpwa/pull/77) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
 - [Ci cd/update unshallow](https://github.com/Spomky-Labs/phpwa/pull/76) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
 - [Fix merge up action](https://github.com/Spomky-Labs/phpwa/pull/75) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix image and font fallbacks](https://github.com/Spomky-Labs/phpwa/pull/72) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
 - [Fix image and font fallbacks](https://github.com/Spomky-Labs/phpwa/pull/71) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
 - [No auto-merge](https://github.com/web-token/jwt-framework/pull/518) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [Stan error](https://github.com/web-token/jwt-framework/pull/517) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [To Rector 1.0](https://github.com/web-token/jwt-framework/pull/516) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
