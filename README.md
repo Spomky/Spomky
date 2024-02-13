@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update SECURITY.md](https://github.com/Spomky-Labs/web-push/pull/30) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
+- [Update SECURITY.md](https://github.com/web-token/jwt-framework/pull/523) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Bugs/fix ed25519](https://github.com/web-token/jwt-framework/pull/522) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Do not load KW algorithms if the dependency is not available](https://github.com/web-token/jwt-framework/pull/520) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Fix ed25519 public key](https://github.com/web-token/jwt-framework/pull/519) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix merge up action](https://github.com/Spomky-Labs/phpwa/pull/75) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [Fix merge up action](https://github.com/Spomky-Labs/phpwa/pull/74) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [Merge-up 1.0.x to 1.1.x](https://github.com/Spomky-Labs/phpwa/pull/73) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
-- [Fix image and font fallbacks](https://github.com/Spomky-Labs/phpwa/pull/72) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
-- [Fix image and font fallbacks](https://github.com/Spomky-Labs/phpwa/pull/71) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
