@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (3 days ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (4 days ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (5 days ago)
@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Bugs/fix ed25519](https://github.com/web-token/jwt-framework/pull/522) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Do not load KW algorithms if the dependency is not available](https://github.com/web-token/jwt-framework/pull/520) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Fix ed25519 public key](https://github.com/web-token/jwt-framework/pull/519) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Unshallow](https://github.com/Spomky-Labs/phpwa/pull/77) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge-up 1.0.x to 1.1.x](https://github.com/Spomky-Labs/phpwa/pull/73) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [Fix image and font fallbacks](https://github.com/Spomky-Labs/phpwa/pull/72) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [Fix image and font fallbacks](https://github.com/Spomky-Labs/phpwa/pull/71) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
-- [No auto-merge](https://github.com/web-token/jwt-framework/pull/518) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
