@@ -26,10 +26,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (3 days ago)
-- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (4 days ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (5 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (4 days ago)
+- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (5 days ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (6 days ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
 - [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (1 week ago)
@@ -39,27 +39,27 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update SECURITY.md](https://github.com/Spomky-Labs/web-push/pull/30) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
-- [Update SECURITY.md](https://github.com/web-token/jwt-framework/pull/523) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Bugs/fix ed25519](https://github.com/web-token/jwt-framework/pull/522) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Do not load KW algorithms if the dependency is not available](https://github.com/web-token/jwt-framework/pull/520) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Fix ed25519 public key](https://github.com/web-token/jwt-framework/pull/519) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Unshallow](https://github.com/Spomky-Labs/phpwa/pull/77) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
-- [Ci cd/update unshallow](https://github.com/Spomky-Labs/phpwa/pull/76) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
-- [Fix merge up action](https://github.com/Spomky-Labs/phpwa/pull/75) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
-- [Fix merge up action](https://github.com/Spomky-Labs/phpwa/pull/74) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
-- [Merge-up 1.0.x to 1.1.x](https://github.com/Spomky-Labs/phpwa/pull/73) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
+- [Update SECURITY.md](https://github.com/Spomky-Labs/web-push/pull/30) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 day ago)
+- [Update SECURITY.md](https://github.com/web-token/jwt-framework/pull/523) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Bugs/fix ed25519](https://github.com/web-token/jwt-framework/pull/522) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Do not load KW algorithms if the dependency is not available](https://github.com/web-token/jwt-framework/pull/520) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [Fix ed25519 public key](https://github.com/web-token/jwt-framework/pull/519) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [Unshallow](https://github.com/Spomky-Labs/phpwa/pull/77) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
+- [Ci cd/update unshallow](https://github.com/Spomky-Labs/phpwa/pull/76) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
+- [Fix merge up action](https://github.com/Spomky-Labs/phpwa/pull/75) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
+- [Fix merge up action](https://github.com/Spomky-Labs/phpwa/pull/74) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
+- [Merge-up 1.0.x to 1.1.x](https://github.com/Spomky-Labs/phpwa/pull/73) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.10](https://github.com/web-token/jwt-framework/releases/tag/3.2.10), 1 day ago) - JWT Framework
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.2](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.2), 3 days ago) - PHP library for generating a full featured PWA manifest
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.10](https://github.com/web-token/jwt-framework/releases/tag/3.2.10), 2 days ago) - JWT Framework
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.2](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.2), 4 days ago) - PHP library for generating a full featured PWA manifest
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 1 week ago) - Cose Key and Algorithms support
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 1 week ago) - Public Key Infrastructure
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.9](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.9), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [symfony/validator](https://github.com/symfony/validator) ([v7.0.3](https://github.com/symfony/validator/releases/tag/v7.0.3), 1 week ago) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.3](https://github.com/symfony/security-bundle/releases/tag/v7.0.3), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 1 week ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v7.0.3](https://github.com/symfony/validator/releases/tag/v7.0.3), 2 weeks ago) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.3](https://github.com/symfony/security-bundle/releases/tag/v7.0.3), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 2 weeks ago) - The Symfony PHP framework
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.4), 2 weeks ago) - CBOR Encoder/Decoder for PHP
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.3), 2 months ago) - JWT authentication for your Symfony API
 
