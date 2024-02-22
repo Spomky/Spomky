@@ -26,12 +26,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (5 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 week ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 weeks ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
 - [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (2 weeks ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 weeks ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Simplified alg manager](https://github.com/web-token/jwt-framework/pull/525) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [Fix deprecated packages dependencies](https://github.com/web-token/jwt-framework/pull/524) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Update SECURITY.md](https://github.com/Spomky-Labs/web-push/pull/30) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 week ago)
 - [Update SECURITY.md](https://github.com/web-token/jwt-framework/pull/523) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Bugs/fix ed25519](https://github.com/web-token/jwt-framework/pull/522) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Unshallow](https://github.com/Spomky-Labs/phpwa/pull/77) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Ci cd/update unshallow](https://github.com/Spomky-Labs/phpwa/pull/76) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 - [Fix merge up action](https://github.com/Spomky-Labs/phpwa/pull/75) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
-- [Fix merge up action](https://github.com/Spomky-Labs/phpwa/pull/74) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
-- [Merge-up 1.0.x to 1.1.x](https://github.com/Spomky-Labs/phpwa/pull/73) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
