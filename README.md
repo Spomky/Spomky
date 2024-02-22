@@ -26,10 +26,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (5 days ago)
 - [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 week ago)
-- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 weeks ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
 - [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (2 weeks ago)
@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Web-Token Framework simplified](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1207) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (today)
+- [Remove old packages references](https://github.com/web-token/jwt-framework/pull/526) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Simplified alg manager](https://github.com/web-token/jwt-framework/pull/525) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Fix deprecated packages dependencies](https://github.com/web-token/jwt-framework/pull/524) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Update SECURITY.md](https://github.com/Spomky-Labs/web-push/pull/30) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 week ago)
@@ -47,12 +49,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Do not load KW algorithms if the dependency is not available](https://github.com/web-token/jwt-framework/pull/520) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Fix ed25519 public key](https://github.com/web-token/jwt-framework/pull/519) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Unshallow](https://github.com/Spomky-Labs/phpwa/pull/77) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
-- [Ci cd/update unshallow](https://github.com/Spomky-Labs/phpwa/pull/76) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
-- [Fix merge up action](https://github.com/Spomky-Labs/phpwa/pull/75) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.2.10](https://github.com/web-token/jwt-framework/releases/tag/3.2.10), 1 week ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.0](https://github.com/web-token/jwt-framework/releases/tag/3.3.0), today) - JWT Framework
 - [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.2](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.2), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 2 weeks ago) - Cose Key and Algorithms support
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 2 weeks ago) - Public Key Infrastructure
