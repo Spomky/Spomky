@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/554) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Doctrine DBAL 4.0 and ORM 3.0 for tests](https://github.com/web-auth/webauthn-framework/pull/553) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Ssupport JWT Library and SF 7.0](https://github.com/web-auth/webauthn-framework/pull/551) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Web-Token Framework simplified](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1207) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (1 day ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update SECURITY.md](https://github.com/Spomky-Labs/web-push/pull/30) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 week ago)
 - [Update SECURITY.md](https://github.com/web-token/jwt-framework/pull/523) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Bugs/fix ed25519](https://github.com/web-token/jwt-framework/pull/522) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Do not load KW algorithms if the dependency is not available](https://github.com/web-token/jwt-framework/pull/520) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
