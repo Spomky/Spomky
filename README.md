@@ -26,11 +26,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 day ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (6 days ago)
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (1 week ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (2 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 week ago)
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (2 weeks ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 weeks ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
 - [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (3 weeks ago)
@@ -39,21 +39,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/554) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Doctrine DBAL 4.0 and ORM 3.0 for tests](https://github.com/web-auth/webauthn-framework/pull/553) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Ssupport JWT Library and SF 7.0](https://github.com/web-auth/webauthn-framework/pull/551) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Web-Token Framework simplified](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1207) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (1 day ago)
-- [Remove old packages references](https://github.com/web-token/jwt-framework/pull/526) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Simplified alg manager](https://github.com/web-token/jwt-framework/pull/525) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Fix deprecated packages dependencies](https://github.com/web-token/jwt-framework/pull/524) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/554) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Doctrine DBAL 4.0 and ORM 3.0 for tests](https://github.com/web-auth/webauthn-framework/pull/553) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Ssupport JWT Library and SF 7.0](https://github.com/web-auth/webauthn-framework/pull/551) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Web-Token Framework simplified](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1207) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (2 days ago)
+- [Remove old packages references](https://github.com/web-token/jwt-framework/pull/526) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [Simplified alg manager](https://github.com/web-token/jwt-framework/pull/525) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [Fix deprecated packages dependencies](https://github.com/web-token/jwt-framework/pull/524) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 - [Update SECURITY.md](https://github.com/Spomky-Labs/web-push/pull/30) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 week ago)
 - [Update SECURITY.md](https://github.com/web-token/jwt-framework/pull/523) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Bugs/fix ed25519](https://github.com/web-token/jwt-framework/pull/522) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.0](https://github.com/web-token/jwt-framework/releases/tag/3.3.0), 1 day ago) - JWT Framework
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.2](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.2), 1 week ago) - PHP library for generating a full featured PWA manifest
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.0](https://github.com/web-token/jwt-framework/releases/tag/3.3.0), 2 days ago) - JWT Framework
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.2](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.2), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 2 weeks ago) - Cose Key and Algorithms support
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 2 weeks ago) - Public Key Infrastructure
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.7.9](https://github.com/web-auth/webauthn-framework/releases/tag/4.7.9), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
