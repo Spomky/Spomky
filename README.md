@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Preparing 5.0.0](https://github.com/web-auth/webauthn-framework/pull/557) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Preparing 4.0.0](https://github.com/web-token/jwt-framework/pull/529) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/556) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Adds a simple PSR17/PSR18 Http client](https://github.com/web-auth/webauthn-framework/pull/555) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Web-Token Framework simplified](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1207) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (3 days ago)
 - [Remove old packages references](https://github.com/web-token/jwt-framework/pull/526) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
 - [Simplified alg manager](https://github.com/web-token/jwt-framework/pull/525) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [Fix deprecated packages dependencies](https://github.com/web-token/jwt-framework/pull/524) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
