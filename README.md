@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix CS](https://github.com/web-auth/webauthn-framework/pull/565) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Fix CS](https://github.com/bnf/webauthn-framework/pull/1) on [bnf/webauthn-framework](https://github.com/bnf/webauthn-framework) (today)
 - [Preparing 5.0.0](https://github.com/web-auth/webauthn-framework/pull/557) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Preparing 4.0.0](https://github.com/web-token/jwt-framework/pull/529) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/556) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Doctrine DBAL 4.0 and ORM 3.0 for tests](https://github.com/web-auth/webauthn-framework/pull/553) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Ssupport JWT Library and SF 7.0](https://github.com/web-auth/webauthn-framework/pull/551) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Web-Token Framework simplified](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1207) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (4 days ago)
-- [Remove old packages references](https://github.com/web-token/jwt-framework/pull/526) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
-- [Simplified alg manager](https://github.com/web-token/jwt-framework/pull/525) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
