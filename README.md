@@ -52,7 +52,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.0](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.0), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.1](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.1), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.0](https://github.com/web-token/jwt-framework/releases/tag/3.3.0), 4 days ago) - JWT Framework
 - [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.2](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.2), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 3 weeks ago) - Cose Key and Algorithms support
