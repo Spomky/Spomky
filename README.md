@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 days ago)
 - [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (4 days ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (5 days ago)
@@ -52,7 +52,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.1](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.1), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.2), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.0](https://github.com/web-token/jwt-framework/releases/tag/3.3.0), 5 days ago) - JWT Framework
 - [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.2](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.2), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 3 weeks ago) - Cose Key and Algorithms support
