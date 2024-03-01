@@ -28,8 +28,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 day ago)
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (3 days ago)
 - [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (1 week ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 week ago)
