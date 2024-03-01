@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Image, font and other assets rules](https://github.com/Spomky-Labs/phpwa/pull/82) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Fix Manifest injection when disabled](https://github.com/Spomky-Labs/phpwa/pull/79) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Deps/ecs rector dependencies](https://github.com/web-token/jwt-framework/pull/535) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Fix CS](https://github.com/web-auth/webauthn-framework/pull/565) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
@@ -48,11 +49,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/556) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [Adds a simple PSR17/PSR18 Http client](https://github.com/web-auth/webauthn-framework/pull/555) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/554) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Doctrine DBAL 4.0 and ORM 3.0 for tests](https://github.com/web-auth/webauthn-framework/pull/553) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.3](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.3), today) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.4](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.4), today) - PHP library for generating a full featured PWA manifest
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.1](https://github.com/web-token/jwt-framework/releases/tag/3.3.1), 2 days ago) - JWT Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.4](https://github.com/symfony/validator/releases/tag/v7.0.4), 3 days ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.4](https://github.com/symfony/security-bundle/releases/tag/v7.0.4), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
