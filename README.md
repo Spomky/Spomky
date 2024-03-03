@@ -26,11 +26,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 day ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (4 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (2 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (5 days ago)
 - [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (1 week ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 week ago)
 - [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (3 weeks ago)
@@ -39,12 +39,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Fix Image, font and other assets rules](https://github.com/Spomky-Labs/phpwa/pull/82) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
-- [Fix Manifest injection when disabled](https://github.com/Spomky-Labs/phpwa/pull/79) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
-- [Deps/ecs rector dependencies](https://github.com/web-token/jwt-framework/pull/535) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
-- [Fix CS](https://github.com/web-auth/webauthn-framework/pull/565) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [Fix CS](https://github.com/bnf/webauthn-framework/pull/1) on [bnf/webauthn-framework](https://github.com/bnf/webauthn-framework) (5 days ago)
-- [Preparing 5.0.0](https://github.com/web-auth/webauthn-framework/pull/557) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Fix Image, font and other assets rules](https://github.com/Spomky-Labs/phpwa/pull/82) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
+- [Fix Manifest injection when disabled](https://github.com/Spomky-Labs/phpwa/pull/79) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (2 days ago)
+- [Deps/ecs rector dependencies](https://github.com/web-token/jwt-framework/pull/535) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
+- [Fix CS](https://github.com/web-auth/webauthn-framework/pull/565) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Fix CS](https://github.com/bnf/webauthn-framework/pull/1) on [bnf/webauthn-framework](https://github.com/bnf/webauthn-framework) (6 days ago)
+- [Preparing 5.0.0](https://github.com/web-auth/webauthn-framework/pull/557) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Preparing 4.0.0](https://github.com/web-token/jwt-framework/pull/529) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/556) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Adds a simple PSR17/PSR18 Http client](https://github.com/web-auth/webauthn-framework/pull/555) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -52,12 +52,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.4](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.4), 1 day ago) - PHP library for generating a full featured PWA manifest
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.1](https://github.com/web-token/jwt-framework/releases/tag/3.3.1), 3 days ago) - JWT Framework
-- [symfony/validator](https://github.com/symfony/validator) ([v7.0.4](https://github.com/symfony/validator/releases/tag/v7.0.4), 4 days ago) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.4](https://github.com/symfony/security-bundle/releases/tag/v7.0.4), 4 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4), 4 days ago) - The Symfony PHP framework
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.2), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.4](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.4), 2 days ago) - PHP library for generating a full featured PWA manifest
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.1](https://github.com/web-token/jwt-framework/releases/tag/3.3.1), 4 days ago) - JWT Framework
+- [symfony/validator](https://github.com/symfony/validator) ([v7.0.4](https://github.com/symfony/validator/releases/tag/v7.0.4), 5 days ago) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.4](https://github.com/symfony/security-bundle/releases/tag/v7.0.4), 5 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4), 5 days ago) - The Symfony PHP framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.2), 5 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.55.1](https://github.com/symfony/maker-bundle/releases/tag/v1.55.1), 1 week ago) - Symfony Maker Bundle
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 3 weeks ago) - Cose Key and Algorithms support
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 3 weeks ago) - Public Key Infrastructure
