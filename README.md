@@ -52,13 +52,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.56.0](https://github.com/symfony/maker-bundle/releases/tag/v1.56.0), today) - Symfony Maker Bundle
 - [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.4](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.4), 3 days ago) - PHP library for generating a full featured PWA manifest
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.1](https://github.com/web-token/jwt-framework/releases/tag/3.3.1), 5 days ago) - JWT Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.4](https://github.com/symfony/validator/releases/tag/v7.0.4), 6 days ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.4](https://github.com/symfony/security-bundle/releases/tag/v7.0.4), 6 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4), 6 days ago) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.2), 6 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.55.1](https://github.com/symfony/maker-bundle/releases/tag/v1.55.1), 1 week ago) - Symfony Maker Bundle
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 4 weeks ago) - Cose Key and Algorithms support
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 4 weeks ago) - Public Key Infrastructure
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.4), 1 month ago) - CBOR Encoder/Decoder for PHP
