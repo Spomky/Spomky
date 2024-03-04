@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[AssetMapper] adds: &#34;asset_mapper.public_prefix&#34; parameter](https://github.com/symfony/symfony/pull/54143) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Fix Image, font and other assets rules](https://github.com/Spomky-Labs/phpwa/pull/82) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [Fix Manifest injection when disabled](https://github.com/Spomky-Labs/phpwa/pull/79) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (3 days ago)
 - [Deps/ecs rector dependencies](https://github.com/web-token/jwt-framework/pull/535) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Preparing 4.0.0](https://github.com/web-token/jwt-framework/pull/529) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/556) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Adds a simple PSR17/PSR18 Http client](https://github.com/web-auth/webauthn-framework/pull/555) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Merge up 4.8.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/554) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
