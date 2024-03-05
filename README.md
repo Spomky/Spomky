@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest (today)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 days ago)
@@ -39,20 +39,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Remove placeholders](https://github.com/Spomky-Labs/phpwa/pull/92) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
-- [Merge-up from 1.0.x to 1.1.x](https://github.com/Spomky-Labs/phpwa/pull/91) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
-- [Refactoring ideas](https://github.com/Spomky-Labs/phpwa/pull/90) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
-- [Fix hardcoded asset public prefix](https://github.com/Spomky-Labs/phpwa/pull/89) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
-- [Merge-up 1.0.x to 1.1.x](https://github.com/Spomky-Labs/phpwa/pull/88) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
-- [Create RELEASES.md](https://github.com/Spomky-Labs/phpwa/pull/87) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
+- [Cache site manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/95) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Package name changed](https://github.com/Spomky-Labs/pwa-bundle/pull/94) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [URL path reference](https://github.com/Spomky-Labs/pwa-bundle/pull/93) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Remove placeholders](https://github.com/Spomky-Labs/pwa-bundle/pull/92) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Merge-up from 1.0.x to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/91) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Refactoring ideas](https://github.com/Spomky-Labs/pwa-bundle/pull/90) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Fix hardcoded asset public prefix](https://github.com/Spomky-Labs/pwa-bundle/pull/89) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Merge-up 1.0.x to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/88) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Create RELEASES.md](https://github.com/Spomky-Labs/pwa-bundle/pull/87) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [[AssetMapper] adds: &#34;asset_mapper.public_prefix&#34; parameter](https://github.com/symfony/symfony/pull/54143) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [Fix Image, font and other assets rules](https://github.com/Spomky-Labs/phpwa/pull/82) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
-- [Fix Manifest injection when disabled](https://github.com/Spomky-Labs/phpwa/pull/79) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (4 days ago)
-- [Deps/ecs rector dependencies](https://github.com/web-token/jwt-framework/pull/535) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) ([1.0.5](https://github.com/Spomky-Labs/phpwa/releases/tag/1.0.5), today) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.0.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.0.5), today) - PHP library for generating a full featured PWA manifest
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.5](https://github.com/symfony/validator/releases/tag/v7.0.5), 1 day ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.5](https://github.com/symfony/security-bundle/releases/tag/v7.0.5), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 1 day ago) - The Symfony PHP framework
