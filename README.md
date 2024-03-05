@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [adds: Symfony UX Controller online/offline status](https://github.com/Spomky-Labs/pwa-bundle/pull/98) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Cache site manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/95) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Package name changed](https://github.com/Spomky-Labs/pwa-bundle/pull/94) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [URL path reference](https://github.com/Spomky-Labs/pwa-bundle/pull/93) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix hardcoded asset public prefix](https://github.com/Spomky-Labs/pwa-bundle/pull/89) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Merge-up 1.0.x to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/88) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Create RELEASES.md](https://github.com/Spomky-Labs/pwa-bundle/pull/87) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [[AssetMapper] adds: &#34;asset_mapper.public_prefix&#34; parameter](https://github.com/symfony/symfony/pull/54143) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
