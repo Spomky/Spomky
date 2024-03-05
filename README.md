@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Refactoring ideas](https://github.com/Spomky-Labs/phpwa/pull/90) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
+- [Fix hardcoded asset public prefix](https://github.com/Spomky-Labs/phpwa/pull/89) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (today)
 - [Merge-up 1.0.x to 1.1.x](https://github.com/Spomky-Labs/phpwa/pull/88) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
 - [Create RELEASES.md](https://github.com/Spomky-Labs/phpwa/pull/87) on [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) (1 day ago)
 - [[AssetMapper] adds: &#34;asset_mapper.public_prefix&#34; parameter](https://github.com/symfony/symfony/pull/54143) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Deps/ecs rector dependencies](https://github.com/web-token/jwt-framework/pull/535) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
 - [Fix CS](https://github.com/web-auth/webauthn-framework/pull/565) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Fix CS](https://github.com/bnf/webauthn-framework/pull/1) on [bnf/webauthn-framework](https://github.com/bnf/webauthn-framework) (1 week ago)
-- [Preparing 5.0.0](https://github.com/web-auth/webauthn-framework/pull/557) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Preparing 4.0.0](https://github.com/web-token/jwt-framework/pull/529) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
