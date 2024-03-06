@@ -26,46 +26,46 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 days ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (4 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (5 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (5 days ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (5 days ago)
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (1 week ago)
 - [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (1 week ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 week ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (4 weeks ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (4 weeks ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 month ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Merge-up from 1.0.6 to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/104) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [fixex: Commands create files in wrong folder](https://github.com/Spomky-Labs/pwa-bundle/pull/103) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [adds: background sync rules](https://github.com/Spomky-Labs/pwa-bundle/pull/102) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [adds: Symfony UX Controller online/offline status](https://github.com/Spomky-Labs/pwa-bundle/pull/98) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Cache site manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/95) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Package name changed](https://github.com/Spomky-Labs/pwa-bundle/pull/94) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [URL path reference](https://github.com/Spomky-Labs/pwa-bundle/pull/93) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Remove placeholders](https://github.com/Spomky-Labs/pwa-bundle/pull/92) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Merge-up from 1.0.x to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/91) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Refactoring ideas](https://github.com/Spomky-Labs/pwa-bundle/pull/90) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Merge-up from 1.0.6 to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/104) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [fixex: Commands create files in wrong folder](https://github.com/Spomky-Labs/pwa-bundle/pull/103) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [adds: background sync rules](https://github.com/Spomky-Labs/pwa-bundle/pull/102) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [adds: Symfony UX Controller online/offline status](https://github.com/Spomky-Labs/pwa-bundle/pull/98) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Cache site manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/95) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Package name changed](https://github.com/Spomky-Labs/pwa-bundle/pull/94) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [URL path reference](https://github.com/Spomky-Labs/pwa-bundle/pull/93) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Remove placeholders](https://github.com/Spomky-Labs/pwa-bundle/pull/92) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Merge-up from 1.0.x to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/91) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Refactoring ideas](https://github.com/Spomky-Labs/pwa-bundle/pull/90) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.0.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.0.5), today) - PHP library for generating a full featured PWA manifest
-- [symfony/validator](https://github.com/symfony/validator) ([v7.0.5](https://github.com/symfony/validator/releases/tag/v7.0.5), 1 day ago) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.5](https://github.com/symfony/security-bundle/releases/tag/v7.0.5), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 1 day ago) - The Symfony PHP framework
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.56.0](https://github.com/symfony/maker-bundle/releases/tag/v1.56.0), 1 day ago) - Symfony Maker Bundle
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.1](https://github.com/web-token/jwt-framework/releases/tag/3.3.1), 6 days ago) - JWT Framework
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.0.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.0.5), 1 day ago) - PHP library for generating a full featured PWA manifest
+- [symfony/validator](https://github.com/symfony/validator) ([v7.0.5](https://github.com/symfony/validator/releases/tag/v7.0.5), 2 days ago) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.5](https://github.com/symfony/security-bundle/releases/tag/v7.0.5), 2 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 2 days ago) - The Symfony PHP framework
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.56.0](https://github.com/symfony/maker-bundle/releases/tag/v1.56.0), 2 days ago) - Symfony Maker Bundle
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.1](https://github.com/web-token/jwt-framework/releases/tag/3.3.1), 1 week ago) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.2), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 4 weeks ago) - Cose Key and Algorithms support
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 4 weeks ago) - Public Key Infrastructure
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 1 month ago) - Cose Key and Algorithms support
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 1 month ago) - Public Key Infrastructure
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.4), 1 month ago) - CBOR Encoder/Decoder for PHP
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [tacman](https://github.com/tacman) (4 weeks ago)
+- [tacman](https://github.com/tacman) (1 month ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (1 year ago)
 - [chalasr](https://github.com/chalasr) (2 years ago)
 - [passbolt](https://github.com/passbolt) (3 years ago)
