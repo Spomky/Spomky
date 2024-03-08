@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Config fixes](https://github.com/survos-sites/pwa-last-stack/pull/1) on [survos-sites/pwa-last-stack](https://github.com/survos-sites/pwa-last-stack) (today)
 - [Merge-up from 1.0.6 to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/104) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [fixex: Commands create files in wrong folder](https://github.com/Spomky-Labs/pwa-bundle/pull/103) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [adds: background sync rules](https://github.com/Spomky-Labs/pwa-bundle/pull/102) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [URL path reference](https://github.com/Spomky-Labs/pwa-bundle/pull/93) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [Remove placeholders](https://github.com/Spomky-Labs/pwa-bundle/pull/92) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [Merge-up from 1.0.x to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/91) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Refactoring ideas](https://github.com/Spomky-Labs/pwa-bundle/pull/90) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
