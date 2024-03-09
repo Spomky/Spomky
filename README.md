@@ -26,12 +26,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [survos-sites/pwa-last-stack](https://github.com/survos-sites/pwa-last-stack) - SymfonyCasts LAST stack app, as a PWA (1 day ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 week ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (1 week ago)
 - [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (2 weeks ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (2 weeks ago)
@@ -39,6 +39,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Prefetch on demand](https://github.com/Spomky-Labs/pwa-bundle/pull/121) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Features/prefetch on demand](https://github.com/Spomky-Labs/pwa-bundle/pull/120) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Broadcast page cache update](https://github.com/Spomky-Labs/pwa-bundle/pull/119) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Config fixes](https://github.com/survos-sites/pwa-last-stack/pull/1) on [survos-sites/pwa-last-stack](https://github.com/survos-sites/pwa-last-stack) (1 day ago)
 - [Merge-up from 1.0.6 to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/104) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
@@ -47,8 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [adds: Symfony UX Controller online/offline status](https://github.com/Spomky-Labs/pwa-bundle/pull/98) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Cache site manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/95) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Package name changed](https://github.com/Spomky-Labs/pwa-bundle/pull/94) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [URL path reference](https://github.com/Spomky-Labs/pwa-bundle/pull/93) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Remove placeholders](https://github.com/Spomky-Labs/pwa-bundle/pull/92) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
