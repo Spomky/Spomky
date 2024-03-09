@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [survos-sites/pwa-last-stack](https://github.com/survos-sites/pwa-last-stack) - SymfonyCasts LAST stack app, as a PWA (1 day ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Broadcast page cache update](https://github.com/Spomky-Labs/pwa-bundle/pull/119) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Config fixes](https://github.com/survos-sites/pwa-last-stack/pull/1) on [survos-sites/pwa-last-stack](https://github.com/survos-sites/pwa-last-stack) (1 day ago)
 - [Merge-up from 1.0.6 to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/104) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [fixex: Commands create files in wrong folder](https://github.com/Spomky-Labs/pwa-bundle/pull/103) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Package name changed](https://github.com/Spomky-Labs/pwa-bundle/pull/94) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [URL path reference](https://github.com/Spomky-Labs/pwa-bundle/pull/93) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Remove placeholders](https://github.com/Spomky-Labs/pwa-bundle/pull/92) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Merge-up from 1.0.x to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/91) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
