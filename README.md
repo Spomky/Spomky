@@ -39,6 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Allow multiple page cache](https://github.com/Spomky-Labs/pwa-bundle/pull/123) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Prefetch on demand](https://github.com/Spomky-Labs/pwa-bundle/pull/121) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Features/prefetch on demand](https://github.com/Spomky-Labs/pwa-bundle/pull/120) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Broadcast page cache update](https://github.com/Spomky-Labs/pwa-bundle/pull/119) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
@@ -48,7 +49,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [adds: background sync rules](https://github.com/Spomky-Labs/pwa-bundle/pull/102) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [adds: Symfony UX Controller online/offline status](https://github.com/Spomky-Labs/pwa-bundle/pull/98) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Cache site manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/95) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Package name changed](https://github.com/Spomky-Labs/pwa-bundle/pull/94) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
