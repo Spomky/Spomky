@@ -26,7 +26,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 - [survos-sites/pwa-last-stack](https://github.com/survos-sites/pwa-last-stack) - SymfonyCasts LAST stack app, as a PWA (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
@@ -39,7 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Features/better cache mgmt](https://github.com/Spomky-Labs/pwa-bundle/pull/135) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Features/better cache mgmt](https://github.com/Spomky-Labs/pwa-bundle/pull/135) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Allow multiple page cache](https://github.com/Spomky-Labs/pwa-bundle/pull/123) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Prefetch on demand](https://github.com/Spomky-Labs/pwa-bundle/pull/121) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Features/prefetch on demand](https://github.com/Spomky-Labs/pwa-bundle/pull/120) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
@@ -53,10 +53,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 🔭 Latest releases I've contributed to
 
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.0.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.0.5), 1 week ago) - PHP library for generating a full featured PWA manifest
-- [symfony/validator](https://github.com/symfony/validator) ([v7.0.5](https://github.com/symfony/validator/releases/tag/v7.0.5), 1 week ago) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.5](https://github.com/symfony/security-bundle/releases/tag/v7.0.5), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 1 week ago) - The Symfony PHP framework
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.56.0](https://github.com/symfony/maker-bundle/releases/tag/v1.56.0), 1 week ago) - Symfony Maker Bundle
+- [symfony/validator](https://github.com/symfony/validator) ([v7.0.5](https://github.com/symfony/validator/releases/tag/v7.0.5), 2 weeks ago) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.5](https://github.com/symfony/security-bundle/releases/tag/v7.0.5), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 2 weeks ago) - The Symfony PHP framework
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.56.0](https://github.com/symfony/maker-bundle/releases/tag/v1.56.0), 2 weeks ago) - Symfony Maker Bundle
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.1](https://github.com/web-token/jwt-framework/releases/tag/3.3.1), 2 weeks ago) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.2), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 1 month ago) - Cose Key and Algorithms support
