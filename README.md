@@ -12,10 +12,14 @@ The projects I am working on are mainly related to security over web application
 * Concise Binary Object Representation (CBOR) => see https://github.com/Spomky-Labs/cbor-php,
 * Webauthn => see https://github.com/web-auth.
 
-Among all of these projects, let me encourage you to read more about [**Webauthn**](https://github.com/web-auth), a PHP implementation I am working on since end of 2018 and that will help you to get rid of passwords. I presented the possibilities offered by this technology during the second edition of ApiPlatformCon in September 2022 in Lille, France.
+Among all of these projects, let me encourage you to read more about [**Webauthn**](https://github.com/web-auth), a PHP implementation I am working on since end of 2018 and that will help you to get rid of passwords.
 
-In addition, I had the opportunity to share my knowledge on web application security on workshops I gave during [Symfony Live Paris 2023](https://live.symfony.com/2023-paris/workshop/maximiser-la-securite-de-vos-applications-avec-le-bundle-security).
-In December 2023, I provided a new training on [security with Symfony](https://live.symfony.com/2023-brussels-con/workshop/road-to-safer-applications).
+In addition, I had the opportunity to share my knowledge during the following events:
+
+* September 2022: I presented the possibilities offered by this technology during [the second edition of ApiPlatformCon](https://youtu.be/Y2_0omg1CFk) in September 2022 in Lille, France.
+* March 2023, I gave two 1-day workshops during the [Symfony Live Paris 2023](https://live.symfony.com/2023-paris/workshop/maximiser-la-securite-de-vos-applications-avec-le-bundle-security).
+* December 2023, I gave a 1-day workshop during the [Symfony Con Brussels 2023](https://live.symfony.com/2023-brussels-con/workshop/road-to-safer-applications).
+* March 2024, I presented my feedback on [the Progressive Web Apps](https://live.symfony.com/2024-paris/schedule/de-web-app-a-progressive-web-app) and [gave a 1-day workshop](https://live.symfony.com/2024-paris/workshop#securite-amelioree-et-webauthn-avec-symfony-2) during the Symfony Live 2024.
 
 [![52371137838_9e9e93b20d_o2](https://user-images.githubusercontent.com/1091072/191684778-b9e26104-038d-45c2-a1b3-287233d15ecc.jpg)](https://api-platform.com/con/2022/conferences/webauthn-se-debarrasser-des-mots-de-passe-definitivement/)
 
