@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Cache as interfaces](https://github.com/Spomky-Labs/pwa-bundle/pull/149) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [features: Screenshot set page title as label and use URL as reference…](https://github.com/Spomky-Labs/pwa-bundle/pull/139) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [Features/better cache mgmt](https://github.com/Spomky-Labs/pwa-bundle/pull/135) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Allow multiple page cache](https://github.com/Spomky-Labs/pwa-bundle/pull/123) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Config fixes](https://github.com/survos-sites/pwa-last-stack/pull/1) on [survos-sites/pwa-last-stack](https://github.com/survos-sites/pwa-last-stack) (1 week ago)
 - [Merge-up from 1.0.6 to 1.1.x](https://github.com/Spomky-Labs/pwa-bundle/pull/104) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [fixex: Commands create files in wrong folder](https://github.com/Spomky-Labs/pwa-bundle/pull/103) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [adds: background sync rules](https://github.com/Spomky-Labs/pwa-bundle/pull/102) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
