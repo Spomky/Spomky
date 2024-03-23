@@ -30,12 +30,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (2 days ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (4 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (3 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (5 days ago)
 - [survos-sites/pwa-last-stack](https://github.com/survos-sites/pwa-last-stack) - SymfonyCasts LAST stack app, as a PWA (2 weeks ago)
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (3 weeks ago)
 - [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (4 weeks ago)
@@ -43,21 +43,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Remove unnecessary denormalizer exception checks and deprecated funct…](https://github.com/web-auth/webauthn-framework/pull/577) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Update GitHub workflows configuration](https://github.com/web-token/jwt-framework/pull/540) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Deprecate compression](https://github.com/web-token/jwt-framework/pull/539) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Cache as interfaces](https://github.com/Spomky-Labs/pwa-bundle/pull/149) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [features: Screenshot set page title as label and use URL as reference…](https://github.com/Spomky-Labs/pwa-bundle/pull/139) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Features/better cache mgmt](https://github.com/Spomky-Labs/pwa-bundle/pull/135) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [Allow multiple page cache](https://github.com/Spomky-Labs/pwa-bundle/pull/123) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Prefetch on demand](https://github.com/Spomky-Labs/pwa-bundle/pull/121) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Features/prefetch on demand](https://github.com/Spomky-Labs/pwa-bundle/pull/120) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Broadcast page cache update](https://github.com/Spomky-Labs/pwa-bundle/pull/119) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Remove unnecessary denormalizer exception checks and deprecated funct…](https://github.com/web-auth/webauthn-framework/pull/577) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Update GitHub workflows configuration](https://github.com/web-token/jwt-framework/pull/540) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Deprecate compression](https://github.com/web-token/jwt-framework/pull/539) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Cache as interfaces](https://github.com/Spomky-Labs/pwa-bundle/pull/149) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [features: Screenshot set page title as label and use URL as reference…](https://github.com/Spomky-Labs/pwa-bundle/pull/139) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [Features/better cache mgmt](https://github.com/Spomky-Labs/pwa-bundle/pull/135) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [Allow multiple page cache](https://github.com/Spomky-Labs/pwa-bundle/pull/123) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Prefetch on demand](https://github.com/Spomky-Labs/pwa-bundle/pull/121) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Features/prefetch on demand](https://github.com/Spomky-Labs/pwa-bundle/pull/120) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Broadcast page cache update](https://github.com/Spomky-Labs/pwa-bundle/pull/119) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.2](https://github.com/web-token/jwt-framework/releases/tag/3.3.2), today) - JWT Framework
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.57.0](https://github.com/symfony/maker-bundle/releases/tag/v1.57.0), today) - Symfony Maker Bundle
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.2](https://github.com/web-token/jwt-framework/releases/tag/3.3.2), 1 day ago) - JWT Framework
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.57.0](https://github.com/symfony/maker-bundle/releases/tag/v1.57.0), 1 day ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.0.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.0.5), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.5](https://github.com/symfony/validator/releases/tag/v7.0.5), 2 weeks ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.5](https://github.com/symfony/security-bundle/releases/tag/v7.0.5), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
@@ -69,7 +69,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Jorgu5](https://github.com/Jorgu5) (1 day ago)
+- [Jorgu5](https://github.com/Jorgu5) (2 days ago)
 - [tacman](https://github.com/tacman) (1 month ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (1 year ago)
 - [chalasr](https://github.com/chalasr) (2 years ago)
