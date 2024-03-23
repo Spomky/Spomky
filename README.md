@@ -30,8 +30,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 day ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (3 days ago)
@@ -56,13 +56,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.3), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.2](https://github.com/web-token/jwt-framework/releases/tag/3.3.2), 1 day ago) - JWT Framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.57.0](https://github.com/symfony/maker-bundle/releases/tag/v1.57.0), 1 day ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.0.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.0.5), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [symfony/validator](https://github.com/symfony/validator) ([v7.0.5](https://github.com/symfony/validator/releases/tag/v7.0.5), 2 weeks ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.5](https://github.com/symfony/security-bundle/releases/tag/v7.0.5), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 2 weeks ago) - The Symfony PHP framework
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.2), 3 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 1 month ago) - Cose Key and Algorithms support
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 1 month ago) - Public Key Infrastructure
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.4), 1 month ago) - CBOR Encoder/Decoder for PHP
