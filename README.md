@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix inconsistencies in last deprecation notices](https://github.com/web-token/jwt-framework/pull/542) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Fix ci 3x](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1214) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (today)
 - [Update dependency version in composer.json](https://github.com/web-auth/webauthn-framework/pull/578) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Remove unnecessary denormalizer exception checks and deprecated funct…](https://github.com/web-auth/webauthn-framework/pull/577) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [features: Screenshot set page title as label and use URL as reference…](https://github.com/Spomky-Labs/pwa-bundle/pull/139) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 - [Features/better cache mgmt](https://github.com/Spomky-Labs/pwa-bundle/pull/135) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Allow multiple page cache](https://github.com/Spomky-Labs/pwa-bundle/pull/123) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [Prefetch on demand](https://github.com/Spomky-Labs/pwa-bundle/pull/121) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
