@@ -32,6 +32,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (today)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 days ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (4 days ago)
@@ -39,7 +40,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [survos-sites/pwa-last-stack](https://github.com/survos-sites/pwa-last-stack) - SymfonyCasts LAST stack app, as a PWA (2 weeks ago)
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (3 weeks ago)
 - [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (1 month ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
