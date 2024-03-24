@@ -30,9 +30,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
+- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
-- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 day ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 days ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (4 days ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (6 days ago)
@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor encryption algorithms configuration](https://github.com/web-token/jwt-framework/pull/544) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Fix inconsistencies in last deprecation notices](https://github.com/web-token/jwt-framework/pull/542) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Fix ci 3x](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1214) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (1 day ago)
 - [Update dependency version in composer.json](https://github.com/web-auth/webauthn-framework/pull/578) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -52,11 +53,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Cache as interfaces](https://github.com/Spomky-Labs/pwa-bundle/pull/149) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [features: Screenshot set page title as label and use URL as reference…](https://github.com/Spomky-Labs/pwa-bundle/pull/139) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Features/better cache mgmt](https://github.com/Spomky-Labs/pwa-bundle/pull/135) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Allow multiple page cache](https://github.com/Spomky-Labs/pwa-bundle/pull/123) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.3](https://github.com/web-token/jwt-framework/releases/tag/3.3.3), 1 day ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.4](https://github.com/web-token/jwt-framework/releases/tag/3.3.4), today) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.3), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.57.0](https://github.com/symfony/maker-bundle/releases/tag/v1.57.0), 2 days ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.0.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.0.5), 2 weeks ago) - PHP library for generating a full featured PWA manifest
