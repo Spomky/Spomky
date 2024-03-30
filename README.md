@@ -31,18 +31,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky/SymfonyLive-2024](https://github.com/Spomky/SymfonyLive-2024) - Slides showed during the SymfonyLive 2024 (today)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (6 days ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (6 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (6 days ago)
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - JWT authentication for your Symfony API (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - JWT authentication for your Symfony API (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
-- [survos-sites/pwa-last-stack](https://github.com/survos-sites/pwa-last-stack) - SymfonyCasts LAST stack app, as a PWA (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 1.1.x to 1.2.x](https://github.com/Spomky-Labs/pki-framework/pull/53) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [Update dependency versions in composer.json](https://github.com/Spomky-Labs/pki-framework/pull/52) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [Add RSASSA-PSS encryption OID to AlgorithmIdentifier](https://github.com/Spomky-Labs/pki-framework/pull/51) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Refactor encryption algorithms configuration](https://github.com/web-token/jwt-framework/pull/544) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
 - [Fix inconsistencies in last deprecation notices](https://github.com/web-token/jwt-framework/pull/542) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Fix ci 3x](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1214) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (1 week ago)
@@ -50,12 +53,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Remove unnecessary denormalizer exception checks and deprecated funct…](https://github.com/web-auth/webauthn-framework/pull/577) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Update GitHub workflows configuration](https://github.com/web-token/jwt-framework/pull/540) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Deprecate compression](https://github.com/web-token/jwt-framework/pull/539) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Cache as interfaces](https://github.com/Spomky-Labs/pwa-bundle/pull/149) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [features: Screenshot set page title as label and use URL as reference…](https://github.com/Spomky-Labs/pwa-bundle/pull/139) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Features/better cache mgmt](https://github.com/Spomky-Labs/pwa-bundle/pull/135) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.0), today) - Public Key Infrastructure
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.0.6](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.0.6), 3 days ago) - PHP library for generating a full featured PWA manifest
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.4](https://github.com/web-token/jwt-framework/releases/tag/3.3.4), 6 days ago) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
@@ -63,7 +64,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.5](https://github.com/symfony/security-bundle/releases/tag/v7.0.5), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 3 weeks ago) - The Symfony PHP framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 1 month ago) - Cose Key and Algorithms support
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.1.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.1.1), 1 month ago) - Public Key Infrastructure
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.4), 2 months ago) - CBOR Encoder/Decoder for PHP
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.3), 3 months ago) - JWT authentication for your Symfony API
 
