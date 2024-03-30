@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update and improve RSA keys handling and support](https://github.com/web-token/jwt-framework/pull/548) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Bugs/rsapss ssa oid](https://github.com/Spomky-Labs/pki-framework/pull/54) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Merge up 1.1.x to 1.2.x](https://github.com/Spomky-Labs/pki-framework/pull/53) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Update dependency versions in composer.json](https://github.com/Spomky-Labs/pki-framework/pull/52) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
@@ -52,11 +53,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix ci 3x](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1214) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (1 week ago)
 - [Update dependency version in composer.json](https://github.com/web-auth/webauthn-framework/pull/578) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Remove unnecessary denormalizer exception checks and deprecated funct…](https://github.com/web-auth/webauthn-framework/pull/577) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Update GitHub workflows configuration](https://github.com/web-token/jwt-framework/pull/540) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.0), today) - Public Key Infrastructure
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.1), today) - Public Key Infrastructure
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.0.6](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.0.6), 3 days ago) - PHP library for generating a full featured PWA manifest
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.4](https://github.com/web-token/jwt-framework/releases/tag/3.3.4), 6 days ago) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
