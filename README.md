@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Bugs/rsapss ssa oid](https://github.com/Spomky-Labs/pki-framework/pull/54) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Merge up 1.1.x to 1.2.x](https://github.com/Spomky-Labs/pki-framework/pull/53) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Update dependency versions in composer.json](https://github.com/Spomky-Labs/pki-framework/pull/52) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Add RSASSA-PSS encryption OID to AlgorithmIdentifier](https://github.com/Spomky-Labs/pki-framework/pull/51) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency version in composer.json](https://github.com/web-auth/webauthn-framework/pull/578) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Remove unnecessary denormalizer exception checks and deprecated funct…](https://github.com/web-auth/webauthn-framework/pull/577) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Update GitHub workflows configuration](https://github.com/web-token/jwt-framework/pull/540) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Deprecate compression](https://github.com/web-token/jwt-framework/pull/539) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
