@@ -30,6 +30,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky/SymfonyLive-2024](https://github.com/Spomky/SymfonyLive-2024) - Slides showed during the SymfonyLive 2024 (today)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (6 days ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (6 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (6 days ago)
@@ -39,7 +40,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 - [survos-sites/pwa-last-stack](https://github.com/survos-sites/pwa-last-stack) - SymfonyCasts LAST stack app, as a PWA (3 weeks ago)
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
