@@ -43,6 +43,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 1.1.2 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/153) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Remove ImportMapConfigReader dependency from PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/152) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add service worker logic and site manifest](https://github.com/jolicode/JoliTypo/pull/107) on [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) (today)
 - [Offline Fallback rule incomplete](https://github.com/Spomky-Labs/pwa-bundle/pull/151) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update and improve RSA keys handling and support](https://github.com/web-token/jwt-framework/pull/548) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
@@ -51,12 +53,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency versions in composer.json](https://github.com/Spomky-Labs/pki-framework/pull/52) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [Add RSASSA-PSS encryption OID to AlgorithmIdentifier](https://github.com/Spomky-Labs/pki-framework/pull/51) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [Refactor encryption algorithms configuration](https://github.com/web-token/jwt-framework/pull/544) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Fix inconsistencies in last deprecation notices](https://github.com/web-token/jwt-framework/pull/542) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Fix ci 3x](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1214) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.1](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.1), today) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.2](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.2), today) - PHP library for generating a full featured PWA manifest
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.1), 1 day ago) - Public Key Infrastructure
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.4](https://github.com/web-token/jwt-framework/releases/tag/3.3.4), 1 week ago) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
