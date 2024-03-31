@@ -30,7 +30,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky/SymfonyLive-2024](https://github.com/Spomky/SymfonyLive-2024) - Slides showed during the SymfonyLive 2024 (1 day ago)
+- [Spomky/SymfonyLive-2024](https://github.com/Spomky/SymfonyLive-2024) - Slides showed during the SymfonyLive Paris 2024 (1 day ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Offline Fallback rule incomplete](https://github.com/Spomky-Labs/pwa-bundle/pull/151) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update and improve RSA keys handling and support](https://github.com/web-token/jwt-framework/pull/548) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Bugs/rsapss ssa oid](https://github.com/Spomky-Labs/pki-framework/pull/54) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [Merge up 1.1.x to 1.2.x](https://github.com/Spomky-Labs/pki-framework/pull/53) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix inconsistencies in last deprecation notices](https://github.com/web-token/jwt-framework/pull/542) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Fix ci 3x](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1214) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (1 week ago)
 - [Update dependency version in composer.json](https://github.com/web-auth/webauthn-framework/pull/578) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Remove unnecessary denormalizer exception checks and deprecated funct…](https://github.com/web-auth/webauthn-framework/pull/577) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
