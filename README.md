@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Deprecate Android SafetyNet support](https://github.com/web-auth/webauthn-framework/pull/585) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 1.1.2 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/153) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Remove ImportMapConfigReader dependency from PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/152) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Add service worker logic and site manifest](https://github.com/jolicode/JoliTypo/pull/107) on [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) (2 days ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 1.1.x to 1.2.x](https://github.com/Spomky-Labs/pki-framework/pull/53) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 days ago)
 - [Update dependency versions in composer.json](https://github.com/Spomky-Labs/pki-framework/pull/52) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 days ago)
 - [Add RSASSA-PSS encryption OID to AlgorithmIdentifier](https://github.com/Spomky-Labs/pki-framework/pull/51) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 days ago)
-- [Refactor encryption algorithms configuration](https://github.com/web-token/jwt-framework/pull/544) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
