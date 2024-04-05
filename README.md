@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add preload URLs generator and refactored caching strategy](https://github.com/Spomky-Labs/pwa-bundle/pull/163) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Implement PWA Collector and profiler views](https://github.com/Spomky-Labs/pwa-bundle/pull/162) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Merge up 1.1.4 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/161) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add missing &#39;preferRelatedApplications&#39; attribute to Manifest Dto](https://github.com/Spomky-Labs/pwa-bundle/pull/160) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Naming convention for interfaces](https://github.com/Spomky-Labs/pwa-bundle/pull/155) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Deprecate Android SafetyNet support](https://github.com/web-auth/webauthn-framework/pull/585) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Merge up 1.1.2 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/153) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [Remove ImportMapConfigReader dependency from PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/152) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
