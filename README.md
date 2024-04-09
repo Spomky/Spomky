@@ -31,12 +31,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (6 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (6 days ago)
 - [Spomky/SymfonyLive-2024](https://github.com/Spomky/SymfonyLive-2024) - Slides showed during the SymfonyLive Paris 2024 (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 weeks ago)
@@ -56,10 +56,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.0](https://github.com/web-token/jwt-framework/releases/tag/3.4.0), today) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.5](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.5), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.58.0](https://github.com/symfony/maker-bundle/releases/tag/v1.58.0), 3 days ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.4), 4 days ago) - PHP library for generating a full featured PWA manifest
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.3.5](https://github.com/web-token/jwt-framework/releases/tag/3.3.5), 6 days ago) - JWT Framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.6](https://github.com/symfony/security-bundle/releases/tag/v7.0.6), 6 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 6 days ago) - The Symfony PHP framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.1), 1 week ago) - Public Key Infrastructure
