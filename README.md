@@ -30,7 +30,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor code for deprecation of &#34;id&#34; property](https://github.com/web-auth/webauthn-framework/pull/589) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 4.8.5 to 4.9.x](https://github.com/web-auth/webauthn-framework/pull/588) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Refactor authenticator response identification logic](https://github.com/web-auth/webauthn-framework/pull/587) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Add support for custom user agent in screenshot generation](https://github.com/Spomky-Labs/pwa-bundle/pull/166) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add missing &#39;preferRelatedApplications&#39; attribute to Manifest Dto](https://github.com/Spomky-Labs/pwa-bundle/pull/160) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Merge up 1.1.3 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/158) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 - [Bugs/gg fonts rule](https://github.com/Spomky-Labs/pwa-bundle/pull/157) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [Remove service worker file from src/Resources](https://github.com/Spomky-Labs/pwa-bundle/pull/156) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
