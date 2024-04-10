@@ -30,8 +30,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 days ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 days ago)
@@ -43,6 +43,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 3.4.1 to 4.0.x](https://github.com/web-token/jwt-framework/pull/555) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [Remove UTF-8 encoding check in JWEBuilder](https://github.com/web-token/jwt-framework/pull/554) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Merge up 3.4.x to 4.0.x](https://github.com/web-token/jwt-framework/pull/551) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Update workflow configurations and dependencies](https://github.com/Spomky-Labs/cbor-php/pull/66) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 day ago)
 - [Refactor code for deprecation of &#34;id&#34; property](https://github.com/web-auth/webauthn-framework/pull/589) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -51,12 +53,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add support for custom user agent in screenshot generation](https://github.com/Spomky-Labs/pwa-bundle/pull/166) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [Add preload URLs generator and refactored caching strategy](https://github.com/Spomky-Labs/pwa-bundle/pull/163) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 - [Implement PWA Collector and profiler views](https://github.com/Spomky-Labs/pwa-bundle/pull/162) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [Merge up 1.1.4 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/161) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [Add missing &#39;preferRelatedApplications&#39; attribute to Manifest Dto](https://github.com/Spomky-Labs/pwa-bundle/pull/160) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.0](https://github.com/web-token/jwt-framework/releases/tag/3.4.0), 1 day ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.1](https://github.com/web-token/jwt-framework/releases/tag/3.4.1), today) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.5](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.5), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.58.0](https://github.com/symfony/maker-bundle/releases/tag/v1.58.0), 4 days ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.4), 5 days ago) - PHP library for generating a full featured PWA manifest
