@@ -30,32 +30,33 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 days ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 week ago)
-- [Spomky/SymfonyLive-2024](https://github.com/Spomky/SymfonyLive-2024) - Slides showed during the SymfonyLive Paris 2024 (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 weeks ago)
+- [Spomky/SymfonyLive-2024](https://github.com/Spomky/SymfonyLive-2024) - Slides showed during the SymfonyLive Paris 2024 (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Merge release 3.1.2 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/38) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
+- [Refactor GitHub workflows and update dependencies](https://github.com/Spomky-Labs/web-push/pull/37) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
+- [Merge release 3.1.1 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/36) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
+- [Bugs/sf 7 missing](https://github.com/Spomky-Labs/web-push/pull/35) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
 - [Merge up 3.4.1 to 4.0.x](https://github.com/web-token/jwt-framework/pull/555) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Remove UTF-8 encoding check in JWEBuilder](https://github.com/web-token/jwt-framework/pull/554) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Merge up 3.4.x to 4.0.x](https://github.com/web-token/jwt-framework/pull/551) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 - [Update workflow configurations and dependencies](https://github.com/Spomky-Labs/cbor-php/pull/66) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
 - [Refactor code for deprecation of &#34;id&#34; property](https://github.com/web-auth/webauthn-framework/pull/589) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Merge up 4.8.5 to 4.9.x](https://github.com/web-auth/webauthn-framework/pull/588) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Refactor authenticator response identification logic](https://github.com/web-auth/webauthn-framework/pull/587) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Add support for custom user agent in screenshot generation](https://github.com/Spomky-Labs/pwa-bundle/pull/166) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Add preload URLs generator and refactored caching strategy](https://github.com/Spomky-Labs/pwa-bundle/pull/163) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Implement PWA Collector and profiler views](https://github.com/Spomky-Labs/pwa-bundle/pull/162) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), today) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.1](https://github.com/web-token/jwt-framework/releases/tag/3.4.1), 1 day ago) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.5](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.5), 3 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.58.0](https://github.com/symfony/maker-bundle/releases/tag/v1.58.0), 5 days ago) - Symfony Maker Bundle
@@ -65,7 +66,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.1), 1 week ago) - Public Key Infrastructure
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 2 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.4), 2 months ago) - CBOR Encoder/Decoder for PHP
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.3](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.3), 3 months ago) - JWT authentication for your Symfony API
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
