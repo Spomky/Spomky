@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade Infection to version 0.28 and refactor tests](https://github.com/Spomky-Labs/cbor-bundle/pull/31) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
 - [Refactor Request object documentation and redefine method logic](https://github.com/symfony/symfony-docs/pull/19780) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - [[Security] Update OidcTokenHandler dependencies and configuration](https://github.com/symfony/symfony-docs/pull/19779) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - [Merge release 3.1.2 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/38) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 day ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 3.4.1 to 4.0.x](https://github.com/web-token/jwt-framework/pull/555) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 - [Remove UTF-8 encoding check in JWEBuilder](https://github.com/web-token/jwt-framework/pull/554) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 - [Merge up 3.4.x to 4.0.x](https://github.com/web-token/jwt-framework/pull/551) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [Update workflow configurations and dependencies](https://github.com/Spomky-Labs/cbor-php/pull/66) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
