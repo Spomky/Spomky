@@ -30,12 +30,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 days ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (4 days ago)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (5 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (5 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
@@ -43,24 +43,24 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor Request object documentation and redefine method logic](https://github.com/symfony/symfony-docs/pull/19780) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- [[Security] Update OidcTokenHandler dependencies and configuration](https://github.com/symfony/symfony-docs/pull/19779) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- [Merge release 3.1.2 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/38) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
-- [Refactor GitHub workflows and update dependencies](https://github.com/Spomky-Labs/web-push/pull/37) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
-- [Merge release 3.1.1 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/36) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
-- [Bugs/sf 7 missing](https://github.com/Spomky-Labs/web-push/pull/35) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
-- [Merge up 3.4.1 to 4.0.x](https://github.com/web-token/jwt-framework/pull/555) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Remove UTF-8 encoding check in JWEBuilder](https://github.com/web-token/jwt-framework/pull/554) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Merge up 3.4.x to 4.0.x](https://github.com/web-token/jwt-framework/pull/551) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
-- [Update workflow configurations and dependencies](https://github.com/Spomky-Labs/cbor-php/pull/66) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
+- [Refactor Request object documentation and redefine method logic](https://github.com/symfony/symfony-docs/pull/19780) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- [[Security] Update OidcTokenHandler dependencies and configuration](https://github.com/symfony/symfony-docs/pull/19779) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- [Merge release 3.1.2 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/38) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 day ago)
+- [Refactor GitHub workflows and update dependencies](https://github.com/Spomky-Labs/web-push/pull/37) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 day ago)
+- [Merge release 3.1.1 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/36) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 day ago)
+- [Bugs/sf 7 missing](https://github.com/Spomky-Labs/web-push/pull/35) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 day ago)
+- [Merge up 3.4.1 to 4.0.x](https://github.com/web-token/jwt-framework/pull/555) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [Remove UTF-8 encoding check in JWEBuilder](https://github.com/web-token/jwt-framework/pull/554) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [Merge up 3.4.x to 4.0.x](https://github.com/web-token/jwt-framework/pull/551) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
+- [Update workflow configurations and dependencies](https://github.com/Spomky-Labs/cbor-php/pull/66) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), today) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.1](https://github.com/web-token/jwt-framework/releases/tag/3.4.1), 1 day ago) - JWT Framework
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.5](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.5), 3 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.58.0](https://github.com/symfony/maker-bundle/releases/tag/v1.58.0), 5 days ago) - Symfony Maker Bundle
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.4), 6 days ago) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 1 day ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.1](https://github.com/web-token/jwt-framework/releases/tag/3.4.1), 2 days ago) - JWT Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.5](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.5), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.58.0](https://github.com/symfony/maker-bundle/releases/tag/v1.58.0), 6 days ago) - Symfony Maker Bundle
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.4), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.6](https://github.com/symfony/security-bundle/releases/tag/v7.0.6), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 1 week ago) - The Symfony PHP framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.1), 1 week ago) - Public Key Infrastructure
