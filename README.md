@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update](https://github.com/Spomky-Labs/cbor-php/pull/68) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Replace Makefile tasks with Castor tasks](https://github.com/Spomky-Labs/cbor-bundle/pull/37) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (1 day ago)
 - [Upgrade Infection to version 0.28 and refactor tests](https://github.com/Spomky-Labs/cbor-bundle/pull/31) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (1 day ago)
 - [Refactor Request object documentation and redefine method logic](https://github.com/symfony/symfony-docs/pull/19780) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge release 3.1.1 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/36) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 days ago)
 - [Bugs/sf 7 missing](https://github.com/Spomky-Labs/web-push/pull/35) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 days ago)
 - [Merge up 3.4.1 to 4.0.x](https://github.com/web-token/jwt-framework/pull/555) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [Remove UTF-8 encoding check in JWEBuilder](https://github.com/web-token/jwt-framework/pull/554) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
