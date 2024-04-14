@@ -30,35 +30,35 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (today)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 day ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (2 days ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 days ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (4 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (6 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (6 days ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 day ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (2 days ago)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (3 days ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (5 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (5 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update](https://github.com/Spomky-Labs/cbor-php/pull/68) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [Replace Makefile tasks with Castor tasks](https://github.com/Spomky-Labs/cbor-bundle/pull/37) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (1 day ago)
-- [Upgrade Infection to version 0.28 and refactor tests](https://github.com/Spomky-Labs/cbor-bundle/pull/31) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (1 day ago)
-- [Refactor Request object documentation and redefine method logic](https://github.com/symfony/symfony-docs/pull/19780) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- [[Security] Update OidcTokenHandler dependencies and configuration](https://github.com/symfony/symfony-docs/pull/19779) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- [Merge release 3.1.2 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/38) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 days ago)
-- [Refactor GitHub workflows and update dependencies](https://github.com/Spomky-Labs/web-push/pull/37) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 days ago)
-- [Merge release 3.1.1 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/36) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 days ago)
-- [Bugs/sf 7 missing](https://github.com/Spomky-Labs/web-push/pull/35) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 days ago)
-- [Merge up 3.4.1 to 4.0.x](https://github.com/web-token/jwt-framework/pull/555) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
+- [Update](https://github.com/Spomky-Labs/cbor-php/pull/68) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 day ago)
+- [Replace Makefile tasks with Castor tasks](https://github.com/Spomky-Labs/cbor-bundle/pull/37) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (2 days ago)
+- [Upgrade Infection to version 0.28 and refactor tests](https://github.com/Spomky-Labs/cbor-bundle/pull/31) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (2 days ago)
+- [Refactor Request object documentation and redefine method logic](https://github.com/symfony/symfony-docs/pull/19780) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- [[Security] Update OidcTokenHandler dependencies and configuration](https://github.com/symfony/symfony-docs/pull/19779) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- [Merge release 3.1.2 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/38) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (3 days ago)
+- [Refactor GitHub workflows and update dependencies](https://github.com/Spomky-Labs/web-push/pull/37) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (3 days ago)
+- [Merge release 3.1.1 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/36) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (3 days ago)
+- [Bugs/sf 7 missing](https://github.com/Spomky-Labs/web-push/pull/35) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (3 days ago)
+- [Merge up 3.4.1 to 4.0.x](https://github.com/web-token/jwt-framework/pull/555) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 2 days ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.1](https://github.com/web-token/jwt-framework/releases/tag/3.4.1), 3 days ago) - JWT Framework
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.5](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.5), 5 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 3 days ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.1](https://github.com/web-token/jwt-framework/releases/tag/3.4.1), 4 days ago) - JWT Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.5](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.5), 6 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.58.0](https://github.com/symfony/maker-bundle/releases/tag/v1.58.0), 1 week ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.4), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.6](https://github.com/symfony/security-bundle/releases/tag/v7.0.6), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
