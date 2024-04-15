@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add new testing options and refactor code for clarity.](https://github.com/web-token/jwt-framework/pull/557) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Temp 451ef8](https://github.com/Spomky-Labs/otphp/pull/217) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
 - [Fix http_build_query in OTP class](https://github.com/Spomky-Labs/otphp/pull/215) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
 - [Refactor PHP codebase and update dependencies](https://github.com/Spomky-Labs/otphp/pull/213) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Refactor Request object documentation and redefine method logic](https://github.com/symfony/symfony-docs/pull/19780) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - [[Security] Update OidcTokenHandler dependencies and configuration](https://github.com/symfony/symfony-docs/pull/19779) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - [Merge release 3.1.2 into 3.2.x](https://github.com/Spomky-Labs/web-push/pull/38) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (4 days ago)
-- [Refactor GitHub workflows and update dependencies](https://github.com/Spomky-Labs/web-push/pull/37) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
