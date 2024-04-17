@@ -56,10 +56,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.2](https://github.com/web-token/jwt-framework/releases/tag/3.4.2), today) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.6](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.6), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.2.2](https://github.com/Spomky-Labs/otphp/releases/tag/11.2.2), 2 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 6 days ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.1](https://github.com/web-token/jwt-framework/releases/tag/3.4.1), 1 week ago) - JWT Framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.58.0](https://github.com/symfony/maker-bundle/releases/tag/v1.58.0), 1 week ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.4), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.6](https://github.com/symfony/security-bundle/releases/tag/v7.0.6), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
