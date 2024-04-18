@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add test for AccessTokenHeaderRegex and adjust regex](https://github.com/symfony/symfony/pull/54665) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Refactor code to check if service worker is enabled](https://github.com/Spomky-Labs/pwa-bundle/pull/175) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add new fields to PublicKeyCredentialSource mapping](https://github.com/web-auth/webauthn-framework/pull/592) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Features/cross origin credentials](https://github.com/Spomky-Labs/pwa-bundle/pull/172) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Refactor PHP codebase and update dependencies](https://github.com/Spomky-Labs/otphp/pull/213) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (4 days ago)
 - [Update](https://github.com/Spomky-Labs/cbor-php/pull/68) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (5 days ago)
 - [Replace Makefile tasks with Castor tasks](https://github.com/Spomky-Labs/cbor-bundle/pull/37) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
-- [Upgrade Infection to version 0.28 and refactor tests](https://github.com/Spomky-Labs/cbor-bundle/pull/31) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
