@@ -30,36 +30,36 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (4 days ago)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (5 days ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (6 days ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 days ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 days ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (5 days ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (6 days ago)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 week ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add new fields to PublicKeyCredentialSource mapping](https://github.com/web-auth/webauthn-framework/pull/592) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Features/cross origin credentials](https://github.com/Spomky-Labs/pwa-bundle/pull/172) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add new testing options and refactor code for clarity.](https://github.com/web-token/jwt-framework/pull/557) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
-- [Temp 451ef8](https://github.com/Spomky-Labs/otphp/pull/217) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 days ago)
-- [Fix http_build_query in OTP class](https://github.com/Spomky-Labs/otphp/pull/215) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 days ago)
-- [Refactor PHP codebase and update dependencies](https://github.com/Spomky-Labs/otphp/pull/213) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 days ago)
-- [Update](https://github.com/Spomky-Labs/cbor-php/pull/68) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (4 days ago)
-- [Replace Makefile tasks with Castor tasks](https://github.com/Spomky-Labs/cbor-bundle/pull/37) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (5 days ago)
-- [Upgrade Infection to version 0.28 and refactor tests](https://github.com/Spomky-Labs/cbor-bundle/pull/31) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (5 days ago)
-- [Refactor Request object documentation and redefine method logic](https://github.com/symfony/symfony-docs/pull/19780) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- [Add new fields to PublicKeyCredentialSource mapping](https://github.com/web-auth/webauthn-framework/pull/592) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [Features/cross origin credentials](https://github.com/Spomky-Labs/pwa-bundle/pull/172) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Add new testing options and refactor code for clarity.](https://github.com/web-token/jwt-framework/pull/557) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
+- [Temp 451ef8](https://github.com/Spomky-Labs/otphp/pull/217) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 days ago)
+- [Fix http_build_query in OTP class](https://github.com/Spomky-Labs/otphp/pull/215) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 days ago)
+- [Refactor PHP codebase and update dependencies](https://github.com/Spomky-Labs/otphp/pull/213) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (4 days ago)
+- [Update](https://github.com/Spomky-Labs/cbor-php/pull/68) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (5 days ago)
+- [Replace Makefile tasks with Castor tasks](https://github.com/Spomky-Labs/cbor-bundle/pull/37) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
+- [Upgrade Infection to version 0.28 and refactor tests](https://github.com/Spomky-Labs/cbor-bundle/pull/31) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
+- [Refactor Request object documentation and redefine method logic](https://github.com/symfony/symfony-docs/pull/19780) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.3](https://github.com/web-token/jwt-framework/releases/tag/3.4.3), today) - JWT Framework
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.6](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.6), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.2.2](https://github.com/Spomky-Labs/otphp/releases/tag/11.2.2), 2 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 6 days ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.3](https://github.com/web-token/jwt-framework/releases/tag/3.4.3), 1 day ago) - JWT Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.6](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.6), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.2.2](https://github.com/Spomky-Labs/otphp/releases/tag/11.2.2), 3 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 1 week ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.58.0](https://github.com/symfony/maker-bundle/releases/tag/v1.58.0), 1 week ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.4), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.6](https://github.com/symfony/security-bundle/releases/tag/v7.0.6), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
@@ -69,7 +69,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Jorgu5](https://github.com/Jorgu5) (3 weeks ago)
+- [Jorgu5](https://github.com/Jorgu5) (4 weeks ago)
 - [tacman](https://github.com/tacman) (2 months ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (1 year ago)
 - [chalasr](https://github.com/chalasr) (2 years ago)
