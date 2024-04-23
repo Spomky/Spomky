@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Implement localization support in Progressive Web App bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/182) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add event dispatching to manifest compilation](https://github.com/Spomky-Labs/pwa-bundle/pull/179) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Add AssetMapper to UrlNormalizer](https://github.com/Spomky-Labs/pwa-bundle/pull/178) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Merge up 1.1.5 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/177) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add new fields to PublicKeyCredentialSource mapping](https://github.com/web-auth/webauthn-framework/pull/592) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Features/cross origin credentials](https://github.com/Spomky-Labs/pwa-bundle/pull/172) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Add new testing options and refactor code for clarity.](https://github.com/web-token/jwt-framework/pull/557) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Temp 451ef8](https://github.com/Spomky-Labs/otphp/pull/217) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
