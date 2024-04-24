@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Restore repositories to .gitsplit.yml](https://github.com/web-token/jwt-framework/pull/564) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Merge-up 3.4.x to 4.0.x](https://github.com/web-token/jwt-framework/pull/563) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Update trigger for gitsplit workflow](https://github.com/web-token/jwt-framework/pull/562) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [[make:security] Add throttling support to authenticator maker](https://github.com/symfony/maker-bundle/pull/1524) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (today)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add AssetMapper to UrlNormalizer](https://github.com/Spomky-Labs/pwa-bundle/pull/178) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Merge up 1.1.5 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/177) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Update message type in prefetch-on-demand controller](https://github.com/Spomky-Labs/pwa-bundle/pull/176) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add test for AccessTokenHeaderRegex and adjust regex](https://github.com/symfony/symfony/pull/54665) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
