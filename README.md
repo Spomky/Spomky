@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[make:security] Add throttling support to authenticator maker](https://github.com/symfony/maker-bundle/pull/1524) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (today)
 - [Update dependencies and refactored some tests](https://github.com/Spomky-Labs/pwa-bundle/pull/185) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Implement localization support in Progressive Web App bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/182) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Add event dispatching to manifest compilation](https://github.com/Spomky-Labs/pwa-bundle/pull/179) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add test for AccessTokenHeaderRegex and adjust regex](https://github.com/symfony/symfony/pull/54665) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - [Refactor code to check if service worker is enabled](https://github.com/Spomky-Labs/pwa-bundle/pull/175) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Add new fields to PublicKeyCredentialSource mapping](https://github.com/web-auth/webauthn-framework/pull/592) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Features/cross origin credentials](https://github.com/Spomky-Labs/pwa-bundle/pull/172) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
