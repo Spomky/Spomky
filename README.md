@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add favicon support, configuring and processing methods](https://github.com/Spomky-Labs/pwa-bundle/pull/187) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Refactor event listeners and service workers](https://github.com/Spomky-Labs/pwa-bundle/pull/186) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Restore repositories to .gitsplit.yml](https://github.com/web-token/jwt-framework/pull/564) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Merge-up 3.4.x to 4.0.x](https://github.com/web-token/jwt-framework/pull/563) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Implement localization support in Progressive Web App bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/182) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Add event dispatching to manifest compilation](https://github.com/Spomky-Labs/pwa-bundle/pull/179) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [Add AssetMapper to UrlNormalizer](https://github.com/Spomky-Labs/pwa-bundle/pull/178) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Merge up 1.1.5 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/177) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
