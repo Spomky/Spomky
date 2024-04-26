@@ -62,10 +62,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.2.2](https://github.com/Spomky-Labs/otphp/releases/tag/11.2.2), 1 week ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 2 weeks ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.58.0](https://github.com/symfony/maker-bundle/releases/tag/v1.58.0), 2 weeks ago) - Symfony Maker Bundle
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.6](https://github.com/symfony/security-bundle/releases/tag/v7.0.6), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 3 weeks ago) - The Symfony PHP framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.1), 3 weeks ago) - Public Key Infrastructure
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 2 months ago) - Cose Key and Algorithms support
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.4), 2 months ago) - CBOR Encoder/Decoder for PHP
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
