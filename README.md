@@ -56,13 +56,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.39](https://github.com/symfony/symfony/releases/tag/v5.4.39), today) - The Symfony PHP framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.59.0](https://github.com/symfony/maker-bundle/releases/tag/v1.59.0), 2 days ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.5), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.3](https://github.com/web-token/jwt-framework/releases/tag/3.4.3), 1 week ago) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.6](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.6), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.2.2](https://github.com/Spomky-Labs/otphp/releases/tag/11.2.2), 2 weeks ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 2 weeks ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 3 weeks ago) - The Symfony PHP framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.1), 1 month ago) - Public Key Infrastructure
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 2 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.0.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.0.4), 3 months ago) - CBOR Encoder/Decoder for PHP
