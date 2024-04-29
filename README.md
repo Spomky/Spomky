@@ -30,8 +30,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (5 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add favicon generation functionalities](https://github.com/Spomky-Labs/pwa-bundle/pull/189) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add favicon support, configuring and processing methods](https://github.com/Spomky-Labs/pwa-bundle/pull/187) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Refactor event listeners and service workers](https://github.com/Spomky-Labs/pwa-bundle/pull/186) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Restore repositories to .gitsplit.yml](https://github.com/web-token/jwt-framework/pull/564) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependencies and refactored some tests](https://github.com/Spomky-Labs/pwa-bundle/pull/185) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Implement localization support in Progressive Web App bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/182) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Add event dispatching to manifest compilation](https://github.com/Spomky-Labs/pwa-bundle/pull/179) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Add AssetMapper to UrlNormalizer](https://github.com/Spomky-Labs/pwa-bundle/pull/178) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
