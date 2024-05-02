@@ -30,22 +30,22 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (5 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (6 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (2 weeks ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (2 weeks ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (2 weeks ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add favicon generation functionalities](https://github.com/Spomky-Labs/pwa-bundle/pull/189) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add favicon support, configuring and processing methods](https://github.com/Spomky-Labs/pwa-bundle/pull/187) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Refactor event listeners and service workers](https://github.com/Spomky-Labs/pwa-bundle/pull/186) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [Add favicon generation functionalities](https://github.com/Spomky-Labs/pwa-bundle/pull/189) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Add favicon support, configuring and processing methods](https://github.com/Spomky-Labs/pwa-bundle/pull/187) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Refactor event listeners and service workers](https://github.com/Spomky-Labs/pwa-bundle/pull/186) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Restore repositories to .gitsplit.yml](https://github.com/web-token/jwt-framework/pull/564) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Merge-up 3.4.x to 4.0.x](https://github.com/web-token/jwt-framework/pull/563) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Update trigger for gitsplit workflow](https://github.com/web-token/jwt-framework/pull/562) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
@@ -56,14 +56,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.21.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.21.0), today) - JWT authentication for your Symfony API
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.7](https://github.com/symfony/symfony/releases/tag/v7.0.7), 2 days ago) - The Symfony PHP framework
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.59.0](https://github.com/symfony/maker-bundle/releases/tag/v1.59.0), 4 days ago) - Symfony Maker Bundle
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.21.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.21.0), 1 day ago) - JWT authentication for your Symfony API
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.7](https://github.com/symfony/symfony/releases/tag/v7.0.7), 3 days ago) - The Symfony PHP framework
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.59.0](https://github.com/symfony/maker-bundle/releases/tag/v1.59.0), 5 days ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.5), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.3](https://github.com/web-token/jwt-framework/releases/tag/3.4.3), 2 weeks ago) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.6](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.6), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.2.2](https://github.com/Spomky-Labs/otphp/releases/tag/11.2.2), 2 weeks ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 2 weeks ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 3 weeks ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.1), 1 month ago) - Public Key Infrastructure
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.3.0](https://github.com/web-auth/cose-lib/releases/tag/4.3.0), 2 months ago) - Cose Key and Algorithms support
 
