@@ -56,8 +56,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), today) - The Symfony PHP framework
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.21.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.21.0), 1 day ago) - JWT authentication for your Symfony API
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.7](https://github.com/symfony/symfony/releases/tag/v7.0.7), 3 days ago) - The Symfony PHP framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.59.0](https://github.com/symfony/maker-bundle/releases/tag/v1.59.0), 5 days ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.5), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.3](https://github.com/web-token/jwt-framework/releases/tag/3.4.3), 2 weeks ago) - JWT Framework
