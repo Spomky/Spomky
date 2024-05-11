@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update Favicons functionality and configuration options](https://github.com/Spomky-Labs/pwa-bundle/pull/199) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Implement dark theme support in manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/198) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Refactored code and added logging capabilities](https://github.com/Spomky-Labs/pwa-bundle/pull/197) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update service worker and favicon sources handling](https://github.com/Spomky-Labs/pwa-bundle/pull/196) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
@@ -52,13 +53,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add favicon support, configuring and processing methods](https://github.com/Spomky-Labs/pwa-bundle/pull/187) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Refactor event listeners and service workers](https://github.com/Spomky-Labs/pwa-bundle/pull/186) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Restore repositories to .gitsplit.yml](https://github.com/web-token/jwt-framework/pull/564) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
-- [Merge-up 3.4.x to 4.0.x](https://github.com/web-token/jwt-framework/pull/563) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.0.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.0.0), today) - JWT authentication for your Symfony API
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.59.1](https://github.com/symfony/maker-bundle/releases/tag/v1.59.1), 5 days ago) - Symfony Maker Bundle
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 1 week ago) - The Symfony PHP framework
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.21.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.21.0), 1 week ago) - JWT authentication for your Symfony API
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.5), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.3](https://github.com/web-token/jwt-framework/releases/tag/3.4.3), 3 weeks ago) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.6](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.6), 3 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
