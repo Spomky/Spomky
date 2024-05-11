@@ -30,7 +30,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update service worker and favicon sources handling](https://github.com/Spomky-Labs/pwa-bundle/pull/196) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add favicon generation functionalities](https://github.com/Spomky-Labs/pwa-bundle/pull/194) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Refactor prefetch method to use async/await](https://github.com/Spomky-Labs/pwa-bundle/pull/193) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Add favicon generation functionalities](https://github.com/Spomky-Labs/pwa-bundle/pull/189) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge-up 3.4.x to 4.0.x](https://github.com/web-token/jwt-framework/pull/563) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
 - [Update trigger for gitsplit workflow](https://github.com/web-token/jwt-framework/pull/562) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
 - [[make:security] Add throttling support to authenticator maker](https://github.com/symfony/maker-bundle/pull/1524) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 weeks ago)
-- [Update dependencies and refactored some tests](https://github.com/Spomky-Labs/pwa-bundle/pull/185) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
