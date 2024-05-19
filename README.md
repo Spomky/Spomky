@@ -30,7 +30,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 weeks ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 weeks ago)
@@ -47,8 +47,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Implement dark theme support in manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/198) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Refactored code and added logging capabilities](https://github.com/Spomky-Labs/pwa-bundle/pull/197) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update service worker and favicon sources handling](https://github.com/Spomky-Labs/pwa-bundle/pull/196) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Add favicon generation functionalities](https://github.com/Spomky-Labs/pwa-bundle/pull/194) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Refactor prefetch method to use async/await](https://github.com/Spomky-Labs/pwa-bundle/pull/193) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Add favicon generation functionalities](https://github.com/Spomky-Labs/pwa-bundle/pull/194) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Refactor prefetch method to use async/await](https://github.com/Spomky-Labs/pwa-bundle/pull/193) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Add favicon generation functionalities](https://github.com/Spomky-Labs/pwa-bundle/pull/189) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Add favicon support, configuring and processing methods](https://github.com/Spomky-Labs/pwa-bundle/pull/187) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Refactor event listeners and service workers](https://github.com/Spomky-Labs/pwa-bundle/pull/186) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
@@ -56,7 +56,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.1.0-RC1), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.1.0-RC1), 2 days ago) - The Symfony PHP framework
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.0.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.0.0), 1 week ago) - JWT authentication for your Symfony API
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.59.1](https://github.com/symfony/maker-bundle/releases/tag/v1.59.1), 1 week ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.1.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.1.5), 3 weeks ago) - PHP library for generating a full featured PWA manifest
