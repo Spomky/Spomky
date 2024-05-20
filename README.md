@@ -43,6 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor Data class and update method calls](https://github.com/Spomky-Labs/pwa-bundle/pull/203) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update Favicons functionality and configuration options](https://github.com/Spomky-Labs/pwa-bundle/pull/199) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Implement dark theme support in manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/198) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Refactored code and added logging capabilities](https://github.com/Spomky-Labs/pwa-bundle/pull/197) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
@@ -52,7 +53,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add favicon generation functionalities](https://github.com/Spomky-Labs/pwa-bundle/pull/189) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Add favicon support, configuring and processing methods](https://github.com/Spomky-Labs/pwa-bundle/pull/187) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Refactor event listeners and service workers](https://github.com/Spomky-Labs/pwa-bundle/pull/186) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
-- [Restore repositories to .gitsplit.yml](https://github.com/web-token/jwt-framework/pull/564) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
