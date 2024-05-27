@@ -23,7 +23,7 @@ In addition, I had the opportunity to share my knowledge during the following ev
 
 [![APIP Con 2022](https://user-images.githubusercontent.com/1091072/191684778-b9e26104-038d-45c2-a1b3-287233d15ecc.jpg)](https://api-platform.com/con/2022/conferences/webauthn-se-debarrasser-des-mots-de-passe-definitivement/)
 
-[![Symfony Live 2024](Symfony Live 2024.png)](https://symfony.com/blog/symfonylive-paris-2024-from-web-app-to-progressive-web-app)
+[![Symfony Live 2024](Symfony%20Live%202024.png)](https://symfony.com/blog/symfonylive-paris-2024-from-web-app-to-progressive-web-app)
 
 
 Feel free to ask me about all of these FLOSS projects or reach me on any other topics you may want to discuss.
