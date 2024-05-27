@@ -21,7 +21,10 @@ In addition, I had the opportunity to share my knowledge during the following ev
 * December 2023, I gave a 1-day workshop during the [Symfony Con Brussels 2023](https://live.symfony.com/2023-brussels-con/workshop/road-to-safer-applications).
 * March 2024, I presented my feedback on [the Progressive Web Apps](https://live.symfony.com/2024-paris/schedule/de-web-app-a-progressive-web-app) and [gave a 1-day workshop](https://live.symfony.com/2024-paris/workshop#securite-amelioree-et-webauthn-avec-symfony-2) during the Symfony Live 2024.
 
-[![52371137838_9e9e93b20d_o2](https://user-images.githubusercontent.com/1091072/191684778-b9e26104-038d-45c2-a1b3-287233d15ecc.jpg)](https://api-platform.com/con/2022/conferences/webauthn-se-debarrasser-des-mots-de-passe-definitivement/)
+[![APIP Con 2022](https://user-images.githubusercontent.com/1091072/191684778-b9e26104-038d-45c2-a1b3-287233d15ecc.jpg)](https://api-platform.com/con/2022/conferences/webauthn-se-debarrasser-des-mots-de-passe-definitivement/)
+
+[![Symfony Live 2024](Symfony Live 2024.png)](https://symfony.com/blog/symfonylive-paris-2024-from-web-app-to-progressive-web-app)
+
 
 Feel free to ask me about all of these FLOSS projects or reach me on any other topics you may want to discuss.
 
