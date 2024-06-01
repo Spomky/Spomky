@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add display of preloaded URLs in ServiceWorker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/212) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Improve error handling and update dependencies](https://github.com/web-token/jwt-framework/pull/572) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Merge-up 1.1.6 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/207) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update screenshot format examples in config](https://github.com/Spomky-Labs/pwa-bundle/pull/206) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Implement dark theme support in manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/198) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Refactored code and added logging capabilities](https://github.com/Spomky-Labs/pwa-bundle/pull/197) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Update service worker and favicon sources handling](https://github.com/Spomky-Labs/pwa-bundle/pull/196) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
-- [Add favicon generation functionalities](https://github.com/Spomky-Labs/pwa-bundle/pull/194) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
