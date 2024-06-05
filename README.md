@@ -33,7 +33,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 days ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
@@ -46,10 +46,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Merge up 1.2.1 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/215) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Refactor file compiler services to use iterable](https://github.com/Spomky-Labs/pwa-bundle/pull/214) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add display of preloaded URLs in ServiceWorker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/212) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Improve error handling and update dependencies](https://github.com/web-token/jwt-framework/pull/572) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
+- [Merge up 1.2.1 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/215) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Refactor file compiler services to use iterable](https://github.com/Spomky-Labs/pwa-bundle/pull/214) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Add display of preloaded URLs in ServiceWorker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/212) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
+- [Improve error handling and update dependencies](https://github.com/web-token/jwt-framework/pull/572) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
 - [Merge-up 1.1.6 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/207) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update screenshot format examples in config](https://github.com/Spomky-Labs/pwa-bundle/pull/206) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update favicon processing to include hashing](https://github.com/Spomky-Labs/pwa-bundle/pull/205) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
@@ -59,10 +59,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), today) - The Symfony PHP framework
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.1](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.1), 2 days ago) - PHP library for generating a full featured PWA manifest
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 1 day ago) - The Symfony PHP framework
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.1](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.1), 3 days ago) - PHP library for generating a full featured PWA manifest
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.0.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.0.0), 3 weeks ago) - JWT authentication for your Symfony API
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.59.1](https://github.com/symfony/maker-bundle/releases/tag/v1.59.1), 4 weeks ago) - Symfony Maker Bundle
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.59.1](https://github.com/symfony/maker-bundle/releases/tag/v1.59.1), 1 month ago) - Symfony Maker Bundle
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.3](https://github.com/web-token/jwt-framework/releases/tag/3.4.3), 1 month ago) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.6](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.6), 1 month ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.2.2](https://github.com/Spomky-Labs/otphp/releases/tag/11.2.2), 1 month ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
