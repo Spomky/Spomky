@@ -33,7 +33,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (5 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (6 days ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
@@ -46,22 +46,22 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Merge up 1.2.1 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/215) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [Refactor file compiler services to use iterable](https://github.com/Spomky-Labs/pwa-bundle/pull/214) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [Add display of preloaded URLs in ServiceWorker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/212) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Improve error handling and update dependencies](https://github.com/web-token/jwt-framework/pull/572) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
-- [Merge-up 1.1.6 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/207) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Update screenshot format examples in config](https://github.com/Spomky-Labs/pwa-bundle/pull/206) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Update favicon processing to include hashing](https://github.com/Spomky-Labs/pwa-bundle/pull/205) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Merge up 1.2.1 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/215) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [Refactor file compiler services to use iterable](https://github.com/Spomky-Labs/pwa-bundle/pull/214) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [Add display of preloaded URLs in ServiceWorker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/212) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Improve error handling and update dependencies](https://github.com/web-token/jwt-framework/pull/572) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
+- [Merge-up 1.1.6 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/207) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Update screenshot format examples in config](https://github.com/Spomky-Labs/pwa-bundle/pull/206) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Update favicon processing to include hashing](https://github.com/Spomky-Labs/pwa-bundle/pull/205) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Refactor Data class and update method calls](https://github.com/Spomky-Labs/pwa-bundle/pull/203) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [Update Favicons functionality and configuration options](https://github.com/Spomky-Labs/pwa-bundle/pull/199) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
-- [Implement dark theme support in manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/198) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
+- [Update Favicons functionality and configuration options](https://github.com/Spomky-Labs/pwa-bundle/pull/199) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 weeks ago)
+- [Implement dark theme support in manifest](https://github.com/Spomky-Labs/pwa-bundle/pull/198) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 3 days ago) - The Symfony PHP framework
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.1](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.1), 5 days ago) - PHP library for generating a full featured PWA manifest
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.0.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.0.0), 3 weeks ago) - JWT authentication for your Symfony API
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 4 days ago) - The Symfony PHP framework
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.1](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.1), 6 days ago) - PHP library for generating a full featured PWA manifest
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.0.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.0.0), 4 weeks ago) - JWT authentication for your Symfony API
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.59.1](https://github.com/symfony/maker-bundle/releases/tag/v1.59.1), 1 month ago) - Symfony Maker Bundle
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.3](https://github.com/web-token/jwt-framework/releases/tag/3.4.3), 1 month ago) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.6](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.6), 1 month ago) - FIDO-U2F / FIDO2 / Webauthn Framework
