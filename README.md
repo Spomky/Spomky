@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [ci(Mergify): configuration update](https://github.com/Spomky-Labs/pwa-bundle/pull/219) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update method return types and yield statements](https://github.com/Spomky-Labs/pwa-bundle/pull/218) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 - [Merge up 1.2.1 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/215) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Refactor file compiler services to use iterable](https://github.com/Spomky-Labs/pwa-bundle/pull/214) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update screenshot format examples in config](https://github.com/Spomky-Labs/pwa-bundle/pull/206) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Update favicon processing to include hashing](https://github.com/Spomky-Labs/pwa-bundle/pull/205) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Refactor Data class and update method calls](https://github.com/Spomky-Labs/pwa-bundle/pull/203) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
-- [Update Favicons functionality and configuration options](https://github.com/Spomky-Labs/pwa-bundle/pull/199) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
