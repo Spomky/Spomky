@@ -54,7 +54,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 1.2.1 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/215) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Refactor file compiler services to use iterable](https://github.com/Spomky-Labs/pwa-bundle/pull/214) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Add display of preloaded URLs in ServiceWorker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/212) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Improve error handling and update dependencies](https://github.com/web-token/jwt-framework/pull/572) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
+- [Update dependencies and CI/CD](https://github.com/web-token/jwt-framework/pull/572) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Merge-up 1.1.6 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/207) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -72,11 +72,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [PhilETaylor](https://github.com/PhilETaylor) (today)
 - [Jorgu5](https://github.com/Jorgu5) (2 months ago)
 - [tacman](https://github.com/tacman) (4 months ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (1 year ago)
 - [chalasr](https://github.com/chalasr) (2 years ago)
-- [passbolt](https://github.com/passbolt) (3 years ago)
 
 <a href="https://stackoverflow.com/users/2157818/florent-morselli"><img src="https://stackoverflow.com/users/flair/2157818.png" width="208" height="58" alt="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
