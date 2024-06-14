@@ -33,19 +33,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (2 months ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (2 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [ci(Mergify): configuration update](https://github.com/web-token/jwt-framework/pull/573) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [ci(Mergify): configuration update](https://github.com/web-auth/webauthn-framework/pull/598) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [[HttpFoundation] Fix locale selection priority](https://github.com/symfony/symfony/pull/57388) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [ci(Mergify): configuration update](https://github.com/Spomky-Labs/pwa-bundle/pull/219) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Update method return types and yield statements](https://github.com/Spomky-Labs/pwa-bundle/pull/218) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
@@ -54,8 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add display of preloaded URLs in ServiceWorker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/212) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Improve error handling and update dependencies](https://github.com/web-token/jwt-framework/pull/572) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Merge-up 1.1.6 to 1.2.x](https://github.com/Spomky-Labs/pwa-bundle/pull/207) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [Update screenshot format examples in config](https://github.com/Spomky-Labs/pwa-bundle/pull/206) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [Update favicon processing to include hashing](https://github.com/Spomky-Labs/pwa-bundle/pull/205) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
