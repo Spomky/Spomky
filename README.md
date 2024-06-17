@@ -33,10 +33,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (5 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add nonce support to PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/221) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Replace PHP_EOL with &#34;\n&#34; in certificate processing](https://github.com/web-token/jwt-framework/pull/574) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/601) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Merge up 4.8.7 to 4.9.x](https://github.com/web-auth/webauthn-framework/pull/600) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[HttpFoundation] Fix locale selection priority](https://github.com/symfony/symfony/pull/57388) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - [ci(Mergify): configuration update](https://github.com/Spomky-Labs/pwa-bundle/pull/219) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Update method return types and yield statements](https://github.com/Spomky-Labs/pwa-bundle/pull/218) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Merge up 1.2.1 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/215) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
