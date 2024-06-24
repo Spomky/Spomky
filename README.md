@@ -33,7 +33,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 week ago)
@@ -46,7 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Add nonce support to PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/221) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [Add nonce support to PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/221) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Replace PHP_EOL with &#34;\n&#34; in certificate processing](https://github.com/web-token/jwt-framework/pull/574) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/601) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Merge up 4.8.7 to 4.9.x](https://github.com/web-auth/webauthn-framework/pull/600) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -61,7 +61,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.7](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.7), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.3.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.3.0), 1 week ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.60.0](https://github.com/symfony/maker-bundle/releases/tag/v1.60.0), 1 week ago) - Symfony Maker Bundle
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.60.0](https://github.com/symfony/maker-bundle/releases/tag/v1.60.0), 2 weeks ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.2](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.2), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 2 weeks ago) - The Symfony PHP framework
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.0.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.0.0), 1 month ago) - JWT authentication for your Symfony API
