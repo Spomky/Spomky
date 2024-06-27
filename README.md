@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Support for web-token 4.0](https://github.com/web-auth/webauthn-framework/pull/602) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 3.4.4 to 4.0.x](https://github.com/web-token/jwt-framework/pull/575) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
 - [Add nonce support to PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/221) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Replace PHP_EOL with &#34;\n&#34; in certificate processing](https://github.com/web-token/jwt-framework/pull/574) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [ci(Mergify): configuration update](https://github.com/web-token/jwt-framework/pull/573) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [ci(Mergify): configuration update](https://github.com/web-auth/webauthn-framework/pull/598) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [[HttpFoundation] Fix locale selection priority](https://github.com/symfony/symfony/pull/57388) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [ci(Mergify): configuration update](https://github.com/Spomky-Labs/pwa-bundle/pull/219) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
