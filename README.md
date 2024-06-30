@@ -33,7 +33,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (6 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add normalization support to denormalizers](https://github.com/web-auth/webauthn-framework/pull/604) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Add FakeCredentialGenerator for preventing username enumeration](https://github.com/web-auth/webauthn-framework/pull/603) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Support for web-token 4.0](https://github.com/web-auth/webauthn-framework/pull/602) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Merge up 3.4.4 to 4.0.x](https://github.com/web-token/jwt-framework/pull/575) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 4.8.7 to 4.9.x](https://github.com/web-auth/webauthn-framework/pull/600) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Update return type in getAlternativeDescriptions method](https://github.com/web-auth/webauthn-framework/pull/599) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [ci(Mergify): configuration update](https://github.com/web-token/jwt-framework/pull/573) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
-- [ci(Mergify): configuration update](https://github.com/web-auth/webauthn-framework/pull/598) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
