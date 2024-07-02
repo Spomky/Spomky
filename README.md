@@ -33,7 +33,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
@@ -46,6 +46,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Web-Token Suite 4.0 support](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1231) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (today)
+- [Add RangeException to Base64UrlSafe](https://github.com/web-token/jwt-framework/pull/577) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [Add Base64UrlSafe utility and refactor code references](https://github.com/web-token/jwt-framework/pull/576) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Remove debug dump in ProfileBasedRequestOptionsBuilder](https://github.com/web-auth/webauthn-framework/pull/607) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/606) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Update various package versions](https://github.com/web-auth/webauthn-framework/pull/605) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
@@ -53,13 +56,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add FakeCredentialGenerator for preventing username enumeration](https://github.com/web-auth/webauthn-framework/pull/603) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Support for web-token 4.0](https://github.com/web-auth/webauthn-framework/pull/602) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 - [Merge up 3.4.4 to 4.0.x](https://github.com/web-token/jwt-framework/pull/575) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Add nonce support to PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/221) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [Replace PHP_EOL with &#34;\n&#34; in certificate processing](https://github.com/web-token/jwt-framework/pull/574) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
-- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/601) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.0](https://github.com/web-token/jwt-framework/releases/tag/4.0.0), 1 day ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.6](https://github.com/web-token/jwt-framework/releases/tag/3.4.6), today) - JWT Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 4 days ago) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.7](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.7), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.3.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.3.0), 2 weeks ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
