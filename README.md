@@ -33,10 +33,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 weeks ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 months ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
@@ -46,23 +46,23 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Web-Token Suite 4.0 support](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1231) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (today)
-- [Add RangeException to Base64UrlSafe](https://github.com/web-token/jwt-framework/pull/577) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Add Base64UrlSafe utility and refactor code references](https://github.com/web-token/jwt-framework/pull/576) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Remove debug dump in ProfileBasedRequestOptionsBuilder](https://github.com/web-auth/webauthn-framework/pull/607) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/606) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Update various package versions](https://github.com/web-auth/webauthn-framework/pull/605) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Add normalization support to denormalizers](https://github.com/web-auth/webauthn-framework/pull/604) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Add FakeCredentialGenerator for preventing username enumeration](https://github.com/web-auth/webauthn-framework/pull/603) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [Support for web-token 4.0](https://github.com/web-auth/webauthn-framework/pull/602) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Web-Token Suite 4.0 support](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/1231) on [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) (1 day ago)
+- [Add RangeException to Base64UrlSafe](https://github.com/web-token/jwt-framework/pull/577) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Add Base64UrlSafe utility and refactor code references](https://github.com/web-token/jwt-framework/pull/576) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Remove debug dump in ProfileBasedRequestOptionsBuilder](https://github.com/web-auth/webauthn-framework/pull/607) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/606) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Update various package versions](https://github.com/web-auth/webauthn-framework/pull/605) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Add normalization support to denormalizers](https://github.com/web-auth/webauthn-framework/pull/604) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Add FakeCredentialGenerator for preventing username enumeration](https://github.com/web-auth/webauthn-framework/pull/603) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Support for web-token 4.0](https://github.com/web-auth/webauthn-framework/pull/602) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [Merge up 3.4.4 to 4.0.x](https://github.com/web-token/jwt-framework/pull/575) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.6](https://github.com/web-token/jwt-framework/releases/tag/3.4.6), today) - JWT Framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 4 days ago) - The Symfony PHP framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.6](https://github.com/web-token/jwt-framework/releases/tag/3.4.6), 1 day ago) - JWT Framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 5 days ago) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.8.7](https://github.com/web-auth/webauthn-framework/releases/tag/4.8.7), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.3.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.3.0), 2 weeks ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.3.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.3.0), 3 weeks ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.60.0](https://github.com/symfony/maker-bundle/releases/tag/v1.60.0), 3 weeks ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.2](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.2), 3 weeks ago) - PHP library for generating a full featured PWA manifest
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.0.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.0.0), 1 month ago) - JWT authentication for your Symfony API
