@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Allow PHP 8.2 and remove mb_ calls](https://github.com/web-token/jwt-framework/pull/578) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/621) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Add VerificationMethodANDCombinationsDenormalizer and trigger depreca…](https://github.com/web-auth/webauthn-framework/pull/620) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/619) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add RangeException to Base64UrlSafe](https://github.com/web-token/jwt-framework/pull/577) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Add Base64UrlSafe utility and refactor code references](https://github.com/web-token/jwt-framework/pull/576) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Remove debug dump in ProfileBasedRequestOptionsBuilder](https://github.com/web-auth/webauthn-framework/pull/607) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/606) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
