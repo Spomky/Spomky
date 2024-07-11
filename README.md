@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Deprecates web-auth/metadata-service](https://github.com/web-auth/webauthn-framework/pull/627) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/626) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Add SerializerTrait and deprecate certain methods](https://github.com/web-auth/webauthn-framework/pull/625) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Add Credential entity and related tests](https://github.com/web-auth/webauthn-framework/pull/624) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add VerificationMethodANDCombinationsDenormalizer and trigger depreca…](https://github.com/web-auth/webauthn-framework/pull/620) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/619) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 - [Add new denormalizers and deprecate old JSON methods](https://github.com/web-auth/webauthn-framework/pull/618) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [Add feature to hide existing credentials](https://github.com/web-auth/webauthn-framework/pull/617) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
