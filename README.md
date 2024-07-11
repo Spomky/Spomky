@@ -33,7 +33,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 weeks ago)
@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/628) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Deprecates web-auth/metadata-service](https://github.com/web-auth/webauthn-framework/pull/627) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/626) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Add SerializerTrait and deprecate certain methods](https://github.com/web-auth/webauthn-framework/pull/625) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/621) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Add VerificationMethodANDCombinationsDenormalizer and trigger depreca…](https://github.com/web-auth/webauthn-framework/pull/620) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/619) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [Add new denormalizers and deprecate old JSON methods](https://github.com/web-auth/webauthn-framework/pull/618) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
