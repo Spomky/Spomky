@@ -33,37 +33,37 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 weeks ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (4 weeks ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 month ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 months ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 months ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (2 months ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (3 months ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (3 months ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/628) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Deprecates web-auth/metadata-service](https://github.com/web-auth/webauthn-framework/pull/627) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/626) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Add SerializerTrait and deprecate certain methods](https://github.com/web-auth/webauthn-framework/pull/625) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Add Credential entity and related tests](https://github.com/web-auth/webauthn-framework/pull/624) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [[SecurityBundle] Update web-token/jwt-library version and adjust checker parameters](https://github.com/symfony/symfony/pull/57694) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [Allow PHP 8.2 and remove mb_ calls](https://github.com/web-token/jwt-framework/pull/578) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
-- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/621) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [Add VerificationMethodANDCombinationsDenormalizer and trigger depreca…](https://github.com/web-auth/webauthn-framework/pull/620) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/619) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/628) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Deprecates web-auth/metadata-service](https://github.com/web-auth/webauthn-framework/pull/627) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/626) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [Add SerializerTrait and deprecate certain methods](https://github.com/web-auth/webauthn-framework/pull/625) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [Add Credential entity and related tests](https://github.com/web-auth/webauthn-framework/pull/624) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [[SecurityBundle] Update web-token/jwt-library version and adjust checker parameters](https://github.com/symfony/symfony/pull/57694) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- [Allow PHP 8.2 and remove mb_ calls](https://github.com/web-token/jwt-framework/pull/578) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
+- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/621) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Add VerificationMethodANDCombinationsDenormalizer and trigger depreca…](https://github.com/web-auth/webauthn-framework/pull/620) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/619) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.9.0](https://github.com/web-auth/webauthn-framework/releases/tag/4.9.0), today) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.1](https://github.com/web-token/jwt-framework/releases/tag/4.0.1), 2 days ago) - JWT Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.9.0](https://github.com/web-auth/webauthn-framework/releases/tag/4.9.0), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.1](https://github.com/web-token/jwt-framework/releases/tag/4.0.1), 3 days ago) - JWT Framework
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.0), 1 week ago) - JWT authentication for your Symfony API
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 1 week ago) - The Symfony PHP framework
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.3.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.3.0), 4 weeks ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 2 weeks ago) - The Symfony PHP framework
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.3.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.3.0), 1 month ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.60.0](https://github.com/symfony/maker-bundle/releases/tag/v1.60.0), 1 month ago) - Symfony Maker Bundle
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.2](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.2), 1 month ago) - PHP library for generating a full featured PWA manifest
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 3 months ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
@@ -73,7 +73,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [viageo-ch](https://github.com/viageo-ch) (2 weeks ago)
-- [PhilETaylor](https://github.com/PhilETaylor) (3 weeks ago)
+- [PhilETaylor](https://github.com/PhilETaylor) (4 weeks ago)
 - [tacman](https://github.com/tacman) (5 months ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (2 years ago)
 - [chalasr](https://github.com/chalasr) (2 years ago)
