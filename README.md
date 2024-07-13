@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Security][SecurityBundle] Add encryption support to OIDC tokens](https://github.com/symfony/symfony/pull/57721) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Replace TaggedIterator with AutowireIterator across multiple files](https://github.com/Spomky-Labs/pwa-bundle/pull/222) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/628) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Deprecates web-auth/metadata-service](https://github.com/web-auth/webauthn-framework/pull/627) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[SecurityBundle] Update web-token/jwt-library version and adjust checker parameters](https://github.com/symfony/symfony/pull/57694) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - [Allow PHP 8.2 and remove mb_ calls](https://github.com/web-token/jwt-framework/pull/578) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/621) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [Add VerificationMethodANDCombinationsDenormalizer and trigger depreca…](https://github.com/web-auth/webauthn-framework/pull/620) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
