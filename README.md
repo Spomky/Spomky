@@ -73,10 +73,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [viageo-ch](https://github.com/viageo-ch) (2 weeks ago)
-- [PhilETaylor](https://github.com/PhilETaylor) (1 month ago)
 - [tacman](https://github.com/tacman) (5 months ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (2 years ago)
 - [chalasr](https://github.com/chalasr) (2 years ago)
+- [passbolt](https://github.com/passbolt) (3 years ago)
 
 <a href="https://stackoverflow.com/users/2157818/florent-morselli"><img src="https://stackoverflow.com/users/flair/2157818.png" width="208" height="58" alt="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
