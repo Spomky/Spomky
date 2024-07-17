@@ -59,8 +59,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.0.0](https://github.com/web-auth/webauthn-framework/releases/tag/5.0.0), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.3](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.3), 4 days ago) - PHP library for generating a full featured PWA manifest
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.9.0](https://github.com/web-auth/webauthn-framework/releases/tag/4.9.0), 6 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.1](https://github.com/web-token/jwt-framework/releases/tag/4.0.1), 1 week ago) - JWT Framework
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.0), 2 weeks ago) - JWT authentication for your Symfony API
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 2 weeks ago) - The Symfony PHP framework
