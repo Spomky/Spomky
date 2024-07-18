@@ -33,12 +33,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (5 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 month ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 months ago)
@@ -59,6 +59,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.0](https://github.com/web-auth/cose-lib/releases/tag/4.4.0), today) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.0), today) - CBOR Encoder/Decoder for PHP
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.0.0](https://github.com/web-auth/webauthn-framework/releases/tag/5.0.0), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.3](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.3), 5 days ago) - PHP library for generating a full featured PWA manifest
@@ -68,7 +69,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.3.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.3.0), 1 month ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.60.0](https://github.com/symfony/maker-bundle/releases/tag/v1.60.0), 1 month ago) - Symfony Maker Bundle
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.1.2](https://github.com/Spomky-Labs/web-push/releases/tag/3.1.2), 3 months ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.1), 3 months ago) - Public Key Infrastructure
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
