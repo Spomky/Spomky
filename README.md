@@ -33,9 +33,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 day ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Deprecate &#39;icon&#39; parameter from PublicKeyCredentialCreationOptionsFac…](https://github.com/web-auth/webauthn-framework/pull/635) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Update test and codebase for signature verification and improvements](https://github.com/web-auth/cose-lib/pull/84) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 - [Update CI/CD](https://github.com/Spomky-Labs/cbor-php/pull/73) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 day ago)
 - [[Security][SecurityBundle] Add encryption support to OIDC tokens](https://github.com/symfony/symfony/pull/57721) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/626) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Add SerializerTrait and deprecate certain methods](https://github.com/web-auth/webauthn-framework/pull/625) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Add Credential entity and related tests](https://github.com/web-auth/webauthn-framework/pull/624) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [[SecurityBundle] Update web-token/jwt-library version and adjust checker parameters](https://github.com/symfony/symfony/pull/57694) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
