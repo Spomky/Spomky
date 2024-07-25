@@ -72,7 +72,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [viageo-ch](https://github.com/viageo-ch) (1 month ago)
 - [tacman](https://github.com/tacman) (5 months ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (2 years ago)
 - [chalasr](https://github.com/chalasr) (2 years ago)
