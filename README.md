@@ -38,7 +38,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 weeks ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 weeks ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 weeks ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (4 weeks ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 months ago)
@@ -52,14 +52,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Deprecate &#39;icon&#39; parameter from PublicKeyCredentialCreationOptionsFac…](https://github.com/web-auth/webauthn-framework/pull/635) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 - [Update test and codebase for signature verification and improvements](https://github.com/web-auth/cose-lib/pull/84) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (3 weeks ago)
 - [Update CI/CD](https://github.com/Spomky-Labs/cbor-php/pull/73) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 weeks ago)
-- [[Security][SecurityBundle] Add encryption support to OIDC tokens](https://github.com/symfony/symfony/pull/57721) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
+- [[Security][SecurityBundle] Add encryption support to OIDC tokens](https://github.com/symfony/symfony/pull/57721) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [Replace TaggedIterator with AutowireIterator across multiple files](https://github.com/Spomky-Labs/pwa-bundle/pull/222) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 - [Merge up 4.9.x to 5.0.x](https://github.com/web-auth/webauthn-framework/pull/628) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 - [Deprecates web-auth/metadata-service](https://github.com/web-auth/webauthn-framework/pull/627) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.4), 2 days ago) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.4), 3 days ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 2 weeks ago) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.0.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.0.1), 3 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.0](https://github.com/web-auth/cose-lib/releases/tag/4.4.0), 3 weeks ago) - Cose Key and Algorithms support
