@@ -46,7 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Add non-ignorable error handling feature](https://github.com/ekino/phpstan-banned-code/pull/66) on [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) (1 week ago)
+- [Add non-ignorable error handling feature](https://github.com/ekino/phpstan-banned-code/pull/66) on [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) (2 weeks ago)
 - [Add ApplicationIconCompiler and IconResolver services](https://github.com/Spomky-Labs/pwa-bundle/pull/224) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Merge up 5.0.1 to 5.1.x](https://github.com/web-auth/webauthn-framework/pull/637) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 - [Replace Makefile with castor.php and update workflow](https://github.com/web-auth/webauthn-framework/pull/636) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
