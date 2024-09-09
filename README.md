@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Set default algorithms for PublicKeyCredentialCreationOptions](https://github.com/web-auth/webauthn-framework/pull/647) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Refactor JS for improved data extraction](https://github.com/PointerEvent/bosch-plr-demo/pull/1) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (1 week ago)
 - [Add non-ignorable error handling feature](https://github.com/ekino/phpstan-banned-code/pull/66) on [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) (4 weeks ago)
 - [Add ApplicationIconCompiler and IconResolver services](https://github.com/Spomky-Labs/pwa-bundle/pull/224) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update test and codebase for signature verification and improvements](https://github.com/web-auth/cose-lib/pull/84) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 month ago)
 - [Update CI/CD](https://github.com/Spomky-Labs/cbor-php/pull/73) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 month ago)
 - [[Security][SecurityBundle] Add encryption support to OIDC tokens](https://github.com/symfony/symfony/pull/57721) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- [Replace TaggedIterator with AutowireIterator across multiple files](https://github.com/Spomky-Labs/pwa-bundle/pull/222) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
