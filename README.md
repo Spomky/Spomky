@@ -33,35 +33,35 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky/custom-beaver](https://github.com/Spomky/custom-beaver) - My commands for Castor CLI (today)
+- [Spomky/custom-beaver](https://github.com/Spomky/custom-beaver) - My commands for Castor CLI (1 day ago)
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) - Detect banned code through PHPStan (4 weeks ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 month ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 months ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Set default algorithms for PublicKeyCredentialCreationOptions](https://github.com/web-auth/webauthn-framework/pull/647) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Refactor JS for improved data extraction](https://github.com/PointerEvent/bosch-plr-demo/pull/1) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (1 week ago)
-- [Add non-ignorable error handling feature](https://github.com/ekino/phpstan-banned-code/pull/66) on [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) (4 weeks ago)
+- [Set default algorithms for PublicKeyCredentialCreationOptions](https://github.com/web-auth/webauthn-framework/pull/647) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [Refactor JS for improved data extraction](https://github.com/PointerEvent/bosch-plr-demo/pull/1) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (2 weeks ago)
+- [Add non-ignorable error handling feature](https://github.com/ekino/phpstan-banned-code/pull/66) on [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) (1 month ago)
 - [Add ApplicationIconCompiler and IconResolver services](https://github.com/Spomky-Labs/pwa-bundle/pull/224) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 - [Merge up 5.0.1 to 5.1.x](https://github.com/web-auth/webauthn-framework/pull/637) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 - [Replace Makefile with castor.php and update workflow](https://github.com/web-auth/webauthn-framework/pull/636) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 - [Deprecate &#39;icon&#39; parameter from PublicKeyCredentialCreationOptionsFac…](https://github.com/web-auth/webauthn-framework/pull/635) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 - [Update test and codebase for signature verification and improvements](https://github.com/web-auth/cose-lib/pull/84) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 month ago)
 - [Update CI/CD](https://github.com/Spomky-Labs/cbor-php/pull/73) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 month ago)
-- [[Security][SecurityBundle] Add encryption support to OIDC tokens](https://github.com/symfony/symfony/pull/57721) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
+- [[Security][SecurityBundle] Add encryption support to OIDC tokens](https://github.com/symfony/symfony/pull/57721) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 week ago) - The Symfony PHP framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.61.0](https://github.com/symfony/maker-bundle/releases/tag/v1.61.0), 1 week ago) - Symfony Maker Bundle
-- [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v2.1.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v2.1.0), 3 weeks ago) - Detect banned code through PHPStan
+- [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v2.1.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v2.1.0), 4 weeks ago) - Detect banned code through PHPStan
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.4), 1 month ago) - PHP library for generating a full featured PWA manifest
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.0.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.0.1), 1 month ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.0](https://github.com/web-auth/cose-lib/releases/tag/4.4.0), 1 month ago) - Cose Key and Algorithms support
