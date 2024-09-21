@@ -46,8 +46,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Add background fetch functionality.](https://github.com/Spomky-Labs/pwa-bundle/pull/235) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [Add new PWA controllers and refactor existing ones](https://github.com/Spomky-Labs/pwa-bundle/pull/234) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [Add background fetch functionality.](https://github.com/Spomky-Labs/pwa-bundle/pull/235) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [Add new PWA controllers and refactor existing ones](https://github.com/Spomky-Labs/pwa-bundle/pull/234) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Set default algorithms for PublicKeyCredentialCreationOptions](https://github.com/web-auth/webauthn-framework/pull/647) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Refactor JS for improved data extraction](https://github.com/PointerEvent/bosch-plr-demo/pull/1) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (3 weeks ago)
 - [Add non-ignorable error handling feature](https://github.com/ekino/phpstan-banned-code/pull/66) on [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) (1 month ago)
