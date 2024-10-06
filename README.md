@@ -33,8 +33,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - My commands for Castor CLI (2 weeks ago)
 - [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) - A demo implementation of communicating with bosch laser range finders through web bluetooh (1 month ago)
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) - Detect banned code through PHPStan (1 month ago)
@@ -46,9 +46,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Add error handling and response expectation options to BackgroundSync](https://github.com/Spomky-Labs/pwa-bundle/pull/242) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Add background fetch functionality.](https://github.com/Spomky-Labs/pwa-bundle/pull/235) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [Add new PWA controllers and refactor existing ones](https://github.com/Spomky-Labs/pwa-bundle/pull/234) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Add error handling and response expectation options to BackgroundSync](https://github.com/Spomky-Labs/pwa-bundle/pull/242) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Add background fetch functionality.](https://github.com/Spomky-Labs/pwa-bundle/pull/235) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
+- [Add new PWA controllers and refactor existing ones](https://github.com/Spomky-Labs/pwa-bundle/pull/234) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Set default algorithms for PublicKeyCredentialCreationOptions](https://github.com/web-auth/webauthn-framework/pull/647) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 - [Refactor JS for improved data extraction](https://github.com/PointerEvent/bosch-plr-demo/pull/1) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (1 month ago)
 - [Add non-ignorable error handling feature](https://github.com/ekino/phpstan-banned-code/pull/66) on [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) (1 month ago)
