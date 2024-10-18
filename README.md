@@ -53,8 +53,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Refactor JS for improved data extraction](https://github.com/PointerEvent/bosch-plr-demo/pull/1) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (1 month ago)
 - [Add non-ignorable error handling feature](https://github.com/ekino/phpstan-banned-code/pull/66) on [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) (2 months ago)
 - [Add ApplicationIconCompiler and IconResolver services](https://github.com/Spomky-Labs/pwa-bundle/pull/224) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 months ago)
-- [Merge up 5.0.1 to 5.1.x](https://github.com/web-auth/webauthn-framework/pull/637) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 months ago)
-- [Replace Makefile with castor.php and update workflow](https://github.com/web-auth/webauthn-framework/pull/636) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 months ago)
+- [Merge up 5.0.1 to 5.1.x](https://github.com/web-auth/webauthn-framework/pull/637) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 months ago)
+- [Replace Makefile with castor.php and update workflow](https://github.com/web-auth/webauthn-framework/pull/636) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 months ago)
 - [Deprecate &#39;icon&#39; parameter from PublicKeyCredentialCreationOptionsFac…](https://github.com/web-auth/webauthn-framework/pull/635) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -64,7 +64,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.61.0](https://github.com/symfony/maker-bundle/releases/tag/v1.61.0), 1 month ago) - Symfony Maker Bundle
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v2.1.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v2.1.0), 2 months ago) - Detect banned code through PHPStan
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.4), 2 months ago) - PHP library for generating a full featured PWA manifest
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.0.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.0.1), 2 months ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.0.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.0.1), 3 months ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.0](https://github.com/web-auth/cose-lib/releases/tag/4.4.0), 3 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.0), 3 months ago) - CBOR Encoder/Decoder for PHP
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.1](https://github.com/web-token/jwt-framework/releases/tag/4.0.1), 3 months ago) - JWT Framework
