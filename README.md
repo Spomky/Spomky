@@ -33,7 +33,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (6 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 weeks ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 weeks ago)
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - My commands for Castor CLI (1 month ago)
@@ -46,7 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [CS fixed](https://github.com/Spomky-Labs/cbor-php/pull/76) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
+- [CS fixed](https://github.com/Spomky-Labs/cbor-php/pull/76) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
 - [Add error handling and response expectation options to BackgroundSync](https://github.com/Spomky-Labs/pwa-bundle/pull/242) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Add background fetch functionality.](https://github.com/Spomky-Labs/pwa-bundle/pull/235) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 - [Add new PWA controllers and refactor existing ones](https://github.com/Spomky-Labs/pwa-bundle/pull/234) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
@@ -59,7 +59,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 3 days ago) - The Symfony PHP framework
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) ([1.0.0](https://github.com/Spomky-Labs/beaver/releases/tag/1.0.0), 1 month ago) - My commands for Castor CLI
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.61.0](https://github.com/symfony/maker-bundle/releases/tag/v1.61.0), 2 months ago) - Symfony Maker Bundle
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v2.1.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v2.1.0), 2 months ago) - Detect banned code through PHPStan
