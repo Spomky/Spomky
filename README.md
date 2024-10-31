@@ -35,7 +35,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 weeks ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 weeks ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 weeks ago)
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - My commands for Castor CLI (1 month ago)
 - [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) - A demo implementation of communicating with bosch laser range finders through web bluetooh (1 month ago)
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) - Detect banned code through PHPStan (2 months ago)
@@ -59,7 +59,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 4 days ago) - The Symfony PHP framework
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) ([1.0.0](https://github.com/Spomky-Labs/beaver/releases/tag/1.0.0), 1 month ago) - My commands for Castor CLI
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.61.0](https://github.com/symfony/maker-bundle/releases/tag/v1.61.0), 2 months ago) - Symfony Maker Bundle
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v2.1.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v2.1.0), 2 months ago) - Detect banned code through PHPStan
@@ -68,7 +68,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.0](https://github.com/web-auth/cose-lib/releases/tag/4.4.0), 3 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.0), 3 months ago) - CBOR Encoder/Decoder for PHP
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.1](https://github.com/web-token/jwt-framework/releases/tag/4.0.1), 3 months ago) - JWT Framework
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.0), 3 months ago) - JWT authentication for your Symfony API
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.0), 4 months ago) - JWT authentication for your Symfony API
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
