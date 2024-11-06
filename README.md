@@ -33,7 +33,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - My commands for Castor CLI (1 month ago)
@@ -42,13 +42,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 months ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 months ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (3 months ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 months ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix object creation with correct precision type](https://github.com/Spomky-Labs/cbor-php/pull/78) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (5 days ago)
-- [Add an encoder and bump to PHP8.2](https://github.com/Spomky-Labs/cbor-php/pull/77) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (5 days ago)
-- [CS fixed](https://github.com/Spomky-Labs/cbor-php/pull/76) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
+- [Fix object creation with correct precision type](https://github.com/Spomky-Labs/cbor-php/pull/78) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
+- [Add an encoder and bump to PHP8.2](https://github.com/Spomky-Labs/cbor-php/pull/77) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
+- [CS fixed](https://github.com/Spomky-Labs/cbor-php/pull/76) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 weeks ago)
 - [Add error handling and response expectation options to BackgroundSync](https://github.com/Spomky-Labs/pwa-bundle/pull/242) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 - [Add background fetch functionality.](https://github.com/Spomky-Labs/pwa-bundle/pull/235) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 - [Add new PWA controllers and refactor existing ones](https://github.com/Spomky-Labs/pwa-bundle/pull/234) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
@@ -67,7 +67,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.0.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.0.1), 3 months ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.0](https://github.com/web-auth/cose-lib/releases/tag/4.4.0), 3 months ago) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.0), 3 months ago) - CBOR Encoder/Decoder for PHP
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.1](https://github.com/web-token/jwt-framework/releases/tag/4.0.1), 3 months ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.1](https://github.com/web-token/jwt-framework/releases/tag/4.0.1), 4 months ago) - JWT Framework
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.0), 4 months ago) - JWT authentication for your Symfony API
 
 #### ❤️ These awesome people sponsor me (thank you!)
