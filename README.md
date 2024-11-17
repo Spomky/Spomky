@@ -42,7 +42,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 months ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (4 months ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (4 months ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
