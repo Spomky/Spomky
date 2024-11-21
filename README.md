@@ -46,8 +46,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Fix object creation with correct precision type](https://github.com/Spomky-Labs/cbor-php/pull/78) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 weeks ago)
-- [Add an encoder and bump to PHP8.2](https://github.com/Spomky-Labs/cbor-php/pull/77) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 weeks ago)
+- [Fix object creation with correct precision type](https://github.com/Spomky-Labs/cbor-php/pull/78) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 weeks ago)
+- [Add an encoder and bump to PHP8.2](https://github.com/Spomky-Labs/cbor-php/pull/77) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 weeks ago)
 - [CS fixed](https://github.com/Spomky-Labs/cbor-php/pull/76) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (4 weeks ago)
 - [Add error handling and response expectation options to BackgroundSync](https://github.com/Spomky-Labs/pwa-bundle/pull/242) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 - [Add background fetch functionality.](https://github.com/Spomky-Labs/pwa-bundle/pull/235) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 months ago)
