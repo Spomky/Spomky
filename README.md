@@ -46,6 +46,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency phpstan/phpdoc-parser to v2](https://github.com/Spomky-Labs/phpwa-demo/pull/37) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency api-platform/core to v4](https://github.com/Spomky-Labs/phpwa-demo/pull/36) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update docker/dockerfile Docker tag to v1.11](https://github.com/Spomky-Labs/phpwa-demo/pull/35) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfonycasts/tailwind-bundle to ^0.6.0](https://github.com/Spomky-Labs/phpwa-demo/pull/34) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/validator to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/33) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
@@ -54,8 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/http-client to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/30) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Improvement](https://github.com/Spomky-Labs/phpwa-demo/pull/29) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Configure Renovate](https://github.com/Spomky-Labs/phpwa-demo/pull/28) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Fix object creation with correct precision type](https://github.com/Spomky-Labs/cbor-php/pull/78) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 weeks ago)
-- [Add an encoder and bump to PHP8.2](https://github.com/Spomky-Labs/cbor-php/pull/77) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
