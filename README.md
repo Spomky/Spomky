@@ -33,9 +33,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (4 weeks ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - My commands for Castor CLI (2 months ago)
 - [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) - A demo implementation of communicating with bosch laser range finders through web bluetooh (2 months ago)
@@ -46,16 +46,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency phpstan/phpdoc-parser to v2](https://github.com/Spomky-Labs/phpwa-demo/pull/37) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency api-platform/core to v4](https://github.com/Spomky-Labs/phpwa-demo/pull/36) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update docker/dockerfile Docker tag to v1.11](https://github.com/Spomky-Labs/phpwa-demo/pull/35) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfonycasts/tailwind-bundle to ^0.6.0](https://github.com/Spomky-Labs/phpwa-demo/pull/34) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfony/validator to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/33) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfony/runtime to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/32) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfony/process to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/31) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfony/http-client to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/30) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Improvement](https://github.com/Spomky-Labs/phpwa-demo/pull/29) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Configure Renovate](https://github.com/Spomky-Labs/phpwa-demo/pull/28) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency phpstan/phpdoc-parser to v2](https://github.com/Spomky-Labs/phpwa-demo/pull/37) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency api-platform/core to v4](https://github.com/Spomky-Labs/phpwa-demo/pull/36) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update docker/dockerfile Docker tag to v1.11](https://github.com/Spomky-Labs/phpwa-demo/pull/35) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfonycasts/tailwind-bundle to ^0.6.0](https://github.com/Spomky-Labs/phpwa-demo/pull/34) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/validator to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/33) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/runtime to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/32) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/process to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/31) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/http-client to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/30) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Improvement](https://github.com/Spomky-Labs/phpwa-demo/pull/29) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Configure Renovate](https://github.com/Spomky-Labs/phpwa-demo/pull/28) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
