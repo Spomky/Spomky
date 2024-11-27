@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency phpunit/phpunit to v11.4.4](https://github.com/Spomky-Labs/phpwa-demo/pull/41) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update docker/dockerfile Docker tag to v1.12](https://github.com/Spomky-Labs/phpwa-demo/pull/40) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency api-platform/core to v3.4.7](https://github.com/Spomky-Labs/phpwa-demo/pull/38) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 - [Update dependency phpstan/phpdoc-parser to v2](https://github.com/Spomky-Labs/phpwa-demo/pull/37) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/validator to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/33) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Update dependency symfony/runtime to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/32) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Update dependency symfony/process to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/31) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/http-client to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/30) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
