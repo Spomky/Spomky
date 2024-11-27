@@ -46,6 +46,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency symfony/phpunit-bridge to v7.1.9](https://github.com/Spomky-Labs/phpwa-demo/pull/46) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency symfony/http-client to v7.1.9](https://github.com/Spomky-Labs/phpwa-demo/pull/45) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/dotenv to v7.1.9](https://github.com/Spomky-Labs/phpwa-demo/pull/44) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/asset-mapper to v7.1.9](https://github.com/Spomky-Labs/phpwa-demo/pull/43) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency phpunit/phpunit to v11.4.4](https://github.com/Spomky-Labs/phpwa-demo/pull/41) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
@@ -54,8 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency phpstan/phpdoc-parser to v2](https://github.com/Spomky-Labs/phpwa-demo/pull/37) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Update dependency api-platform/core to v4](https://github.com/Spomky-Labs/phpwa-demo/pull/36) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Update docker/dockerfile Docker tag to v1.11](https://github.com/Spomky-Labs/phpwa-demo/pull/35) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfonycasts/tailwind-bundle to ^0.6.0](https://github.com/Spomky-Labs/phpwa-demo/pull/34) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/validator to 7.1.* [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/33) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
