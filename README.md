@@ -38,7 +38,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - My commands for Castor CLI (2 months ago)
-- [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) - A demo implementation of communicating with bosch laser range finders through web bluetooh (2 months ago)
+- [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) - A demo implementation of communicating with bosch laser range finders through web bluetooh (3 months ago)
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) - Detect banned code through PHPStan (3 months ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 months ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (4 months ago)
@@ -46,20 +46,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency symfony/clock to 7.2.*](https://github.com/Spomky-Labs/phpwa-demo/pull/50) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency symfony/browser-kit to 7.2.*](https://github.com/Spomky-Labs/phpwa-demo/pull/49) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency symfony/asset-mapper to 7.2.*](https://github.com/Spomky-Labs/phpwa-demo/pull/48) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency symfony/asset to 7.2.*](https://github.com/Spomky-Labs/phpwa-demo/pull/47) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency symfony/phpunit-bridge to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/46) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
-- [Update dependency symfony/http-client to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/45) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
-- [Update dependency symfony/dotenv to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/44) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
-- [Update dependency symfony/asset-mapper to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/43) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
-- [Update dependency phpunit/phpunit to v11.4.4](https://github.com/Spomky-Labs/phpwa-demo/pull/41) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
-- [Update docker/dockerfile Docker tag to v1.12](https://github.com/Spomky-Labs/phpwa-demo/pull/40) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
+- [Update dependency symfony/clock to 7.2.*](https://github.com/Spomky-Labs/phpwa-demo/pull/50) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Update dependency symfony/browser-kit to 7.2.*](https://github.com/Spomky-Labs/phpwa-demo/pull/49) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Update dependency symfony/asset-mapper to 7.2.*](https://github.com/Spomky-Labs/phpwa-demo/pull/48) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Update dependency symfony/asset to 7.2.*](https://github.com/Spomky-Labs/phpwa-demo/pull/47) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Update dependency symfony/phpunit-bridge to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/46) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Update dependency symfony/http-client to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/45) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Update dependency symfony/dotenv to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/44) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Update dependency symfony/asset-mapper to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/43) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Update dependency phpunit/phpunit to v11.4.4](https://github.com/Spomky-Labs/phpwa-demo/pull/41) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Update docker/dockerfile Docker tag to v1.12](https://github.com/Spomky-Labs/phpwa-demo/pull/40) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 2 days ago) - The Symfony PHP framework
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v3.0.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v3.0.0), 2 weeks ago) - Detect banned code through PHPStan
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) ([1.0.0](https://github.com/Spomky-Labs/beaver/releases/tag/1.0.0), 2 months ago) - My commands for Castor CLI
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.61.0](https://github.com/symfony/maker-bundle/releases/tag/v1.61.0), 3 months ago) - Symfony Maker Bundle
@@ -72,7 +72,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [tacman](https://github.com/tacman) (9 months ago)
+- [tacman](https://github.com/tacman) (10 months ago)
 - [chalasr](https://github.com/chalasr) (2 years ago)
 - [passbolt](https://github.com/passbolt) (3 years ago)
 
