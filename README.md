@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency phpdocumentor/reflection-docblock to v5.6.1](https://github.com/Spomky-Labs/phpwa-demo/pull/51) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/clock to 7.2.* - abandoned](https://github.com/Spomky-Labs/phpwa-demo/pull/50) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/browser-kit to 7.2.* - abandoned](https://github.com/Spomky-Labs/phpwa-demo/pull/49) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/asset-mapper to 7.2.* - abandoned](https://github.com/Spomky-Labs/phpwa-demo/pull/48) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/dotenv to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/44) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/asset-mapper to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/43) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency phpunit/phpunit to v11.4.4 - abandoned](https://github.com/Spomky-Labs/phpwa-demo/pull/41) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update docker/dockerfile Docker tag to v1.12](https://github.com/Spomky-Labs/phpwa-demo/pull/40) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
