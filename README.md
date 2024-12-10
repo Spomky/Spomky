@@ -34,7 +34,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 weeks ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 weeks ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 months ago)
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - My commands for Castor CLI (2 months ago)
@@ -42,20 +42,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) - Detect banned code through PHPStan (3 months ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (4 months ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (4 months ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (4 months ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency symfony/ux-icons to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/53) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfony/stimulus-bundle to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/52) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency phpdocumentor/reflection-docblock to v5.6.1](https://github.com/Spomky-Labs/phpwa-demo/pull/51) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Update dependency symfony/ux-live-component to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/55) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/ux-leaflet-map to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/54) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/ux-icons to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/53) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/stimulus-bundle to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/52) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency phpdocumentor/reflection-docblock to v5.6.1](https://github.com/Spomky-Labs/phpwa-demo/pull/51) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
 - [Update dependency symfony/clock to 7.2.* - abandoned](https://github.com/Spomky-Labs/phpwa-demo/pull/50) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/browser-kit to 7.2.* - abandoned](https://github.com/Spomky-Labs/phpwa-demo/pull/49) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/asset-mapper to 7.2.* - abandoned](https://github.com/Spomky-Labs/phpwa-demo/pull/48) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/asset to 7.2.* - abandoned](https://github.com/Spomky-Labs/phpwa-demo/pull/47) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/phpunit-bridge to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/46) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update dependency symfony/http-client to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/45) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update dependency symfony/dotenv to v7.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/44) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
