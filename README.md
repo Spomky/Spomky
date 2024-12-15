@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency symfony/http-kernel to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/60) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/framework-bundle to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/59) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/console to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/58) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/ux-map to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/56) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/stimulus-bundle to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/52) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Update dependency phpdocumentor/reflection-docblock to v5.6.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/51) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/clock to 7.2.* - abandoned](https://github.com/Spomky-Labs/phpwa-demo/pull/50) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
-- [Update dependency symfony/browser-kit to 7.2.* - abandoned](https://github.com/Spomky-Labs/phpwa-demo/pull/49) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
