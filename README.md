@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor normalization methods for consistency and clarity.](https://github.com/Spomky-Labs/pwa-bundle/pull/257) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Features/more stimulus components](https://github.com/Spomky-Labs/pwa-bundle/pull/255) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Update dependency symfony/http-kernel to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/60) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency symfony/framework-bundle to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/59) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/ux-leaflet-map to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/54) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-icons to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/53) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/stimulus-bundle to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/52) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update dependency phpdocumentor/reflection-docblock to v5.6.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/51) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
