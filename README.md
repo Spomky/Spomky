@@ -33,12 +33,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 days ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (4 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (5 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
-- [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - My commands for Castor CLI (2 months ago)
+- [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - My commands for Castor CLI (3 months ago)
 - [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) - A demo implementation of communicating with bosch laser range finders through web bluetooh (3 months ago)
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) - Detect banned code through PHPStan (4 months ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (4 months ago)
@@ -46,12 +46,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Merge up 1.2.7 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/258) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Refactor normalization methods for consistency and clarity.](https://github.com/Spomky-Labs/pwa-bundle/pull/257) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Features/more stimulus components](https://github.com/Spomky-Labs/pwa-bundle/pull/255) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Update dependency symfony/http-kernel to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/60) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [Update dependency symfony/framework-bundle to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/59) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [Update dependency symfony/console to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/58) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Merge up 1.2.7 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/258) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
+- [Refactor normalization methods for consistency and clarity.](https://github.com/Spomky-Labs/pwa-bundle/pull/257) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
+- [Features/more stimulus components](https://github.com/Spomky-Labs/pwa-bundle/pull/255) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [Update dependency symfony/http-kernel to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/60) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Update dependency symfony/framework-bundle to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/59) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Update dependency symfony/console to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/58) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 - [Update dependency symfony/ux-map to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/56) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-live-component to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/55) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-leaflet-map to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/54) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
@@ -59,10 +59,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.5), 3 days ago) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.5), 4 days ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 1 week ago) - The Symfony PHP framework
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v3.0.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v3.0.0), 1 month ago) - Detect banned code through PHPStan
-- [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) ([1.0.0](https://github.com/Spomky-Labs/beaver/releases/tag/1.0.0), 2 months ago) - My commands for Castor CLI
+- [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) ([1.0.0](https://github.com/Spomky-Labs/beaver/releases/tag/1.0.0), 3 months ago) - My commands for Castor CLI
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.61.0](https://github.com/symfony/maker-bundle/releases/tag/v1.61.0), 3 months ago) - Symfony Maker Bundle
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.0.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.0.1), 5 months ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.0](https://github.com/web-auth/cose-lib/releases/tag/4.4.0), 5 months ago) - Cose Key and Algorithms support
