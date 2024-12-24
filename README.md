@@ -52,7 +52,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/http-kernel to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/60) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/framework-bundle to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/59) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/console to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/58) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update dependency symfony/ux-map to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/56) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency symfony/ux-map to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/56) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency symfony/ux-live-component to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/55) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency symfony/ux-leaflet-map to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/54) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency symfony/ux-icons to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/53) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
