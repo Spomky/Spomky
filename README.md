@@ -35,9 +35,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 weeks ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 months ago)
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - My commands for Castor CLI (3 months ago)
 - [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) - A demo implementation of communicating with bosch laser range finders through web bluetooh (4 months ago)
@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add `sprintf` imports and update dependencies and baselines](https://github.com/web-auth/webauthn-framework/pull/668) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Add new targets, update dependencies, and support PHP 8.4](https://github.com/web-token/jwt-framework/pull/599) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Merge up 1.2.2 to 1.3.x](https://github.com/Spomky-Labs/pki-framework/pull/61) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Global upgrade](https://github.com/Spomky-Labs/pki-framework/pull/60) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/http-kernel to v7.2.2](https://github.com/Spomky-Labs/phpwa-demo/pull/60) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency symfony/framework-bundle to v7.2.2](https://github.com/Spomky-Labs/phpwa-demo/pull/59) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency symfony/console to v7.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/58) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
-- [Update dependency symfony/ux-map to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/56) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
