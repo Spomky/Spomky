@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Global upgrade](https://github.com/Spomky-Labs/pki-framework/pull/60) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Merge up 1.2.7 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/258) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Refactor normalization methods for consistency and clarity.](https://github.com/Spomky-Labs/pwa-bundle/pull/257) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Features/more stimulus components](https://github.com/Spomky-Labs/pwa-bundle/pull/255) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/ux-map to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/56) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 weeks ago)
 - [Update dependency symfony/ux-live-component to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/55) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 weeks ago)
 - [Update dependency symfony/ux-leaflet-map to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/54) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 weeks ago)
-- [Update dependency symfony/ux-icons to v2.22.1](https://github.com/Spomky-Labs/phpwa-demo/pull/53) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
