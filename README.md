@@ -33,9 +33,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 weeks ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 months ago)
@@ -46,10 +46,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Add `sprintf` imports and update dependencies and baselines](https://github.com/web-auth/webauthn-framework/pull/668) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Add new targets, update dependencies, and support PHP 8.4](https://github.com/web-token/jwt-framework/pull/599) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Merge up 1.2.2 to 1.3.x](https://github.com/Spomky-Labs/pki-framework/pull/61) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
-- [Global upgrade](https://github.com/Spomky-Labs/pki-framework/pull/60) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [Add `sprintf` imports and update dependencies and baselines](https://github.com/web-auth/webauthn-framework/pull/668) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Add new targets, update dependencies, and support PHP 8.4](https://github.com/web-token/jwt-framework/pull/599) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Merge up 1.2.2 to 1.3.x](https://github.com/Spomky-Labs/pki-framework/pull/61) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
+- [Global upgrade](https://github.com/Spomky-Labs/pki-framework/pull/60) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [Merge up 1.2.7 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/258) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Refactor normalization methods for consistency and clarity.](https://github.com/Spomky-Labs/pwa-bundle/pull/257) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Features/more stimulus components](https://github.com/Spomky-Labs/pwa-bundle/pull/255) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
@@ -59,9 +59,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.2](https://github.com/web-token/jwt-framework/releases/tag/4.0.2), today) - JWT Framework
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.2), today) - Public Key Infrastructure
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 3 days ago) - The Symfony PHP framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.2](https://github.com/web-token/jwt-framework/releases/tag/4.0.2), 1 day ago) - JWT Framework
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.2), 1 day ago) - Public Key Infrastructure
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 4 days ago) - The Symfony PHP framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.5), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v3.0.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v3.0.0), 1 month ago) - Detect banned code through PHPStan
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) ([1.0.0](https://github.com/Spomky-Labs/beaver/releases/tag/1.0.0), 3 months ago) - My commands for Castor CLI
