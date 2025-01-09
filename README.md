@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add port to the Mercure Public URL](https://github.com/dunglas/symfony-docker/pull/716) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
 - [[AccessControl] Add Access Control component with strategies and voters](https://github.com/symfony/symfony/pull/59439) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [Add index on publicKeyCredentialId in Doctrine mapping](https://github.com/web-auth/webauthn-framework/pull/670) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 - [Ci cd/fix errors](https://github.com/web-auth/webauthn-framework/pull/669) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Global upgrade](https://github.com/Spomky-Labs/pki-framework/pull/60) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (6 days ago)
 - [Merge up 1.2.7 to 1.3.x](https://github.com/Spomky-Labs/pwa-bundle/pull/258) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Refactor normalization methods for consistency and clarity.](https://github.com/Spomky-Labs/pwa-bundle/pull/257) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
-- [Features/more stimulus components](https://github.com/Spomky-Labs/pwa-bundle/pull/255) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
