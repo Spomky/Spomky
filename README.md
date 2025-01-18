@@ -35,7 +35,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
@@ -48,8 +48,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [Add port to the Mercure Public URL](https://github.com/dunglas/symfony-docker/pull/716) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 week ago)
 - [[AccessControl] Add Access Control component with strategies and voters](https://github.com/symfony/symfony/pull/59439) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [Add index on publicKeyCredentialId in Doctrine mapping](https://github.com/web-auth/webauthn-framework/pull/670) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Ci cd/fix errors](https://github.com/web-auth/webauthn-framework/pull/669) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [Add index on publicKeyCredentialId in Doctrine mapping](https://github.com/web-auth/webauthn-framework/pull/670) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
+- [Ci cd/fix errors](https://github.com/web-auth/webauthn-framework/pull/669) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Add `sprintf` imports and update dependencies and baselines](https://github.com/web-auth/webauthn-framework/pull/668) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Add new targets, update dependencies, and support PHP 8.4](https://github.com/web-token/jwt-framework/pull/599) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
 - [Merge up 1.2.2 to 1.3.x](https://github.com/Spomky-Labs/pki-framework/pull/61) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 weeks ago)
@@ -59,9 +59,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.62.1](https://github.com/symfony/maker-bundle/releases/tag/v1.62.1), 2 days ago) - Symfony Maker Bundle
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.62.1](https://github.com/symfony/maker-bundle/releases/tag/v1.62.1), 3 days ago) - Symfony Maker Bundle
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.1), 1 week ago) - JWT authentication for your Symfony API
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.9.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.9.2), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.9.2](https://github.com/web-auth/webauthn-framework/releases/tag/4.9.2), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.2](https://github.com/web-token/jwt-framework/releases/tag/4.0.2), 2 weeks ago) - JWT Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.2), 2 weeks ago) - Public Key Infrastructure
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 2 weeks ago) - The Symfony PHP framework
