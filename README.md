@@ -33,7 +33,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
@@ -46,12 +46,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Set a length limit for publicKeyCredentialId field](https://github.com/web-auth/webauthn-framework/pull/678) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Update build process and dependency versions](https://github.com/web-auth/webauthn-framework/pull/677) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Event dispatch payloads for WebAuthn failure cases](https://github.com/web-auth/webauthn-framework/pull/675) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Fix PHP 8.4 nullable type](https://github.com/web-auth/webauthn-framework/pull/674) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Set a length limit for publicKeyCredentialId field](https://github.com/web-auth/webauthn-framework/pull/678) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [Update build process and dependency versions](https://github.com/web-auth/webauthn-framework/pull/677) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [Event dispatch payloads for WebAuthn failure cases](https://github.com/web-auth/webauthn-framework/pull/675) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [Fix PHP 8.4 nullable type](https://github.com/web-auth/webauthn-framework/pull/674) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Add port to the Mercure Public URL](https://github.com/dunglas/symfony-docker/pull/716) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 week ago)
-- [[AccessControl] Add Access Control component with strategies and voters](https://github.com/symfony/symfony/pull/59439) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- [[AccessControl] Add Access Control component with strategies and voters](https://github.com/symfony/symfony/pull/59439) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [Add index on publicKeyCredentialId in Doctrine mapping](https://github.com/web-auth/webauthn-framework/pull/670) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Ci cd/fix errors](https://github.com/web-auth/webauthn-framework/pull/669) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Add `sprintf` imports and update dependencies and baselines](https://github.com/web-auth/webauthn-framework/pull/668) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
@@ -59,8 +59,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.1), 3 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.62.1](https://github.com/symfony/maker-bundle/releases/tag/v1.62.1), 6 days ago) - Symfony Maker Bundle
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.1), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.62.1](https://github.com/symfony/maker-bundle/releases/tag/v1.62.1), 1 week ago) - Symfony Maker Bundle
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.1), 2 weeks ago) - JWT authentication for your Symfony API
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.2](https://github.com/web-token/jwt-framework/releases/tag/4.0.2), 2 weeks ago) - JWT Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.2), 2 weeks ago) - Public Key Infrastructure
