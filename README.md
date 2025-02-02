@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add validation for missing &#34;web-token/jwt-library&#34; dependency](https://github.com/web-auth/webauthn-framework/pull/688) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Update WebAuthn method calls to use object parameters](https://github.com/web-auth/webauthn-framework/pull/687) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Update dependency twig/twig to v3.19.0 [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/61) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 - [Set a length limit for publicKeyCredentialId field](https://github.com/web-auth/webauthn-framework/pull/678) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add port to the Mercure Public URL](https://github.com/dunglas/symfony-docker/pull/716) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (3 weeks ago)
 - [[AccessControl] Add Access Control component with strategies and voters](https://github.com/symfony/symfony/pull/59439) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [Add index on publicKeyCredentialId in Doctrine mapping](https://github.com/web-auth/webauthn-framework/pull/670) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 weeks ago)
-- [Ci cd/fix errors](https://github.com/web-auth/webauthn-framework/pull/669) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
