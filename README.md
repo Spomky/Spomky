@@ -33,7 +33,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (today)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 day ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 weeks ago)
@@ -46,23 +46,23 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Add validation for missing &#34;web-token/jwt-library&#34; dependency](https://github.com/web-auth/webauthn-framework/pull/688) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Update WebAuthn method calls to use object parameters](https://github.com/web-auth/webauthn-framework/pull/687) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Update dependency twig/twig to v3.19.0 [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/61) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Add validation for missing &#34;web-token/jwt-library&#34; dependency](https://github.com/web-auth/webauthn-framework/pull/688) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Update WebAuthn method calls to use object parameters](https://github.com/web-auth/webauthn-framework/pull/687) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [Update dependency twig/twig to v3.19.0 [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/61) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 - [Set a length limit for publicKeyCredentialId field](https://github.com/web-auth/webauthn-framework/pull/678) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Update build process and dependency versions](https://github.com/web-auth/webauthn-framework/pull/677) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Event dispatch payloads for WebAuthn failure cases](https://github.com/web-auth/webauthn-framework/pull/675) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Fix PHP 8.4 nullable type](https://github.com/web-auth/webauthn-framework/pull/674) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Add port to the Mercure Public URL](https://github.com/dunglas/symfony-docker/pull/716) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (3 weeks ago)
 - [[AccessControl] Add Access Control component with strategies and voters](https://github.com/symfony/symfony/pull/59439) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- [Add index on publicKeyCredentialId in Doctrine mapping](https://github.com/web-auth/webauthn-framework/pull/670) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 weeks ago)
+- [Add index on publicKeyCredentialId in Doctrine mapping](https://github.com/web-auth/webauthn-framework/pull/670) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 4 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 5 days ago) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.1), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.62.1](https://github.com/symfony/maker-bundle/releases/tag/v1.62.1), 2 weeks ago) - Symfony Maker Bundle
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.1), 3 weeks ago) - JWT authentication for your Symfony API
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.1), 4 weeks ago) - JWT authentication for your Symfony API
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.2](https://github.com/web-token/jwt-framework/releases/tag/4.0.2), 1 month ago) - JWT Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.2), 1 month ago) - Public Key Infrastructure
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.5), 1 month ago) - PHP library for generating a full featured PWA manifest
