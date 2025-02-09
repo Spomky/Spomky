@@ -33,12 +33,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 month ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 months ago)
@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Security] Add support for encrypted access tokens (JWE) in OIDC](https://github.com/symfony/symfony-docs/pull/20637) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - [[Security] Update custom authenticator docs to include identifier normalization](https://github.com/symfony/symfony-docs/pull/20636) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - [Add validation for missing &#34;web-token/jwt-library&#34; dependency](https://github.com/web-auth/webauthn-framework/pull/688) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Update WebAuthn method calls to use object parameters](https://github.com/web-auth/webauthn-framework/pull/687) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Event dispatch payloads for WebAuthn failure cases](https://github.com/web-auth/webauthn-framework/pull/675) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 - [Fix PHP 8.4 nullable type](https://github.com/web-auth/webauthn-framework/pull/674) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 - [Add port to the Mercure Public URL](https://github.com/dunglas/symfony-docker/pull/716) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 month ago)
-- [[AccessControl] Add Access Control component with strategies and voters](https://github.com/symfony/symfony/pull/59439) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
