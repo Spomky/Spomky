@@ -33,7 +33,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (6 days ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 month ago)
@@ -46,8 +46,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[Security] Update custom authenticator docs to include identifier normalization](https://github.com/symfony/symfony-docs/pull/20636) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- [Add validation for missing &#34;web-token/jwt-library&#34; dependency](https://github.com/web-auth/webauthn-framework/pull/688) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [[Security] Update custom authenticator docs to include identifier normalization](https://github.com/symfony/symfony-docs/pull/20636) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- [Add validation for missing &#34;web-token/jwt-library&#34; dependency](https://github.com/web-auth/webauthn-framework/pull/688) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Update WebAuthn method calls to use object parameters](https://github.com/web-auth/webauthn-framework/pull/687) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Update dependency twig/twig to v3.19.0 [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/61) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Set a length limit for publicKeyCredentialId field](https://github.com/web-auth/webauthn-framework/pull/678) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
