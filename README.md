@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add origin validation logic and tests for WebAuthn](https://github.com/web-auth/webauthn-framework/pull/690) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [[Security] Add `role_fetcher` option to LDAP security configuration](https://github.com/symfony/symfony-docs/pull/20651) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - [Update phpstan-baseline and GitHub workflow dependencies](https://github.com/web-token/jwt-framework/pull/604) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
 - [[Security] Add support for encrypted access tokens (JWE) in OIDC](https://github.com/symfony/symfony-docs/pull/20637) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency twig/twig to v3.19.0 [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/61) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Set a length limit for publicKeyCredentialId field](https://github.com/web-auth/webauthn-framework/pull/678) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 - [Update build process and dependency versions](https://github.com/web-auth/webauthn-framework/pull/677) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
-- [Event dispatch payloads for WebAuthn failure cases](https://github.com/web-auth/webauthn-framework/pull/675) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
