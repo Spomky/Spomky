@@ -46,7 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Add Webauthn authentication support](https://github.com/web-auth/webauthn-framework/pull/693) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Add Webauthn Badge support](https://github.com/web-auth/webauthn-framework/pull/693) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Add origin validation logic and tests for WebAuthn](https://github.com/web-auth/webauthn-framework/pull/690) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [[Security] Add `role_fetcher` option to LDAP security configuration](https://github.com/symfony/symfony-docs/pull/20651) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - [Update phpstan-baseline and GitHub workflow dependencies](https://github.com/web-token/jwt-framework/pull/604) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
