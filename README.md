@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix trust path handling and improve assertions](https://github.com/web-auth/webauthn-framework/pull/694) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Add Webauthn Badge support](https://github.com/web-auth/webauthn-framework/pull/693) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Add origin validation logic and tests for WebAuthn](https://github.com/web-auth/webauthn-framework/pull/690) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [[Security] Add `role_fetcher` option to LDAP security configuration](https://github.com/symfony/symfony-docs/pull/20651) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add validation for missing &#34;web-token/jwt-library&#34; dependency](https://github.com/web-auth/webauthn-framework/pull/688) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Update WebAuthn method calls to use object parameters](https://github.com/web-auth/webauthn-framework/pull/687) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Update dependency twig/twig to v3.19.0 [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/61) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
-- [Set a length limit for publicKeyCredentialId field](https://github.com/web-auth/webauthn-framework/pull/678) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
