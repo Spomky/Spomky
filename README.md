@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add PgpTestingProcess for testing encryption and signing](https://github.com/the-pulli/symfony-pgp-mailer/pull/4) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (today)
 - [Add PGP signing support to the Mailer component](https://github.com/the-pulli/symfony-pgp-mailer/pull/3) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (today)
 - [Remove useless file](https://github.com/the-pulli/symfony-pgp-mailer/pull/2) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (today)
 - [Refactor PGP handling and streamline encryption process.](https://github.com/the-pulli/symfony-pgp-mailer/pull/1) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (1 day ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix trust path handling and improve assertions](https://github.com/web-auth/webauthn-framework/pull/694) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Add Webauthn Badge support](https://github.com/web-auth/webauthn-framework/pull/693) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 - [Add origin validation logic and tests for WebAuthn](https://github.com/web-auth/webauthn-framework/pull/690) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [[Security] Add `role_fetcher` option to LDAP security configuration](https://github.com/symfony/symfony-docs/pull/20651) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
