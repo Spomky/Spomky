@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Remove useless file](https://github.com/the-pulli/symfony-pgp-mailer/pull/2) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (today)
 - [Refactor PGP handling and streamline encryption process.](https://github.com/the-pulli/symfony-pgp-mailer/pull/1) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (1 day ago)
 - [Merge up 5.1.2 to 5.2.x](https://github.com/web-auth/webauthn-framework/pull/697) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Malformed phpdoc tag in PublicKeyCredentialEntity](https://github.com/web-auth/webauthn-framework/pull/696) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add origin validation logic and tests for WebAuthn](https://github.com/web-auth/webauthn-framework/pull/690) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [[Security] Add `role_fetcher` option to LDAP security configuration](https://github.com/symfony/symfony-docs/pull/20651) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [Update phpstan-baseline and GitHub workflow dependencies](https://github.com/web-token/jwt-framework/pull/604) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [[Security] Add support for encrypted access tokens (JWE) in OIDC](https://github.com/symfony/symfony-docs/pull/20637) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
