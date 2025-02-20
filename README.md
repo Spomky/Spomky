@@ -33,8 +33,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (6 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
@@ -42,24 +42,24 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 month ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 months ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 months ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor PGP handling and streamline encryption process.](https://github.com/the-pulli/symfony-pgp-mailer/pull/1) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (today)
-- [Merge up 5.1.2 to 5.2.x](https://github.com/web-auth/webauthn-framework/pull/697) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Malformed phpdoc tag in PublicKeyCredentialEntity](https://github.com/web-auth/webauthn-framework/pull/696) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Bugs/index length](https://github.com/web-auth/webauthn-framework/pull/695) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Fix trust path handling and improve assertions](https://github.com/web-auth/webauthn-framework/pull/694) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Add Webauthn Badge support](https://github.com/web-auth/webauthn-framework/pull/693) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [Add origin validation logic and tests for WebAuthn](https://github.com/web-auth/webauthn-framework/pull/690) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [[Security] Add `role_fetcher` option to LDAP security configuration](https://github.com/symfony/symfony-docs/pull/20651) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- [Refactor PGP handling and streamline encryption process.](https://github.com/the-pulli/symfony-pgp-mailer/pull/1) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (1 day ago)
+- [Merge up 5.1.2 to 5.2.x](https://github.com/web-auth/webauthn-framework/pull/697) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [Malformed phpdoc tag in PublicKeyCredentialEntity](https://github.com/web-auth/webauthn-framework/pull/696) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [Bugs/index length](https://github.com/web-auth/webauthn-framework/pull/695) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [Fix trust path handling and improve assertions](https://github.com/web-auth/webauthn-framework/pull/694) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [Add Webauthn Badge support](https://github.com/web-auth/webauthn-framework/pull/693) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Add origin validation logic and tests for WebAuthn](https://github.com/web-auth/webauthn-framework/pull/690) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [[Security] Add `role_fetcher` option to LDAP security configuration](https://github.com/symfony/symfony-docs/pull/20651) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [Update phpstan-baseline and GitHub workflow dependencies](https://github.com/web-token/jwt-framework/pull/604) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [[Security] Add support for encrypted access tokens (JWE) in OIDC](https://github.com/symfony/symfony-docs/pull/20637) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.2), 3 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.2), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.3](https://github.com/web-token/jwt-framework/releases/tag/4.0.3), 1 week ago) - JWT Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 3 weeks ago) - The Symfony PHP framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.62.1](https://github.com/symfony/maker-bundle/releases/tag/v1.62.1), 1 month ago) - Symfony Maker Bundle
