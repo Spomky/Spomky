@@ -46,7 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[Mailer][Mime] Refactor S/MIME encryption handling in Mailer SMimeEncryptionListener](https://github.com/symfony/symfony/pull/59831) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Mailer] Refactor S/MIME encryption handling in Mailer SMimeEncryptionListener](https://github.com/symfony/symfony/pull/59831) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Add PgpTestingProcess for testing encryption and signing](https://github.com/the-pulli/symfony-pgp-mailer/pull/4) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (1 day ago)
 - [Add PGP signing support to the Mailer component](https://github.com/the-pulli/symfony-pgp-mailer/pull/3) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (1 day ago)
 - [Remove useless file](https://github.com/the-pulli/symfony-pgp-mailer/pull/2) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (1 day ago)
