@@ -46,11 +46,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[Mailer] Refactor S/MIME encryption handling in Mailer SMimeEncryptionListener](https://github.com/symfony/symfony/pull/59831) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- [Add PgpTestingProcess for testing encryption and signing](https://github.com/the-pulli/symfony-pgp-mailer/pull/4) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (4 days ago)
-- [Add PGP signing support to the Mailer component](https://github.com/the-pulli/symfony-pgp-mailer/pull/3) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (4 days ago)
-- [Remove useless file](https://github.com/the-pulli/symfony-pgp-mailer/pull/2) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (4 days ago)
-- [Refactor PGP handling and streamline encryption process.](https://github.com/the-pulli/symfony-pgp-mailer/pull/1) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (5 days ago)
+- [[Mailer] Refactor S/MIME encryption handling in Mailer SMimeEncryptionListener](https://github.com/symfony/symfony/pull/59831) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- [Add PgpTestingProcess for testing encryption and signing](https://github.com/the-pulli/symfony-pgp-mailer/pull/4) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (5 days ago)
+- [Add PGP signing support to the Mailer component](https://github.com/the-pulli/symfony-pgp-mailer/pull/3) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (5 days ago)
+- [Remove useless file](https://github.com/the-pulli/symfony-pgp-mailer/pull/2) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (5 days ago)
+- [Refactor PGP handling and streamline encryption process.](https://github.com/the-pulli/symfony-pgp-mailer/pull/1) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (6 days ago)
 - [Merge up 5.1.2 to 5.2.x](https://github.com/web-auth/webauthn-framework/pull/697) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Malformed phpdoc tag in PublicKeyCredentialEntity](https://github.com/web-auth/webauthn-framework/pull/696) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Bugs/index length](https://github.com/web-auth/webauthn-framework/pull/695) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -61,14 +61,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.2), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.3](https://github.com/web-token/jwt-framework/releases/tag/4.0.3), 2 weeks ago) - JWT Framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.2.3](https://github.com/symfony/security-http/releases/tag/v7.2.3), 3 weeks ago) - Symfony Security Component - HTTP Integration
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.2.3](https://github.com/symfony/http-foundation/releases/tag/v7.2.3), 3 weeks ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.2.3](https://github.com/symfony/security-bundle/releases/tag/v7.2.3), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.2.3](https://github.com/symfony/framework-bundle/releases/tag/v7.2.3), 3 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 3 weeks ago) - The Symfony PHP framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.62.1](https://github.com/symfony/maker-bundle/releases/tag/v1.62.1), 1 month ago) - Symfony Maker Bundle
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.1), 1 month ago) - JWT authentication for your Symfony API
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.2), 1 month ago) - Public Key Infrastructure
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.5), 2 months ago) - PHP library for generating a full featured PWA manifest
-- [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v3.0.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v3.0.0), 3 months ago) - Detect banned code through PHPStan
-- [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) ([1.0.0](https://github.com/Spomky-Labs/beaver/releases/tag/1.0.0), 5 months ago) - My commands for Castor CLI
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.0](https://github.com/web-auth/cose-lib/releases/tag/4.4.0), 7 months ago) - Cose Key and Algorithms support
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
