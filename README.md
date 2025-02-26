@@ -46,6 +46,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Mailer] [Amazon] Support for custom headers in ses&#43;api](https://github.com/symfony/symfony/pull/59868) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Mailer] [Amazon] Remove outdated warning](https://github.com/symfony/symfony-docs/pull/20695) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - [[Mailer] Refactor S/MIME encryption handling in Mailer SMimeEncryptionListener](https://github.com/symfony/symfony/pull/59831) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - [Add PgpTestingProcess for testing encryption and signing](https://github.com/the-pulli/symfony-pgp-mailer/pull/4) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (6 days ago)
 - [Add PGP signing support to the Mailer component](https://github.com/the-pulli/symfony-pgp-mailer/pull/3) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (6 days ago)
@@ -54,8 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 5.1.2 to 5.2.x](https://github.com/web-auth/webauthn-framework/pull/697) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Malformed phpdoc tag in PublicKeyCredentialEntity](https://github.com/web-auth/webauthn-framework/pull/696) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Bugs/index length](https://github.com/web-auth/webauthn-framework/pull/695) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Fix trust path handling and improve assertions](https://github.com/web-auth/webauthn-framework/pull/694) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Add Webauthn Badge support](https://github.com/web-auth/webauthn-framework/pull/693) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
