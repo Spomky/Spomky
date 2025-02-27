@@ -66,9 +66,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.3](https://github.com/web-token/jwt-framework/releases/tag/4.0.3), 2 weeks ago) - JWT Framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.2.3](https://github.com/symfony/http-foundation/releases/tag/v7.2.3), 4 weeks ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.2.3](https://github.com/symfony/security-bundle/releases/tag/v7.2.3), 4 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.62.1](https://github.com/symfony/maker-bundle/releases/tag/v1.62.1), 1 month ago) - Symfony Maker Bundle
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.1), 1 month ago) - JWT authentication for your Symfony API
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.2), 1 month ago) - Public Key Infrastructure
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.5), 2 months ago) - PHP library for generating a full featured PWA manifest
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
