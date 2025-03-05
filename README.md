@@ -33,8 +33,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 weeks ago)
@@ -46,22 +46,22 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[Messenger][Beanstalkd] Add Priority support](https://github.com/symfony/symfony-docs/pull/20696) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
-- [[Mailer] [Amazon] Support for custom headers in ses&#43;api](https://github.com/symfony/symfony/pull/59868) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
-- [[Mailer] [Amazon] Remove outdated warning](https://github.com/symfony/symfony-docs/pull/20695) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- [[Messenger][Beanstalkd] Add Priority support](https://github.com/symfony/symfony-docs/pull/20696) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
+- [[Mailer] [Amazon] Support for custom headers in ses&#43;api](https://github.com/symfony/symfony/pull/59868) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- [[Mailer] [Amazon] Remove outdated warning](https://github.com/symfony/symfony-docs/pull/20695) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [[Mailer] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony/pull/59831) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [Add PgpTestingProcess for testing encryption and signing](https://github.com/the-pulli/symfony-pgp-mailer/pull/4) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (1 week ago)
 - [Add PGP signing support to the Mailer component](https://github.com/the-pulli/symfony-pgp-mailer/pull/3) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (1 week ago)
 - [Remove useless file](https://github.com/the-pulli/symfony-pgp-mailer/pull/2) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (1 week ago)
-- [Refactor PGP handling and streamline encryption process.](https://github.com/the-pulli/symfony-pgp-mailer/pull/1) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (1 week ago)
+- [Refactor PGP handling and streamline encryption process.](https://github.com/the-pulli/symfony-pgp-mailer/pull/1) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (2 weeks ago)
 - [Merge up 5.1.2 to 5.2.x](https://github.com/web-auth/webauthn-framework/pull/697) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Malformed phpdoc tag in PublicKeyCredentialEntity](https://github.com/web-auth/webauthn-framework/pull/696) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.2.4](https://github.com/symfony/security-http/releases/tag/v7.2.4), 6 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.2.4](https://github.com/symfony/framework-bundle/releases/tag/v7.2.4), 6 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4), 6 days ago) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.2.4](https://github.com/symfony/security-http/releases/tag/v7.2.4), 1 week ago) - Symfony Security Component - HTTP Integration
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.2.4](https://github.com/symfony/framework-bundle/releases/tag/v7.2.4), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4), 1 week ago) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.2), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.3](https://github.com/web-token/jwt-framework/releases/tag/4.0.3), 3 weeks ago) - JWT Framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.2.3](https://github.com/symfony/http-foundation/releases/tag/v7.2.3), 1 month ago) - Defines an object-oriented layer for the HTTP specification
