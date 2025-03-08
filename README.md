@@ -46,6 +46,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add Secure Payment Confirmation (SPC) support to Webauthn](https://github.com/web-auth/webauthn-framework/pull/705) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Add WebAuthn extensions and integrate PRF handling logic](https://github.com/web-auth/webauthn-framework/pull/704) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 5.1.3 to 5.2.x](https://github.com/web-auth/webauthn-framework/pull/703) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Deprecate DoctrineCredentialSourceRepository in Symfony.](https://github.com/web-auth/webauthn-framework/pull/702) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Refactor and improve Webauthn handling, tests, and configs.](https://github.com/web-auth/webauthn-framework/pull/701) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -54,8 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Mailer] [Amazon] Remove outdated warning](https://github.com/symfony/symfony-docs/pull/20695) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [[Mailer] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony/pull/59831) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [Add PgpTestingProcess for testing encryption and signing](https://github.com/the-pulli/symfony-pgp-mailer/pull/4) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (2 weeks ago)
-- [Add PGP signing support to the Mailer component](https://github.com/the-pulli/symfony-pgp-mailer/pull/3) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (2 weeks ago)
-- [Remove useless file](https://github.com/the-pulli/symfony-pgp-mailer/pull/2) on [the-pulli/symfony-pgp-mailer](https://github.com/the-pulli/symfony-pgp-mailer) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
