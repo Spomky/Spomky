@@ -33,8 +33,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 weeks ago)
@@ -46,7 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor and improve Webauthn handling, tests, and configs.](https://github.com/web-auth/webauthn-framework/pull/701) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Refactor and improve Webauthn handling, tests, and configs.](https://github.com/web-auth/webauthn-framework/pull/701) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [[Messenger][Beanstalkd] Add Priority support](https://github.com/symfony/symfony-docs/pull/20696) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [[Mailer] [Amazon] Support for custom headers in ses&#43;api](https://github.com/symfony/symfony/pull/59868) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[Mailer] [Amazon] Remove outdated warning](https://github.com/symfony/symfony-docs/pull/20695) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
