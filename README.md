@@ -33,12 +33,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (3 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 weeks ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 weeks ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 months ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 months ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 months ago)
@@ -46,11 +46,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Add Secure Payment Confirmation (SPC) support to Webauthn](https://github.com/web-auth/webauthn-framework/pull/705) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Add WebAuthn extensions and integrate PRF handling logic](https://github.com/web-auth/webauthn-framework/pull/704) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Merge up 5.1.3 to 5.2.x](https://github.com/web-auth/webauthn-framework/pull/703) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Deprecate DoctrineCredentialSourceRepository in Symfony.](https://github.com/web-auth/webauthn-framework/pull/702) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Refactor and improve Webauthn handling, tests, and configs.](https://github.com/web-auth/webauthn-framework/pull/701) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Add Secure Payment Confirmation (SPC) support to Webauthn](https://github.com/web-auth/webauthn-framework/pull/705) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Add WebAuthn extensions and integrate PRF handling logic](https://github.com/web-auth/webauthn-framework/pull/704) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Merge up 5.1.3 to 5.2.x](https://github.com/web-auth/webauthn-framework/pull/703) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Deprecate DoctrineCredentialSourceRepository in Symfony.](https://github.com/web-auth/webauthn-framework/pull/702) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [Refactor and improve Webauthn handling, tests, and configs.](https://github.com/web-auth/webauthn-framework/pull/701) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [[Messenger][Beanstalkd] Add Priority support](https://github.com/symfony/symfony-docs/pull/20696) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [[Mailer] [Amazon] Support for custom headers in ses&#43;api](https://github.com/symfony/symfony/pull/59868) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[Mailer] [Amazon] Remove outdated warning](https://github.com/symfony/symfony-docs/pull/20695) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
@@ -59,11 +59,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.3), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.3), 3 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.2.4](https://github.com/symfony/security-http/releases/tag/v7.2.4), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.2.4](https://github.com/symfony/framework-bundle/releases/tag/v7.2.4), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4), 1 week ago) - The Symfony PHP framework
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.3](https://github.com/web-token/jwt-framework/releases/tag/4.0.3), 4 weeks ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.3](https://github.com/web-token/jwt-framework/releases/tag/4.0.3), 1 month ago) - JWT Framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.2.3](https://github.com/symfony/http-foundation/releases/tag/v7.2.3), 1 month ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.2.3](https://github.com/symfony/security-bundle/releases/tag/v7.2.3), 1 month ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.1), 2 months ago) - JWT authentication for your Symfony API
