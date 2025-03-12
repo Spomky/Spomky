@@ -59,11 +59,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.4](https://github.com/web-token/jwt-framework/releases/tag/4.0.4), today) - JWT Framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.3), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.2.4](https://github.com/symfony/security-http/releases/tag/v7.2.4), 2 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.2.4](https://github.com/symfony/framework-bundle/releases/tag/v7.2.4), 2 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4), 2 weeks ago) - The Symfony PHP framework
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.3](https://github.com/web-token/jwt-framework/releases/tag/4.0.3), 1 month ago) - JWT Framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.2.3](https://github.com/symfony/http-foundation/releases/tag/v7.2.3), 1 month ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.2.3](https://github.com/symfony/security-bundle/releases/tag/v7.2.3), 1 month ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v3.1.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v3.1.1), 2 months ago) - JWT authentication for your Symfony API
