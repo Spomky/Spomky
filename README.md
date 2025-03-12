@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor image resizing to return modified Imagick instance.](https://github.com/Spomky-Labs/pwa-bundle/pull/267) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add ExplicitNullableParamTypeRector to Rector config](https://github.com/Spomky-Labs/pwa-bundle/pull/266) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add Secure Payment Confirmation (SPC) support to Webauthn](https://github.com/web-auth/webauthn-framework/pull/705) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Add WebAuthn extensions and integrate PRF handling logic](https://github.com/web-auth/webauthn-framework/pull/704) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Messenger][Beanstalkd] Add Priority support](https://github.com/symfony/symfony-docs/pull/20696) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - [[Mailer] [Amazon] Support for custom headers in ses&#43;api](https://github.com/symfony/symfony/pull/59868) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [[Mailer] [Amazon] Remove outdated warning](https://github.com/symfony/symfony-docs/pull/20695) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- [[Mailer] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony/pull/59831) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
