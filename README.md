@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update screen capture to support advanced media options](https://github.com/Spomky-Labs/pwa-bundle/pull/270) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update event names to use &#39;pwa&#39; namespace and add screen capture](https://github.com/Spomky-Labs/pwa-bundle/pull/269) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update dependency symfonycasts/tailwind-bundle to ^0.8 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/66) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency shipmonk/dead-code-detector to ^0.9.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/65) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add WebAuthn extensions and integrate PRF handling logic](https://github.com/web-auth/webauthn-framework/pull/704) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [Merge up 5.1.3 to 5.2.x](https://github.com/web-auth/webauthn-framework/pull/703) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [Deprecate DoctrineCredentialSourceRepository in Symfony.](https://github.com/web-auth/webauthn-framework/pull/702) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [Refactor and improve Webauthn handling, tests, and configs.](https://github.com/web-auth/webauthn-framework/pull/701) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
