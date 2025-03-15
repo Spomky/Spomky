@@ -33,9 +33,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (today)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add Picture-in-Picture controller for PWA](https://github.com/Spomky-Labs/pwa-bundle/pull/271) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update screen capture to support advanced media options](https://github.com/Spomky-Labs/pwa-bundle/pull/270) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Update event names to use &#39;pwa&#39; namespace and add screen capture](https://github.com/Spomky-Labs/pwa-bundle/pull/269) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Update dependency symfonycasts/tailwind-bundle to ^0.8 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/66) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add Secure Payment Confirmation (SPC) support to Webauthn](https://github.com/web-auth/webauthn-framework/pull/705) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Add WebAuthn extensions and integrate PRF handling logic](https://github.com/web-auth/webauthn-framework/pull/704) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Merge up 5.1.3 to 5.2.x](https://github.com/web-auth/webauthn-framework/pull/703) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Deprecate DoctrineCredentialSourceRepository in Symfony.](https://github.com/web-auth/webauthn-framework/pull/702) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
