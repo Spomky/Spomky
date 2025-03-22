@@ -33,8 +33,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (6 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Expand supported versions for several dependencies.](https://github.com/Spomky-Labs/pwa-bundle/pull/274) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update dependency shipmonk/dead-code-detector to ^0.10.0](https://github.com/Spomky-Labs/phpwa-demo/pull/72) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Support the absence of @symfony/ux-live-component](https://github.com/Spomky-Labs/pwa-bundle/pull/273) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Update dependency phpstan/phpstan-symfony to v2.0.3](https://github.com/Spomky-Labs/phpwa-demo/pull/71) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update screen capture to support advanced media options](https://github.com/Spomky-Labs/pwa-bundle/pull/270) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update event names to use &#39;pwa&#39; namespace and add screen capture](https://github.com/Spomky-Labs/pwa-bundle/pull/269) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update dependency symfonycasts/tailwind-bundle to ^0.8 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/66) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update dependency shipmonk/dead-code-detector to ^0.9.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/65) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
