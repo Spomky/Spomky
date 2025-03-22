@@ -33,25 +33,25 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (5 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (6 days ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (6 days ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (6 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 months ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 months ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (4 months ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency shipmonk/dead-code-detector to ^0.10.0](https://github.com/Spomky-Labs/phpwa-demo/pull/72) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Support the absence of @symfony/ux-live-component](https://github.com/Spomky-Labs/pwa-bundle/pull/273) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Update dependency phpstan/phpstan-symfony to v2.0.3](https://github.com/Spomky-Labs/phpwa-demo/pull/71) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
-- [Update dependency phpunit/phpunit to v12.0.9](https://github.com/Spomky-Labs/phpwa-demo/pull/70) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
-- [Update dependency phpstan/phpstan-strict-rules to v2.0.4](https://github.com/Spomky-Labs/phpwa-demo/pull/69) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
-- [Add Picture-in-Picture controller for PWA](https://github.com/Spomky-Labs/pwa-bundle/pull/271) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [Update dependency shipmonk/dead-code-detector to ^0.10.0](https://github.com/Spomky-Labs/phpwa-demo/pull/72) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Support the absence of @symfony/ux-live-component](https://github.com/Spomky-Labs/pwa-bundle/pull/273) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Update dependency phpstan/phpstan-symfony to v2.0.3](https://github.com/Spomky-Labs/phpwa-demo/pull/71) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
+- [Update dependency phpunit/phpunit to v12.0.9](https://github.com/Spomky-Labs/phpwa-demo/pull/70) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Update dependency phpstan/phpstan-strict-rules to v2.0.4](https://github.com/Spomky-Labs/phpwa-demo/pull/69) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Add Picture-in-Picture controller for PWA](https://github.com/Spomky-Labs/pwa-bundle/pull/271) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update screen capture to support advanced media options](https://github.com/Spomky-Labs/pwa-bundle/pull/270) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update event names to use &#39;pwa&#39; namespace and add screen capture](https://github.com/Spomky-Labs/pwa-bundle/pull/269) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update dependency symfonycasts/tailwind-bundle to ^0.8 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/66) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
@@ -60,7 +60,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 🔭 Latest releases I've contributed to
 
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.4](https://github.com/web-token/jwt-framework/releases/tag/4.0.4), 1 week ago) - JWT Framework
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.1.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.1.3), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.2.4](https://github.com/symfony/security-http/releases/tag/v7.2.4), 3 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.2.4](https://github.com/symfony/framework-bundle/releases/tag/v7.2.4), 3 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4), 3 weeks ago) - The Symfony PHP framework
