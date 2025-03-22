@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency symfonycasts/tailwind-bundle to ^0.9](https://github.com/Spomky-Labs/phpwa-demo/pull/73) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Add locale parameter support in URL generation](https://github.com/Spomky-Labs/pwa-bundle/pull/277) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add support for iOS splash screen startup images](https://github.com/Spomky-Labs/pwa-bundle/pull/276) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update command descriptions to mark deprecated commands](https://github.com/Spomky-Labs/pwa-bundle/pull/275) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency phpstan/phpstan-symfony to v2.0.3 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/71) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
 - [Update dependency phpunit/phpunit to v12.0.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/70) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 - [Update dependency phpstan/phpstan-strict-rules to v2.0.4 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/69) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [Add Picture-in-Picture controller for PWA](https://github.com/Spomky-Labs/pwa-bundle/pull/271) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
