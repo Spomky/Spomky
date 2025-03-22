@@ -50,11 +50,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add support for iOS splash screen startup images](https://github.com/Spomky-Labs/pwa-bundle/pull/276) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update command descriptions to mark deprecated commands](https://github.com/Spomky-Labs/pwa-bundle/pull/275) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Expand supported versions for several dependencies.](https://github.com/Spomky-Labs/pwa-bundle/pull/274) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Update dependency shipmonk/dead-code-detector to ^0.10.0](https://github.com/Spomky-Labs/phpwa-demo/pull/72) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency shipmonk/dead-code-detector to ^0.10.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/72) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Support the absence of @symfony/ux-live-component](https://github.com/Spomky-Labs/pwa-bundle/pull/273) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Update dependency phpstan/phpstan-symfony to v2.0.3](https://github.com/Spomky-Labs/phpwa-demo/pull/71) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
-- [Update dependency phpunit/phpunit to v12.0.9](https://github.com/Spomky-Labs/phpwa-demo/pull/70) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [Update dependency phpstan/phpstan-strict-rules to v2.0.4](https://github.com/Spomky-Labs/phpwa-demo/pull/69) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Update dependency phpstan/phpstan-symfony to v2.0.3 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/71) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
+- [Update dependency phpunit/phpunit to v12.0.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/70) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Update dependency phpstan/phpstan-strict-rules to v2.0.4 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/69) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 - [Add Picture-in-Picture controller for PWA](https://github.com/Spomky-Labs/pwa-bundle/pull/271) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
