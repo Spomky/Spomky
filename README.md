@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update URLs and improve service worker handling](https://github.com/Spomky-Labs/pwa-bundle/pull/280) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add file-handling controller for PWA file support](https://github.com/Spomky-Labs/pwa-bundle/pull/279) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add placeholder support to ProtocolHandler normalization](https://github.com/Spomky-Labs/pwa-bundle/pull/278) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update dependency symfonycasts/tailwind-bundle to ^0.9](https://github.com/Spomky-Labs/phpwa-demo/pull/73) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Expand supported versions for several dependencies.](https://github.com/Spomky-Labs/pwa-bundle/pull/274) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update dependency shipmonk/dead-code-detector to ^0.10.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/72) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Support the absence of @symfony/ux-live-component](https://github.com/Spomky-Labs/pwa-bundle/pull/273) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Update dependency phpstan/phpstan-symfony to v2.0.3 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/71) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
