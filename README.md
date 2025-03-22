@@ -46,6 +46,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for iOS splash screen startup images](https://github.com/Spomky-Labs/pwa-bundle/pull/276) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Update command descriptions to mark deprecated commands](https://github.com/Spomky-Labs/pwa-bundle/pull/275) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Expand supported versions for several dependencies.](https://github.com/Spomky-Labs/pwa-bundle/pull/274) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update dependency shipmonk/dead-code-detector to ^0.10.0](https://github.com/Spomky-Labs/phpwa-demo/pull/72) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Support the absence of @symfony/ux-live-component](https://github.com/Spomky-Labs/pwa-bundle/pull/273) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -54,8 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency phpstan/phpstan-strict-rules to v2.0.4](https://github.com/Spomky-Labs/phpwa-demo/pull/69) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 - [Add Picture-in-Picture controller for PWA](https://github.com/Spomky-Labs/pwa-bundle/pull/271) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update screen capture to support advanced media options](https://github.com/Spomky-Labs/pwa-bundle/pull/270) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Update event names to use &#39;pwa&#39; namespace and add screen capture](https://github.com/Spomky-Labs/pwa-bundle/pull/269) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Update dependency symfonycasts/tailwind-bundle to ^0.8 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/66) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
