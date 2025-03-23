@@ -46,7 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency phpstan/phpstan to v2.1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/75) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency phpstan/phpstan to v2.1.10](https://github.com/Spomky-Labs/phpwa-demo/pull/75) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Add Wake Lock Controller for managing screen wake locks.](https://github.com/Spomky-Labs/pwa-bundle/pull/285) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Refactor shortcuts normalization to handle icon expansion](https://github.com/Spomky-Labs/pwa-bundle/pull/284) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Refactor and enhance media capture functionality](https://github.com/Spomky-Labs/pwa-bundle/pull/283) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
