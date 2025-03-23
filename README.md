@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency phpstan/phpstan to v2.1.9](https://github.com/Spomky-Labs/phpwa-demo/pull/75) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Add Wake Lock Controller for managing screen wake locks.](https://github.com/Spomky-Labs/pwa-bundle/pull/285) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Refactor shortcuts normalization to handle icon expansion](https://github.com/Spomky-Labs/pwa-bundle/pull/284) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Refactor and enhance media capture functionality](https://github.com/Spomky-Labs/pwa-bundle/pull/283) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add placeholder support to ProtocolHandler normalization](https://github.com/Spomky-Labs/pwa-bundle/pull/278) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Update dependency symfonycasts/tailwind-bundle to ^0.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/73) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Add locale parameter support in URL generation](https://github.com/Spomky-Labs/pwa-bundle/pull/277) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add support for iOS splash screen startup images](https://github.com/Spomky-Labs/pwa-bundle/pull/276) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
