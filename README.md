@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor shortcuts normalization to handle icon expansion](https://github.com/Spomky-Labs/pwa-bundle/pull/284) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Refactor and enhance media capture functionality](https://github.com/Spomky-Labs/pwa-bundle/pull/283) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Refactor and extend capture controller functionality.](https://github.com/Spomky-Labs/pwa-bundle/pull/281) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Update URLs and improve service worker handling](https://github.com/Spomky-Labs/pwa-bundle/pull/280) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add locale parameter support in URL generation](https://github.com/Spomky-Labs/pwa-bundle/pull/277) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Add support for iOS splash screen startup images](https://github.com/Spomky-Labs/pwa-bundle/pull/276) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Update command descriptions to mark deprecated commands](https://github.com/Spomky-Labs/pwa-bundle/pull/275) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Expand supported versions for several dependencies.](https://github.com/Spomky-Labs/pwa-bundle/pull/274) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
