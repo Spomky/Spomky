@@ -33,9 +33,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
@@ -46,20 +46,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency phpstan/phpstan to v2.1.10](https://github.com/Spomky-Labs/phpwa-demo/pull/75) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Add Wake Lock Controller for managing screen wake locks.](https://github.com/Spomky-Labs/pwa-bundle/pull/285) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Refactor shortcuts normalization to handle icon expansion](https://github.com/Spomky-Labs/pwa-bundle/pull/284) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Refactor and enhance media capture functionality](https://github.com/Spomky-Labs/pwa-bundle/pull/283) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Refactor and extend capture controller functionality.](https://github.com/Spomky-Labs/pwa-bundle/pull/281) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Update URLs and improve service worker handling](https://github.com/Spomky-Labs/pwa-bundle/pull/280) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add file-handling controller for PWA file support](https://github.com/Spomky-Labs/pwa-bundle/pull/279) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add placeholder support to ProtocolHandler normalization](https://github.com/Spomky-Labs/pwa-bundle/pull/278) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Update dependency symfonycasts/tailwind-bundle to ^0.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/73) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Add locale parameter support in URL generation](https://github.com/Spomky-Labs/pwa-bundle/pull/277) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Update dependency phpstan/phpstan to v2.1.10](https://github.com/Spomky-Labs/phpwa-demo/pull/75) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Add Wake Lock Controller for managing screen wake locks.](https://github.com/Spomky-Labs/pwa-bundle/pull/285) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Refactor shortcuts normalization to handle icon expansion](https://github.com/Spomky-Labs/pwa-bundle/pull/284) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Refactor and enhance media capture functionality](https://github.com/Spomky-Labs/pwa-bundle/pull/283) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Refactor and extend capture controller functionality.](https://github.com/Spomky-Labs/pwa-bundle/pull/281) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Update URLs and improve service worker handling](https://github.com/Spomky-Labs/pwa-bundle/pull/280) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Add file-handling controller for PWA file support](https://github.com/Spomky-Labs/pwa-bundle/pull/279) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Add placeholder support to ProtocolHandler normalization](https://github.com/Spomky-Labs/pwa-bundle/pull/278) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Update dependency symfonycasts/tailwind-bundle to ^0.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/73) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Add locale parameter support in URL generation](https://github.com/Spomky-Labs/pwa-bundle/pull/277) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.0](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.0), today) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.0](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.0), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.4](https://github.com/web-token/jwt-framework/releases/tag/4.0.4), 1 week ago) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.2.4](https://github.com/symfony/security-http/releases/tag/v7.2.4), 3 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.2.4](https://github.com/symfony/framework-bundle/releases/tag/v7.2.4), 3 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
