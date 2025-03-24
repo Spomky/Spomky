@@ -48,7 +48,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [Update PublicKeyCredentialSource.orm.xml](https://github.com/web-auth/webauthn-framework/pull/709) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Add user provider configuration for Webauthn authentication](https://github.com/web-auth/webauthn-framework/pull/708) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Update dependency phpstan/phpstan to v2.1.10](https://github.com/Spomky-Labs/phpwa-demo/pull/75) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency phpstan/phpstan to v2.1.11](https://github.com/Spomky-Labs/phpwa-demo/pull/75) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Add Wake Lock Controller for managing screen wake locks.](https://github.com/Spomky-Labs/pwa-bundle/pull/285) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Refactor shortcuts normalization to handle icon expansion](https://github.com/Spomky-Labs/pwa-bundle/pull/284) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Refactor and enhance media capture functionality](https://github.com/Spomky-Labs/pwa-bundle/pull/283) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
