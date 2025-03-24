@@ -46,6 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update PublicKeyCredentialSource.orm.xml](https://github.com/web-auth/webauthn-framework/pull/709) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Add user provider configuration for Webauthn authentication](https://github.com/web-auth/webauthn-framework/pull/708) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Update dependency phpstan/phpstan to v2.1.10](https://github.com/Spomky-Labs/phpwa-demo/pull/75) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Add Wake Lock Controller for managing screen wake locks.](https://github.com/Spomky-Labs/pwa-bundle/pull/285) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -55,7 +56,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update URLs and improve service worker handling](https://github.com/Spomky-Labs/pwa-bundle/pull/280) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Add file-handling controller for PWA file support](https://github.com/Spomky-Labs/pwa-bundle/pull/279) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Add placeholder support to ProtocolHandler normalization](https://github.com/Spomky-Labs/pwa-bundle/pull/278) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Update dependency symfonycasts/tailwind-bundle to ^0.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/73) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
