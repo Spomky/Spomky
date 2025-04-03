@@ -41,16 +41,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 months ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 months ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 months ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency symfony/http-foundation to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/84) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/form to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/83) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/dependency-injection to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/82) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/console to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/81) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/asset-mapper to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/80) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Update dependency symfony/http-foundation to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/84) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/form to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/83) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/dependency-injection to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/82) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/console to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/81) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/asset-mapper to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/80) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Update dependency shipmonk/dead-code-detector to v0.10.2](https://github.com/Spomky-Labs/phpwa-demo/pull/77) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency phpstan/phpstan-phpunit to v2.0.6](https://github.com/Spomky-Labs/phpwa-demo/pull/76) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update PublicKeyCredentialSource.orm.xml](https://github.com/web-auth/webauthn-framework/pull/709) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -59,13 +59,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.2.5](https://github.com/symfony/http-foundation/releases/tag/v7.2.5), 5 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 5 days ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.2.5](https://github.com/symfony/http-foundation/releases/tag/v7.2.5), 6 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 6 days ago) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.2), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.4](https://github.com/web-token/jwt-framework/releases/tag/4.0.4), 3 weeks ago) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.2.4](https://github.com/symfony/security-http/releases/tag/v7.2.4), 1 month ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.2.3](https://github.com/symfony/security-bundle/releases/tag/v7.2.3), 2 months ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.2), 2 months ago) - Public Key Infrastructure
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.2), 3 months ago) - Public Key Infrastructure
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.5), 3 months ago) - PHP library for generating a full featured PWA manifest
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v3.0.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v3.0.0), 4 months ago) - Detect banned code through PHPStan
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) ([1.0.0](https://github.com/Spomky-Labs/beaver/releases/tag/1.0.0), 6 months ago) - My commands for Castor CLI
