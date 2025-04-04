@@ -46,11 +46,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency symfony/http-foundation to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/84) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/form to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/83) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/dependency-injection to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/82) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/console to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/81) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/asset-mapper to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/80) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/http-foundation to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/84) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency symfony/form to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/83) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency symfony/dependency-injection to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/82) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency symfony/console to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/81) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency symfony/asset-mapper to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/80) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency shipmonk/dead-code-detector to v0.10.2](https://github.com/Spomky-Labs/phpwa-demo/pull/77) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency phpstan/phpstan-phpunit to v2.0.6](https://github.com/Spomky-Labs/phpwa-demo/pull/76) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update PublicKeyCredentialSource.orm.xml](https://github.com/web-auth/webauthn-framework/pull/709) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -59,8 +59,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.2.5](https://github.com/symfony/http-foundation/releases/tag/v7.2.5), 6 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 6 days ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.2.5](https://github.com/symfony/http-foundation/releases/tag/v7.2.5), 1 week ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 1 week ago) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.2), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.4](https://github.com/web-token/jwt-framework/releases/tag/4.0.4), 3 weeks ago) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.2.4](https://github.com/symfony/security-http/releases/tag/v7.2.4), 1 month ago) - Symfony Security Component - HTTP Integration
