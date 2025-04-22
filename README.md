@@ -5,6 +5,9 @@
 My name is **Florent Morselli** (*flɔʁɑ̃ mɔʁseli*). I am a French web developer and project manager passionate about PHP, ReactJS and Free, Libre & Open-Source Software.
 As far as possible, I contribute to projects or publish my own work.
 
+> 🧡 Since early 2025, I am proud to be a ![Symfony Core Team](https://img.shields.io/badge/Symfony-Core%20Team-orange?style=flat-square&logo=symfony).
+> This allows me to help shape the future of the framework I use and love daily.
+
 The projects I am working on are mainly related to security over web applications. In particular, you will find useful libraries of Symfony bundles for
 * One-Time Passwords (TOTP/HOTP) => see https://github.com/Spomky-Labs/otphp,
 * Json Web Tokens (JWT, including signed and encrypted ones) => see https://github.com/web-token,
@@ -20,6 +23,7 @@ In addition, I had the opportunity to share my knowledge during the following ev
 * March 2023, I gave two 1-day workshops during the [Symfony Live Paris 2023](https://live.symfony.com/2023-paris/workshop/maximiser-la-securite-de-vos-applications-avec-le-bundle-security).
 * December 2023, I gave a 1-day workshop during the [Symfony Con Brussels 2023](https://live.symfony.com/2023-brussels-con/workshop/road-to-safer-applications).
 * March 2024, I presented my feedback on [the Progressive Web Apps](https://live.symfony.com/2024-paris/schedule/de-web-app-a-progressive-web-app) and [gave a 1-day workshop](https://live.symfony.com/2024-paris/workshop#securite-amelioree-et-webauthn-avec-symfony-2) during the Symfony Live 2024.
+* March 2025, [I gave a 1-day workshop](https://live.symfony.com/2025-paris/) during the Symfony Live 2025
 
 [![APIP Con 2022](https://user-images.githubusercontent.com/1091072/191684778-b9e26104-038d-45c2-a1b3-287233d15ecc.jpg)](https://api-platform.com/con/2022/conferences/webauthn-se-debarrasser-des-mots-de-passe-definitivement/)
 
