@@ -37,7 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
@@ -50,14 +50,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor and enhance PWA asset compilation and cleanup](https://github.com/Spomky-Labs/pwa-bundle/pull/290) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Refactor and enhance PWA asset compilation and cleanup](https://github.com/Spomky-Labs/pwa-bundle/pull/290) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Update dependency symfony/http-kernel to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/85) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency symfony/http-foundation to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/84) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 weeks ago)
 - [Update dependency symfony/form to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/83) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 weeks ago)
 - [Update dependency symfony/dependency-injection to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/82) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 weeks ago)
 - [Update dependency symfony/console to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/81) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 weeks ago)
 - [Update dependency symfony/asset-mapper to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/80) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 weeks ago)
-- [Update dependency shipmonk/dead-code-detector to v0.10.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/77) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 weeks ago)
+- [Update dependency shipmonk/dead-code-detector to v0.10.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/77) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 month ago)
 - [Update dependency phpstan/phpstan-phpunit to v2.0.6](https://github.com/Spomky-Labs/phpwa-demo/pull/76) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 month ago)
 - [Update PublicKeyCredentialSource.orm.xml](https://github.com/web-auth/webauthn-framework/pull/709) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 
