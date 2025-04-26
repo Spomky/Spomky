@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (4 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (5 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 month ago)
@@ -50,8 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Merge up 1.2.3 to 1.3.x](https://github.com/Spomky-Labs/pki-framework/pull/64) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
-- [Refactor and enhance PWA asset compilation and cleanup](https://github.com/Spomky-Labs/pwa-bundle/pull/290) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [Merge up 1.2.3 to 1.3.x](https://github.com/Spomky-Labs/pki-framework/pull/64) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
+- [Refactor and enhance PWA asset compilation and cleanup](https://github.com/Spomky-Labs/pwa-bundle/pull/290) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Update dependency symfony/http-kernel to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/85) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 weeks ago)
 - [Update dependency symfony/http-foundation to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/84) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 weeks ago)
 - [Update dependency symfony/form to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/83) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 weeks ago)
@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.3), today) - Public Key Infrastructure
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.3), 1 day ago) - Public Key Infrastructure
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 4 weeks ago) - The Symfony PHP framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.2), 1 month ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.4](https://github.com/web-token/jwt-framework/releases/tag/4.0.4), 1 month ago) - JWT Framework
