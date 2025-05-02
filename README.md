@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Mailer][Mime] Update SMIME repository node description in configuration](https://github.com/symfony/symfony/pull/60335) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Add deprecation notice for enabledCache method](https://github.com/web-token/jwt-framework/pull/618) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
 - [Refactor constructors and update dependencies.](https://github.com/web-token/jwt-framework/pull/617) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
 - [Merge up 1.2.3 to 1.3.x](https://github.com/Spomky-Labs/pki-framework/pull/64) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/form to v7.2.6](https://github.com/Spomky-Labs/phpwa-demo/pull/83) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 month ago)
 - [Update dependency symfony/dependency-injection to v7.2.6](https://github.com/Spomky-Labs/phpwa-demo/pull/82) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 month ago)
 - [Update dependency symfony/console to v7.2.6](https://github.com/Spomky-Labs/phpwa-demo/pull/81) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 month ago)
-- [Update dependency symfony/asset-mapper to v7.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/80) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
