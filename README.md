@@ -63,10 +63,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0-BETA2](https://github.com/symfony/security-http/releases/tag/v7.3.0-BETA2), today) - Symfony Security Component - HTTP Integration
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v7.3.0-BETA2), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), today) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.8](https://github.com/web-token/jwt-framework/releases/tag/3.4.8), 3 days ago) - JWT Framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0-BETA1](https://github.com/symfony/security-http/releases/tag/v7.3.0-BETA1), 1 week ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0-BETA1](https://github.com/symfony/security-bundle/releases/tag/v7.3.0-BETA1), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.3), 2 weeks ago) - Public Key Infrastructure
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.2), 1 month ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.5), 4 months ago) - PHP library for generating a full featured PWA manifest
