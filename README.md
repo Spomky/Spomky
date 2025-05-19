@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency symfony/ux-map to v2.25.0](https://github.com/Spomky-Labs/phpwa-demo/pull/94) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency symfony/ux-leaflet-map to v2.25.0](https://github.com/Spomky-Labs/phpwa-demo/pull/93) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/ux-icons to v2.25.0](https://github.com/Spomky-Labs/phpwa-demo/pull/92) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/stimulus-bundle to v2.25.0](https://github.com/Spomky-Labs/phpwa-demo/pull/91) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfonycasts/tailwind-bundle to ^0.10](https://github.com/Spomky-Labs/phpwa-demo/pull/90) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add contact controller and integrate with package.json](https://github.com/Spomky-Labs/pwa-bundle/pull/295) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Simplify GitHub Actions workflows for better maintainability](https://github.com/Spomky-Labs/pwa-bundle/pull/294) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [[Mailer][Mime] Update SMIME repository node description in configuration](https://github.com/symfony/symfony/pull/60335) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [Add deprecation notice for enabledCache method](https://github.com/web-token/jwt-framework/pull/618) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 weeks ago)
-- [Refactor constructors and update dependencies.](https://github.com/web-token/jwt-framework/pull/617) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
