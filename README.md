@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
@@ -50,10 +50,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency symfonycasts/tailwind-bundle to ^0.10](https://github.com/Spomky-Labs/phpwa-demo/pull/90) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency struggle-for-php/sfp-phpstan-psr-log to ^0.24.0](https://github.com/Spomky-Labs/phpwa-demo/pull/89) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency shipmonk/dead-code-detector to ^0.12](https://github.com/Spomky-Labs/phpwa-demo/pull/88) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Add contact controller and integrate with package.json](https://github.com/Spomky-Labs/pwa-bundle/pull/295) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Update dependency symfonycasts/tailwind-bundle to ^0.10](https://github.com/Spomky-Labs/phpwa-demo/pull/90) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency struggle-for-php/sfp-phpstan-psr-log to ^0.24.0](https://github.com/Spomky-Labs/phpwa-demo/pull/89) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency shipmonk/dead-code-detector to ^0.12](https://github.com/Spomky-Labs/phpwa-demo/pull/88) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Add contact controller and integrate with package.json](https://github.com/Spomky-Labs/pwa-bundle/pull/295) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Simplify GitHub Actions workflows for better maintainability](https://github.com/Spomky-Labs/pwa-bundle/pull/294) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [[Mailer][Mime] Update SMIME repository node description in configuration](https://github.com/symfony/symfony/pull/60335) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [Add deprecation notice for enabledCache method](https://github.com/web-token/jwt-framework/pull/618) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 weeks ago)
@@ -71,7 +71,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.2), 1 month ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.5), 5 months ago) - PHP library for generating a full featured PWA manifest
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v3.0.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v3.0.0), 6 months ago) - Detect banned code through PHPStan
-- [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) ([1.0.0](https://github.com/Spomky-Labs/beaver/releases/tag/1.0.0), 7 months ago) - My commands for Castor CLI
+- [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) ([1.0.0](https://github.com/Spomky-Labs/beaver/releases/tag/1.0.0), 8 months ago) - My commands for Castor CLI
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.0](https://github.com/web-auth/cose-lib/releases/tag/4.4.0), 10 months ago) - Cose Key and Algorithms support
 
 #### ❤️ These awesome people sponsor me (thank you!)
