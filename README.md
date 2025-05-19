@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency symfony/ux-icons to v2.25.0](https://github.com/Spomky-Labs/phpwa-demo/pull/92) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency symfony/stimulus-bundle to v2.25.0](https://github.com/Spomky-Labs/phpwa-demo/pull/91) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfonycasts/tailwind-bundle to ^0.10](https://github.com/Spomky-Labs/phpwa-demo/pull/90) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency struggle-for-php/sfp-phpstan-psr-log to ^0.24.0](https://github.com/Spomky-Labs/phpwa-demo/pull/89) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency shipmonk/dead-code-detector to ^0.12](https://github.com/Spomky-Labs/phpwa-demo/pull/88) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Mailer][Mime] Update SMIME repository node description in configuration](https://github.com/symfony/symfony/pull/60335) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [Add deprecation notice for enabledCache method](https://github.com/web-token/jwt-framework/pull/618) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 weeks ago)
 - [Refactor constructors and update dependencies.](https://github.com/web-token/jwt-framework/pull/617) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 weeks ago)
-- [Merge up 1.2.3 to 1.3.x](https://github.com/Spomky-Labs/pki-framework/pull/64) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 weeks ago)
-- [Refactor and enhance PWA asset compilation and cleanup](https://github.com/Spomky-Labs/pwa-bundle/pull/290) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
