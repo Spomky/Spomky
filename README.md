@@ -50,7 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency symfony/ux-twig-component to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/96) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency symfony/ux-twig-component to v2.25.1 [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/97) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency symfony/ux-twig-component to v2.25.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/96) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/ux-turbo to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/95) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/ux-map to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/94) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/ux-leaflet-map to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/93) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfonycasts/tailwind-bundle to ^0.10](https://github.com/Spomky-Labs/phpwa-demo/pull/90) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency struggle-for-php/sfp-phpstan-psr-log to ^0.24.0](https://github.com/Spomky-Labs/phpwa-demo/pull/89) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency shipmonk/dead-code-detector to ^0.12](https://github.com/Spomky-Labs/phpwa-demo/pull/88) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Add contact controller and integrate with package.json](https://github.com/Spomky-Labs/pwa-bundle/pull/295) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
