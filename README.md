@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Scheduler] Add runtime schedule modification feature to docs](https://github.com/symfony/symfony-docs/pull/20982) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - [Update dependency symfony/ux-twig-component to v2.25.1 [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/97) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency symfony/ux-twig-component to v2.25.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/96) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency symfony/ux-turbo to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/95) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency symfony/ux-map to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/94) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency symfony/ux-leaflet-map to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/93) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/ux-turbo to v2.25.2](https://github.com/Spomky-Labs/phpwa-demo/pull/95) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/ux-map to v2.25.2](https://github.com/Spomky-Labs/phpwa-demo/pull/94) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/ux-leaflet-map to v2.25.2](https://github.com/Spomky-Labs/phpwa-demo/pull/93) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency symfony/ux-icons to v2.25.0](https://github.com/Spomky-Labs/phpwa-demo/pull/92) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency symfony/stimulus-bundle to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/91) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/stimulus-bundle to v2.25.2](https://github.com/Spomky-Labs/phpwa-demo/pull/91) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency symfonycasts/tailwind-bundle to ^0.10](https://github.com/Spomky-Labs/phpwa-demo/pull/90) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
 - [Update dependency struggle-for-php/sfp-phpstan-psr-log to ^0.24.0](https://github.com/Spomky-Labs/phpwa-demo/pull/89) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
-- [Update dependency shipmonk/dead-code-detector to ^0.12](https://github.com/Spomky-Labs/phpwa-demo/pull/88) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
