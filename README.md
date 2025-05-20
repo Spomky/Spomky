@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency symfony/ux-twig-component to v2.25.1 [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/97) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfony/ux-twig-component to v2.25.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/96) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfony/ux-turbo to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/95) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfony/ux-map to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/94) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfony/ux-leaflet-map to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/93) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfony/ux-icons to v2.25.0](https://github.com/Spomky-Labs/phpwa-demo/pull/92) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfony/stimulus-bundle to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/91) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency symfonycasts/tailwind-bundle to ^0.10](https://github.com/Spomky-Labs/phpwa-demo/pull/90) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency struggle-for-php/sfp-phpstan-psr-log to ^0.24.0](https://github.com/Spomky-Labs/phpwa-demo/pull/89) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency shipmonk/dead-code-detector to ^0.12](https://github.com/Spomky-Labs/phpwa-demo/pull/88) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/ux-twig-component to v2.25.1 [SECURITY]](https://github.com/Spomky-Labs/phpwa-demo/pull/97) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/ux-twig-component to v2.25.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/96) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/ux-turbo to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/95) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/ux-map to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/94) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/ux-leaflet-map to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/93) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/ux-icons to v2.25.0](https://github.com/Spomky-Labs/phpwa-demo/pull/92) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfony/stimulus-bundle to v2.25.1](https://github.com/Spomky-Labs/phpwa-demo/pull/91) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency symfonycasts/tailwind-bundle to ^0.10](https://github.com/Spomky-Labs/phpwa-demo/pull/90) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Update dependency struggle-for-php/sfp-phpstan-psr-log to ^0.24.0](https://github.com/Spomky-Labs/phpwa-demo/pull/89) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Update dependency shipmonk/dead-code-detector to ^0.12](https://github.com/Spomky-Labs/phpwa-demo/pull/88) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
