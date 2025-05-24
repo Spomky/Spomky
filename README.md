@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
@@ -50,22 +50,22 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor BackgroundSyncPlugin to track replay progress.](https://github.com/Spomky-Labs/pwa-bundle/pull/300) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Update dependencies in composer.json](https://github.com/Spomky-Labs/pwa-bundle/pull/299) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [ Refactor and enhance BackgroundSync plugin handling](https://github.com/Spomky-Labs/pwa-bundle/pull/298) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Refactor form submission logic for improved validation](https://github.com/Spomky-Labs/pwa-bundle/pull/296) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Update docker/bake-action action to v6](https://github.com/Spomky-Labs/phpwa-demo/pull/98) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
-- [[Scheduler] Add runtime schedule modification feature to docs](https://github.com/symfony/symfony-docs/pull/20982) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- [Update dependency symfony/ux-twig-component to v2.25.1 [SECURITY] - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/97) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [Update dependency symfony/ux-twig-component to v2.25.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/96) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [Update dependency symfony/ux-turbo to v2.25.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/95) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [Update dependency symfony/ux-map to v2.25.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/94) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Refactor BackgroundSyncPlugin to track replay progress.](https://github.com/Spomky-Labs/pwa-bundle/pull/300) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Update dependencies in composer.json](https://github.com/Spomky-Labs/pwa-bundle/pull/299) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [ Refactor and enhance BackgroundSync plugin handling](https://github.com/Spomky-Labs/pwa-bundle/pull/298) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Refactor form submission logic for improved validation](https://github.com/Spomky-Labs/pwa-bundle/pull/296) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Update docker/bake-action action to v6](https://github.com/Spomky-Labs/phpwa-demo/pull/98) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [[Scheduler] Add runtime schedule modification feature to docs](https://github.com/symfony/symfony-docs/pull/20982) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- [Update dependency symfony/ux-twig-component to v2.25.1 [SECURITY] - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/97) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Update dependency symfony/ux-twig-component to v2.25.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/96) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Update dependency symfony/ux-turbo to v2.25.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/95) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Update dependency symfony/ux-map to v2.25.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/94) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0-BETA2](https://github.com/symfony/security-http/releases/tag/v7.3.0-BETA2), 1 week ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v7.3.0-BETA2), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), 1 week ago) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0-BETA2](https://github.com/symfony/security-http/releases/tag/v7.3.0-BETA2), 2 weeks ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v7.3.0-BETA2), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), 2 weeks ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.8](https://github.com/web-token/jwt-framework/releases/tag/3.4.8), 2 weeks ago) - JWT Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.3), 4 weeks ago) - Public Key Infrastructure
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.2), 2 months ago) - FIDO-U2F / FIDO2 / Webauthn Framework
