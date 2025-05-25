@@ -37,12 +37,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (4 weeks ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor install event handling with prioritized tasks](https://github.com/Spomky-Labs/pwa-bundle/pull/302) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Refactor and simplify Workbox caching and background sync.](https://github.com/Spomky-Labs/pwa-bundle/pull/301) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Refactor BackgroundSyncPlugin to track replay progress.](https://github.com/Spomky-Labs/pwa-bundle/pull/300) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Update dependencies in composer.json](https://github.com/Spomky-Labs/pwa-bundle/pull/299) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [ Refactor and enhance BackgroundSync plugin handling](https://github.com/Spomky-Labs/pwa-bundle/pull/298) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Refactor form submission logic for improved validation](https://github.com/Spomky-Labs/pwa-bundle/pull/296) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Update docker/bake-action action to v6](https://github.com/Spomky-Labs/phpwa-demo/pull/98) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [[Scheduler] Add runtime schedule modification feature to docs](https://github.com/symfony/symfony-docs/pull/20982) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
-- [Update dependency symfony/ux-twig-component to v2.25.1 [SECURITY] - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/97) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/ux-twig-component to v2.25.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/96) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Refactor install event handling with prioritized tasks](https://github.com/Spomky-Labs/pwa-bundle/pull/302) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Refactor and simplify Workbox caching and background sync.](https://github.com/Spomky-Labs/pwa-bundle/pull/301) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Refactor BackgroundSyncPlugin to track replay progress.](https://github.com/Spomky-Labs/pwa-bundle/pull/300) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Update dependencies in composer.json](https://github.com/Spomky-Labs/pwa-bundle/pull/299) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [ Refactor and enhance BackgroundSync plugin handling](https://github.com/Spomky-Labs/pwa-bundle/pull/298) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Refactor form submission logic for improved validation](https://github.com/Spomky-Labs/pwa-bundle/pull/296) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Update docker/bake-action action to v6](https://github.com/Spomky-Labs/phpwa-demo/pull/98) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [[Scheduler] Add runtime schedule modification feature to docs](https://github.com/symfony/symfony-docs/pull/20982) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- [Update dependency symfony/ux-twig-component to v2.25.1 [SECURITY] - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/97) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/ux-twig-component to v2.25.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/96) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -67,7 +67,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v7.3.0-BETA2), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), 2 weeks ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.8](https://github.com/web-token/jwt-framework/releases/tag/3.4.8), 2 weeks ago) - JWT Framework
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.3), 4 weeks ago) - Public Key Infrastructure
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.3), 1 month ago) - Public Key Infrastructure
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.2), 2 months ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.2.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.2.5), 5 months ago) - PHP library for generating a full featured PWA manifest
 - [ekino/phpstan-banned-code](https://github.com/ekino/phpstan-banned-code) ([v3.0.0](https://github.com/ekino/phpstan-banned-code/releases/tag/v3.0.0), 6 months ago) - Detect banned code through PHPStan
