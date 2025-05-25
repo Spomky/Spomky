@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency symfony/console to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/102) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency symfony/browser-kit to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/101) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/asset-mapper to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/100) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/asset to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/99) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Normalize event naming and refine controller behavior](https://github.com/Spomky-Labs/pwa-bundle/pull/303) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
@@ -58,14 +60,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Refactor and simplify Workbox caching and background sync.](https://github.com/Spomky-Labs/pwa-bundle/pull/301) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Refactor BackgroundSyncPlugin to track replay progress.](https://github.com/Spomky-Labs/pwa-bundle/pull/300) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Update dependencies in composer.json](https://github.com/Spomky-Labs/pwa-bundle/pull/299) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [ Refactor and enhance BackgroundSync plugin handling](https://github.com/Spomky-Labs/pwa-bundle/pull/298) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Refactor form submission logic for improved validation](https://github.com/Spomky-Labs/pwa-bundle/pull/296) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0-BETA2](https://github.com/symfony/security-http/releases/tag/v7.3.0-BETA2), 2 weeks ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v7.3.0-BETA2), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), 2 weeks ago) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0-RC1](https://github.com/symfony/security-http/releases/tag/v7.3.0-RC1), today) - Symfony Security Component - HTTP Integration
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0-RC1](https://github.com/symfony/security-bundle/releases/tag/v7.3.0-RC1), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1), today) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.8](https://github.com/web-token/jwt-framework/releases/tag/3.4.8), 2 weeks ago) - JWT Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.3), 1 month ago) - Public Key Infrastructure
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.2), 2 months ago) - FIDO-U2F / FIDO2 / Webauthn Framework
