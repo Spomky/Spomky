@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Normalize event naming and refine controller behavior](https://github.com/Spomky-Labs/pwa-bundle/pull/303) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [[HtmlSanitizer] Add support for securing target=&#34;_blank&#34; links](https://github.com/symfony/symfony/pull/60539) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Refactor install event handling with prioritized tasks](https://github.com/Spomky-Labs/pwa-bundle/pull/302) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Refactor and simplify Workbox caching and background sync.](https://github.com/Spomky-Labs/pwa-bundle/pull/301) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Refactor form submission logic for improved validation](https://github.com/Spomky-Labs/pwa-bundle/pull/296) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [Update docker/bake-action action to v6](https://github.com/Spomky-Labs/phpwa-demo/pull/98) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 - [[Scheduler] Add runtime schedule modification feature to docs](https://github.com/symfony/symfony-docs/pull/20982) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- [Update dependency symfony/ux-twig-component to v2.25.1 [SECURITY] - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/97) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
