@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency symfony/debug-bundle to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/104) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency symfony/css-selector to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/103) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/console to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/102) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/browser-kit to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/101) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/asset-mapper to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/100) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[HtmlSanitizer] Add support for securing target=&#34;_blank&#34; links](https://github.com/symfony/symfony/pull/60539) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Refactor install event handling with prioritized tasks](https://github.com/Spomky-Labs/pwa-bundle/pull/302) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Refactor and simplify Workbox caching and background sync.](https://github.com/Spomky-Labs/pwa-bundle/pull/301) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Refactor BackgroundSyncPlugin to track replay progress.](https://github.com/Spomky-Labs/pwa-bundle/pull/300) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Update dependencies in composer.json](https://github.com/Spomky-Labs/pwa-bundle/pull/299) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
