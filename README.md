@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency symfony/expression-language to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/107) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/dotenv to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/106) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency symfony/dependency-injection to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/105) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency symfony/debug-bundle to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/104) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/asset-mapper to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/100) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency symfony/asset to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/99) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Normalize event naming and refine controller behavior](https://github.com/Spomky-Labs/pwa-bundle/pull/303) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [[HtmlSanitizer] Add support for securing target=&#34;_blank&#34; links](https://github.com/symfony/symfony/pull/60539) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
