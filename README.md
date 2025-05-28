@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for dark mode favicons and related configs](https://github.com/Spomky-Labs/pwa-bundle/pull/308) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Features/minor modifications](https://github.com/Spomky-Labs/pwa-bundle/pull/307) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add configurable cache name for offline fallback](https://github.com/Spomky-Labs/pwa-bundle/pull/305) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Update dependency symfony/expression-language to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/107) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/css-selector to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/103) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
 - [Update dependency symfony/console to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/102) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
 - [Update dependency symfony/browser-kit to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/101) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
-- [Update dependency symfony/asset-mapper to v7.3.0-RC1](https://github.com/Spomky-Labs/phpwa-demo/pull/100) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
