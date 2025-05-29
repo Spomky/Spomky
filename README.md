@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Selective cache purge](https://github.com/Spomky-Labs/pwa-bundle/pull/311) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add message listener to support skipWaiting in service worker](https://github.com/Spomky-Labs/pwa-bundle/pull/310) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add support for dark mode favicons and related configs](https://github.com/Spomky-Labs/pwa-bundle/pull/308) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Features/minor modifications](https://github.com/Spomky-Labs/pwa-bundle/pull/307) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/dependency-injection to v7.3.0](https://github.com/Spomky-Labs/phpwa-demo/pull/105) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 - [Update dependency symfony/debug-bundle to v7.3.0](https://github.com/Spomky-Labs/phpwa-demo/pull/104) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 - [Update dependency symfony/css-selector to v7.3.0](https://github.com/Spomky-Labs/phpwa-demo/pull/103) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [Update dependency symfony/console to v7.3.0](https://github.com/Spomky-Labs/phpwa-demo/pull/102) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
