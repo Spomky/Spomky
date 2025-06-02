@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 weeks ago)
@@ -50,27 +50,27 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Add Barcode Detection API](https://github.com/Spomky-Labs/pwa-bundle/pull/315) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Add Web-Push feature](https://github.com/Spomky-Labs/pwa-bundle/pull/314) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Refactor FaviconsCompiler to dynamically calculate image scale for startup images](https://github.com/Spomky-Labs/pwa-bundle/pull/313) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Selective cache purge](https://github.com/Spomky-Labs/pwa-bundle/pull/311) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Add message listener to support skipWaiting in service worker](https://github.com/Spomky-Labs/pwa-bundle/pull/310) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Add support for dark mode favicons and related configs](https://github.com/Spomky-Labs/pwa-bundle/pull/308) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Features/minor modifications](https://github.com/Spomky-Labs/pwa-bundle/pull/307) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Add configurable cache name for offline fallback](https://github.com/Spomky-Labs/pwa-bundle/pull/305) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Update dependency symfony/expression-language to v7.3.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/107) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Add Barcode Detection API](https://github.com/Spomky-Labs/pwa-bundle/pull/315) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Add Web-Push feature](https://github.com/Spomky-Labs/pwa-bundle/pull/314) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Refactor FaviconsCompiler to dynamically calculate image scale for startup images](https://github.com/Spomky-Labs/pwa-bundle/pull/313) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Selective cache purge](https://github.com/Spomky-Labs/pwa-bundle/pull/311) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
+- [Add message listener to support skipWaiting in service worker](https://github.com/Spomky-Labs/pwa-bundle/pull/310) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
+- [Add support for dark mode favicons and related configs](https://github.com/Spomky-Labs/pwa-bundle/pull/308) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [Features/minor modifications](https://github.com/Spomky-Labs/pwa-bundle/pull/307) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [Add configurable cache name for offline fallback](https://github.com/Spomky-Labs/pwa-bundle/pull/305) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Update dependency symfony/expression-language to v7.3.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/107) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/dotenv to v7.3.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/106) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0](https://github.com/symfony/security-http/releases/tag/v7.3.0), 3 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.0](https://github.com/symfony/security-core/releases/tag/v7.3.0), 3 days ago) - Symfony Security Component - Core Library
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.3.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.3.0), 3 days ago) - Symfony Amazon Mailer Bridge
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.0](https://github.com/symfony/mailer/releases/tag/v7.3.0), 3 days ago) - Helps sending emails
-- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.0](https://github.com/symfony/ldap/releases/tag/v7.3.0), 3 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0](https://github.com/symfony/security-bundle/releases/tag/v7.3.0), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 3 days ago) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0](https://github.com/symfony/security-http/releases/tag/v7.3.0), 4 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.0](https://github.com/symfony/security-core/releases/tag/v7.3.0), 4 days ago) - Symfony Security Component - Core Library
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.3.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.3.0), 4 days ago) - Symfony Amazon Mailer Bridge
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.0](https://github.com/symfony/mailer/releases/tag/v7.3.0), 4 days ago) - Helps sending emails
+- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.0](https://github.com/symfony/ldap/releases/tag/v7.3.0), 4 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0](https://github.com/symfony/security-bundle/releases/tag/v7.3.0), 4 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 4 days ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.8](https://github.com/web-token/jwt-framework/releases/tag/3.4.8), 3 weeks ago) - JWT Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.3), 1 month ago) - Public Key Infrastructure
 
