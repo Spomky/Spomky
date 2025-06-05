@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency symfony/ux-turbo to v2.26.0](https://github.com/Spomky-Labs/phpwa-demo/pull/113) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency symfony/ux-map to v2.26.0](https://github.com/Spomky-Labs/phpwa-demo/pull/112) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/ux-live-component to v2.26.0](https://github.com/Spomky-Labs/phpwa-demo/pull/111) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/ux-leaflet-map to v2.26.0](https://github.com/Spomky-Labs/phpwa-demo/pull/110) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/ux-icons to v2.26.0](https://github.com/Spomky-Labs/phpwa-demo/pull/109) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add Web-Push feature](https://github.com/Spomky-Labs/pwa-bundle/pull/314) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Refactor FaviconsCompiler to dynamically calculate image scale for startup images](https://github.com/Spomky-Labs/pwa-bundle/pull/313) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Selective cache purge](https://github.com/Spomky-Labs/pwa-bundle/pull/311) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Add message listener to support skipWaiting in service worker](https://github.com/Spomky-Labs/pwa-bundle/pull/310) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Add support for dark mode favicons and related configs](https://github.com/Spomky-Labs/pwa-bundle/pull/308) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
