@@ -51,14 +51,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 🔨 My recent Pull Requests
 
 - [Update dependency shipmonk/dead-code-detector to v0.12.3](https://github.com/Spomky-Labs/phpwa-demo/pull/116) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency phpunit/phpunit to v12.2.1](https://github.com/Spomky-Labs/phpwa-demo/pull/115) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/ux-twig-component to v2.26.0](https://github.com/Spomky-Labs/phpwa-demo/pull/114) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/ux-turbo to v2.26.1](https://github.com/Spomky-Labs/phpwa-demo/pull/113) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/ux-map to v2.26.1](https://github.com/Spomky-Labs/phpwa-demo/pull/112) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/ux-live-component to v2.26.1](https://github.com/Spomky-Labs/phpwa-demo/pull/111) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/ux-leaflet-map to v2.26.1](https://github.com/Spomky-Labs/phpwa-demo/pull/110) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/ux-icons to v2.26.0](https://github.com/Spomky-Labs/phpwa-demo/pull/109) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/stimulus-bundle to v2.26.1](https://github.com/Spomky-Labs/phpwa-demo/pull/108) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency phpunit/phpunit to v12.2.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/115) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Update dependency symfony/ux-twig-component to v2.26.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/114) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/ux-turbo to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/113) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/ux-map to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/112) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/ux-live-component to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/111) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/ux-leaflet-map to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/110) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/ux-icons to v2.26.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/109) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/stimulus-bundle to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/108) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Add Barcode Detection API](https://github.com/Spomky-Labs/pwa-bundle/pull/315) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
