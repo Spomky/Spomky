@@ -37,20 +37,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 months ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (1 month ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency phpunit/phpunit to v12.2.2](https://github.com/Spomky-Labs/phpwa-demo/pull/117) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Refactor test annotations and improve static analysis handling](https://github.com/Spomky-Labs/pki-framework/pull/67) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [Update dependency phpunit/phpunit to v12.2.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/117) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update supported versions table in RELEASES.md to reflect current support status and remove extra lines in PreloadUrl.php](https://github.com/Spomky-Labs/pwa-bundle/pull/316) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Update dependency shipmonk/dead-code-detector to v0.12.3](https://github.com/Spomky-Labs/phpwa-demo/pull/116) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
 - [Update dependency phpunit/phpunit to v12.2.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/115) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
@@ -59,10 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/ux-map to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/112) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-live-component to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/111) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-leaflet-map to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/110) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update dependency symfony/ux-icons to v2.26.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/109) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.3.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.3.0), today) - Public Key Infrastructure
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0](https://github.com/symfony/security-http/releases/tag/v7.3.0), 2 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.0](https://github.com/symfony/security-core/releases/tag/v7.3.0), 2 weeks ago) - Symfony Security Component - Core Library
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.3.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.3.0), 2 weeks ago) - Symfony Amazon Mailer Bridge
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0), 2 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 2 weeks ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.8](https://github.com/web-token/jwt-framework/releases/tag/3.4.8), 1 month ago) - JWT Framework
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.2.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.2.3), 1 month ago) - Public Key Infrastructure
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
