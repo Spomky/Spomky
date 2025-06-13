@@ -37,7 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 month ago)
@@ -46,13 +46,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 months ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 months ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update supported versions table in RELEASES.md to reflect current support status and remove extra lines in PreloadUrl.php](https://github.com/Spomky-Labs/pwa-bundle/pull/316) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Update dependency shipmonk/dead-code-detector to v0.12.3](https://github.com/Spomky-Labs/phpwa-demo/pull/116) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency phpunit/phpunit to v12.2.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/115) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update supported versions table in RELEASES.md to reflect current support status and remove extra lines in PreloadUrl.php](https://github.com/Spomky-Labs/pwa-bundle/pull/316) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Update dependency shipmonk/dead-code-detector to v0.12.3](https://github.com/Spomky-Labs/phpwa-demo/pull/116) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Update dependency phpunit/phpunit to v12.2.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/115) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-twig-component to v2.26.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/114) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-turbo to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/113) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-map to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/112) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
