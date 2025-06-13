@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependencies and GitHub Actions configuration](https://github.com/web-auth/webauthn-framework/pull/723) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Refactor test annotations and improve static analysis handling](https://github.com/Spomky-Labs/pki-framework/pull/67) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Update dependency phpunit/phpunit to v12.2.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/117) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update supported versions table in RELEASES.md to reflect current support status and remove extra lines in PreloadUrl.php](https://github.com/Spomky-Labs/pwa-bundle/pull/316) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/ux-turbo to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/113) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-map to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/112) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-live-component to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/111) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update dependency symfony/ux-leaflet-map to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/110) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
