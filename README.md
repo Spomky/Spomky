@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [CI CD Fix](https://github.com/Spomky-Labs/cbor-php/pull/80) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [Fix CI-CD](https://github.com/web-auth/cose-lib/pull/100) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [Update dependencies and GitHub Actions configuration](https://github.com/web-auth/webauthn-framework/pull/723) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Refactor test annotations and improve static analysis handling](https://github.com/Spomky-Labs/pki-framework/pull/67) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Update dependency phpunit/phpunit to v12.2.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/117) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
@@ -58,11 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency phpunit/phpunit to v12.2.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/115) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-twig-component to v2.26.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/114) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency symfony/ux-turbo to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/113) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update dependency symfony/ux-map to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/112) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update dependency symfony/ux-live-component to v2.26.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/111) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.1](https://github.com/web-auth/cose-lib/releases/tag/4.4.1), today) - Cose Key and Algorithms support
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.3.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.3.0), today) - Public Key Infrastructure
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0](https://github.com/symfony/security-http/releases/tag/v7.3.0), 2 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.0](https://github.com/symfony/security-core/releases/tag/v7.3.0), 2 weeks ago) - Symfony Security Component - Core Library
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0](https://github.com/symfony/security-bundle/releases/tag/v7.3.0), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0), 2 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 2 weeks ago) - The Symfony PHP framework
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.8](https://github.com/web-token/jwt-framework/releases/tag/3.4.8), 1 month ago) - JWT Framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
