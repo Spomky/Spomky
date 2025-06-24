@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (5 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (6 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
@@ -50,8 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency phpunit/phpunit to v12.2.3](https://github.com/Spomky-Labs/phpwa-demo/pull/118) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
-- [Add Workbox v7.3.0 and set it as default version.](https://github.com/Spomky-Labs/pwa-bundle/pull/318) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [Update dependency phpunit/phpunit to v12.2.3](https://github.com/Spomky-Labs/phpwa-demo/pull/118) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
+- [Add Workbox v7.3.0 and set it as default version.](https://github.com/Spomky-Labs/pwa-bundle/pull/318) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [CI CD Fix](https://github.com/Spomky-Labs/cbor-php/pull/80) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
 - [Fix CI-CD](https://github.com/web-auth/cose-lib/pull/100) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 week ago)
 - [Update dependencies and GitHub Actions configuration](https://github.com/web-auth/webauthn-framework/pull/723) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
