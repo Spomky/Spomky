@@ -51,7 +51,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 🔨 My recent Pull Requests
 
 - [Update dependency shipmonk/dead-code-detector to v0.12.4](https://github.com/Spomky-Labs/phpwa-demo/pull/119) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency phpunit/phpunit to v12.2.3](https://github.com/Spomky-Labs/phpwa-demo/pull/118) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency phpunit/phpunit to v12.2.4](https://github.com/Spomky-Labs/phpwa-demo/pull/118) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Add Workbox v7.3.0 and set it as default version.](https://github.com/Spomky-Labs/pwa-bundle/pull/318) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [CI CD Fix](https://github.com/Spomky-Labs/cbor-php/pull/80) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
 - [Fix CI-CD](https://github.com/web-auth/cose-lib/pull/100) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 week ago)
