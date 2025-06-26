@@ -50,14 +50,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency phpunit/phpunit to v12.2.3](https://github.com/Spomky-Labs/phpwa-demo/pull/118) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Update dependency phpunit/phpunit to v12.2.3](https://github.com/Spomky-Labs/phpwa-demo/pull/118) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Add Workbox v7.3.0 and set it as default version.](https://github.com/Spomky-Labs/pwa-bundle/pull/318) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [CI CD Fix](https://github.com/Spomky-Labs/cbor-php/pull/80) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
 - [Fix CI-CD](https://github.com/web-auth/cose-lib/pull/100) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 week ago)
 - [Update dependencies and GitHub Actions configuration](https://github.com/web-auth/webauthn-framework/pull/723) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Refactor test annotations and improve static analysis handling](https://github.com/Spomky-Labs/pki-framework/pull/67) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
 - [Update dependency phpunit/phpunit to v12.2.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/117) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update supported versions table in RELEASES.md to reflect current support status and remove extra lines in PreloadUrl.php](https://github.com/Spomky-Labs/pwa-bundle/pull/316) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Update supported versions table in RELEASES.md to reflect current support status and remove extra lines in PreloadUrl.php](https://github.com/Spomky-Labs/pwa-bundle/pull/316) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Update dependency shipmonk/dead-code-detector to v0.12.3](https://github.com/Spomky-Labs/phpwa-demo/pull/116) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency phpunit/phpunit to v12.2.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/115) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 
@@ -66,13 +66,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.1), 1 week ago) - CBOR Encoder/Decoder for PHP
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.1](https://github.com/web-auth/cose-lib/releases/tag/4.4.1), 1 week ago) - Cose Key and Algorithms support
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.3.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.3.0), 1 week ago) - Public Key Infrastructure
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0](https://github.com/symfony/security-http/releases/tag/v7.3.0), 3 weeks ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.0](https://github.com/symfony/security-core/releases/tag/v7.3.0), 3 weeks ago) - Symfony Security Component - Core Library
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.3.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.3.0), 3 weeks ago) - Symfony Amazon Mailer Bridge
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.0](https://github.com/symfony/mailer/releases/tag/v7.3.0), 3 weeks ago) - Helps sending emails
-- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.0](https://github.com/symfony/ldap/releases/tag/v7.3.0), 3 weeks ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0](https://github.com/symfony/security-bundle/releases/tag/v7.3.0), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0), 3 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0](https://github.com/symfony/security-http/releases/tag/v7.3.0), 4 weeks ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.0](https://github.com/symfony/security-core/releases/tag/v7.3.0), 4 weeks ago) - Symfony Security Component - Core Library
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.3.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.3.0), 4 weeks ago) - Symfony Amazon Mailer Bridge
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.0](https://github.com/symfony/mailer/releases/tag/v7.3.0), 4 weeks ago) - Helps sending emails
+- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.0](https://github.com/symfony/ldap/releases/tag/v7.3.0), 4 weeks ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.0](https://github.com/symfony/security-bundle/releases/tag/v7.3.0), 4 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0), 4 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
