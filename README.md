@@ -37,11 +37,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (today)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 day ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 weeks ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
@@ -50,22 +50,22 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency staabm/phpstan-todo-by to ^0.3.0](https://github.com/Spomky-Labs/phpwa-demo/pull/120) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency shipmonk/dead-code-detector to v0.12.4](https://github.com/Spomky-Labs/phpwa-demo/pull/119) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency phpunit/phpunit to v12.2.4](https://github.com/Spomky-Labs/phpwa-demo/pull/118) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency staabm/phpstan-todo-by to ^0.3.0](https://github.com/Spomky-Labs/phpwa-demo/pull/120) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency shipmonk/dead-code-detector to v0.12.4](https://github.com/Spomky-Labs/phpwa-demo/pull/119) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency phpunit/phpunit to v12.2.4](https://github.com/Spomky-Labs/phpwa-demo/pull/118) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Add Workbox v7.3.0 and set it as default version.](https://github.com/Spomky-Labs/pwa-bundle/pull/318) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [CI CD Fix](https://github.com/Spomky-Labs/cbor-php/pull/80) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
-- [Fix CI-CD](https://github.com/web-auth/cose-lib/pull/100) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 week ago)
-- [Update dependencies and GitHub Actions configuration](https://github.com/web-auth/webauthn-framework/pull/723) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Refactor test annotations and improve static analysis handling](https://github.com/Spomky-Labs/pki-framework/pull/67) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
-- [Update dependency phpunit/phpunit to v12.2.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/117) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [CI CD Fix](https://github.com/Spomky-Labs/cbor-php/pull/80) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 weeks ago)
+- [Fix CI-CD](https://github.com/web-auth/cose-lib/pull/100) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 weeks ago)
+- [Update dependencies and GitHub Actions configuration](https://github.com/web-auth/webauthn-framework/pull/723) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
+- [Refactor test annotations and improve static analysis handling](https://github.com/Spomky-Labs/pki-framework/pull/67) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 weeks ago)
+- [Update dependency phpunit/phpunit to v12.2.2 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/117) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update supported versions table in RELEASES.md to reflect current support status and remove extra lines in PreloadUrl.php](https://github.com/Spomky-Labs/pwa-bundle/pull/316) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.1), 1 week ago) - CBOR Encoder/Decoder for PHP
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.1](https://github.com/web-auth/cose-lib/releases/tag/4.4.1), 1 week ago) - Cose Key and Algorithms support
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.3.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.3.0), 1 week ago) - Public Key Infrastructure
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.1), 2 weeks ago) - CBOR Encoder/Decoder for PHP
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.1](https://github.com/web-auth/cose-lib/releases/tag/4.4.1), 2 weeks ago) - Cose Key and Algorithms support
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.3.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.3.0), 2 weeks ago) - Public Key Infrastructure
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.0](https://github.com/symfony/security-http/releases/tag/v7.3.0), 4 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.0](https://github.com/symfony/security-core/releases/tag/v7.3.0), 4 weeks ago) - Symfony Security Component - Core Library
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.3.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.3.0), 4 weeks ago) - Symfony Amazon Mailer Bridge
