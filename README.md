@@ -52,7 +52,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [Update dependency staabm/phpstan-todo-by to ^0.3.0](https://github.com/Spomky-Labs/phpwa-demo/pull/120) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency shipmonk/dead-code-detector to v0.12.4](https://github.com/Spomky-Labs/phpwa-demo/pull/119) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency phpunit/phpunit to v12.2.4](https://github.com/Spomky-Labs/phpwa-demo/pull/118) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency phpunit/phpunit to v12.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/118) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Add Workbox v7.3.0 and set it as default version.](https://github.com/Spomky-Labs/pwa-bundle/pull/318) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [CI CD Fix](https://github.com/Spomky-Labs/cbor-php/pull/80) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 weeks ago)
 - [Fix CI-CD](https://github.com/web-auth/cose-lib/pull/100) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 weeks ago)
