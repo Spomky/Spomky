@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add Color Picker demo with multi-step form flow](https://github.com/yceruto/formflow-demo/pull/1) on [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) (today)
 - [Update dependency symfony/ux-twig-component to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/127) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 - [Update dependency symfony/ux-turbo to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/126) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 - [Update dependency symfony/ux-map to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/125) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/stimulus-bundle to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/121) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 - [Update dependency staabm/phpstan-todo-by to ^0.3.0](https://github.com/Spomky-Labs/phpwa-demo/pull/120) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Update dependency shipmonk/dead-code-detector to v0.12.4](https://github.com/Spomky-Labs/phpwa-demo/pull/119) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency phpunit/phpunit to v12.2.5](https://github.com/Spomky-Labs/phpwa-demo/pull/118) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
