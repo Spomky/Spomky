@@ -40,8 +40,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 weeks ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 weeks ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
@@ -50,29 +50,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Add Color Picker demo with multi-step form flow](https://github.com/yceruto/formflow-demo/pull/1) on [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) (1 day ago)
-- [Update dependency symfony/ux-twig-component to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/127) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/ux-turbo to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/126) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/ux-map to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/125) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/ux-live-component to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/124) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/ux-leaflet-map to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/123) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/ux-icons to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/122) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
-- [Update dependency symfony/stimulus-bundle to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/121) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Add Color Picker demo with multi-step form flow](https://github.com/yceruto/formflow-demo/pull/1) on [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) (2 days ago)
+- [Update dependency symfony/ux-twig-component to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/127) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency symfony/ux-turbo to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/126) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency symfony/ux-map to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/125) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency symfony/ux-live-component to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/124) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency symfony/ux-leaflet-map to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/123) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency symfony/ux-icons to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/122) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
+- [Update dependency symfony/stimulus-bundle to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/121) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency staabm/phpstan-todo-by to ^0.3.0](https://github.com/Spomky-Labs/phpwa-demo/pull/120) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Update dependency shipmonk/dead-code-detector to v0.12.4](https://github.com/Spomky-Labs/phpwa-demo/pull/119) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.1](https://github.com/symfony/security-http/releases/tag/v7.3.1), 5 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.1](https://github.com/symfony/security-core/releases/tag/v7.3.1), 5 days ago) - Symfony Security Component - Core Library
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.1](https://github.com/symfony/mailer/releases/tag/v7.3.1), 5 days ago) - Helps sending emails
-- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.1](https://github.com/symfony/ldap/releases/tag/v7.3.1), 5 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.1](https://github.com/symfony/security-bundle/releases/tag/v7.3.1), 5 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.1](https://github.com/symfony/framework-bundle/releases/tag/v7.3.1), 5 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 5 days ago) - The Symfony PHP framework
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.1), 2 weeks ago) - CBOR Encoder/Decoder for PHP
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.1](https://github.com/web-auth/cose-lib/releases/tag/4.4.1), 2 weeks ago) - Cose Key and Algorithms support
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.3.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.3.0), 2 weeks ago) - Public Key Infrastructure
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.1](https://github.com/symfony/security-http/releases/tag/v7.3.1), 6 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.1](https://github.com/symfony/security-core/releases/tag/v7.3.1), 6 days ago) - Symfony Security Component - Core Library
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.1](https://github.com/symfony/mailer/releases/tag/v7.3.1), 6 days ago) - Helps sending emails
+- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.1](https://github.com/symfony/ldap/releases/tag/v7.3.1), 6 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.1](https://github.com/symfony/security-bundle/releases/tag/v7.3.1), 6 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.1](https://github.com/symfony/framework-bundle/releases/tag/v7.3.1), 6 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 6 days ago) - The Symfony PHP framework
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.1), 3 weeks ago) - CBOR Encoder/Decoder for PHP
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.4.1](https://github.com/web-auth/cose-lib/releases/tag/4.4.1), 3 weeks ago) - Cose Key and Algorithms support
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.3.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.3.0), 3 weeks ago) - Public Key Infrastructure
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
