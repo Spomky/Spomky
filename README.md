@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[AI Store] Remove the Assert library](https://github.com/symfony/ai/pull/86) on [symfony/ai](https://github.com/symfony/ai) (today)
+- [Remove the Assert library](https://github.com/symfony/ai-store/pull/1) on [symfony/ai-store](https://github.com/symfony/ai-store) (today)
 - [Add Color Picker demo with multi-step form flow](https://github.com/yceruto/formflow-demo/pull/1) on [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) (1 week ago)
 - [Update dependency symfony/ux-twig-component to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/127) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency symfony/ux-turbo to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/126) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/ux-leaflet-map to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/123) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency symfony/ux-icons to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/122) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency symfony/stimulus-bundle to v2.27.0](https://github.com/Spomky-Labs/phpwa-demo/pull/121) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
-- [Update dependency staabm/phpstan-todo-by to ^0.3.0](https://github.com/Spomky-Labs/phpwa-demo/pull/120) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
-- [Update dependency shipmonk/dead-code-detector to v0.12.4](https://github.com/Spomky-Labs/phpwa-demo/pull/119) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
