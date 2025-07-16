@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency symfony/framework-bundle to v7.3.1](https://github.com/Spomky-Labs/phpwa-demo/pull/133) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency symfony/form to v7.3.1](https://github.com/Spomky-Labs/phpwa-demo/pull/132) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/dependency-injection to v7.3.1](https://github.com/Spomky-Labs/phpwa-demo/pull/131) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/console to v7.3.1](https://github.com/Spomky-Labs/phpwa-demo/pull/130) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [[AI Store] Remove `webmozart/assert` library](https://github.com/symfony/ai/pull/86) on [symfony/ai](https://github.com/symfony/ai) (5 days ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/ux-twig-component to v2.27.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/127) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency symfony/ux-turbo to v2.27.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/126) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 - [Update dependency symfony/ux-map to v2.27.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/125) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
-- [Update dependency symfony/ux-live-component to v2.27.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/124) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
-- [Update dependency symfony/ux-leaflet-map to v2.27.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/123) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
