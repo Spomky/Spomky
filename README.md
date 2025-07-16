@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency symfony/http-kernel to v7.3.1](https://github.com/Spomky-Labs/phpwa-demo/pull/135) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency symfony/http-foundation to v7.3.1](https://github.com/Spomky-Labs/phpwa-demo/pull/134) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/framework-bundle to v7.3.1](https://github.com/Spomky-Labs/phpwa-demo/pull/133) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/form to v7.3.1](https://github.com/Spomky-Labs/phpwa-demo/pull/132) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency symfony/dependency-injection to v7.3.1](https://github.com/Spomky-Labs/phpwa-demo/pull/131) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Remove the Assert library](https://github.com/symfony/ai-store/pull/1) on [symfony/ai-store](https://github.com/symfony/ai-store) (5 days ago)
 - [Add Color Picker demo with multi-step form flow](https://github.com/yceruto/formflow-demo/pull/1) on [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) (2 weeks ago)
 - [Update dependency symfony/ux-twig-component to v2.27.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/127) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
-- [Update dependency symfony/ux-turbo to v2.27.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/126) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
-- [Update dependency symfony/ux-map to v2.27.0 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/125) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
