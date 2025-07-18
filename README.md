@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [symfony/ai-store](https://github.com/symfony/ai-store) -  (3 days ago)
 - [symfony/ai](https://github.com/symfony/ai) -  (3 days ago)
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (3 days ago)
@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency phpstan/phpstan to v2.1.18](https://github.com/Spomky-Labs/phpwa-demo/pull/138) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency phpstan/phpstan to v2.1.18 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/138) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency symfony/property-access to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/137) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
 - [Update dependency symfony/intl to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/136) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
 - [Update dependency symfony/http-kernel to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/135) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
