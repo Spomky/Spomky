@@ -37,39 +37,39 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [symfony/ai-store](https://github.com/symfony/ai-store) -  (3 days ago)
-- [symfony/ai](https://github.com/symfony/ai) -  (3 days ago)
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (3 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [symfony/ai-store](https://github.com/symfony/ai-store) -  (4 days ago)
+- [symfony/ai](https://github.com/symfony/ai) -  (4 days ago)
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (4 days ago)
 - [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) - Build multistep forms with Symfony FormFlow (2 weeks ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 weeks ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency phpstan/phpstan to v2.1.18 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/138) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency symfony/property-access to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/137) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
-- [Update dependency symfony/intl to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/136) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
-- [Update dependency symfony/http-kernel to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/135) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
-- [Update dependency symfony/http-foundation to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/134) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
-- [Update dependency symfony/framework-bundle to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/133) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
-- [Update dependency symfony/form to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/132) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
-- [Update dependency symfony/dependency-injection to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/131) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
-- [Update dependency symfony/console to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/130) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Update dependency phpstan/phpstan to v2.1.18 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/138) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Update dependency symfony/property-access to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/137) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
+- [Update dependency symfony/intl to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/136) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
+- [Update dependency symfony/http-kernel to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/135) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
+- [Update dependency symfony/http-foundation to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/134) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
+- [Update dependency symfony/framework-bundle to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/133) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
+- [Update dependency symfony/form to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/132) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
+- [Update dependency symfony/dependency-injection to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/131) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
+- [Update dependency symfony/console to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/130) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
 - [[AI Store] Remove `webmozart/assert` library](https://github.com/symfony/ai/pull/86) on [symfony/ai](https://github.com/symfony/ai) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.1](https://github.com/symfony/security-http/releases/tag/v7.3.1), 2 weeks ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.1](https://github.com/symfony/security-core/releases/tag/v7.3.1), 2 weeks ago) - Symfony Security Component - Core Library
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.1](https://github.com/symfony/mailer/releases/tag/v7.3.1), 2 weeks ago) - Helps sending emails
-- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.1](https://github.com/symfony/ldap/releases/tag/v7.3.1), 2 weeks ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.1](https://github.com/symfony/security-bundle/releases/tag/v7.3.1), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.1](https://github.com/symfony/framework-bundle/releases/tag/v7.3.1), 2 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 2 weeks ago) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.1](https://github.com/symfony/security-http/releases/tag/v7.3.1), 3 weeks ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.1](https://github.com/symfony/security-core/releases/tag/v7.3.1), 3 weeks ago) - Symfony Security Component - Core Library
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.1](https://github.com/symfony/mailer/releases/tag/v7.3.1), 3 weeks ago) - Helps sending emails
+- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.1](https://github.com/symfony/ldap/releases/tag/v7.3.1), 3 weeks ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.1](https://github.com/symfony/security-bundle/releases/tag/v7.3.1), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.1](https://github.com/symfony/framework-bundle/releases/tag/v7.3.1), 3 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 3 weeks ago) - The Symfony PHP framework
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.1), 1 month ago) - CBOR Encoder/Decoder for PHP
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.3.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.3.0), 1 month ago) - Public Key Infrastructure
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.3.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.3.0), 1 month ago) - Symfony Amazon Mailer Bridge
