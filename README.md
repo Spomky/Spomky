@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor templates to use Stimulus helper functions for cleaner and standardized syntax](https://github.com/Spomky-Labs/phpwa-demo/pull/139) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency phpstan/phpstan to v2.1.18 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/138) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (3 days ago)
 - [Update dependency symfony/property-access to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/137) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 - [Update dependency symfony/intl to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/136) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/form to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/132) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 - [Update dependency symfony/dependency-injection to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/131) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 - [Update dependency symfony/console to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/130) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [[AI Store] Remove `webmozart/assert` library](https://github.com/symfony/ai/pull/86) on [symfony/ai](https://github.com/symfony/ai) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
