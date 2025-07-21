@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependency phpstan/phpstan-strict-rules to v2.0.5](https://github.com/Spomky-Labs/phpwa-demo/pull/141) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency phpstan/phpstan-strict-rules to v2.0.6](https://github.com/Spomky-Labs/phpwa-demo/pull/141) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency phpstan/phpstan-phpunit to v2.0.7](https://github.com/Spomky-Labs/phpwa-demo/pull/140) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Refactor templates to use Stimulus helper functions for cleaner and standardized syntax](https://github.com/Spomky-Labs/phpwa-demo/pull/139) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency phpstan/phpstan to v2.1.18 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/138) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
