@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency shipmonk/dead-code-detector to ^0.13](https://github.com/Spomky-Labs/phpwa-demo/pull/142) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency phpstan/phpstan-strict-rules to v2.0.6](https://github.com/Spomky-Labs/phpwa-demo/pull/141) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Update dependency phpstan/phpstan-phpunit to v2.0.7](https://github.com/Spomky-Labs/phpwa-demo/pull/140) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Refactor templates to use Stimulus helper functions for cleaner and standardized syntax](https://github.com/Spomky-Labs/phpwa-demo/pull/139) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/http-kernel to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/135) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 - [Update dependency symfony/http-foundation to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/134) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 - [Update dependency symfony/framework-bundle to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/133) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/form to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/132) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
