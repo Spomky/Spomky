@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency phpstan/phpstan-strict-rules to v2.0.5](https://github.com/Spomky-Labs/phpwa-demo/pull/141) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
+- [Update dependency phpstan/phpstan-phpunit to v2.0.7](https://github.com/Spomky-Labs/phpwa-demo/pull/140) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Refactor templates to use Stimulus helper functions for cleaner and standardized syntax](https://github.com/Spomky-Labs/phpwa-demo/pull/139) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency phpstan/phpstan to v2.1.18 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/138) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
 - [Update dependency symfony/property-access to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/137) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependency symfony/http-foundation to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/134) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 - [Update dependency symfony/framework-bundle to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/133) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 - [Update dependency symfony/form to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/132) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/dependency-injection to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/131) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/console to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/130) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
