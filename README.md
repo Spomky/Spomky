@@ -37,11 +37,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
-- [symfony/ai-store](https://github.com/symfony/ai-store) -  (6 days ago)
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (6 days ago)
-- [symfony/ai](https://github.com/symfony/ai) -  (6 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
+- [symfony/ai-store](https://github.com/symfony/ai-store) -  (1 week ago)
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (1 week ago)
+- [symfony/ai](https://github.com/symfony/ai) -  (1 week ago)
 - [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) - Build multistep forms with Symfony FormFlow (2 weeks ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 weeks ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update dunglas/frankenphp Docker tag to v1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/143) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency shipmonk/dead-code-detector to ^0.13](https://github.com/Spomky-Labs/phpwa-demo/pull/142) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency phpstan/phpstan-strict-rules to v2.0.6 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/141) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Update dependency phpstan/phpstan-phpunit to v2.0.7 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/140) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
-- [Refactor templates to use Stimulus helper functions for cleaner and standardized syntax](https://github.com/Spomky-Labs/phpwa-demo/pull/139) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency phpstan/phpstan to v2.1.19 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/138) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [Update dependency symfony/property-access to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/137) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/intl to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/136) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/http-kernel to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/135) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
-- [Update dependency symfony/http-foundation to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/134) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Update dunglas/frankenphp Docker tag to v1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/143) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency shipmonk/dead-code-detector to ^0.13](https://github.com/Spomky-Labs/phpwa-demo/pull/142) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency phpstan/phpstan-strict-rules to v2.0.6 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/141) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Update dependency phpstan/phpstan-phpunit to v2.0.7 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/140) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
+- [Refactor templates to use Stimulus helper functions for cleaner and standardized syntax](https://github.com/Spomky-Labs/phpwa-demo/pull/139) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
+- [Update dependency phpstan/phpstan to v2.1.19 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/138) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Update dependency symfony/property-access to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/137) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/intl to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/136) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/http-kernel to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/135) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Update dependency symfony/http-foundation to v7.3.1 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/134) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
