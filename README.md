@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add caching for PHPUnit coverage in CI workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/327) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Fix coverage folder](https://github.com/Spomky-Labs/pwa-bundle/pull/326) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Consolidate mutation testing workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/325) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update PHPUnit and Infection configurations for enhanced coverage](https://github.com/Spomky-Labs/pwa-bundle/pull/324) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Fix infection tests](https://github.com/Spomky-Labs/pwa-bundle/pull/323) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add `asset_compiler` configuration option](https://github.com/Spomky-Labs/pwa-bundle/pull/322) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
@@ -57,9 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dunglas/frankenphp Docker tag to v1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/143) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency shipmonk/dead-code-detector to ^0.13](https://github.com/Spomky-Labs/phpwa-demo/pull/142) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
 - [Update dependency phpstan/phpstan-strict-rules to v2.0.6 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/141) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Update dependency phpstan/phpstan-phpunit to v2.0.7 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/140) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
-- [Refactor templates to use Stimulus helper functions for cleaner and standardized syntax](https://github.com/Spomky-Labs/phpwa-demo/pull/139) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (2 days ago)
-- [Update dependency phpstan/phpstan to v2.1.19 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/138) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
