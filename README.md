@@ -38,15 +38,15 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (today)
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (today)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 days ago)
 - [symfony/ai-store](https://github.com/symfony/ai-store) -  (1 week ago)
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (1 week ago)
 - [symfony/ai](https://github.com/symfony/ai) -  (1 week ago)
 - [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) - Build multistep forms with Symfony FormFlow (3 weeks ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.10.1](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.10.1), 2 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.1](https://github.com/symfony/security-http/releases/tag/v7.3.1), 1 month ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.1](https://github.com/symfony/security-core/releases/tag/v7.3.1), 1 month ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.1](https://github.com/symfony/mailer/releases/tag/v7.3.1), 1 month ago) - Helps sending emails
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 1 month ago) - The Symfony PHP framework
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.1), 1 month ago) - CBOR Encoder/Decoder for PHP
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.3.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.3.0), 1 month ago) - Public Key Infrastructure
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.3.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.3.0), 2 months ago) - Symfony Amazon Mailer Bridge
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
