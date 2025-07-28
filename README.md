@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/109) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (today)
 - [Add progress bar and console output for file compilation process in `FileCompiler`](https://github.com/Spomky-Labs/pwa-bundle/pull/328) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Add caching for PHPUnit coverage in CI workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/327) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Fix coverage folder](https://github.com/Spomky-Labs/pwa-bundle/pull/326) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add `asset_compiler` configuration option](https://github.com/Spomky-Labs/pwa-bundle/pull/322) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Update dependency phpstan/phpstan-symfony to v2.0.7 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/144) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Update dunglas/frankenphp Docker tag to v1.9 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/143) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
-- [Update dependency shipmonk/dead-code-detector to ^0.13](https://github.com/Spomky-Labs/phpwa-demo/pull/142) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
