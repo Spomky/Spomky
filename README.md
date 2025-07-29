@@ -37,12 +37,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (today)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 day ago)
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (1 day ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (5 days ago)
-- [symfony/ai-store](https://github.com/symfony/ai-store) -  (2 weeks ago)
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (2 weeks ago)
+- [symfony/ai-store](https://github.com/symfony/ai-store) -  (2 weeks ago)
 - [symfony/ai](https://github.com/symfony/ai) -  (2 weeks ago)
 - [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) - Build multistep forms with Symfony FormFlow (3 weeks ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.10.1](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.10.1), 2 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.11.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.11.0), today) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.1](https://github.com/symfony/security-http/releases/tag/v7.3.1), 1 month ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.1](https://github.com/symfony/security-core/releases/tag/v7.3.1), 1 month ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.1](https://github.com/symfony/mailer/releases/tag/v7.3.1), 1 month ago) - Helps sending emails
