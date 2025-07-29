@@ -37,29 +37,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (today)
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (today)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 days ago)
-- [symfony/ai-store](https://github.com/symfony/ai-store) -  (1 week ago)
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (1 week ago)
-- [symfony/ai](https://github.com/symfony/ai) -  (1 week ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 day ago)
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (1 day ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (5 days ago)
+- [symfony/ai-store](https://github.com/symfony/ai-store) -  (2 weeks ago)
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (2 weeks ago)
+- [symfony/ai](https://github.com/symfony/ai) -  (2 weeks ago)
 - [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) - Build multistep forms with Symfony FormFlow (3 weeks ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for specifying binary platform in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/110) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (today)
-- [Update musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/109) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (today)
-- [Add progress bar and console output for file compilation process in `FileCompiler`](https://github.com/Spomky-Labs/pwa-bundle/pull/328) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Add caching for PHPUnit coverage in CI workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/327) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Fix coverage folder](https://github.com/Spomky-Labs/pwa-bundle/pull/326) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Consolidate mutation testing workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/325) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Update PHPUnit and Infection configurations for enhanced coverage](https://github.com/Spomky-Labs/pwa-bundle/pull/324) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Fix infection tests](https://github.com/Spomky-Labs/pwa-bundle/pull/323) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Add `asset_compiler` configuration option](https://github.com/Spomky-Labs/pwa-bundle/pull/322) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Update dependency phpstan/phpstan-symfony to v2.0.7 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/144) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Add support for specifying binary platform in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/110) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (1 day ago)
+- [Update musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/109) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (1 day ago)
+- [Add progress bar and console output for file compilation process in `FileCompiler`](https://github.com/Spomky-Labs/pwa-bundle/pull/328) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [Add caching for PHPUnit coverage in CI workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/327) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Fix coverage folder](https://github.com/Spomky-Labs/pwa-bundle/pull/326) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Consolidate mutation testing workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/325) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Update PHPUnit and Infection configurations for enhanced coverage](https://github.com/Spomky-Labs/pwa-bundle/pull/324) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Fix infection tests](https://github.com/Spomky-Labs/pwa-bundle/pull/323) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Add `asset_compiler` configuration option](https://github.com/Spomky-Labs/pwa-bundle/pull/322) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Update dependency phpstan/phpstan-symfony to v2.0.7 - autoclosed](https://github.com/Spomky-Labs/phpwa-demo/pull/144) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -76,7 +76,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [tacman](https://github.com/tacman) (1 year ago)
+- [tacman](https://github.com/tacman) (2 years ago)
 - [chalasr](https://github.com/chalasr) (3 years ago)
 - [passbolt](https://github.com/passbolt) (4 years ago)
 
