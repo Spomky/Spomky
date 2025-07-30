@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[HttpFoundation] Add support for structured MIME suffix](https://github.com/symfony/symfony/pull/61267) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Refactor musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/112) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (1 day ago)
 - [Add Cross-Origin Policy feature with configurable headers (COEP, COOP, CORP)](https://github.com/nelmio/NelmioSecurityBundle/pull/372) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (1 day ago)
 - [Add support for specifying binary platform in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/110) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (2 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix coverage folder](https://github.com/Spomky-Labs/pwa-bundle/pull/326) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Consolidate mutation testing workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/325) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update PHPUnit and Infection configurations for enhanced coverage](https://github.com/Spomky-Labs/pwa-bundle/pull/324) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Fix infection tests](https://github.com/Spomky-Labs/pwa-bundle/pull/323) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
