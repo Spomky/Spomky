@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.11.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.11.0), 1 day ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.11.1](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.11.1), today) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.1](https://github.com/symfony/security-http/releases/tag/v7.3.1), 1 month ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.1](https://github.com/symfony/security-core/releases/tag/v7.3.1), 1 month ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.1](https://github.com/symfony/mailer/releases/tag/v7.3.1), 1 month ago) - Helps sending emails
