@@ -37,25 +37,25 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (1 day ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 days ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (4 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (6 days ago)
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (2 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (5 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [symfony/ai-store](https://github.com/symfony/ai-store) -  (2 weeks ago)
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (2 weeks ago)
 - [symfony/ai](https://github.com/symfony/ai) -  (2 weeks ago)
-- [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) - Build multistep forms with Symfony FormFlow (3 weeks ago)
+- [yceruto/formflow-demo](https://github.com/yceruto/formflow-demo) - Build multistep forms with Symfony FormFlow (4 weeks ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[HttpFoundation] Add support for structured MIME suffix](https://github.com/symfony/symfony/pull/61267) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [Refactor musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/112) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (1 day ago)
-- [Add Cross-Origin Policy feature with configurable headers (COEP, COOP, CORP)](https://github.com/nelmio/NelmioSecurityBundle/pull/372) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (1 day ago)
-- [Add support for specifying binary platform in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/110) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (2 days ago)
-- [Update musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/109) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (2 days ago)
-- [Add progress bar and console output for file compilation process in `FileCompiler`](https://github.com/Spomky-Labs/pwa-bundle/pull/328) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [[HttpFoundation] Add support for structured MIME suffix](https://github.com/symfony/symfony/pull/61267) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [Refactor musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/112) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (2 days ago)
+- [Add Cross-Origin Policy feature with configurable headers (COEP, COOP, CORP)](https://github.com/nelmio/NelmioSecurityBundle/pull/372) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (2 days ago)
+- [Add support for specifying binary platform in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/110) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (3 days ago)
+- [Update musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/109) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (3 days ago)
+- [Add progress bar and console output for file compilation process in `FileCompiler`](https://github.com/Spomky-Labs/pwa-bundle/pull/328) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Add caching for PHPUnit coverage in CI workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/327) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Fix coverage folder](https://github.com/Spomky-Labs/pwa-bundle/pull/326) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Consolidate mutation testing workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/325) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.11.1](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.11.1), today) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.11.1](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.11.1), 1 day ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.1](https://github.com/symfony/security-http/releases/tag/v7.3.1), 1 month ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.1](https://github.com/symfony/security-core/releases/tag/v7.3.1), 1 month ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.1](https://github.com/symfony/mailer/releases/tag/v7.3.1), 1 month ago) - Helps sending emails
