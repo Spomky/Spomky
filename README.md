@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [New GH Workflow](https://github.com/web-token/jwt-framework/pull/629) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Update dependencies to support newer versions](https://github.com/Spomky-Labs/pki-framework/pull/68) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Expand Symfony version constraints to support 8.0 ](https://github.com/web-token/jwt-framework/pull/628) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [[HttpFoundation] Add support for structured MIME suffix](https://github.com/symfony/symfony/pull/61267) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/109) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (1 week ago)
 - [Add progress bar and console output for file compilation process in `FileCompiler`](https://github.com/Spomky-Labs/pwa-bundle/pull/328) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Add caching for PHPUnit coverage in CI workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/327) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [Fix coverage folder](https://github.com/Spomky-Labs/pwa-bundle/pull/326) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
