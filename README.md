@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Up merge from 4.0.5 to 4.1.x](https://github.com/web-token/jwt-framework/pull/631) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [Add &#39;private_key_bits&#39; option to EC key generation](https://github.com/web-token/jwt-framework/pull/630) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [New GH Workflow](https://github.com/web-token/jwt-framework/pull/629) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Update dependencies to support newer versions](https://github.com/Spomky-Labs/pki-framework/pull/68) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Expand Symfony version constraints to support 8.0 ](https://github.com/web-token/jwt-framework/pull/628) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
@@ -58,11 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add Cross-Origin Policy feature with configurable headers (COEP, COOP, CORP)](https://github.com/nelmio/NelmioSecurityBundle/pull/372) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (1 week ago)
 - [Add support for specifying binary platform in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/110) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (1 week ago)
 - [Update musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/109) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (1 week ago)
-- [Add progress bar and console output for file compilation process in `FileCompiler`](https://github.com/Spomky-Labs/pwa-bundle/pull/328) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Add caching for PHPUnit coverage in CI workflow](https://github.com/Spomky-Labs/pwa-bundle/pull/327) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.5](https://github.com/web-token/jwt-framework/releases/tag/4.0.5), today) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.2](https://github.com/symfony/security-http/releases/tag/v7.3.2), 5 days ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.2](https://github.com/symfony/security-core/releases/tag/v7.3.2), 5 days ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.2](https://github.com/symfony/mailer/releases/tag/v7.3.2), 5 days ago) - Helps sending emails
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ldap](https://github.com/symfony/ldap) ([v7.2.9](https://github.com/symfony/ldap/releases/tag/v7.2.9), 5 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v6.4.24](https://github.com/symfony/amazon-mailer/releases/tag/v6.4.24), 5 days ago) - Symfony Amazon Mailer Bridge
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.11.1](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.11.1), 6 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.1.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.1.1), 1 month ago) - CBOR Encoder/Decoder for PHP
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
