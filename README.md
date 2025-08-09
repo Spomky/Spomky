@@ -37,11 +37,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (4 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 days ago)
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
 - [symfony/ai-store](https://github.com/symfony/ai-store) -  (3 weeks ago)
 - [symfony/ai](https://github.com/symfony/ai) -  (3 weeks ago)
@@ -50,11 +50,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Up merge from 4.0.5 to 4.1.x](https://github.com/web-token/jwt-framework/pull/631) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [Add &#39;private_key_bits&#39; option to EC key generation](https://github.com/web-token/jwt-framework/pull/630) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [New GH Workflow](https://github.com/web-token/jwt-framework/pull/629) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [Update dependencies to support newer versions](https://github.com/Spomky-Labs/pki-framework/pull/68) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 days ago)
-- [Expand Symfony version constraints to support 8.0 ](https://github.com/web-token/jwt-framework/pull/628) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
+- [Up merge from 4.0.5 to 4.1.x](https://github.com/web-token/jwt-framework/pull/631) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
+- [Add &#39;private_key_bits&#39; option to EC key generation](https://github.com/web-token/jwt-framework/pull/630) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
+- [New GH Workflow](https://github.com/web-token/jwt-framework/pull/629) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
+- [Update dependencies to support newer versions](https://github.com/Spomky-Labs/pki-framework/pull/68) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (4 days ago)
+- [Expand Symfony version constraints to support 8.0 ](https://github.com/web-token/jwt-framework/pull/628) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
 - [[HttpFoundation] Add support for structured MIME suffix](https://github.com/symfony/symfony/pull/61267) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [Refactor musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/112) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (1 week ago)
 - [Add Cross-Origin Policy feature with configurable headers (COEP, COOP, CORP)](https://github.com/nelmio/NelmioSecurityBundle/pull/372) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (1 week ago)
@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.5](https://github.com/web-token/jwt-framework/releases/tag/4.0.5), 3 days ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.5](https://github.com/web-token/jwt-framework/releases/tag/4.0.5), 4 days ago) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.2](https://github.com/symfony/security-http/releases/tag/v7.3.2), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.2](https://github.com/symfony/security-core/releases/tag/v7.3.2), 1 week ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.2](https://github.com/symfony/mailer/releases/tag/v7.3.2), 1 week ago) - Helps sending emails
