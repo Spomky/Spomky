@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [start_url accepts Url](https://github.com/Spomky-Labs/pwa-bundle/pull/332) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Fix start url](https://github.com/Spomky-Labs/phpwa-demo/pull/145) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Add `note_taking` support in manifest configuration and DTO](https://github.com/Spomky-Labs/pwa-bundle/pull/330) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Up merge from 4.0.5 to 4.1.x](https://github.com/web-token/jwt-framework/pull/631) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Expand Symfony version constraints to support 8.0 ](https://github.com/web-token/jwt-framework/pull/628) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [[HttpFoundation] Add support for structured MIME suffix](https://github.com/symfony/symfony/pull/61267) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [Refactor musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/112) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (2 weeks ago)
-- [Add Cross-Origin Policy feature with configurable headers (COEP, COOP, CORP)](https://github.com/nelmio/NelmioSecurityBundle/pull/372) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
