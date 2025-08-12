@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
 - [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) -  (3 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix start url](https://github.com/Spomky-Labs/phpwa-demo/pull/145) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Add `note_taking` support in manifest configuration and DTO](https://github.com/Spomky-Labs/pwa-bundle/pull/330) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Up merge from 4.0.5 to 4.1.x](https://github.com/web-token/jwt-framework/pull/631) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Add &#39;private_key_bits&#39; option to EC key generation](https://github.com/web-token/jwt-framework/pull/630) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[HttpFoundation] Add support for structured MIME suffix](https://github.com/symfony/symfony/pull/61267) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [Refactor musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/112) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (2 weeks ago)
 - [Add Cross-Origin Policy feature with configurable headers (COEP, COOP, CORP)](https://github.com/nelmio/NelmioSecurityBundle/pull/372) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (2 weeks ago)
-- [Add support for specifying binary platform in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/110) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
