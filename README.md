@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [New Castor file and CI/CD](https://github.com/Spomky-Labs/pwa-bundle/pull/334) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [start_url accepts Url](https://github.com/Spomky-Labs/pwa-bundle/pull/332) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Fix start url](https://github.com/Spomky-Labs/phpwa-demo/pull/145) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (today)
 - [Add `note_taking` support in manifest configuration and DTO](https://github.com/Spomky-Labs/pwa-bundle/pull/330) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update dependencies to support newer versions](https://github.com/Spomky-Labs/pki-framework/pull/68) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
 - [Expand Symfony version constraints to support 8.0 ](https://github.com/web-token/jwt-framework/pull/628) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [[HttpFoundation] Add support for structured MIME suffix](https://github.com/symfony/symfony/pull/61267) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [Refactor musl detection logic in TailwindBinary](https://github.com/SymfonyCasts/tailwind-bundle/pull/112) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
