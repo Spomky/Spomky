@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix key derivation by removing curve size parameter from openssl_pkey_derive](https://github.com/web-token/jwt-framework/pull/632) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [New Castor file and CI/CD](https://github.com/Spomky-Labs/pwa-bundle/pull/334) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [start_url accepts Url](https://github.com/Spomky-Labs/pwa-bundle/pull/332) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Fix start url](https://github.com/Spomky-Labs/phpwa-demo/pull/145) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [New GH Workflow](https://github.com/web-token/jwt-framework/pull/629) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Update dependencies to support newer versions](https://github.com/Spomky-Labs/pki-framework/pull/68) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
 - [Expand Symfony version constraints to support 8.0 ](https://github.com/web-token/jwt-framework/pull/628) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [[HttpFoundation] Add support for structured MIME suffix](https://github.com/symfony/symfony/pull/61267) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
