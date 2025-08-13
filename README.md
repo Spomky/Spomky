@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.5](https://github.com/web-token/jwt-framework/releases/tag/4.0.5), 1 week ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.6](https://github.com/web-token/jwt-framework/releases/tag/4.0.6), today) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.2](https://github.com/symfony/security-http/releases/tag/v7.3.2), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.2](https://github.com/symfony/security-core/releases/tag/v7.3.2), 1 week ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.2](https://github.com/symfony/mailer/releases/tag/v7.3.2), 1 week ago) - Helps sending emails
