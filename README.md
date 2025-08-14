@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update EdDSA.php](https://github.com/web-auth/cose-lib/pull/106) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [Merge up 4.0.6 to 4.1.x](https://github.com/web-token/jwt-framework/pull/633) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Fix key derivation by removing curve size parameter from openssl_pkey_derive](https://github.com/web-token/jwt-framework/pull/632) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [New Castor file and CI/CD](https://github.com/Spomky-Labs/pwa-bundle/pull/334) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Up merge from 4.0.5 to 4.1.x](https://github.com/web-token/jwt-framework/pull/631) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Add &#39;private_key_bits&#39; option to EC key generation](https://github.com/web-token/jwt-framework/pull/630) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [New GH Workflow](https://github.com/web-token/jwt-framework/pull/629) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Update dependencies to support newer versions](https://github.com/Spomky-Labs/pki-framework/pull/68) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
