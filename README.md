@@ -44,9 +44,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (2 weeks ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 weeks ago)
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (1 month ago)
-- [symfony/ai-store](https://github.com/symfony/ai-store) -  (1 month ago)
 - [symfony/ai](https://github.com/symfony/ai) -  (1 month ago)
+- [symfony/ai-store](https://github.com/symfony/ai-store) -  (1 month ago)
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
