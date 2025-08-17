@@ -37,9 +37,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 days ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (4 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (5 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (5 days ago)
 - [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) -  (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (2 weeks ago)
@@ -50,20 +50,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update EdDSA.php](https://github.com/web-auth/cose-lib/pull/106) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 days ago)
-- [Merge up 4.0.6 to 4.1.x](https://github.com/web-token/jwt-framework/pull/633) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
-- [Fix key derivation by removing curve size parameter from openssl_pkey_derive](https://github.com/web-token/jwt-framework/pull/632) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
-- [New Castor file and CI/CD](https://github.com/Spomky-Labs/pwa-bundle/pull/334) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [start_url accepts Url](https://github.com/Spomky-Labs/pwa-bundle/pull/332) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Fix start url](https://github.com/Spomky-Labs/phpwa-demo/pull/145) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (4 days ago)
-- [Add `note_taking` support in manifest configuration and DTO](https://github.com/Spomky-Labs/pwa-bundle/pull/330) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [Update EdDSA.php](https://github.com/web-auth/cose-lib/pull/106) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (3 days ago)
+- [Merge up 4.0.6 to 4.1.x](https://github.com/web-token/jwt-framework/pull/633) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
+- [Fix key derivation by removing curve size parameter from openssl_pkey_derive](https://github.com/web-token/jwt-framework/pull/632) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
+- [New Castor file and CI/CD](https://github.com/Spomky-Labs/pwa-bundle/pull/334) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [start_url accepts Url](https://github.com/Spomky-Labs/pwa-bundle/pull/332) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [Fix start url](https://github.com/Spomky-Labs/phpwa-demo/pull/145) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (5 days ago)
+- [Add `note_taking` support in manifest configuration and DTO](https://github.com/Spomky-Labs/pwa-bundle/pull/330) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Up merge from 4.0.5 to 4.1.x](https://github.com/web-token/jwt-framework/pull/631) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Add &#39;private_key_bits&#39; option to EC key generation](https://github.com/web-token/jwt-framework/pull/630) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [New GH Workflow](https://github.com/web-token/jwt-framework/pull/629) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.6](https://github.com/web-token/jwt-framework/releases/tag/4.0.6), 3 days ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.6](https://github.com/web-token/jwt-framework/releases/tag/4.0.6), 4 days ago) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.2](https://github.com/symfony/security-http/releases/tag/v7.3.2), 2 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.2](https://github.com/symfony/security-core/releases/tag/v7.3.2), 2 weeks ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.2](https://github.com/symfony/mailer/releases/tag/v7.3.2), 2 weeks ago) - Helps sending emails
