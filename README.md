@@ -38,8 +38,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 days ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (6 days ago)
 - [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) -  (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (2 weeks ago)
@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Implement periodic sync functionality and add helper methods for registration and notification](https://github.com/Spomky-Labs/pwa-bundle/pull/336) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add &#39;type&#39; property to ScopeExtension and update static analysis configuration](https://github.com/Spomky-Labs/pwa-bundle/pull/335) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update EdDSA.php](https://github.com/web-auth/cose-lib/pull/106) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (4 days ago)
 - [Merge up 4.0.6 to 4.1.x](https://github.com/web-token/jwt-framework/pull/633) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix start url](https://github.com/Spomky-Labs/phpwa-demo/pull/145) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
 - [Add `note_taking` support in manifest configuration and DTO](https://github.com/Spomky-Labs/pwa-bundle/pull/330) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Up merge from 4.0.5 to 4.1.x](https://github.com/web-token/jwt-framework/pull/631) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Add &#39;private_key_bits&#39; option to EC key generation](https://github.com/web-token/jwt-framework/pull/630) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
