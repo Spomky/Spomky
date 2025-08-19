@@ -39,10 +39,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (5 days ago)
 - [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) -  (1 week ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (2 weeks ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 weeks ago)
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (3 weeks ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 weeks ago)
 - [symfony/ai](https://github.com/symfony/ai) -  (1 month ago)
 - [symfony/ai-store](https://github.com/symfony/ai-store) -  (1 month ago)
@@ -50,20 +50,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Implement periodic sync functionality and add helper methods for registration and notification](https://github.com/Spomky-Labs/pwa-bundle/pull/336) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Add &#39;type&#39; property to ScopeExtension and update static analysis configuration](https://github.com/Spomky-Labs/pwa-bundle/pull/335) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Update EdDSA.php](https://github.com/web-auth/cose-lib/pull/106) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (4 days ago)
-- [Merge up 4.0.6 to 4.1.x](https://github.com/web-token/jwt-framework/pull/633) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
-- [Fix key derivation by removing curve size parameter from openssl_pkey_derive](https://github.com/web-token/jwt-framework/pull/632) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
-- [New Castor file and CI/CD](https://github.com/Spomky-Labs/pwa-bundle/pull/334) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [start_url accepts Url](https://github.com/Spomky-Labs/pwa-bundle/pull/332) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Fix start url](https://github.com/Spomky-Labs/phpwa-demo/pull/145) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (6 days ago)
+- [Implement periodic sync functionality and add helper methods for registration and notification](https://github.com/Spomky-Labs/pwa-bundle/pull/336) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Add &#39;type&#39; property to ScopeExtension and update static analysis configuration](https://github.com/Spomky-Labs/pwa-bundle/pull/335) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Update EdDSA.php](https://github.com/web-auth/cose-lib/pull/106) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (5 days ago)
+- [Merge up 4.0.6 to 4.1.x](https://github.com/web-token/jwt-framework/pull/633) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [Fix key derivation by removing curve size parameter from openssl_pkey_derive](https://github.com/web-token/jwt-framework/pull/632) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
+- [New Castor file and CI/CD](https://github.com/Spomky-Labs/pwa-bundle/pull/334) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [start_url accepts Url](https://github.com/Spomky-Labs/pwa-bundle/pull/332) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Fix start url](https://github.com/Spomky-Labs/phpwa-demo/pull/145) on [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) (1 week ago)
 - [Add `note_taking` support in manifest configuration and DTO](https://github.com/Spomky-Labs/pwa-bundle/pull/330) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Up merge from 4.0.5 to 4.1.x](https://github.com/web-token/jwt-framework/pull/631) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
+- [Up merge from 4.0.5 to 4.1.x](https://github.com/web-token/jwt-framework/pull/631) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.6](https://github.com/web-token/jwt-framework/releases/tag/4.0.6), 5 days ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.6](https://github.com/web-token/jwt-framework/releases/tag/4.0.6), 6 days ago) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.2](https://github.com/symfony/security-http/releases/tag/v7.3.2), 2 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.2](https://github.com/symfony/security-core/releases/tag/v7.3.2), 2 weeks ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.2](https://github.com/symfony/mailer/releases/tag/v7.3.2), 2 weeks ago) - Helps sending emails
@@ -76,7 +76,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [hideki-a](https://github.com/hideki-a) (1 day ago)
+- [hideki-a](https://github.com/hideki-a) (2 days ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [chalasr](https://github.com/chalasr) (3 years ago)
 - [passbolt](https://github.com/passbolt) (4 years ago)
