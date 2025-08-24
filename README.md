@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add background sync queue controller with message handling](https://github.com/Spomky-Labs/pwa-bundle/pull/342) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Remove unused comment for msapplication-TileImage in PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/341) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Auto locale retrieval](https://github.com/Spomky-Labs/pwa-bundle/pull/340) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add SVG color customization and integrate UX Icons bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/339) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 4.0.6 to 4.1.x](https://github.com/web-token/jwt-framework/pull/633) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Fix key derivation by removing curve size parameter from openssl_pkey_derive](https://github.com/web-token/jwt-framework/pull/632) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [New Castor file and CI/CD](https://github.com/Spomky-Labs/pwa-bundle/pull/334) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [start_url accepts Url](https://github.com/Spomky-Labs/pwa-bundle/pull/332) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
