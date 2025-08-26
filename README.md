@@ -37,25 +37,25 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) -  (2 weeks ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 weeks ago)
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (3 weeks ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 weeks ago)
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (4 weeks ago)
 - [symfony/ai-store](https://github.com/symfony/ai-store) -  (1 month ago)
 - [symfony/ai](https://github.com/symfony/ai) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add runtime exception for missing image processor in IconResolver](https://github.com/Spomky-Labs/pwa-bundle/pull/345) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Features/bgs queue controller](https://github.com/Spomky-Labs/pwa-bundle/pull/343) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add background sync queue controller with message handling](https://github.com/Spomky-Labs/pwa-bundle/pull/342) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Remove unused comment for msapplication-TileImage in PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/341) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Auto locale retrieval](https://github.com/Spomky-Labs/pwa-bundle/pull/340) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add SVG color customization and integrate UX Icons bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/339) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Add runtime exception for missing image processor in IconResolver](https://github.com/Spomky-Labs/pwa-bundle/pull/345) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Features/bgs queue controller](https://github.com/Spomky-Labs/pwa-bundle/pull/343) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Add background sync queue controller with message handling](https://github.com/Spomky-Labs/pwa-bundle/pull/342) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Remove unused comment for msapplication-TileImage in PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/341) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Auto locale retrieval](https://github.com/Spomky-Labs/pwa-bundle/pull/340) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Add SVG color customization and integrate UX Icons bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/339) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Implement periodic sync functionality and add helper methods for registration and notification](https://github.com/Spomky-Labs/pwa-bundle/pull/336) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Add &#39;type&#39; property to ScopeExtension and update static analysis configuration](https://github.com/Spomky-Labs/pwa-bundle/pull/335) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Update EdDSA.php](https://github.com/web-auth/cose-lib/pull/106) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 week ago)
