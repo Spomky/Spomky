@@ -46,7 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 weeks ago)
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (1 month ago)
 - [symfony/ai](https://github.com/symfony/ai) -  (1 month ago)
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (1 month ago)
+- [symfony/ai-store](https://github.com/symfony/ai-store) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
