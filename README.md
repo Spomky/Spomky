@@ -37,9 +37,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 days ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (4 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (5 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (5 days ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) -  (3 weeks ago)
@@ -50,25 +50,25 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[HttpFoundation] Fix BC Break introduces in `#61267` and structured suffix formats as constant](https://github.com/symfony/symfony/pull/61544) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- [Enhance PWA data collector and templates with improved output handling and additional details](https://github.com/Spomky-Labs/pwa-bundle/pull/348) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Features/better favicon config](https://github.com/Spomky-Labs/pwa-bundle/pull/347) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [Add runtime exception for missing image processor in IconResolver](https://github.com/Spomky-Labs/pwa-bundle/pull/345) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [[HttpFoundation] Fix BC Break introduces in `#61267` and structured suffix formats as constant](https://github.com/symfony/symfony/pull/61544) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- [Enhance PWA data collector and templates with improved output handling and additional details](https://github.com/Spomky-Labs/pwa-bundle/pull/348) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [Features/better favicon config](https://github.com/Spomky-Labs/pwa-bundle/pull/347) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [Add runtime exception for missing image processor in IconResolver](https://github.com/Spomky-Labs/pwa-bundle/pull/345) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Features/bgs queue controller](https://github.com/Spomky-Labs/pwa-bundle/pull/343) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Add background sync queue controller with message handling](https://github.com/Spomky-Labs/pwa-bundle/pull/342) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Remove unused comment for msapplication-TileImage in PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/341) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Auto locale retrieval](https://github.com/Spomky-Labs/pwa-bundle/pull/340) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Add SVG color customization and integrate UX Icons bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/339) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Implement periodic sync functionality and add helper methods for registration and notification](https://github.com/Spomky-Labs/pwa-bundle/pull/336) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Implement periodic sync functionality and add helper methods for registration and notification](https://github.com/Spomky-Labs/pwa-bundle/pull/336) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.3](https://github.com/symfony/security-http/releases/tag/v7.3.3), 2 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.3](https://github.com/symfony/security-core/releases/tag/v7.3.3), 2 days ago) - Symfony Security Component - Core Library
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.3](https://github.com/symfony/mailer/releases/tag/v7.3.3), 2 days ago) - Helps sending emails
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.3](https://github.com/symfony/security-bundle/releases/tag/v7.3.3), 2 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.3](https://github.com/symfony/framework-bundle/releases/tag/v7.3.3), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3), 2 days ago) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.3](https://github.com/symfony/security-http/releases/tag/v7.3.3), 3 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.3](https://github.com/symfony/security-core/releases/tag/v7.3.3), 3 days ago) - Symfony Security Component - Core Library
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.3](https://github.com/symfony/mailer/releases/tag/v7.3.3), 3 days ago) - Helps sending emails
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.3](https://github.com/symfony/security-bundle/releases/tag/v7.3.3), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.3](https://github.com/symfony/framework-bundle/releases/tag/v7.3.3), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3), 3 days ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.6](https://github.com/web-token/jwt-framework/releases/tag/4.0.6), 2 weeks ago) - JWT Framework
 - [symfony/ldap](https://github.com/symfony/ldap) ([v7.2.9](https://github.com/symfony/ldap/releases/tag/v7.2.9), 1 month ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v6.4.24](https://github.com/symfony/amazon-mailer/releases/tag/v6.4.24), 1 month ago) - Symfony Amazon Mailer Bridge
