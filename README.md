@@ -37,13 +37,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/Symfolit](https://github.com/Spomky-Labs/Symfolit) - The little Symfony tool that lights up your AI interactions. (today)
+- [Spomky-Labs/Symfolit](https://github.com/Spomky-Labs/Symfolit) - The little Symfony tool that lights up your AI interactions. (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 weeks ago)
-- [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) -  (3 weeks ago)
+- [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) -  (4 weeks ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (1 month ago)
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) -  (1 month ago)
