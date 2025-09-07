@@ -37,7 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/Symfolit](https://github.com/Spomky-Labs/Symfolit) - The little Symfony tool that lights up your AI interactions. (1 day ago)
+- [Spomky-Labs/Symfolit](https://github.com/Spomky-Labs/Symfolit) - The little Symfony tool that lights up your AI interactions. (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
@@ -54,11 +54,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Enhance PWA data collector and templates with improved output handling and additional details](https://github.com/Spomky-Labs/pwa-bundle/pull/348) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Features/better favicon config](https://github.com/Spomky-Labs/pwa-bundle/pull/347) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Add runtime exception for missing image processor in IconResolver](https://github.com/Spomky-Labs/pwa-bundle/pull/345) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Features/bgs queue controller](https://github.com/Spomky-Labs/pwa-bundle/pull/343) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Add background sync queue controller with message handling](https://github.com/Spomky-Labs/pwa-bundle/pull/342) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Remove unused comment for msapplication-TileImage in PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/341) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Auto locale retrieval](https://github.com/Spomky-Labs/pwa-bundle/pull/340) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Add SVG color customization and integrate UX Icons bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/339) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Features/bgs queue controller](https://github.com/Spomky-Labs/pwa-bundle/pull/343) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Add background sync queue controller with message handling](https://github.com/Spomky-Labs/pwa-bundle/pull/342) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Remove unused comment for msapplication-TileImage in PwaRuntime](https://github.com/Spomky-Labs/pwa-bundle/pull/341) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Auto locale retrieval](https://github.com/Spomky-Labs/pwa-bundle/pull/340) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Add SVG color customization and integrate UX Icons bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/339) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Implement periodic sync functionality and add helper methods for registration and notification](https://github.com/Spomky-Labs/pwa-bundle/pull/336) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -76,7 +76,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [hideki-a](https://github.com/hideki-a) (2 weeks ago)
+- [hideki-a](https://github.com/hideki-a) (3 weeks ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [chalasr](https://github.com/chalasr) (3 years ago)
 - [passbolt](https://github.com/passbolt) (4 years ago)
