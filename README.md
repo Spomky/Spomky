@@ -52,7 +52,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [[HttpFoundation] Fix BC Break introduces in `#61267` and structured suffix formats as constant](https://github.com/symfony/symfony/pull/61544) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [Enhance PWA data collector and templates with improved output handling and additional details](https://github.com/Spomky-Labs/pwa-bundle/pull/348) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [Features/better favicon config](https://github.com/Spomky-Labs/pwa-bundle/pull/347) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Features/better favicon config](https://github.com/Spomky-Labs/pwa-bundle/pull/347) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Add runtime exception for missing image processor in IconResolver](https://github.com/Spomky-Labs/pwa-bundle/pull/345) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Features/bgs queue controller](https://github.com/Spomky-Labs/pwa-bundle/pull/343) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Add background sync queue controller with message handling](https://github.com/Spomky-Labs/pwa-bundle/pull/342) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
@@ -76,7 +76,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [hideki-a](https://github.com/hideki-a) (4 weeks ago)
+- [hideki-a](https://github.com/hideki-a) (1 month ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [chalasr](https://github.com/chalasr) (3 years ago)
 - [passbolt](https://github.com/passbolt) (4 years ago)
