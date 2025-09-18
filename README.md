@@ -38,7 +38,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky-Labs/Symfolit](https://github.com/Spomky-Labs/Symfolit) - The little Symfony tool that lights up your AI interactions. (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 weeks ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 weeks ago)
@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[HttpFoundation] Fix BC Break introduces in `#61267` and structured suffix formats as constant](https://github.com/symfony/symfony/pull/61544) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
+- [[HttpFoundation] Fix BC Break introduces in `#61267` and structured suffix formats as constant](https://github.com/symfony/symfony/pull/61544) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [Enhance PWA data collector and templates with improved output handling and additional details](https://github.com/Spomky-Labs/pwa-bundle/pull/348) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Features/better favicon config](https://github.com/Spomky-Labs/pwa-bundle/pull/347) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Add runtime exception for missing image processor in IconResolver](https://github.com/Spomky-Labs/pwa-bundle/pull/345) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
