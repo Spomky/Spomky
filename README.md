@@ -63,13 +63,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.4](https://github.com/symfony/security-http/releases/tag/v7.3.4), 4 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.4](https://github.com/symfony/security-core/releases/tag/v7.3.4), 4 days ago) - Symfony Security Component - Core Library
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.4](https://github.com/symfony/mailer/releases/tag/v7.3.4), 4 days ago) - Helps sending emails
-- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.4](https://github.com/symfony/ldap/releases/tag/v7.3.4), 4 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.4](https://github.com/symfony/security-bundle/releases/tag/v7.3.4), 4 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.4](https://github.com/symfony/framework-bundle/releases/tag/v7.3.4), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 4 days ago) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.4](https://github.com/symfony/security-http/releases/tag/v7.3.4), 5 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.4](https://github.com/symfony/security-core/releases/tag/v7.3.4), 5 days ago) - Symfony Security Component - Core Library
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.4](https://github.com/symfony/mailer/releases/tag/v7.3.4), 5 days ago) - Helps sending emails
+- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.4](https://github.com/symfony/ldap/releases/tag/v7.3.4), 5 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.4](https://github.com/symfony/security-bundle/releases/tag/v7.3.4), 5 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.4](https://github.com/symfony/framework-bundle/releases/tag/v7.3.4), 5 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 5 days ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.0.6](https://github.com/web-token/jwt-framework/releases/tag/4.0.6), 1 month ago) - JWT Framework
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v6.4.24](https://github.com/symfony/amazon-mailer/releases/tag/v6.4.24), 2 months ago) - Symfony Amazon Mailer Bridge
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.11.1](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.11.1), 2 months ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
