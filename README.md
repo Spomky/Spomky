@@ -46,7 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) -  (1 month ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (2 months ago)
-- [symfony/ai-store](https://github.com/symfony/ai-store) - Low-level abstraction for storing and retrieving documents in a vector store. (2 months ago)
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) - PHP library for interacting with AI platform provider. (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
