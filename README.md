@@ -37,7 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (5 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/Symfolit](https://github.com/Spomky-Labs/Symfolit) - The little Symfony tool that lights up your AI interactions. (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 1.3.2 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/358) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Refactor favicon generation and header handling](https://github.com/Spomky-Labs/pwa-bundle/pull/357) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Merge up 1.3.1 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/355) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 - [Add context-only option for PWA asset compilation](https://github.com/Spomky-Labs/pwa-bundle/pull/354) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Features/better favicon config](https://github.com/Spomky-Labs/pwa-bundle/pull/347) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 - [Add runtime exception for missing image processor in IconResolver](https://github.com/Spomky-Labs/pwa-bundle/pull/345) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 - [Features/bgs queue controller](https://github.com/Spomky-Labs/pwa-bundle/pull/343) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
-- [Add background sync queue controller with message handling](https://github.com/Spomky-Labs/pwa-bundle/pull/342) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
