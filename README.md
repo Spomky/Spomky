@@ -37,19 +37,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/FieldLog](https://github.com/Spomky-Labs/FieldLog) - 📦 Offline-first journaling and media app built with Symfony and the PWA Bundle (3 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 days ago)
 - [Spomky-Labs/Symfolit](https://github.com/Spomky-Labs/Symfolit) - The little Symfony tool that lights up your AI interactions. (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 months ago)
-- [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) -  (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Implement CI/CD pipeline with GitHub Actions and enhance project structure](https://github.com/web-auth/cose-lib/pull/113) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [chore: update CI/CD configuration and improve code quality](https://github.com/web-auth/webauthn-framework/pull/736) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Refactor method signatures to include return types in tests and classes](https://github.com/Spomky-Labs/pki-framework/pull/71) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Refactor getAAD method return type from nullable to non-nullable string](https://github.com/web-token/jwt-framework/pull/638) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add context-only option for PWA asset compilation](https://github.com/Spomky-Labs/pwa-bundle/pull/354) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Remove debug dump for SVG images in ImagickImageProcessor](https://github.com/Spomky-Labs/pwa-bundle/pull/352) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [[HttpFoundation] Fix BC Break introduces in `#61267` and structured suffix formats as constant](https://github.com/symfony/symfony/pull/61544) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- [Enhance PWA data collector and templates with improved output handling and additional details](https://github.com/Spomky-Labs/pwa-bundle/pull/348) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
