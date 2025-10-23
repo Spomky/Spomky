@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 1.3.3 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/365) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Refactor favicon asset retrieval to use file_get_contents instead of Filesystem](https://github.com/Spomky-Labs/pwa-bundle/pull/364) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add normalization for image processor configuration option](https://github.com/Spomky-Labs/pwa-bundle/pull/363) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Merge up 1.3.3 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/362) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Fix manifest status](https://github.com/Spomky-Labs/pwa-bundle/pull/361) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
@@ -58,14 +60,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [chore: update CI/CD configuration and improve code quality](https://github.com/web-auth/webauthn-framework/pull/736) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Refactor method signatures to include return types in tests and classes](https://github.com/Spomky-Labs/pki-framework/pull/71) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [Refactor getAAD method return type from nullable to non-nullable string](https://github.com/web-token/jwt-framework/pull/638) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Merge up 1.3.2 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/358) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [Refactor favicon generation and header handling](https://github.com/Spomky-Labs/pwa-bundle/pull/357) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.3](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.3), today) - PHP library for generating a full featured PWA manifest
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.0), 1 day ago) - Public Key Infrastructure
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.0](https://github.com/web-token/jwt-framework/releases/tag/4.1.0), 1 day ago) - JWT Framework
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.2](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.2), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.4](https://github.com/symfony/security-http/releases/tag/v7.3.4), 3 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.4](https://github.com/symfony/security-core/releases/tag/v7.3.4), 3 weeks ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.4](https://github.com/symfony/mailer/releases/tag/v7.3.4), 3 weeks ago) - Helps sending emails
