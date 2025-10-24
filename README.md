@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Make translator parameter optional and update translation handling](https://github.com/Spomky-Labs/pwa-bundle/pull/367) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Update crossorigin attribute handling for manifest links](https://github.com/Spomky-Labs/pwa-bundle/pull/366) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add PWA configuration files for SpomkyLabs PwaBundle](https://github.com/symfony/recipes-contrib/pull/1873) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (today)
 - [Merge up 1.3.3 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/365) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Refactor favicon asset retrieval to use file_get_contents instead of Filesystem](https://github.com/Spomky-Labs/pwa-bundle/pull/364) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -58,12 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix manifest status](https://github.com/Spomky-Labs/pwa-bundle/pull/361) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Add context-only option to compile command for selective asset compilation](https://github.com/Spomky-Labs/pwa-bundle/pull/360) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Implement CI/CD pipeline with GitHub Actions and enhance project structure](https://github.com/web-auth/cose-lib/pull/113) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 days ago)
-- [chore: update CI/CD configuration and improve code quality](https://github.com/web-auth/webauthn-framework/pull/736) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [Refactor method signatures to include return types in tests and classes](https://github.com/Spomky-Labs/pki-framework/pull/71) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.3](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.3), 1 day ago) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.4), today) - PHP library for generating a full featured PWA manifest
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.0), 2 days ago) - Public Key Infrastructure
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.0](https://github.com/web-token/jwt-framework/releases/tag/4.1.0), 2 days ago) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.4](https://github.com/symfony/security-http/releases/tag/v7.3.4), 3 weeks ago) - Symfony Security Component - HTTP Integration
