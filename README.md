@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add PWA configuration files for SpomkyLabs PwaBundle](https://github.com/symfony/recipes-contrib/pull/1873) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (today)
 - [Merge up 1.3.3 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/365) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Refactor favicon asset retrieval to use file_get_contents instead of Filesystem](https://github.com/Spomky-Labs/pwa-bundle/pull/364) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Add normalization for image processor configuration option](https://github.com/Spomky-Labs/pwa-bundle/pull/363) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Implement CI/CD pipeline with GitHub Actions and enhance project structure](https://github.com/web-auth/cose-lib/pull/113) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 days ago)
 - [chore: update CI/CD configuration and improve code quality](https://github.com/web-auth/webauthn-framework/pull/736) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [Refactor method signatures to include return types in tests and classes](https://github.com/Spomky-Labs/pki-framework/pull/71) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 days ago)
-- [Refactor getAAD method return type from nullable to non-nullable string](https://github.com/web-token/jwt-framework/pull/638) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
