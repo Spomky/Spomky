@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 days ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 days ago)
 - [Spomky-Labs/FieldLog](https://github.com/Spomky-Labs/FieldLog) - 📦 Offline-first journaling and media app built with Symfony and the PWA Bundle (6 days ago)
@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unused functions and enhance PHPQA integration](https://github.com/web-auth/webauthn-framework/pull/741) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Make translator parameter optional and update translation handling](https://github.com/Spomky-Labs/pwa-bundle/pull/367) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Update crossorigin attribute handling for manifest links](https://github.com/Spomky-Labs/pwa-bundle/pull/366) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Add PWA configuration files for SpomkyLabs PwaBundle](https://github.com/symfony/recipes-contrib/pull/1873) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 1.3.3 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/362) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Fix manifest status](https://github.com/Spomky-Labs/pwa-bundle/pull/361) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Add context-only option to compile command for selective asset compilation](https://github.com/Spomky-Labs/pwa-bundle/pull/360) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Implement CI/CD pipeline with GitHub Actions and enhance project structure](https://github.com/web-auth/cose-lib/pull/113) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
