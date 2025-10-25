@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 days ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 days ago)
-- [Spomky-Labs/FieldLog](https://github.com/Spomky-Labs/FieldLog) - 📦 Offline-first journaling and media app built with Symfony and the PWA Bundle (5 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 days ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 days ago)
+- [Spomky-Labs/FieldLog](https://github.com/Spomky-Labs/FieldLog) - 📦 Offline-first journaling and media app built with Symfony and the PWA Bundle (6 days ago)
 - [Spomky-Labs/Symfolit](https://github.com/Spomky-Labs/Symfolit) - The little Symfony tool that lights up your AI interactions. (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Make translator parameter optional and update translation handling](https://github.com/Spomky-Labs/pwa-bundle/pull/367) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Update crossorigin attribute handling for manifest links](https://github.com/Spomky-Labs/pwa-bundle/pull/366) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Add PWA configuration files for SpomkyLabs PwaBundle](https://github.com/symfony/recipes-contrib/pull/1873) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (today)
-- [Merge up 1.3.3 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/365) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Refactor favicon asset retrieval to use file_get_contents instead of Filesystem](https://github.com/Spomky-Labs/pwa-bundle/pull/364) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add normalization for image processor configuration option](https://github.com/Spomky-Labs/pwa-bundle/pull/363) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Merge up 1.3.3 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/362) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Fix manifest status](https://github.com/Spomky-Labs/pwa-bundle/pull/361) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add context-only option to compile command for selective asset compilation](https://github.com/Spomky-Labs/pwa-bundle/pull/360) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Implement CI/CD pipeline with GitHub Actions and enhance project structure](https://github.com/web-auth/cose-lib/pull/113) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 days ago)
+- [Make translator parameter optional and update translation handling](https://github.com/Spomky-Labs/pwa-bundle/pull/367) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Update crossorigin attribute handling for manifest links](https://github.com/Spomky-Labs/pwa-bundle/pull/366) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Add PWA configuration files for SpomkyLabs PwaBundle](https://github.com/symfony/recipes-contrib/pull/1873) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 day ago)
+- [Merge up 1.3.3 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/365) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Refactor favicon asset retrieval to use file_get_contents instead of Filesystem](https://github.com/Spomky-Labs/pwa-bundle/pull/364) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Add normalization for image processor configuration option](https://github.com/Spomky-Labs/pwa-bundle/pull/363) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Merge up 1.3.3 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/362) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Fix manifest status](https://github.com/Spomky-Labs/pwa-bundle/pull/361) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Add context-only option to compile command for selective asset compilation](https://github.com/Spomky-Labs/pwa-bundle/pull/360) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Implement CI/CD pipeline with GitHub Actions and enhance project structure](https://github.com/web-auth/cose-lib/pull/113) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.4), today) - PHP library for generating a full featured PWA manifest
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.0), 2 days ago) - Public Key Infrastructure
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.0](https://github.com/web-token/jwt-framework/releases/tag/4.1.0), 2 days ago) - JWT Framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.4](https://github.com/symfony/security-http/releases/tag/v7.3.4), 3 weeks ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.4](https://github.com/symfony/security-core/releases/tag/v7.3.4), 3 weeks ago) - Symfony Security Component - Core Library
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.4](https://github.com/symfony/mailer/releases/tag/v7.3.4), 3 weeks ago) - Helps sending emails
-- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.4](https://github.com/symfony/ldap/releases/tag/v7.3.4), 3 weeks ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.4](https://github.com/symfony/security-bundle/releases/tag/v7.3.4), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.4](https://github.com/symfony/framework-bundle/releases/tag/v7.3.4), 3 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 3 weeks ago) - The Symfony PHP framework
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.4), 1 day ago) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.0), 3 days ago) - Public Key Infrastructure
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.0](https://github.com/web-token/jwt-framework/releases/tag/4.1.0), 3 days ago) - JWT Framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.4](https://github.com/symfony/security-http/releases/tag/v7.3.4), 4 weeks ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.4](https://github.com/symfony/security-core/releases/tag/v7.3.4), 4 weeks ago) - Symfony Security Component - Core Library
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.4](https://github.com/symfony/mailer/releases/tag/v7.3.4), 4 weeks ago) - Helps sending emails
+- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.4](https://github.com/symfony/ldap/releases/tag/v7.3.4), 4 weeks ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.4](https://github.com/symfony/security-bundle/releases/tag/v7.3.4), 4 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.4](https://github.com/symfony/framework-bundle/releases/tag/v7.3.4), 4 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 4 weeks ago) - The Symfony PHP framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
