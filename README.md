@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat: deprecate createFormJson method with no replacement](https://github.com/web-auth/webauthn-framework/pull/746) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [feat: deprecate PublicKeyCredentialRpEntity name property and update related tests](https://github.com/web-auth/webauthn-framework/pull/745) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat: add new authenticator transport constants and deprecate AUTHENTICATOR_TRANSPORT_CABLE](https://github.com/web-auth/webauthn-framework/pull/744) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Remove TS in favor of JS](https://github.com/web-auth/webauthn-framework/pull/743) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Remove unused functions and enhance PHPQA integration](https://github.com/web-auth/webauthn-framework/pull/741) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add PWA configuration files for SpomkyLabs PwaBundle](https://github.com/symfony/recipes-contrib/pull/1873) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (2 days ago)
 - [Merge up 1.3.3 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/365) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [Refactor favicon asset retrieval to use file_get_contents instead of Filesystem](https://github.com/Spomky-Labs/pwa-bundle/pull/364) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Add normalization for image processor configuration option](https://github.com/Spomky-Labs/pwa-bundle/pull/363) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Merge up 1.3.3 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/362) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
