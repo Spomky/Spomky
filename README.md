@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.4), 2 days ago) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.5), today) - PHP library for generating a full featured PWA manifest
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.0), 4 days ago) - Public Key Infrastructure
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.0](https://github.com/web-token/jwt-framework/releases/tag/4.1.0), 4 days ago) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.4](https://github.com/symfony/security-http/releases/tag/v7.3.4), 4 weeks ago) - Symfony Security Component - HTTP Integration
