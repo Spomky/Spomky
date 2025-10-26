@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add hints support to PublicKeyCredential options and update related tests](https://github.com/web-auth/webauthn-framework/pull/750) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [feat: implement Compound Attestation Statement support and related interfaces](https://github.com/web-auth/webauthn-framework/pull/749) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Conditional create](https://github.com/web-auth/webauthn-framework/pull/748) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [New Stimulus Controllers](https://github.com/web-auth/webauthn-framework/pull/747) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat: deprecate createFormJson method with no replacement](https://github.com/web-auth/webauthn-framework/pull/746) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Remove TS in favor of JS](https://github.com/web-auth/webauthn-framework/pull/743) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Remove unused functions and enhance PHPQA integration](https://github.com/web-auth/webauthn-framework/pull/741) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Make translator parameter optional and update translation handling](https://github.com/Spomky-Labs/pwa-bundle/pull/367) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Update crossorigin attribute handling for manifest links](https://github.com/Spomky-Labs/pwa-bundle/pull/366) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add PWA configuration files for SpomkyLabs PwaBundle](https://github.com/symfony/recipes-contrib/pull/1873) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
