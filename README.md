@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.4.0-BETA1](https://github.com/symfony/security-http/releases/tag/v7.4.0-BETA1), today) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0-BETA1](https://github.com/symfony/security-core/releases/tag/v7.4.0-BETA1), today) - Symfony Security Component - Core Library
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.4.0-BETA1](https://github.com/symfony/amazon-mailer/releases/tag/v7.4.0-BETA1), today) - Symfony Amazon Mailer Bridge
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.4.0-BETA1](https://github.com/symfony/mailer/releases/tag/v7.4.0-BETA1), today) - Helps sending emails
+- [symfony/ldap](https://github.com/symfony/ldap) ([v7.4.0-BETA1](https://github.com/symfony/ldap/releases/tag/v7.4.0-BETA1), today) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.4.0-BETA1](https://github.com/symfony/security-bundle/releases/tag/v7.4.0-BETA1), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.4.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v7.4.0-BETA1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.4.0-BETA1), today) - The Symfony PHP framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.5), 1 day ago) - PHP library for generating a full featured PWA manifest
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.0), 5 days ago) - Public Key Infrastructure
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.0](https://github.com/web-token/jwt-framework/releases/tag/4.1.0), 5 days ago) - JWT Framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.4](https://github.com/symfony/security-http/releases/tag/v7.3.4), 1 month ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.4](https://github.com/symfony/security-core/releases/tag/v7.3.4), 1 month ago) - Symfony Security Component - Core Library
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.4](https://github.com/symfony/mailer/releases/tag/v7.3.4), 1 month ago) - Helps sending emails
-- [symfony/ldap](https://github.com/symfony/ldap) ([v7.3.4](https://github.com/symfony/ldap/releases/tag/v7.3.4), 1 month ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.4](https://github.com/symfony/security-bundle/releases/tag/v7.3.4), 1 month ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.4](https://github.com/symfony/framework-bundle/releases/tag/v7.3.4), 1 month ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 1 month ago) - The Symfony PHP framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
