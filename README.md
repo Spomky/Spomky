@@ -42,8 +42,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (6 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 week ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/FieldLog](https://github.com/Spomky-Labs/FieldLog) - 📦 Offline-first journaling and media app built with Symfony and the PWA Bundle (1 week ago)
 - [Spomky-Labs/Symfolit](https://github.com/Spomky-Labs/Symfolit) - The little Symfony tool that lights up your AI interactions. (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
@@ -70,9 +70,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 2 days ago) - The Symfony PHP framework
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v8.0.0-BETA1](https://github.com/symfony/amazon-mailer/releases/tag/v8.0.0-BETA1), 2 days ago) - Symfony Amazon Mailer Bridge
 - [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-BETA1](https://github.com/symfony/ldap/releases/tag/v8.0.0-BETA1), 2 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.0-BETA1](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.0-BETA1), 2 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-BETA1](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-BETA1), 2 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.5), 4 days ago) - PHP library for generating a full featured PWA manifest
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.0), 1 week ago) - Public Key Infrastructure
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
