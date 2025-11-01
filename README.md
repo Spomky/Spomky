@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (3 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (4 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (5 days ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
@@ -50,29 +50,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [PKCS =&gt; Credential Record](https://github.com/web-auth/webauthn-framework/pull/751) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [feat: add hints support to PublicKeyCredential options and update related tests](https://github.com/web-auth/webauthn-framework/pull/750) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [feat: implement Compound Attestation Statement support and related interfaces](https://github.com/web-auth/webauthn-framework/pull/749) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [Conditional create](https://github.com/web-auth/webauthn-framework/pull/748) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [New Stimulus Controllers](https://github.com/web-auth/webauthn-framework/pull/747) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [feat: deprecate createFormJson method with no replacement](https://github.com/web-auth/webauthn-framework/pull/746) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [feat: deprecate PublicKeyCredentialRpEntity name property and update related tests](https://github.com/web-auth/webauthn-framework/pull/745) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [feat: add new authenticator transport constants and deprecate AUTHENTICATOR_TRANSPORT_CABLE](https://github.com/web-auth/webauthn-framework/pull/744) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [Remove TS in favor of JS](https://github.com/web-auth/webauthn-framework/pull/743) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [Remove unused functions and enhance PHPQA integration](https://github.com/web-auth/webauthn-framework/pull/741) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [PKCS =&gt; Credential Record](https://github.com/web-auth/webauthn-framework/pull/751) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [feat: add hints support to PublicKeyCredential options and update related tests](https://github.com/web-auth/webauthn-framework/pull/750) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [feat: implement Compound Attestation Statement support and related interfaces](https://github.com/web-auth/webauthn-framework/pull/749) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Conditional create](https://github.com/web-auth/webauthn-framework/pull/748) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [New Stimulus Controllers](https://github.com/web-auth/webauthn-framework/pull/747) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [feat: deprecate createFormJson method with no replacement](https://github.com/web-auth/webauthn-framework/pull/746) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [feat: deprecate PublicKeyCredentialRpEntity name property and update related tests](https://github.com/web-auth/webauthn-framework/pull/745) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [feat: add new authenticator transport constants and deprecate AUTHENTICATOR_TRANSPORT_CABLE](https://github.com/web-auth/webauthn-framework/pull/744) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Remove TS in favor of JS](https://github.com/web-auth/webauthn-framework/pull/743) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Remove unused functions and enhance PHPQA integration](https://github.com/web-auth/webauthn-framework/pull/741) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.5](https://github.com/symfony/security-http/releases/tag/v7.3.5), 3 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.5](https://github.com/symfony/security-core/releases/tag/v7.3.5), 3 days ago) - Symfony Security Component - Core Library
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.5](https://github.com/symfony/mailer/releases/tag/v7.3.5), 3 days ago) - Helps sending emails
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.5](https://github.com/symfony/framework-bundle/releases/tag/v7.3.5), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 3 days ago) - The Symfony PHP framework
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v8.0.0-BETA1](https://github.com/symfony/amazon-mailer/releases/tag/v8.0.0-BETA1), 3 days ago) - Symfony Amazon Mailer Bridge
-- [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-BETA1](https://github.com/symfony/ldap/releases/tag/v8.0.0-BETA1), 3 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.0-BETA1](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.0-BETA1), 3 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-BETA1](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-BETA1), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.5), 5 days ago) - PHP library for generating a full featured PWA manifest
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.5](https://github.com/symfony/security-http/releases/tag/v7.3.5), 4 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.5](https://github.com/symfony/security-core/releases/tag/v7.3.5), 4 days ago) - Symfony Security Component - Core Library
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.5](https://github.com/symfony/mailer/releases/tag/v7.3.5), 4 days ago) - Helps sending emails
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.5](https://github.com/symfony/framework-bundle/releases/tag/v7.3.5), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 4 days ago) - The Symfony PHP framework
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v8.0.0-BETA1](https://github.com/symfony/amazon-mailer/releases/tag/v8.0.0-BETA1), 4 days ago) - Symfony Amazon Mailer Bridge
+- [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-BETA1](https://github.com/symfony/ldap/releases/tag/v8.0.0-BETA1), 4 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.0-BETA1](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.0-BETA1), 4 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-BETA1](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-BETA1), 4 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.5), 6 days ago) - PHP library for generating a full featured PWA manifest
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
