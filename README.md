@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Symfony 8 and PHP8.1 support](https://github.com/Spomky-Labs/pwa-bundle/pull/371) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Symfony 8 support](https://github.com/Spomky-Labs/pwa-bundle/pull/371) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Merge up 1.3.5 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/370) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [PKCS =&gt; Credential Record](https://github.com/web-auth/webauthn-framework/pull/751) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [feat: add hints support to PublicKeyCredential options and update related tests](https://github.com/web-auth/webauthn-framework/pull/750) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
