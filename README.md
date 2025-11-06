@@ -63,10 +63,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v6.4.28](https://github.com/symfony/html-sanitizer/releases/tag/v6.4.28), today) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.28](https://github.com/symfony/symfony/releases/tag/v6.4.28), today) - The Symfony PHP framework
 - [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-BETA2](https://github.com/symfony/ldap/releases/tag/v8.0.0-BETA2), 4 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.0-BETA2](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.0-BETA2), 4 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-BETA2), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.0.0-BETA2), 4 days ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.5](https://github.com/symfony/security-http/releases/tag/v7.3.5), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.5](https://github.com/symfony/security-core/releases/tag/v7.3.5), 1 week ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.5](https://github.com/symfony/mailer/releases/tag/v7.3.5), 1 week ago) - Helps sending emails
