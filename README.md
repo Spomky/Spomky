@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add CI/CD configuration and update project structure](https://github.com/Spomky-Labs/cbor-php/pull/83) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Merge up 3.1.1 to 3.2.x](https://github.com/Spomky-Labs/cbor-php/pull/82) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Enhance speech synthesis controller with additional properties and methods](https://github.com/Spomky-Labs/pwa-bundle/pull/388) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 - [Speech Synthesis Stimulus Controller](https://github.com/Spomky-Labs/pwa-bundle/pull/387) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
@@ -59,10 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat: add hints support to PublicKeyCredential options and update related tests](https://github.com/web-auth/webauthn-framework/pull/750) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [feat: implement Compound Attestation Statement support and related interfaces](https://github.com/web-auth/webauthn-framework/pull/749) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Conditional create](https://github.com/web-auth/webauthn-framework/pull/748) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [New Stimulus Controllers](https://github.com/web-auth/webauthn-framework/pull/747) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.0), today) - CBOR Encoder/Decoder for PHP
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v7.3.6](https://github.com/symfony/html-sanitizer/releases/tag/v7.3.6), 1 day ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.6](https://github.com/symfony/framework-bundle/releases/tag/v7.3.6), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.6](https://github.com/symfony/symfony/releases/tag/v7.3.6), 1 day ago) - The Symfony PHP framework
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.5](https://github.com/symfony/mailer/releases/tag/v7.3.5), 1 week ago) - Helps sending emails
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v8.0.0-BETA1](https://github.com/symfony/amazon-mailer/releases/tag/v8.0.0-BETA1), 1 week ago) - Symfony Amazon Mailer Bridge
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-BETA1](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-BETA1), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.5), 1 week ago) - PHP library for generating a full featured PWA manifest
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
