@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (today)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (today)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (3 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (5 days ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (6 days ago)
@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Features/fixes and improvements](https://github.com/Spomky-Labs/cbor-bundle/pull/58) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
+- [feat: introduce CBOREncoder class](https://github.com/Spomky-Labs/cbor-bundle/pull/57) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
 - [chore: update CI configurations, add new YAML files, and enhance PHP …](https://github.com/Spomky-Labs/cbor-bundle/pull/50) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
 - [Add CI/CD configuration and update project structure](https://github.com/Spomky-Labs/cbor-php/pull/83) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Merge up 3.1.1 to 3.2.x](https://github.com/Spomky-Labs/cbor-php/pull/82) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Symfony 8 support](https://github.com/Spomky-Labs/pwa-bundle/pull/371) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Merge up 1.3.5 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/370) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [PKCS =&gt; Credential Record](https://github.com/web-auth/webauthn-framework/pull/751) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [feat: add hints support to PublicKeyCredential options and update related tests](https://github.com/web-auth/webauthn-framework/pull/750) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [feat: implement Compound Attestation Statement support and related interfaces](https://github.com/web-auth/webauthn-framework/pull/749) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
