@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Enhance project configuration and add new files for improved coding s…](https://github.com/Spomky-Labs/otphp/pull/243) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
 - [Features/fixes and improvements](https://github.com/Spomky-Labs/cbor-bundle/pull/58) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
 - [feat: introduce CBOREncoder class](https://github.com/Spomky-Labs/cbor-bundle/pull/57) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
 - [chore: update CI configurations, add new YAML files, and enhance PHP …](https://github.com/Spomky-Labs/cbor-bundle/pull/50) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Speech Synthesis Stimulus Controller](https://github.com/Spomky-Labs/pwa-bundle/pull/387) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 - [Symfony 8 support](https://github.com/Spomky-Labs/pwa-bundle/pull/371) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Merge up 1.3.5 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/370) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [PKCS =&gt; Credential Record](https://github.com/web-auth/webauthn-framework/pull/751) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
