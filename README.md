@@ -37,25 +37,25 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 days ago)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (2 days ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (5 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 days ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (3 days ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (6 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (1 week ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Enhance project configuration and add new files for improved coding s…](https://github.com/Spomky-Labs/otphp/pull/243) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 days ago)
-- [Features/fixes and improvements](https://github.com/Spomky-Labs/cbor-bundle/pull/58) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (2 days ago)
-- [feat: introduce CBOREncoder class](https://github.com/Spomky-Labs/cbor-bundle/pull/57) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (2 days ago)
-- [chore: update CI configurations, add new YAML files, and enhance PHP …](https://github.com/Spomky-Labs/cbor-bundle/pull/50) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (2 days ago)
-- [Add CI/CD configuration and update project structure](https://github.com/Spomky-Labs/cbor-php/pull/83) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
-- [Merge up 3.1.1 to 3.2.x](https://github.com/Spomky-Labs/cbor-php/pull/82) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
+- [Enhance project configuration and add new files for improved coding s…](https://github.com/Spomky-Labs/otphp/pull/243) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 days ago)
+- [Features/fixes and improvements](https://github.com/Spomky-Labs/cbor-bundle/pull/58) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (3 days ago)
+- [feat: introduce CBOREncoder class](https://github.com/Spomky-Labs/cbor-bundle/pull/57) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (3 days ago)
+- [chore: update CI configurations, add new YAML files, and enhance PHP …](https://github.com/Spomky-Labs/cbor-bundle/pull/50) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (3 days ago)
+- [Add CI/CD configuration and update project structure](https://github.com/Spomky-Labs/cbor-php/pull/83) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
+- [Merge up 3.1.1 to 3.2.x](https://github.com/Spomky-Labs/cbor-php/pull/82) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
 - [Enhance speech synthesis controller with additional properties and methods](https://github.com/Spomky-Labs/pwa-bundle/pull/388) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Speech Synthesis Stimulus Controller](https://github.com/Spomky-Labs/pwa-bundle/pull/387) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Symfony 8 support](https://github.com/Spomky-Labs/pwa-bundle/pull/371) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
@@ -63,10 +63,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.0), 2 days ago) - CBOR Encoder/Decoder for PHP
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v7.3.6](https://github.com/symfony/html-sanitizer/releases/tag/v7.3.6), 3 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.6](https://github.com/symfony/framework-bundle/releases/tag/v7.3.6), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.6](https://github.com/symfony/symfony/releases/tag/v7.3.6), 3 days ago) - The Symfony PHP framework
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.0), 3 days ago) - CBOR Encoder/Decoder for PHP
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v7.3.6](https://github.com/symfony/html-sanitizer/releases/tag/v7.3.6), 4 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.6](https://github.com/symfony/framework-bundle/releases/tag/v7.3.6), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.6](https://github.com/symfony/symfony/releases/tag/v7.3.6), 4 days ago) - The Symfony PHP framework
 - [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-BETA2](https://github.com/symfony/ldap/releases/tag/v8.0.0-BETA2), 1 week ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.5](https://github.com/symfony/security-http/releases/tag/v7.3.5), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.5](https://github.com/symfony/security-core/releases/tag/v7.3.5), 1 week ago) - Symfony Security Component - Core Library
