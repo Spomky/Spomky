@@ -63,10 +63,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.7](https://github.com/symfony/symfony/releases/tag/v7.3.7), today) - The Symfony PHP framework
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.0), 5 days ago) - CBOR Encoder/Decoder for PHP
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v7.3.6](https://github.com/symfony/html-sanitizer/releases/tag/v7.3.6), 6 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.6](https://github.com/symfony/framework-bundle/releases/tag/v7.3.6), 6 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.6](https://github.com/symfony/symfony/releases/tag/v7.3.6), 6 days ago) - The Symfony PHP framework
 - [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-BETA2](https://github.com/symfony/ldap/releases/tag/v8.0.0-BETA2), 1 week ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.5](https://github.com/symfony/security-http/releases/tag/v7.3.5), 2 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.5](https://github.com/symfony/security-core/releases/tag/v7.3.5), 2 weeks ago) - Symfony Security Component - Core Library
