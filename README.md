@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 days ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (6 days ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (6 days ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Normalize integer values to strings in various objects and tests](https://github.com/Spomky-Labs/cbor-php/pull/86) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Update CI configuration to trigger on all version branches](https://github.com/web-token/jwt-framework/pull/643) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Merge up 4.0.x to 4.1.x](https://github.com/web-token/jwt-framework/pull/642) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Enhance key operations validation in UsageAnalyzer and add unit tests](https://github.com/web-token/jwt-framework/pull/641) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
@@ -59,12 +60,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [chore: update CI configurations, add new YAML files, and enhance PHP …](https://github.com/Spomky-Labs/cbor-bundle/pull/50) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
 - [Add CI/CD configuration and update project structure](https://github.com/Spomky-Labs/cbor-php/pull/83) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
 - [Merge up 3.1.1 to 3.2.x](https://github.com/Spomky-Labs/cbor-php/pull/82) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
-- [Enhance speech synthesis controller with additional properties and methods](https://github.com/Spomky-Labs/pwa-bundle/pull/388) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.1), today) - CBOR Encoder/Decoder for PHP
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.7](https://github.com/symfony/symfony/releases/tag/v7.3.7), 1 day ago) - The Symfony PHP framework
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.0), 6 days ago) - CBOR Encoder/Decoder for PHP
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v7.3.6](https://github.com/symfony/html-sanitizer/releases/tag/v7.3.6), 1 week ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.6](https://github.com/symfony/framework-bundle/releases/tag/v7.3.6), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-BETA2](https://github.com/symfony/ldap/releases/tag/v8.0.0-BETA2), 1 week ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
