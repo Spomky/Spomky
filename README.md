@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add comprehensive documentation for CBOR PHP library and update README](https://github.com/Spomky-Labs/cbor-php/pull/96) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Remove readonly modifier from properties in various CBOR object classes](https://github.com/Spomky-Labs/cbor-php/pull/90) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Refactor tag creation methods to return self and improve error handling in hex2bin conversion](https://github.com/Spomky-Labs/cbor-php/pull/89) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Features/float from native](https://github.com/Spomky-Labs/cbor-php/pull/88) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
@@ -59,20 +60,19 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 4.0.x to 4.1.x](https://github.com/web-token/jwt-framework/pull/642) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Enhance key operations validation in UsageAnalyzer and add unit tests](https://github.com/web-token/jwt-framework/pull/641) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Enhance project configuration and add new files for improved coding s…](https://github.com/Spomky-Labs/otphp/pull/243) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (6 days ago)
-- [Features/fixes and improvements](https://github.com/Spomky-Labs/cbor-bundle/pull/58) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v8.0.0-RC1](https://github.com/symfony/amazon-mailer/releases/tag/v8.0.0-RC1), today) - Symfony Amazon Mailer Bridge
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.0-RC1](https://github.com/symfony/mailer/releases/tag/v8.0.0-RC1), today) - Helps sending emails
+- [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-RC1](https://github.com/symfony/ldap/releases/tag/v8.0.0-RC1), today) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.0-RC1](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.0-RC1), today) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-RC1](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-RC1), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-RC1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1), today) - The Symfony PHP framework
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.2](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.2), today) - CBOR Encoder/Decoder for PHP
 - [symfony/security-http](https://github.com/symfony/security-http) ([v7.4.0-RC1](https://github.com/symfony/security-http/releases/tag/v7.4.0-RC1), today) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0-RC1](https://github.com/symfony/security-core/releases/tag/v7.4.0-RC1), today) - Symfony Security Component - Core Library
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.4.0-RC1](https://github.com/symfony/amazon-mailer/releases/tag/v7.4.0-RC1), today) - Symfony Amazon Mailer Bridge
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.4.0-RC1](https://github.com/symfony/mailer/releases/tag/v7.4.0-RC1), today) - Helps sending emails
-- [symfony/ldap](https://github.com/symfony/ldap) ([v7.4.0-RC1](https://github.com/symfony/ldap/releases/tag/v7.4.0-RC1), today) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v7.4.0-RC1](https://github.com/symfony/html-sanitizer/releases/tag/v7.4.0-RC1), today) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.4.0-RC1](https://github.com/symfony/security-bundle/releases/tag/v7.4.0-RC1), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.4.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v7.4.0-RC1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.4.0-RC1), today) - The Symfony PHP framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
