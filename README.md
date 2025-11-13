@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat: initialize NPM package and add publishing workflow](https://github.com/web-auth/webauthn-framework/pull/760) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Add comprehensive documentation for CBOR PHP library and update README](https://github.com/Spomky-Labs/cbor-php/pull/96) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Remove readonly modifier from properties in various CBOR object classes](https://github.com/Spomky-Labs/cbor-php/pull/90) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Refactor tag creation methods to return self and improve error handling in hex2bin conversion](https://github.com/Spomky-Labs/cbor-php/pull/89) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update CI configuration to trigger on all version branches](https://github.com/web-token/jwt-framework/pull/643) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Merge up 4.0.x to 4.1.x](https://github.com/web-token/jwt-framework/pull/642) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [Enhance key operations validation in UsageAnalyzer and add unit tests](https://github.com/web-token/jwt-framework/pull/641) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Enhance project configuration and add new files for improved coding s…](https://github.com/Spomky-Labs/otphp/pull/243) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
