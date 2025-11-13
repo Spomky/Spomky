@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add backup eligibility and status events to authenticator response validation](https://github.com/web-auth/webauthn-framework/pull/762) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat: add requireResidentKey property for backward compatibility with WebAuthn Level 3 spec](https://github.com/web-auth/webauthn-framework/pull/761) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat: initialize NPM package and add publishing workflow](https://github.com/web-auth/webauthn-framework/pull/760) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Add comprehensive documentation for CBOR PHP library and update README](https://github.com/Spomky-Labs/cbor-php/pull/96) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix: normalize numeric strings in CBOR decoding and improve error handling](https://github.com/Spomky-Labs/cbor-bundle/pull/59) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
 - [Normalize integer values to strings in various objects and tests](https://github.com/Spomky-Labs/cbor-php/pull/86) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Update CI configuration to trigger on all version branches](https://github.com/web-token/jwt-framework/pull/643) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Merge up 4.0.x to 4.1.x](https://github.com/web-token/jwt-framework/pull/642) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
