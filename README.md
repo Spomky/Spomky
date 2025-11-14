@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update doctrine/doctrine-bundle requirement to support version 3.0](https://github.com/web-auth/webauthn-framework/pull/764) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat: update Symfony dependencies to support version 8.0](https://github.com/web-auth/webauthn-framework/pull/763) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat: add backup eligibility and status events to authenticator response validation](https://github.com/web-auth/webauthn-framework/pull/762) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [feat: add requireResidentKey property for backward compatibility with WebAuthn Level 3 spec](https://github.com/web-auth/webauthn-framework/pull/761) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Refactor tag creation methods to return self and improve error handling in hex2bin conversion](https://github.com/Spomky-Labs/cbor-php/pull/89) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 day ago)
 - [Features/float from native](https://github.com/Spomky-Labs/cbor-php/pull/88) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 day ago)
 - [fix: normalize numeric strings in CBOR decoding and improve error handling](https://github.com/Spomky-Labs/cbor-bundle/pull/59) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (1 day ago)
-- [Normalize integer values to strings in various objects and tests](https://github.com/Spomky-Labs/cbor-php/pull/86) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
