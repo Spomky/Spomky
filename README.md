@@ -63,15 +63,15 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.0-RC2](https://github.com/symfony/security-http/releases/tag/v8.0.0-RC2), today) - Symfony Security Component - HTTP Integration
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-RC2](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-RC2), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-RC2), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC2), today) - The Symfony PHP framework
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v8.0.0-RC1](https://github.com/symfony/amazon-mailer/releases/tag/v8.0.0-RC1), 3 days ago) - Symfony Amazon Mailer Bridge
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.0-RC1](https://github.com/symfony/mailer/releases/tag/v8.0.0-RC1), 3 days ago) - Helps sending emails
 - [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-RC1](https://github.com/symfony/ldap/releases/tag/v8.0.0-RC1), 3 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.0-RC1](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.0-RC1), 3 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-RC1](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-RC1), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-RC1), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1), 3 days ago) - The Symfony PHP framework
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.2](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.2), 3 days ago) - CBOR Encoder/Decoder for PHP
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.4.0-RC1](https://github.com/symfony/security-http/releases/tag/v7.4.0-RC1), 3 days ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0-RC1](https://github.com/symfony/security-core/releases/tag/v7.4.0-RC1), 3 days ago) - Symfony Security Component - Core Library
 
 #### ❤️ These awesome people sponsor me (thank you!)
