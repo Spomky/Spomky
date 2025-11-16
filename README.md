@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update doctrine bundle configuration and dependencies for compatibility](https://github.com/web-auth/webauthn-framework/pull/766) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [refactor: improve test method names and update PHPUnit configuration](https://github.com/web-auth/webauthn-framework/pull/765) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Add initial implementation of Web APIs Stimulus Controllers and CI for NPM publishing](https://github.com/Spomky-Labs/pwa-bundle/pull/389) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [feat: update doctrine/doctrine-bundle requirement to support version 3.0](https://github.com/web-auth/webauthn-framework/pull/764) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat: initialize NPM package and add publishing workflow](https://github.com/web-auth/webauthn-framework/pull/760) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Add comprehensive documentation for CBOR PHP library and update README](https://github.com/Spomky-Labs/cbor-php/pull/96) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
 - [Remove readonly modifier from properties in various CBOR object classes](https://github.com/Spomky-Labs/cbor-php/pull/90) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
-- [Refactor tag creation methods to return self and improve error handling in hex2bin conversion](https://github.com/Spomky-Labs/cbor-php/pull/89) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
