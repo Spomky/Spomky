@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (3 days ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 days ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 days ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (4 days ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (4 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (4 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (5 days ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 weeks ago)
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update doctrine bundle configuration and dependencies for compatibility](https://github.com/web-auth/webauthn-framework/pull/766) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [refactor: improve test method names and update PHPUnit configuration](https://github.com/web-auth/webauthn-framework/pull/765) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Add initial implementation of Web APIs Stimulus Controllers and CI for NPM publishing](https://github.com/Spomky-Labs/pwa-bundle/pull/389) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [feat: update doctrine/doctrine-bundle requirement to support version 3.0](https://github.com/web-auth/webauthn-framework/pull/764) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [feat: update Symfony dependencies to support version 8.0](https://github.com/web-auth/webauthn-framework/pull/763) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [feat: add backup eligibility and status events to authenticator response validation](https://github.com/web-auth/webauthn-framework/pull/762) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [feat: add requireResidentKey property for backward compatibility with WebAuthn Level 3 spec](https://github.com/web-auth/webauthn-framework/pull/761) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [feat: initialize NPM package and add publishing workflow](https://github.com/web-auth/webauthn-framework/pull/760) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Add comprehensive documentation for CBOR PHP library and update README](https://github.com/Spomky-Labs/cbor-php/pull/96) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
-- [Remove readonly modifier from properties in various CBOR object classes](https://github.com/Spomky-Labs/cbor-php/pull/90) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
+- [feat: update doctrine bundle configuration and dependencies for compatibility](https://github.com/web-auth/webauthn-framework/pull/766) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [refactor: improve test method names and update PHPUnit configuration](https://github.com/web-auth/webauthn-framework/pull/765) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Add initial implementation of Web APIs Stimulus Controllers and CI for NPM publishing](https://github.com/Spomky-Labs/pwa-bundle/pull/389) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [feat: update doctrine/doctrine-bundle requirement to support version 3.0](https://github.com/web-auth/webauthn-framework/pull/764) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [feat: update Symfony dependencies to support version 8.0](https://github.com/web-auth/webauthn-framework/pull/763) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [feat: add backup eligibility and status events to authenticator response validation](https://github.com/web-auth/webauthn-framework/pull/762) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [feat: add requireResidentKey property for backward compatibility with WebAuthn Level 3 spec](https://github.com/web-auth/webauthn-framework/pull/761) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [feat: initialize NPM package and add publishing workflow](https://github.com/web-auth/webauthn-framework/pull/760) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [Add comprehensive documentation for CBOR PHP library and update README](https://github.com/Spomky-Labs/cbor-php/pull/96) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (4 days ago)
+- [Remove readonly modifier from properties in various CBOR object classes](https://github.com/Spomky-Labs/cbor-php/pull/90) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.0-RC2](https://github.com/symfony/security-http/releases/tag/v8.0.0-RC2), today) - Symfony Security Component - HTTP Integration
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-RC2](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-RC2), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-RC2), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC2), today) - The Symfony PHP framework
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v8.0.0-RC1](https://github.com/symfony/amazon-mailer/releases/tag/v8.0.0-RC1), 3 days ago) - Symfony Amazon Mailer Bridge
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.0-RC1](https://github.com/symfony/mailer/releases/tag/v8.0.0-RC1), 3 days ago) - Helps sending emails
-- [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-RC1](https://github.com/symfony/ldap/releases/tag/v8.0.0-RC1), 3 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.0-RC1](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.0-RC1), 3 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.2](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.2), 3 days ago) - CBOR Encoder/Decoder for PHP
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0-RC1](https://github.com/symfony/security-core/releases/tag/v7.4.0-RC1), 3 days ago) - Symfony Security Component - Core Library
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.0-RC2](https://github.com/symfony/security-http/releases/tag/v8.0.0-RC2), 1 day ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-RC2](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-RC2), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-RC2), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC2), 1 day ago) - The Symfony PHP framework
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v8.0.0-RC1](https://github.com/symfony/amazon-mailer/releases/tag/v8.0.0-RC1), 4 days ago) - Symfony Amazon Mailer Bridge
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.0-RC1](https://github.com/symfony/mailer/releases/tag/v8.0.0-RC1), 4 days ago) - Helps sending emails
+- [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-RC1](https://github.com/symfony/ldap/releases/tag/v8.0.0-RC1), 4 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.0-RC1](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.0-RC1), 4 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.2](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.2), 4 days ago) - CBOR Encoder/Decoder for PHP
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0-RC1](https://github.com/symfony/security-core/releases/tag/v7.4.0-RC1), 4 days ago) - Symfony Security Component - Core Library
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
