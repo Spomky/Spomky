@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat: implement passkey endpoints with controller and configuration](https://github.com/web-auth/webauthn-framework/pull/767) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat: update doctrine bundle configuration and dependencies for compatibility](https://github.com/web-auth/webauthn-framework/pull/766) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [refactor: improve test method names and update PHPUnit configuration](https://github.com/web-auth/webauthn-framework/pull/765) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Add initial implementation of Web APIs Stimulus Controllers and CI for NPM publishing](https://github.com/Spomky-Labs/pwa-bundle/pull/389) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat: add requireResidentKey property for backward compatibility with WebAuthn Level 3 spec](https://github.com/web-auth/webauthn-framework/pull/761) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [feat: initialize NPM package and add publishing workflow](https://github.com/web-auth/webauthn-framework/pull/760) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Add comprehensive documentation for CBOR PHP library and update README](https://github.com/Spomky-Labs/cbor-php/pull/96) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (4 days ago)
-- [Remove readonly modifier from properties in various CBOR object classes](https://github.com/Spomky-Labs/cbor-php/pull/90) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
