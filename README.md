@@ -63,8 +63,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.4.0-RC3](https://github.com/symfony/framework-bundle/releases/tag/v7.4.0-RC3), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0-RC3](https://github.com/symfony/symfony/releases/tag/v7.4.0-RC3), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-RC3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-RC3), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), today) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.2](https://github.com/web-token/jwt-framework/releases/tag/4.1.2), 4 days ago) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.0-RC2](https://github.com/symfony/security-http/releases/tag/v8.0.0-RC2), 5 days ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-RC2](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-RC2), 5 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
