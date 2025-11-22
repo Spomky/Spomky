@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update manifest tab and service worker configuration for improved routing and scope handling](https://github.com/Spomky-Labs/pwa-bundle/pull/392) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add PHP 8.5 support in configuration files](https://github.com/jakzal/toolbox/pull/543) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (1 day ago)
 - [Bugs/fix invalid asset folder](https://github.com/web-auth/webauthn-framework/pull/772) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [fix: update asset folder path in WebauthnStimulusBundle configuration](https://github.com/web-auth/webauthn-framework/pull/771) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat: implement passkey endpoints with controller and configuration](https://github.com/web-auth/webauthn-framework/pull/767) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 - [feat: update doctrine bundle configuration and dependencies for compatibility](https://github.com/web-auth/webauthn-framework/pull/766) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [refactor: improve test method names and update PHPUnit configuration](https://github.com/web-auth/webauthn-framework/pull/765) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [Add initial implementation of Web APIs Stimulus Controllers and CI for NPM publishing](https://github.com/Spomky-Labs/pwa-bundle/pull/389) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
