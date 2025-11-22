@@ -37,37 +37,37 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
-- [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (4 days ago)
-- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (4 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 days ago)
-- [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (4 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (5 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
+- [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (5 days ago)
+- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (5 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (5 days ago)
+- [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (5 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (6 days ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 week ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add PHP 8.5 support in configuration files](https://github.com/jakzal/toolbox/pull/543) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (today)
-- [Bugs/fix invalid asset folder](https://github.com/web-auth/webauthn-framework/pull/772) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [fix: update asset folder path in WebauthnStimulusBundle configuration](https://github.com/web-auth/webauthn-framework/pull/771) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [feat: add nullable request parameter to creation and request options handlers](https://github.com/web-auth/webauthn-framework/pull/770) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [feat: add workflow to auto-switch default branch on new tags](https://github.com/web-auth/webauthn-framework/pull/769) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [Refactor command help text definitions for Symfony Console compatibility](https://github.com/web-token/jwt-framework/pull/645) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
-- [feat: implement passkey endpoints with controller and configuration](https://github.com/web-auth/webauthn-framework/pull/767) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [feat: update doctrine bundle configuration and dependencies for compatibility](https://github.com/web-auth/webauthn-framework/pull/766) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [refactor: improve test method names and update PHPUnit configuration](https://github.com/web-auth/webauthn-framework/pull/765) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Add PHP 8.5 support in configuration files](https://github.com/jakzal/toolbox/pull/543) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (1 day ago)
+- [Bugs/fix invalid asset folder](https://github.com/web-auth/webauthn-framework/pull/772) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [fix: update asset folder path in WebauthnStimulusBundle configuration](https://github.com/web-auth/webauthn-framework/pull/771) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [feat: add nullable request parameter to creation and request options handlers](https://github.com/web-auth/webauthn-framework/pull/770) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [feat: add workflow to auto-switch default branch on new tags](https://github.com/web-auth/webauthn-framework/pull/769) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Refactor command help text definitions for Symfony Console compatibility](https://github.com/web-token/jwt-framework/pull/645) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [feat: implement passkey endpoints with controller and configuration](https://github.com/web-auth/webauthn-framework/pull/767) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [feat: update doctrine bundle configuration and dependencies for compatibility](https://github.com/web-auth/webauthn-framework/pull/766) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [refactor: improve test method names and update PHPUnit configuration](https://github.com/web-auth/webauthn-framework/pull/765) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [Add initial implementation of Web APIs Stimulus Controllers and CI for NPM publishing](https://github.com/Spomky-Labs/pwa-bundle/pull/389) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-RC3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-RC3), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), today) - The Symfony PHP framework
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.2](https://github.com/web-token/jwt-framework/releases/tag/4.1.2), 4 days ago) - JWT Framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.0-RC2](https://github.com/symfony/security-http/releases/tag/v8.0.0-RC2), 5 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-RC2](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-RC2), 5 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-RC3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-RC3), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), 1 day ago) - The Symfony PHP framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.2](https://github.com/web-token/jwt-framework/releases/tag/4.1.2), 5 days ago) - JWT Framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.0-RC2](https://github.com/symfony/security-http/releases/tag/v8.0.0-RC2), 6 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-RC2](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-RC2), 6 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v8.0.0-RC1](https://github.com/symfony/amazon-mailer/releases/tag/v8.0.0-RC1), 1 week ago) - Symfony Amazon Mailer Bridge
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.0-RC1](https://github.com/symfony/mailer/releases/tag/v8.0.0-RC1), 1 week ago) - Helps sending emails
 - [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-RC1](https://github.com/symfony/ldap/releases/tag/v8.0.0-RC1), 1 week ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
