@@ -37,19 +37,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (5 days ago)
 - [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (6 days ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (6 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (6 days ago)
 - [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (6 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 week ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 1.3.6 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/394) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Update service worker script to use UMD version of Workbox](https://github.com/Spomky-Labs/pwa-bundle/pull/393) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update manifest tab and service worker configuration for improved routing and scope handling](https://github.com/Spomky-Labs/pwa-bundle/pull/392) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Add PHP 8.5 support in configuration files](https://github.com/jakzal/toolbox/pull/543) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (2 days ago)
 - [Bugs/fix invalid asset folder](https://github.com/web-auth/webauthn-framework/pull/772) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
@@ -58,11 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat: add workflow to auto-switch default branch on new tags](https://github.com/web-auth/webauthn-framework/pull/769) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [Refactor command help text definitions for Symfony Console compatibility](https://github.com/web-token/jwt-framework/pull/645) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
 - [feat: implement passkey endpoints with controller and configuration](https://github.com/web-auth/webauthn-framework/pull/767) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [feat: update doctrine bundle configuration and dependencies for compatibility](https://github.com/web-auth/webauthn-framework/pull/766) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [refactor: improve test method names and update PHPUnit configuration](https://github.com/web-auth/webauthn-framework/pull/765) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.6](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.6), today) - PHP library for generating a full featured PWA manifest
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-RC3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-RC3), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), 2 days ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.2](https://github.com/web-token/jwt-framework/releases/tag/4.1.2), 6 days ago) - JWT Framework
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.0-RC1](https://github.com/symfony/mailer/releases/tag/v8.0.0-RC1), 1 week ago) - Helps sending emails
 - [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.0-RC1](https://github.com/symfony/ldap/releases/tag/v8.0.0-RC1), 1 week ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.0-RC1](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.0-RC1), 1 week ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.2](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.2), 1 week ago) - CBOR Encoder/Decoder for PHP
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
