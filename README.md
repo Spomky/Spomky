@@ -37,9 +37,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 day ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (1 week ago)
 - [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
@@ -50,22 +50,22 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Merge up 1.3.6 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/394) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Update service worker script to use UMD version of Workbox](https://github.com/Spomky-Labs/pwa-bundle/pull/393) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Update manifest tab and service worker configuration for improved routing and scope handling](https://github.com/Spomky-Labs/pwa-bundle/pull/392) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add PHP 8.5 support in configuration files](https://github.com/jakzal/toolbox/pull/543) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (3 days ago)
-- [Bugs/fix invalid asset folder](https://github.com/web-auth/webauthn-framework/pull/772) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [fix: update asset folder path in WebauthnStimulusBundle configuration](https://github.com/web-auth/webauthn-framework/pull/771) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [feat: add nullable request parameter to creation and request options handlers](https://github.com/web-auth/webauthn-framework/pull/770) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Merge up 1.3.6 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/394) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Update service worker script to use UMD version of Workbox](https://github.com/Spomky-Labs/pwa-bundle/pull/393) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Update manifest tab and service worker configuration for improved routing and scope handling](https://github.com/Spomky-Labs/pwa-bundle/pull/392) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Add PHP 8.5 support in configuration files](https://github.com/jakzal/toolbox/pull/543) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (4 days ago)
+- [Bugs/fix invalid asset folder](https://github.com/web-auth/webauthn-framework/pull/772) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [fix: update asset folder path in WebauthnStimulusBundle configuration](https://github.com/web-auth/webauthn-framework/pull/771) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [feat: add nullable request parameter to creation and request options handlers](https://github.com/web-auth/webauthn-framework/pull/770) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [feat: add workflow to auto-switch default branch on new tags](https://github.com/web-auth/webauthn-framework/pull/769) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Refactor command help text definitions for Symfony Console compatibility](https://github.com/web-token/jwt-framework/pull/645) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [feat: implement passkey endpoints with controller and configuration](https://github.com/web-auth/webauthn-framework/pull/767) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.6](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.6), 1 day ago) - PHP library for generating a full featured PWA manifest
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-RC3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-RC3), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), 3 days ago) - The Symfony PHP framework
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.3.6](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.3.6), 2 days ago) - PHP library for generating a full featured PWA manifest
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.0-RC3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.0-RC3), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), 4 days ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.2](https://github.com/web-token/jwt-framework/releases/tag/4.1.2), 1 week ago) - JWT Framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.0-RC2](https://github.com/symfony/security-http/releases/tag/v8.0.0-RC2), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.0-RC2](https://github.com/symfony/security-bundle/releases/tag/v8.0.0-RC2), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
