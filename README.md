@@ -1,4 +1,4 @@
-![Cover image](1764400892669.jpg)
+![Cover image](1.webp)
 
 ### Hi there 👋
 
@@ -40,13 +40,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
-- [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (2 weeks ago)
 - [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (2 weeks ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (2 weeks ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 weeks ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
+- [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (2 weeks ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (2 weeks ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
