@@ -37,16 +37,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (5 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (6 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (2 weeks ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (2 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (2 weeks ago)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (2 weeks ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 weeks ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (3 weeks ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 weeks ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 1 day ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.4.0](https://github.com/symfony/security-http/releases/tag/v7.4.0), 6 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0](https://github.com/symfony/security-core/releases/tag/v7.4.0), 6 days ago) - Symfony Security Component - Core Library
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.4.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.4.0), 6 days ago) - Symfony Amazon Mailer Bridge
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.4.0](https://github.com/symfony/mailer/releases/tag/v7.4.0), 6 days ago) - Helps sending emails
-- [symfony/ldap](https://github.com/symfony/ldap) ([v7.4.0](https://github.com/symfony/ldap/releases/tag/v7.4.0), 6 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v7.4.0](https://github.com/symfony/html-sanitizer/releases/tag/v7.4.0), 6 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.4.0](https://github.com/symfony/security-bundle/releases/tag/v7.4.0), 6 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.4.0](https://github.com/symfony/framework-bundle/releases/tag/v7.4.0), 6 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0](https://github.com/symfony/symfony/releases/tag/v7.4.0), 6 days ago) - The Symfony PHP framework
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 2 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.4.0](https://github.com/symfony/security-http/releases/tag/v7.4.0), 1 week ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0](https://github.com/symfony/security-core/releases/tag/v7.4.0), 1 week ago) - Symfony Security Component - Core Library
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.4.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.4.0), 1 week ago) - Symfony Amazon Mailer Bridge
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.4.0](https://github.com/symfony/mailer/releases/tag/v7.4.0), 1 week ago) - Helps sending emails
+- [symfony/ldap](https://github.com/symfony/ldap) ([v7.4.0](https://github.com/symfony/ldap/releases/tag/v7.4.0), 1 week ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v7.4.0](https://github.com/symfony/html-sanitizer/releases/tag/v7.4.0), 1 week ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.4.0](https://github.com/symfony/security-bundle/releases/tag/v7.4.0), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.4.0](https://github.com/symfony/framework-bundle/releases/tag/v7.4.0), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0](https://github.com/symfony/symfony/releases/tag/v7.4.0), 1 week ago) - The Symfony PHP framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
