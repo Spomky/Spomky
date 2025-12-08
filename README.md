@@ -40,18 +40,18 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 weeks ago)
-- [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (2 weeks ago)
-- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (2 weeks ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
-- [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (2 weeks ago)
+- [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (3 weeks ago)
+- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (3 weeks ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 weeks ago)
+- [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (3 weeks ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (3 weeks ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 weeks ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(metadata): implement MappedObjectPaginator for fixing pagination on mapped data](https://github.com/api-platform/core/pull/7591) on [api-platform/core](https://github.com/api-platform/core) (1 day ago)
-- [Update Symfony package versions to include 8.0.0](https://github.com/browscap/browscap-php/pull/808) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (3 days ago)
+- [fix(metadata): implement MappedObjectPaginator for fixing pagination on mapped data](https://github.com/api-platform/core/pull/7591) on [api-platform/core](https://github.com/api-platform/core) (2 days ago)
+- [Update Symfony package versions to include 8.0.0](https://github.com/browscap/browscap-php/pull/808) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (4 days ago)
 - [Refactor service worker and manifest handling to use builders for improved instantiation](https://github.com/Spomky-Labs/pwa-bundle/pull/396) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Merge up 1.3.6 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/394) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Update service worker script to use UMD version of Workbox](https://github.com/Spomky-Labs/pwa-bundle/pull/393) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
@@ -63,11 +63,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), today) - Symfony Security Component - HTTP Integration
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.1](https://github.com/symfony/symfony/releases/tag/v8.0.1), today) - The Symfony PHP framework
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.8](https://github.com/symfony/security-bundle/releases/tag/v7.3.8), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 5 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 1 day ago) - Symfony Security Component - HTTP Integration
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.1](https://github.com/symfony/symfony/releases/tag/v8.0.1), 1 day ago) - The Symfony PHP framework
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.8](https://github.com/symfony/security-bundle/releases/tag/v7.3.8), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 6 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0](https://github.com/symfony/security-core/releases/tag/v7.4.0), 1 week ago) - Symfony Security Component - Core Library
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.4.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.4.0), 1 week ago) - Symfony Amazon Mailer Bridge
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.4.0](https://github.com/symfony/mailer/releases/tag/v7.4.0), 1 week ago) - Helps sending emails
