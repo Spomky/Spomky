@@ -63,9 +63,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.2](https://github.com/symfony/symfony/releases/tag/v7.4.2), today) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 1 day ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.1](https://github.com/symfony/symfony/releases/tag/v8.0.1), 1 day ago) - The Symfony PHP framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.8](https://github.com/symfony/security-bundle/releases/tag/v7.3.8), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 6 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0](https://github.com/symfony/security-core/releases/tag/v7.4.0), 1 week ago) - Symfony Security Component - Core Library
