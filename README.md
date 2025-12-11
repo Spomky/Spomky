@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update CORS configuration in nelmio_cors.yaml](https://github.com/api-platform/api-platform/pull/2958) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (today)
 - [fix(metadata): use operation output class for mapping instead of operation class](https://github.com/api-platform/core/pull/7601) on [api-platform/core](https://github.com/api-platform/core) (1 day ago)
 - [fix(metadata): implement MappedObjectPaginator for fixing pagination on mapped data](https://github.com/api-platform/core/pull/7591) on [api-platform/core](https://github.com/api-platform/core) (5 days ago)
 - [Update Symfony package versions to include 8.0.0](https://github.com/browscap/browscap-php/pull/808) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (1 week ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update manifest tab and service worker configuration for improved routing and scope handling](https://github.com/Spomky-Labs/pwa-bundle/pull/392) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Add PHP 8.5 support in configuration files](https://github.com/jakzal/toolbox/pull/543) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (2 weeks ago)
 - [Bugs/fix invalid asset folder](https://github.com/web-auth/webauthn-framework/pull/772) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
-- [fix: update asset folder path in WebauthnStimulusBundle configuration](https://github.com/web-auth/webauthn-framework/pull/771) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
