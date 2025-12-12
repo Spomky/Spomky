@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Update development dependencies to latest versions](https://github.com/nelmio/NelmioSecurityBundle/pull/388) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (today)
 - [Refactor CI configuration to streamline PHP version and dependency management](https://github.com/browscap/browscap-php/pull/810) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (today)
 - [ Enhance CSRF documentation with OWASP best practices and guidelines](https://github.com/symfony/symfony-docs/pull/21638) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - [Update CORS configuration in nelmio_cors.yaml](https://github.com/api-platform/api-platform/pull/2958) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Refactor service worker and manifest handling to use builders for improved instantiation](https://github.com/Spomky-Labs/pwa-bundle/pull/396) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Merge up 1.3.6 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/394) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Update service worker script to use UMD version of Workbox](https://github.com/Spomky-Labs/pwa-bundle/pull/393) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [Update manifest tab and service worker configuration for improved routing and scope handling](https://github.com/Spomky-Labs/pwa-bundle/pull/392) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
