@@ -38,36 +38,36 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 weeks ago)
 - [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (3 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 weeks ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (3 weeks ago)
 - [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (3 weeks ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (4 weeks ago)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (4 weeks ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor match callback handlers to enhance request validation logic](https://github.com/Spomky-Labs/pwa-bundle/pull/402) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Update development dependencies to latest versions](https://github.com/nelmio/NelmioSecurityBundle/pull/388) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (today)
-- [Refactor CI configuration to streamline PHP version and dependency management](https://github.com/browscap/browscap-php/pull/810) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (today)
-- [ Enhance CSRF documentation with OWASP best practices and guidelines](https://github.com/symfony/symfony-docs/pull/21638) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- [Update CORS configuration in nelmio_cors.yaml](https://github.com/api-platform/api-platform/pull/2958) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (1 day ago)
-- [fix(metadata): use operation output class for mapping instead of operation class](https://github.com/api-platform/core/pull/7601) on [api-platform/core](https://github.com/api-platform/core) (2 days ago)
-- [fix(metadata): implement MappedObjectPaginator for fixing pagination on mapped data](https://github.com/api-platform/core/pull/7591) on [api-platform/core](https://github.com/api-platform/core) (6 days ago)
+- [Refactor match callback handlers to enhance request validation logic](https://github.com/Spomky-Labs/pwa-bundle/pull/402) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Update development dependencies to latest versions](https://github.com/nelmio/NelmioSecurityBundle/pull/388) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (1 day ago)
+- [Refactor CI configuration to streamline PHP version and dependency management](https://github.com/browscap/browscap-php/pull/810) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (1 day ago)
+- [ Enhance CSRF documentation with OWASP best practices and guidelines](https://github.com/symfony/symfony-docs/pull/21638) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- [Update CORS configuration in nelmio_cors.yaml](https://github.com/api-platform/api-platform/pull/2958) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (2 days ago)
+- [fix(metadata): use operation output class for mapping instead of operation class](https://github.com/api-platform/core/pull/7601) on [api-platform/core](https://github.com/api-platform/core) (3 days ago)
+- [fix(metadata): implement MappedObjectPaginator for fixing pagination on mapped data](https://github.com/api-platform/core/pull/7591) on [api-platform/core](https://github.com/api-platform/core) (1 week ago)
 - [Update Symfony package versions to include 8.0.0](https://github.com/browscap/browscap-php/pull/808) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (1 week ago)
 - [Refactor service worker and manifest handling to use builders for improved instantiation](https://github.com/Spomky-Labs/pwa-bundle/pull/396) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Merge up 1.3.6 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/394) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 4 days ago) - The Symfony PHP framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 5 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 5 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.8](https://github.com/symfony/security-bundle/releases/tag/v7.3.8), 5 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 5 days ago) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 6 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 6 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.8](https://github.com/symfony/security-bundle/releases/tag/v7.3.8), 6 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 1 week ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0](https://github.com/symfony/security-core/releases/tag/v7.4.0), 2 weeks ago) - Symfony Security Component - Core Library
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.4.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.4.0), 2 weeks ago) - Symfony Amazon Mailer Bridge
