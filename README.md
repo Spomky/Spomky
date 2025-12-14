@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add screenshot generation functionality with configuration support](https://github.com/Spomky-Labs/pwa-bundle/pull/404) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Merge up 1.3.x to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/403) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Add dynamic PHP version handling from composer.json in tools table and update workflows](https://github.com/jakzal/toolbox/pull/549) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (today)
 - [Add jack tool for incremental Composer dependency upgrades](https://github.com/jakzal/toolbox/pull/548) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [ Enhance CSRF documentation with OWASP best practices and guidelines](https://github.com/symfony/symfony-docs/pull/21638) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - [Update CORS configuration in nelmio_cors.yaml](https://github.com/api-platform/api-platform/pull/2958) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (3 days ago)
 - [fix(metadata): use operation output class for mapping instead of operation class](https://github.com/api-platform/core/pull/7601) on [api-platform/core](https://github.com/api-platform/core) (4 days ago)
-- [fix(metadata): implement MappedObjectPaginator for fixing pagination on mapped data](https://github.com/api-platform/core/pull/7591) on [api-platform/core](https://github.com/api-platform/core) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
