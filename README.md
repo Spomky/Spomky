@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge up 1.3.x to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/403) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Add dynamic PHP version handling from composer.json in tools table and update workflows](https://github.com/jakzal/toolbox/pull/549) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (today)
+- [Add jack tool for incremental Composer dependency upgrades](https://github.com/jakzal/toolbox/pull/548) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (today)
 - [Refactor match callback handlers to enhance request validation logic](https://github.com/Spomky-Labs/pwa-bundle/pull/402) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Update development dependencies to latest versions](https://github.com/nelmio/NelmioSecurityBundle/pull/388) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (2 days ago)
 - [Refactor CI configuration to streamline PHP version and dependency management](https://github.com/browscap/browscap-php/pull/810) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (2 days ago)
@@ -57,9 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update CORS configuration in nelmio_cors.yaml](https://github.com/api-platform/api-platform/pull/2958) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (3 days ago)
 - [fix(metadata): use operation output class for mapping instead of operation class](https://github.com/api-platform/core/pull/7601) on [api-platform/core](https://github.com/api-platform/core) (4 days ago)
 - [fix(metadata): implement MappedObjectPaginator for fixing pagination on mapped data](https://github.com/api-platform/core/pull/7591) on [api-platform/core](https://github.com/api-platform/core) (1 week ago)
-- [Update Symfony package versions to include 8.0.0](https://github.com/browscap/browscap-php/pull/808) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (1 week ago)
-- [Refactor service worker and manifest handling to use builders for improved instantiation](https://github.com/Spomky-Labs/pwa-bundle/pull/396) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [Merge up 1.3.6 to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/394) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
