@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.103.0](https://github.com/jakzal/toolbox/releases/tag/v1.103.0), 1 day ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.103.1](https://github.com/jakzal/toolbox/releases/tag/v1.103.1), today) - Helps to discover and install tools
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 1 week ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 1 week ago) - Symfony Security Component - HTTP Integration
