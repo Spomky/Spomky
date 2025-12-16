@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (1 day ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (2 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 weeks ago)
 - [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (4 weeks ago)
@@ -50,26 +50,26 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [fix(metadata): Use operation output DTO in ObjectMapperProcessor](https://github.com/api-platform/core/pull/7611) on [api-platform/core](https://github.com/api-platform/core) (today)
-- [Add screenshot generation functionality with configuration support](https://github.com/Spomky-Labs/pwa-bundle/pull/404) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Merge up 1.3.x to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/403) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add dynamic PHP version handling from composer.json in tools table and update workflows](https://github.com/jakzal/toolbox/pull/549) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (1 day ago)
-- [Add jack tool for incremental Composer dependency upgrades](https://github.com/jakzal/toolbox/pull/548) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (1 day ago)
-- [Refactor match callback handlers to enhance request validation logic](https://github.com/Spomky-Labs/pwa-bundle/pull/402) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Update development dependencies to latest versions](https://github.com/nelmio/NelmioSecurityBundle/pull/388) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (3 days ago)
-- [Refactor CI configuration to streamline PHP version and dependency management](https://github.com/browscap/browscap-php/pull/810) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (3 days ago)
-- [ Enhance CSRF documentation with OWASP best practices and guidelines](https://github.com/symfony/symfony-docs/pull/21638) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- [Update CORS configuration in nelmio_cors.yaml](https://github.com/api-platform/api-platform/pull/2958) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (4 days ago)
+- [fix(metadata): Use operation output DTO in ObjectMapperProcessor](https://github.com/api-platform/core/pull/7611) on [api-platform/core](https://github.com/api-platform/core) (1 day ago)
+- [Add screenshot generation functionality with configuration support](https://github.com/Spomky-Labs/pwa-bundle/pull/404) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Merge up 1.3.x to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/403) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Add dynamic PHP version handling from composer.json in tools table and update workflows](https://github.com/jakzal/toolbox/pull/549) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (2 days ago)
+- [Add jack tool for incremental Composer dependency upgrades](https://github.com/jakzal/toolbox/pull/548) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (2 days ago)
+- [Refactor match callback handlers to enhance request validation logic](https://github.com/Spomky-Labs/pwa-bundle/pull/402) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
+- [Update development dependencies to latest versions](https://github.com/nelmio/NelmioSecurityBundle/pull/388) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (4 days ago)
+- [Refactor CI configuration to streamline PHP version and dependency management](https://github.com/browscap/browscap-php/pull/810) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (4 days ago)
+- [ Enhance CSRF documentation with OWASP best practices and guidelines](https://github.com/symfony/symfony-docs/pull/21638) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- [Update CORS configuration in nelmio_cors.yaml](https://github.com/api-platform/api-platform/pull/2958) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.103.0](https://github.com/jakzal/toolbox/releases/tag/v1.103.0), today) - Helps to discover and install tools
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.103.0](https://github.com/jakzal/toolbox/releases/tag/v1.103.0), 1 day ago) - Helps to discover and install tools
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 1 week ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.8](https://github.com/symfony/security-bundle/releases/tag/v7.3.8), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 1 week ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 2 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0](https://github.com/symfony/security-core/releases/tag/v7.4.0), 2 weeks ago) - Symfony Security Component - Core Library
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.4.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.4.0), 2 weeks ago) - Symfony Amazon Mailer Bridge
 - [symfony/mailer](https://github.com/symfony/mailer) ([v7.4.0](https://github.com/symfony/mailer/releases/tag/v7.4.0), 2 weeks ago) - Helps sending emails
