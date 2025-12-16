@@ -58,7 +58,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Refactor match callback handlers to enhance request validation logic](https://github.com/Spomky-Labs/pwa-bundle/pull/402) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Update development dependencies to latest versions](https://github.com/nelmio/NelmioSecurityBundle/pull/388) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (4 days ago)
 - [Refactor CI configuration to streamline PHP version and dependency management](https://github.com/browscap/browscap-php/pull/810) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (4 days ago)
-- [ Enhance CSRF documentation with OWASP best practices and guidelines](https://github.com/symfony/symfony-docs/pull/21638) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- [[Form] Enhance CSRF documentation with OWASP best practices and guidelines](https://github.com/symfony/symfony-docs/pull/21638) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - [Update CORS configuration in nelmio_cors.yaml](https://github.com/api-platform/api-platform/pull/2958) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
