@@ -37,34 +37,34 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 days ago)
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (2 days ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (4 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 days ago)
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (3 days ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (5 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 weeks ago)
-- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (4 weeks ago)
-- [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (4 weeks ago)
-- [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (4 weeks ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
+- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 month ago)
+- [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (1 month ago)
+- [web-token/jwt-experimental](https://github.com/web-token/jwt-experimental) - [READ ONLY] Experimental Algorithms (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(metadata): Use operation output DTO in ObjectMapperProcessor](https://github.com/api-platform/core/pull/7611) on [api-platform/core](https://github.com/api-platform/core) (1 day ago)
-- [Add screenshot generation functionality with configuration support](https://github.com/Spomky-Labs/pwa-bundle/pull/404) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Merge up 1.3.x to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/403) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add dynamic PHP version handling from composer.json in tools table and update workflows](https://github.com/jakzal/toolbox/pull/549) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (2 days ago)
-- [Add jack tool for incremental Composer dependency upgrades](https://github.com/jakzal/toolbox/pull/548) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (2 days ago)
-- [Refactor match callback handlers to enhance request validation logic](https://github.com/Spomky-Labs/pwa-bundle/pull/402) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Update development dependencies to latest versions](https://github.com/nelmio/NelmioSecurityBundle/pull/388) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (4 days ago)
-- [Refactor CI configuration to streamline PHP version and dependency management](https://github.com/browscap/browscap-php/pull/810) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (4 days ago)
-- [[Form] Enhance CSRF documentation with OWASP best practices and guidelines](https://github.com/symfony/symfony-docs/pull/21638) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
-- [Update CORS configuration in nelmio_cors.yaml](https://github.com/api-platform/api-platform/pull/2958) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (5 days ago)
+- [fix(metadata): Use operation output DTO in ObjectMapperProcessor](https://github.com/api-platform/core/pull/7611) on [api-platform/core](https://github.com/api-platform/core) (2 days ago)
+- [Add screenshot generation functionality with configuration support](https://github.com/Spomky-Labs/pwa-bundle/pull/404) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Merge up 1.3.x to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/403) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Add dynamic PHP version handling from composer.json in tools table and update workflows](https://github.com/jakzal/toolbox/pull/549) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (3 days ago)
+- [Add jack tool for incremental Composer dependency upgrades](https://github.com/jakzal/toolbox/pull/548) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (3 days ago)
+- [Refactor match callback handlers to enhance request validation logic](https://github.com/Spomky-Labs/pwa-bundle/pull/402) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [Update development dependencies to latest versions](https://github.com/nelmio/NelmioSecurityBundle/pull/388) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (5 days ago)
+- [Refactor CI configuration to streamline PHP version and dependency management](https://github.com/browscap/browscap-php/pull/810) on [browscap/browscap-php](https://github.com/browscap/browscap-php) (5 days ago)
+- [[Form] Enhance CSRF documentation with OWASP best practices and guidelines](https://github.com/symfony/symfony-docs/pull/21638) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- [Update CORS configuration in nelmio_cors.yaml](https://github.com/api-platform/api-platform/pull/2958) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.103.1](https://github.com/jakzal/toolbox/releases/tag/v1.103.1), today) - Helps to discover and install tools
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.103.1](https://github.com/jakzal/toolbox/releases/tag/v1.103.1), 1 day ago) - Helps to discover and install tools
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 1 week ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
@@ -76,7 +76,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [drupal-spider](https://github.com/drupal-spider) (today)
+- [drupal-spider](https://github.com/drupal-spider) (1 day ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [chalasr](https://github.com/chalasr) (3 years ago)
 - [passbolt](https://github.com/passbolt) (4 years ago)
