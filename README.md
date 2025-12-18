@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.3](https://github.com/web-token/jwt-framework/releases/tag/4.1.3), today) - JWT Framework
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.103.1](https://github.com/jakzal/toolbox/releases/tag/v1.103.1), 2 days ago) - Helps to discover and install tools
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 1 week ago) - The Symfony PHP framework
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 2 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0](https://github.com/symfony/security-core/releases/tag/v7.4.0), 3 weeks ago) - Symfony Security Component - Core Library
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.4.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.4.0), 3 weeks ago) - Symfony Amazon Mailer Bridge
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.4.0](https://github.com/symfony/mailer/releases/tag/v7.4.0), 3 weeks ago) - Helps sending emails
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
