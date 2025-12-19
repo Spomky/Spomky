@@ -63,9 +63,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.11](https://github.com/api-platform/core/releases/tag/v4.2.11), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.3](https://github.com/web-token/jwt-framework/releases/tag/4.1.3), 1 day ago) - JWT Framework
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.103.1](https://github.com/jakzal/toolbox/releases/tag/v1.103.1), 3 days ago) - Helps to discover and install tools
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 1 week ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
