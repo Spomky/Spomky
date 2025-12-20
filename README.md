@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [fix: set trust anchor when validating certificate path to support intermediate CA certificates](https://github.com/web-auth/webauthn-framework/pull/793) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Rector/ECS](https://github.com/web-auth/webauthn-framework/pull/792) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Rector/ECS/PHPStan on 5.2](https://github.com/web-auth/webauthn-framework/pull/791) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix: use spomky-labs/pki-framework to replace native php openssl functions for attestation statements (backport to 5.2.x)](https://github.com/web-auth/webauthn-framework/pull/790) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Fix @id by moving GetCollection operation to the output Dto](https://github.com/mtarld/sfcon-apip/pull/2) on [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) (3 days ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 1.3.x to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/403) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Add dynamic PHP version handling from composer.json in tools table and update workflows](https://github.com/jakzal/toolbox/pull/549) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (6 days ago)
 - [Add jack tool for incremental Composer dependency upgrades](https://github.com/jakzal/toolbox/pull/548) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (6 days ago)
-- [Refactor match callback handlers to enhance request validation logic](https://github.com/Spomky-Labs/pwa-bundle/pull/402) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Update development dependencies to latest versions](https://github.com/nelmio/NelmioSecurityBundle/pull/388) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
