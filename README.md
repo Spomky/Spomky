@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [fix: remove Composer cache from PHPStan job to ensure fresh dependencies](https://github.com/web-auth/webauthn-framework/pull/795) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 5.2.3 to 5.3.x](https://github.com/web-auth/webauthn-framework/pull/794) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Merge up 1.4.1 to 1.5.X](https://github.com/Spomky-Labs/pki-framework/pull/79) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Refactor octet processing to use spread operator with array_map](https://github.com/Spomky-Labs/pki-framework/pull/78) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Rector/ECS/PHPStan on 5.2](https://github.com/web-auth/webauthn-framework/pull/791) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix: use spomky-labs/pki-framework to replace native php openssl functions for attestation statements (backport to 5.2.x)](https://github.com/web-auth/webauthn-framework/pull/790) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Fix @id by moving GetCollection operation to the output Dto](https://github.com/mtarld/sfcon-apip/pull/2) on [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) (3 days ago)
-- [fix(metadata): Use operation output DTO in ObjectMapperProcessor](https://github.com/api-platform/core/pull/7611) on [api-platform/core](https://github.com/api-platform/core) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
