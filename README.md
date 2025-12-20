@@ -39,17 +39,19 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (2 days ago)
 - [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (3 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (6 days ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (6 days ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 weeks ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
-- [web-token/jwt-bundle](https://github.com/web-token/jwt-bundle) - [READ ONLY] JWT Framework bundle of the JWT Framework (1 month ago)
-- [web-token/jwt-library](https://github.com/web-token/jwt-library) - JWT Library (1 month ago)
+- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (3 weeks ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (3 weeks ago)
+- [web-auth/ux](https://github.com/web-auth/ux) - [READ ONLY] Stimulus component for easy integration (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor octet processing to use spread operator with array_map](https://github.com/Spomky-Labs/pki-framework/pull/78) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [Initialize the working_issuer_name with the subject name of the trusted anchor](https://github.com/Spomky-Labs/pki-framework/pull/77) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [fix: set trust anchor when validating certificate path to support intermediate CA certificates](https://github.com/web-auth/webauthn-framework/pull/793) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Rector/ECS](https://github.com/web-auth/webauthn-framework/pull/792) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Rector/ECS/PHPStan on 5.2](https://github.com/web-auth/webauthn-framework/pull/791) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
@@ -58,11 +60,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix(metadata): Use operation output DTO in ObjectMapperProcessor](https://github.com/api-platform/core/pull/7611) on [api-platform/core](https://github.com/api-platform/core) (5 days ago)
 - [Add screenshot generation functionality with configuration support](https://github.com/Spomky-Labs/pwa-bundle/pull/404) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [Merge up 1.3.x to 1.4.x](https://github.com/Spomky-Labs/pwa-bundle/pull/403) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [Add dynamic PHP version handling from composer.json in tools table and update workflows](https://github.com/jakzal/toolbox/pull/549) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (6 days ago)
-- [Add jack tool for incremental Composer dependency upgrades](https://github.com/jakzal/toolbox/pull/548) on [jakzal/toolbox](https://github.com/jakzal/toolbox) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.3), today) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.1), today) - Public Key Infrastructure
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.11](https://github.com/api-platform/core/releases/tag/v4.2.11), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.3](https://github.com/web-token/jwt-framework/releases/tag/4.1.3), 2 days ago) - JWT Framework
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.103.1](https://github.com/jakzal/toolbox/releases/tag/v1.103.1), 4 days ago) - Helps to discover and install tools
@@ -71,8 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.8](https://github.com/symfony/security-bundle/releases/tag/v7.3.8), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 2 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.0](https://github.com/symfony/security-core/releases/tag/v7.4.0), 3 weeks ago) - Symfony Security Component - Core Library
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.4.0](https://github.com/symfony/amazon-mailer/releases/tag/v7.4.0), 3 weeks ago) - Symfony Amazon Mailer Bridge
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
