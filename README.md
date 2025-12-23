@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (today)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 day ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 days ago)
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (5 days ago)
@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Enhance Dockerfile with new libraries and PIE usage](https://github.com/Spomky-Labs/phpqa/pull/3) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (today)
 - [Refactor Dockerfile to use PIE for PHP extensions](https://github.com/Spomky-Labs/phpqa/pull/2) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (today)
 - [fix: remove Composer cache from PHPStan job to ensure fresh dependencies](https://github.com/web-auth/webauthn-framework/pull/795) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Merge up 5.2.3 to 5.3.x](https://github.com/web-auth/webauthn-framework/pull/794) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix: set trust anchor when validating certificate path to support intermediate CA certificates](https://github.com/web-auth/webauthn-framework/pull/793) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Rector/ECS](https://github.com/web-auth/webauthn-framework/pull/792) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Rector/ECS/PHPStan on 5.2](https://github.com/web-auth/webauthn-framework/pull/791) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [fix: use spomky-labs/pki-framework to replace native php openssl functions for attestation statements (backport to 5.2.x)](https://github.com/web-auth/webauthn-framework/pull/790) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
