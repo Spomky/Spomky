@@ -37,37 +37,37 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 day ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (4 days ago)
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (6 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (5 days ago)
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (1 week ago)
 - [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Enhance Dockerfile with new libraries and PIE usage](https://github.com/Spomky-Labs/phpqa/pull/3) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 day ago)
-- [Refactor Dockerfile to use PIE for PHP extensions](https://github.com/Spomky-Labs/phpqa/pull/2) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 day ago)
-- [fix: remove Composer cache from PHPStan job to ensure fresh dependencies](https://github.com/web-auth/webauthn-framework/pull/795) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [Merge up 5.2.3 to 5.3.x](https://github.com/web-auth/webauthn-framework/pull/794) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [Merge up 1.4.1 to 1.5.X](https://github.com/Spomky-Labs/pki-framework/pull/79) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (4 days ago)
-- [Refactor octet processing to use spread operator with array_map](https://github.com/Spomky-Labs/pki-framework/pull/78) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (4 days ago)
-- [Initialize the working_issuer_name with the subject name of the trusted anchor](https://github.com/Spomky-Labs/pki-framework/pull/77) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (4 days ago)
-- [fix: set trust anchor when validating certificate path to support intermediate CA certificates](https://github.com/web-auth/webauthn-framework/pull/793) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [Rector/ECS](https://github.com/web-auth/webauthn-framework/pull/792) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [Rector/ECS/PHPStan on 5.2](https://github.com/web-auth/webauthn-framework/pull/791) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [Enhance Dockerfile with new libraries and PIE usage](https://github.com/Spomky-Labs/phpqa/pull/3) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (2 days ago)
+- [Refactor Dockerfile to use PIE for PHP extensions](https://github.com/Spomky-Labs/phpqa/pull/2) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (2 days ago)
+- [fix: remove Composer cache from PHPStan job to ensure fresh dependencies](https://github.com/web-auth/webauthn-framework/pull/795) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Merge up 5.2.3 to 5.3.x](https://github.com/web-auth/webauthn-framework/pull/794) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Merge up 1.4.1 to 1.5.X](https://github.com/Spomky-Labs/pki-framework/pull/79) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (5 days ago)
+- [Refactor octet processing to use spread operator with array_map](https://github.com/Spomky-Labs/pki-framework/pull/78) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (5 days ago)
+- [Initialize the working_issuer_name with the subject name of the trusted anchor](https://github.com/Spomky-Labs/pki-framework/pull/77) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (5 days ago)
+- [fix: set trust anchor when validating certificate path to support intermediate CA certificates](https://github.com/web-auth/webauthn-framework/pull/793) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Rector/ECS](https://github.com/web-auth/webauthn-framework/pull/792) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Rector/ECS/PHPStan on 5.2](https://github.com/web-auth/webauthn-framework/pull/791) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.104.1](https://github.com/jakzal/toolbox/releases/tag/v1.104.1), 2 days ago) - Helps to discover and install tools
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.3), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.1), 4 days ago) - Public Key Infrastructure
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.11](https://github.com/api-platform/core/releases/tag/v4.2.11), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.3](https://github.com/web-token/jwt-framework/releases/tag/4.1.3), 6 days ago) - JWT Framework
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.104.1](https://github.com/jakzal/toolbox/releases/tag/v1.104.1), 3 days ago) - Helps to discover and install tools
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.3), 5 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.1), 5 days ago) - Public Key Infrastructure
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.11](https://github.com/api-platform/core/releases/tag/v4.2.11), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.3](https://github.com/web-token/jwt-framework/releases/tag/4.1.3), 1 week ago) - JWT Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 2 weeks ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 2 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 2 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
