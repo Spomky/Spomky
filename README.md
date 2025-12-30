@@ -37,7 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (6 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
@@ -50,8 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Enhance Dockerfile with new libraries and PIE usage](https://github.com/Spomky-Labs/phpqa/pull/3) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (6 days ago)
-- [Refactor Dockerfile to use PIE for PHP extensions](https://github.com/Spomky-Labs/phpqa/pull/2) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (6 days ago)
+- [Enhance Dockerfile with new libraries and PIE usage](https://github.com/Spomky-Labs/phpqa/pull/3) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 week ago)
+- [Refactor Dockerfile to use PIE for PHP extensions](https://github.com/Spomky-Labs/phpqa/pull/2) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 week ago)
 - [fix: remove Composer cache from PHPStan job to ensure fresh dependencies](https://github.com/web-auth/webauthn-framework/pull/795) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Merge up 5.2.3 to 5.3.x](https://github.com/web-auth/webauthn-framework/pull/794) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Merge up 1.4.1 to 1.5.X](https://github.com/Spomky-Labs/pki-framework/pull/79) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.104.2](https://github.com/jakzal/toolbox/releases/tag/v1.104.2), 1 day ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.104.2](https://github.com/jakzal/toolbox/releases/tag/v1.104.2), 2 days ago) - Helps to discover and install tools
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.1), 1 week ago) - Public Key Infrastructure
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.11](https://github.com/api-platform/core/releases/tag/v4.2.11), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
@@ -72,11 +72,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 3 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 3 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.8](https://github.com/symfony/security-bundle/releases/tag/v7.3.8), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 3 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 4 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [drupal-spider](https://github.com/drupal-spider) (1 week ago)
+- [drupal-spider](https://github.com/drupal-spider) (2 weeks ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [chalasr](https://github.com/chalasr) (3 years ago)
 - [passbolt](https://github.com/passbolt) (4 years ago)
