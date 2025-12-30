@@ -44,9 +44,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (1 week ago)
 - [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (2 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.7.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.7.0), today) - Adds extra security-related features in your Symfony application
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.104.2](https://github.com/jakzal/toolbox/releases/tag/v1.104.2), 2 days ago) - Helps to discover and install tools
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.1), 1 week ago) - Public Key Infrastructure
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 3 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 3 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.8](https://github.com/symfony/security-bundle/releases/tag/v7.3.8), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.12.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.12.0), 4 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
