@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.3.9](https://github.com/symfony/security-http/releases/tag/v7.3.9), today) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.3.9](https://github.com/symfony/security-core/releases/tag/v7.3.9), today) - Symfony Security Component - Core Library
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.3.9](https://github.com/symfony/mailer/releases/tag/v7.3.9), today) - Helps sending emails
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.9](https://github.com/symfony/framework-bundle/releases/tag/v7.3.9), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.9](https://github.com/symfony/symfony/releases/tag/v7.3.9), today) - The Symfony PHP framework
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.7.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.7.0), 1 day ago) - Adds extra security-related features in your Symfony application
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.104.2](https://github.com/jakzal/toolbox/releases/tag/v1.104.2), 3 days ago) - Helps to discover and install tools
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.1), 1 week ago) - Public Key Infrastructure
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.11](https://github.com/api-platform/core/releases/tag/v4.2.11), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.3](https://github.com/web-token/jwt-framework/releases/tag/4.1.3), 1 week ago) - JWT Framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 3 weeks ago) - The Symfony PHP framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.1](https://github.com/symfony/security-http/releases/tag/v8.0.1), 3 weeks ago) - Symfony Security Component - HTTP Integration
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.1](https://github.com/symfony/framework-bundle/releases/tag/v8.0.1), 3 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.3.8](https://github.com/symfony/security-bundle/releases/tag/v7.3.8), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
