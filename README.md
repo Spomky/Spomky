@@ -42,7 +42,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (1 week ago)
-- [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (1 week ago)
+- [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (2 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
@@ -63,8 +63,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.7.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.7.0), today) - Adds extra security-related features in your Symfony application
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.104.2](https://github.com/jakzal/toolbox/releases/tag/v1.104.2), 2 days ago) - Helps to discover and install tools
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.7.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.7.0), 1 day ago) - Adds extra security-related features in your Symfony application
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.104.2](https://github.com/jakzal/toolbox/releases/tag/v1.104.2), 3 days ago) - Helps to discover and install tools
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.1), 1 week ago) - Public Key Infrastructure
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.11](https://github.com/api-platform/core/releases/tag/v4.2.11), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
