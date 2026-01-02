@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix label validation to comply with Google Authenticator spec](https://github.com/Spomky-Labs/otphp/pull/248) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
+- [Accept OTP URIs with different issuer in label and parameter](https://github.com/Spomky-Labs/otphp/pull/247) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
 - [Enhance Dockerfile with new libraries and PIE usage](https://github.com/Spomky-Labs/phpqa/pull/3) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 week ago)
 - [Refactor Dockerfile to use PIE for PHP extensions](https://github.com/Spomky-Labs/phpqa/pull/2) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 week ago)
 - [fix: remove Composer cache from PHPStan job to ensure fresh dependencies](https://github.com/web-auth/webauthn-framework/pull/795) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Refactor octet processing to use spread operator with array_map](https://github.com/Spomky-Labs/pki-framework/pull/78) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
 - [Initialize the working_issuer_name with the subject name of the trusted anchor](https://github.com/Spomky-Labs/pki-framework/pull/77) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
 - [fix: set trust anchor when validating certificate path to support intermediate CA certificates](https://github.com/web-auth/webauthn-framework/pull/793) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Rector/ECS](https://github.com/web-auth/webauthn-framework/pull/792) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Rector/ECS/PHPStan on 5.2](https://github.com/web-auth/webauthn-framework/pull/791) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
