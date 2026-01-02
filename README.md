@@ -44,8 +44,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (2 weeks ago)
 - [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (2 weeks ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (3 weeks ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
@@ -63,23 +63,23 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 1 day ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.3](https://github.com/symfony/security-core/releases/tag/v8.0.3), 1 day ago) - Symfony Security Component - Core Library
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.3](https://github.com/symfony/mailer/releases/tag/v8.0.3), 1 day ago) - Helps sending emails
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.3), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), 1 day ago) - The Symfony PHP framework
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.7.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.7.0), 2 days ago) - Adds extra security-related features in your Symfony application
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.104.2](https://github.com/jakzal/toolbox/releases/tag/v1.104.2), 4 days ago) - Helps to discover and install tools
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 2 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.3](https://github.com/symfony/security-core/releases/tag/v8.0.3), 2 days ago) - Symfony Security Component - Core Library
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.3](https://github.com/symfony/mailer/releases/tag/v8.0.3), 2 days ago) - Helps sending emails
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.3), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), 2 days ago) - The Symfony PHP framework
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.7.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.7.0), 3 days ago) - Adds extra security-related features in your Symfony application
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.104.2](https://github.com/jakzal/toolbox/releases/tag/v1.104.2), 5 days ago) - Helps to discover and install tools
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.1), 1 week ago) - Public Key Infrastructure
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.11](https://github.com/api-platform/core/releases/tag/v4.2.11), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.11](https://github.com/api-platform/core/releases/tag/v4.2.11), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [drupal-spider](https://github.com/drupal-spider) (2 weeks ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [chalasr](https://github.com/chalasr) (3 years ago)
-- [passbolt](https://github.com/passbolt) (4 years ago)
+- [passbolt](https://github.com/passbolt) (5 years ago)
 
 <a href="https://stackoverflow.com/users/2157818/florent-morselli"><img src="https://stackoverflow.com/users/flair/2157818.png" width="208" height="58" alt="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
