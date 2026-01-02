@@ -45,8 +45,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (2 weeks ago)
 - [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (3 weeks ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
