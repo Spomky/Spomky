@@ -37,7 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 day ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (today)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Allow passing a custom secret size when generating OTP](https://github.com/Spomky-Labs/otphp/pull/249) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
 - [Fix label validation to comply with Google Authenticator spec](https://github.com/Spomky-Labs/otphp/pull/248) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
 - [Accept OTP URIs with different issuer in label and parameter](https://github.com/Spomky-Labs/otphp/pull/247) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
 - [Enhance Dockerfile with new libraries and PIE usage](https://github.com/Spomky-Labs/phpqa/pull/3) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 week ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 1.4.1 to 1.5.X](https://github.com/Spomky-Labs/pki-framework/pull/79) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 weeks ago)
 - [Refactor octet processing to use spread operator with array_map](https://github.com/Spomky-Labs/pki-framework/pull/78) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 weeks ago)
 - [Initialize the working_issuer_name with the subject name of the trusted anchor](https://github.com/Spomky-Labs/pki-framework/pull/77) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 weeks ago)
-- [fix: set trust anchor when validating certificate path to support intermediate CA certificates](https://github.com/web-auth/webauthn-framework/pull/793) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
