@@ -45,11 +45,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (2 weeks ago)
 - [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (3 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Fix documentation and prepare for v11.4.0 release](https://github.com/Spomky-Labs/otphp/pull/250) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
 - [Allow passing a custom secret size when generating OTP](https://github.com/Spomky-Labs/otphp/pull/249) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
 - [Fix label validation to comply with Google Authenticator spec](https://github.com/Spomky-Labs/otphp/pull/248) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
 - [Accept OTP URIs with different issuer in label and parameter](https://github.com/Spomky-Labs/otphp/pull/247) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 5.2.3 to 5.3.x](https://github.com/web-auth/webauthn-framework/pull/794) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [Merge up 1.4.1 to 1.5.X](https://github.com/Spomky-Labs/pki-framework/pull/79) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 weeks ago)
 - [Refactor octet processing to use spread operator with array_map](https://github.com/Spomky-Labs/pki-framework/pull/78) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 weeks ago)
-- [Initialize the working_issuer_name with the subject name of the trusted anchor](https://github.com/Spomky-Labs/pki-framework/pull/77) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
