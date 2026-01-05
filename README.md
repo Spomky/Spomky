@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [fix: remove mbstring dependency for better PHP compatibility](https://github.com/Spomky-Labs/otphp/pull/262) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
 - [Merge 11.4.x into 11.5.x](https://github.com/Spomky-Labs/otphp/pull/260) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
 - [Document readonly classes migration from PR #244](https://github.com/Spomky-Labs/otphp/pull/259) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
 - [Migrate CI/CD to .ci-tools structure with Castor orchestration](https://github.com/Spomky-Labs/web-push/pull/56) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix label validation to comply with Google Authenticator spec](https://github.com/Spomky-Labs/otphp/pull/248) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 days ago)
 - [Accept OTP URIs with different issuer in label and parameter](https://github.com/Spomky-Labs/otphp/pull/247) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 days ago)
 - [Enhance Dockerfile with new libraries and PIE usage](https://github.com/Spomky-Labs/phpqa/pull/3) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 week ago)
-- [Refactor Dockerfile to use PIE for PHP extensions](https://github.com/Spomky-Labs/phpqa/pull/2) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
