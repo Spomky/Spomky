@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (today)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 day ago)
-- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 day ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 day ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 days ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 weeks ago)
@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Enhance status reporting, error handling, and add notification improvements](https://github.com/Spomky-Labs/web-push/pull/57) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
 - [fix: remove mbstring dependency for better PHP compatibility](https://github.com/Spomky-Labs/otphp/pull/262) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
 - [Merge 11.4.x into 11.5.x](https://github.com/Spomky-Labs/otphp/pull/260) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
 - [Document readonly classes migration from PR #244](https://github.com/Spomky-Labs/otphp/pull/259) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Allow passing a custom secret size when generating OTP](https://github.com/Spomky-Labs/otphp/pull/249) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 days ago)
 - [Fix label validation to comply with Google Authenticator spec](https://github.com/Spomky-Labs/otphp/pull/248) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 days ago)
 - [Accept OTP URIs with different issuer in label and parameter](https://github.com/Spomky-Labs/otphp/pull/247) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 days ago)
-- [Enhance Dockerfile with new libraries and PIE usage](https://github.com/Spomky-Labs/phpqa/pull/3) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
