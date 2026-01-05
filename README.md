@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.0), 2 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.1), today) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 5 days ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.3](https://github.com/symfony/security-core/releases/tag/v8.0.3), 5 days ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.3](https://github.com/symfony/mailer/releases/tag/v8.0.3), 5 days ago) - Helps sending emails
