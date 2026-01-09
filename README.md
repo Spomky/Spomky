@@ -37,6 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (4 days ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (4 days ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (5 days ago)
@@ -46,10 +47,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 weeks ago)
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (3 weeks ago)
 - [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (3 weeks ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/Spomky-Labs/pwa-bundle/pull/408) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Enhance status reporting, error handling, and add notification improvements](https://github.com/Spomky-Labs/web-push/pull/57) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (4 days ago)
 - [fix: remove mbstring dependency for better PHP compatibility](https://github.com/Spomky-Labs/otphp/pull/262) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (4 days ago)
 - [Merge 11.4.x into 11.5.x](https://github.com/Spomky-Labs/otphp/pull/260) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (5 days ago)
@@ -59,10 +60,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix documentation and prepare for v11.4.0 release](https://github.com/Spomky-Labs/otphp/pull/250) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (6 days ago)
 - [Allow passing a custom secret size when generating OTP](https://github.com/Spomky-Labs/otphp/pull/249) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (6 days ago)
 - [Fix label validation to comply with Google Authenticator spec](https://github.com/Spomky-Labs/otphp/pull/248) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
-- [Accept OTP URIs with different issuer in label and parameter](https://github.com/Spomky-Labs/otphp/pull/247) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.4.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.4.0), today) - PHP library for generating a full featured PWA manifest
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.1), 4 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [symfony/serializer](https://github.com/symfony/serializer) ([v8.0.3](https://github.com/symfony/serializer/releases/tag/v8.0.3), 1 week ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 1 week ago) - Symfony Security Component - HTTP Integration
@@ -71,8 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.3), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), 1 week ago) - The Symfony PHP framework
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.7.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.7.0), 1 week ago) - Adds extra security-related features in your Symfony application
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.104.2](https://github.com/jakzal/toolbox/releases/tag/v1.104.2), 1 week ago) - Helps to discover and install tools
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.3), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
