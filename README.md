@@ -38,8 +38,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (4 days ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (4 days ago)
+- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (4 days ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (5 days ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (6 days ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 weeks ago)
@@ -66,10 +66,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.4.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.4.0), today) - PHP library for generating a full featured PWA manifest
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.1), 4 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [symfony/serializer](https://github.com/symfony/serializer) ([v8.0.3](https://github.com/symfony/serializer/releases/tag/v8.0.3), 1 week ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.3](https://github.com/symfony/security-core/releases/tag/v8.0.3), 1 week ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.3](https://github.com/symfony/mailer/releases/tag/v8.0.3), 1 week ago) - Helps sending emails
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.3](https://github.com/symfony/http-foundation/releases/tag/v8.0.3), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.3), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), 1 week ago) - The Symfony PHP framework
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.7.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.7.0), 1 week ago) - Adds extra security-related features in your Symfony application
