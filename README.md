@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.4.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.4.0), 1 day ago) - PHP library for generating a full featured PWA manifest
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.1), 5 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.3](https://github.com/symfony/http-foundation/releases/tag/v8.0.3), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.3), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), 1 week ago) - The Symfony PHP framework
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.7.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.7.0), 1 week ago) - Adds extra security-related features in your Symfony application
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
