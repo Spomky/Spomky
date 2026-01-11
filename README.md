@@ -37,24 +37,24 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (5 days ago)
-- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (5 days ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (6 days ago)
+- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (6 days ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 weeks ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 weeks ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 weeks ago)
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (3 weeks ago)
 - [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/Spomky-Labs/pwa-bundle/pull/408) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Enhance status reporting, error handling, and add notification improvements](https://github.com/Spomky-Labs/web-push/pull/57) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (5 days ago)
-- [fix: remove mbstring dependency for better PHP compatibility](https://github.com/Spomky-Labs/otphp/pull/262) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (5 days ago)
-- [Merge 11.4.x into 11.5.x](https://github.com/Spomky-Labs/otphp/pull/260) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (6 days ago)
-- [Document readonly classes migration from PR #244](https://github.com/Spomky-Labs/otphp/pull/259) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (6 days ago)
+- [Update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/Spomky-Labs/pwa-bundle/pull/408) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Enhance status reporting, error handling, and add notification improvements](https://github.com/Spomky-Labs/web-push/pull/57) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (6 days ago)
+- [fix: remove mbstring dependency for better PHP compatibility](https://github.com/Spomky-Labs/otphp/pull/262) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (6 days ago)
+- [Merge 11.4.x into 11.5.x](https://github.com/Spomky-Labs/otphp/pull/260) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
+- [Document readonly classes migration from PR #244](https://github.com/Spomky-Labs/otphp/pull/259) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
 - [Migrate CI/CD to .ci-tools structure with Castor orchestration](https://github.com/Spomky-Labs/web-push/pull/56) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 week ago)
 - [feat: add custom exception hierarchy for better error handling](https://github.com/Spomky-Labs/otphp/pull/251) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
 - [Fix documentation and prepare for v11.4.0 release](https://github.com/Spomky-Labs/otphp/pull/250) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
@@ -63,10 +63,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.4.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.4.0), 1 day ago) - PHP library for generating a full featured PWA manifest
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.1), 5 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.4.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.4.0), 2 days ago) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.1), 6 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.3](https://github.com/symfony/security-core/releases/tag/v8.0.3), 1 week ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.3](https://github.com/symfony/mailer/releases/tag/v8.0.3), 1 week ago) - Helps sending emails
