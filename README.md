@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [ fix: update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/symfony/ai/pull/1390) on [symfony/ai](https://github.com/symfony/ai) (today)
 - [Update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/Spomky-Labs/pwa-bundle/pull/408) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 - [Enhance status reporting, error handling, and add notification improvements](https://github.com/Spomky-Labs/web-push/pull/57) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 week ago)
 - [fix: remove mbstring dependency for better PHP compatibility](https://github.com/Spomky-Labs/otphp/pull/262) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat: add custom exception hierarchy for better error handling](https://github.com/Spomky-Labs/otphp/pull/251) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
 - [Fix documentation and prepare for v11.4.0 release](https://github.com/Spomky-Labs/otphp/pull/250) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
 - [Allow passing a custom secret size when generating OTP](https://github.com/Spomky-Labs/otphp/pull/249) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
-- [Fix label validation to comply with Google Authenticator spec](https://github.com/Spomky-Labs/otphp/pull/248) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
