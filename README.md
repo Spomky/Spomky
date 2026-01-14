@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (5 days ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 week ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 week ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 week ago)
@@ -46,11 +46,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 weeks ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 weeks ago)
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (3 weeks ago)
-- [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (3 weeks ago)
+- [mtarld/sfcon-apip](https://github.com/mtarld/sfcon-apip) -  (4 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/Spomky-Labs/pwa-bundle/pull/408) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
+- [Update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/Spomky-Labs/pwa-bundle/pull/408) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
 - [Enhance status reporting, error handling, and add notification improvements](https://github.com/Spomky-Labs/web-push/pull/57) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 week ago)
 - [fix: remove mbstring dependency for better PHP compatibility](https://github.com/Spomky-Labs/otphp/pull/262) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
 - [Merge 11.4.x into 11.5.x](https://github.com/Spomky-Labs/otphp/pull/260) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.0](https://github.com/web-auth/cose-lib/releases/tag/4.5.0), 2 days ago) - Cose Key and Algorithms support
-- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.4.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.4.0), 4 days ago) - PHP library for generating a full featured PWA manifest
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.0](https://github.com/web-auth/cose-lib/releases/tag/4.5.0), 3 days ago) - Cose Key and Algorithms support
+- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 4 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.4.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.4.0), 5 days ago) - PHP library for generating a full featured PWA manifest
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.1), 1 week ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 1 week ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.3](https://github.com/symfony/security-core/releases/tag/v8.0.3), 1 week ago) - Symfony Security Component - Core Library
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.3](https://github.com/symfony/mailer/releases/tag/v8.0.3), 1 week ago) - Helps sending emails
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.3](https://github.com/symfony/http-foundation/releases/tag/v8.0.3), 1 week ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.3), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 2 weeks ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.3](https://github.com/symfony/security-core/releases/tag/v8.0.3), 2 weeks ago) - Symfony Security Component - Core Library
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.3](https://github.com/symfony/mailer/releases/tag/v8.0.3), 2 weeks ago) - Helps sending emails
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.3](https://github.com/symfony/http-foundation/releases/tag/v8.0.3), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.3](https://github.com/symfony/framework-bundle/releases/tag/v8.0.3), 2 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
