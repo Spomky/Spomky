@@ -76,7 +76,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [drupal-spider](https://github.com/drupal-spider) (1 month ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [chalasr](https://github.com/chalasr) (3 years ago)
 - [passbolt](https://github.com/passbolt) (5 years ago)
