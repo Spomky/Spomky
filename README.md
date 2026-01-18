@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.2.0](https://github.com/Spomky-Labs/web-push/releases/tag/3.2.0), today) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.8.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.8.0), 4 days ago) - Adds extra security-related features in your Symfony application
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.0](https://github.com/web-auth/cose-lib/releases/tag/4.5.0), 1 week ago) - Cose Key and Algorithms support
 - [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 2 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.3](https://github.com/symfony/security-core/releases/tag/v8.0.3), 2 weeks ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.3](https://github.com/symfony/mailer/releases/tag/v8.0.3), 2 weeks ago) - Helps sending emails
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.3](https://github.com/symfony/http-foundation/releases/tag/v8.0.3), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
