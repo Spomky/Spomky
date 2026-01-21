@@ -37,9 +37,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (6 days ago)
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) - PHP library for interacting with AI platform provider. (6 days ago)
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) - PHP library for building agentic applications. (6 days ago)
+- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (1 week ago)
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) - PHP library for interacting with AI platform provider. (1 week ago)
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) - PHP library for building agentic applications. (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (2 weeks ago)
@@ -50,8 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [feat(tests): Add PHPUnit assertions for security headers and update testing documentation](https://github.com/nelmio/NelmioSecurityBundle/pull/389) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (6 days ago)
-- [ fix: update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/symfony/ai/pull/1390) on [symfony/ai](https://github.com/symfony/ai) (6 days ago)
+- [feat(tests): Add PHPUnit assertions for security headers and update testing documentation](https://github.com/nelmio/NelmioSecurityBundle/pull/389) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (1 week ago)
+- [ fix: update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/symfony/ai/pull/1390) on [symfony/ai](https://github.com/symfony/ai) (1 week ago)
 - [Update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/Spomky-Labs/pwa-bundle/pull/408) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Enhance status reporting, error handling, and add notification improvements](https://github.com/Spomky-Labs/web-push/pull/57) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 weeks ago)
 - [fix: remove mbstring dependency for better PHP compatibility](https://github.com/Spomky-Labs/otphp/pull/262) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 weeks ago)
@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.2.0](https://github.com/Spomky-Labs/web-push/releases/tag/3.2.0), 2 days ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.8.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.8.0), 6 days ago) - Adds extra security-related features in your Symfony application
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.2.0](https://github.com/Spomky-Labs/web-push/releases/tag/3.2.0), 3 days ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.8.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.8.0), 1 week ago) - Adds extra security-related features in your Symfony application
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.0](https://github.com/web-auth/cose-lib/releases/tag/4.5.0), 1 week ago) - Cose Key and Algorithms support
 - [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.4.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.4.0), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.1), 2 weeks ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 2 weeks ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.3](https://github.com/symfony/security-core/releases/tag/v8.0.3), 2 weeks ago) - Symfony Security Component - Core Library
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.3](https://github.com/symfony/mailer/releases/tag/v8.0.3), 2 weeks ago) - Helps sending emails
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 3 weeks ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.3](https://github.com/symfony/security-core/releases/tag/v8.0.3), 3 weeks ago) - Symfony Security Component - Core Library
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.3](https://github.com/symfony/mailer/releases/tag/v8.0.3), 3 weeks ago) - Helps sending emails
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
