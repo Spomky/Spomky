@@ -50,12 +50,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update composer.json to support Symfony 8.0](https://github.com/Spomky-Labs/web-push/pull/64) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
-- [Change default page caching strategy to StaleWhileRevalidate](https://github.com/Spomky-Labs/pwa-bundle/pull/415) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Add Early Hints (HTTP 103) support for PWA resources](https://github.com/Spomky-Labs/pwa-bundle/pull/414) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Add Resource Hints support for preconnect, dns-prefetch, and preload](https://github.com/Spomky-Labs/pwa-bundle/pull/413) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Add Speculation Rules API support for prefetching and prerendering](https://github.com/Spomky-Labs/pwa-bundle/pull/412) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Add Navigation Preload support for faster navigation](https://github.com/Spomky-Labs/pwa-bundle/pull/411) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Update composer.json to support Symfony 8.0](https://github.com/Spomky-Labs/web-push/pull/64) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 day ago)
+- [Change default page caching strategy to StaleWhileRevalidate](https://github.com/Spomky-Labs/pwa-bundle/pull/415) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Add Early Hints (HTTP 103) support for PWA resources](https://github.com/Spomky-Labs/pwa-bundle/pull/414) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Add Resource Hints support for preconnect, dns-prefetch, and preload](https://github.com/Spomky-Labs/pwa-bundle/pull/413) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Add Speculation Rules API support for prefetching and prerendering](https://github.com/Spomky-Labs/pwa-bundle/pull/412) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Add Navigation Preload support for faster navigation](https://github.com/Spomky-Labs/pwa-bundle/pull/411) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [feat(tests): Add PHPUnit assertions for security headers and update testing documentation](https://github.com/nelmio/NelmioSecurityBundle/pull/389) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (1 week ago)
 - [ fix: update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/symfony/ai/pull/1390) on [symfony/ai](https://github.com/symfony/ai) (1 week ago)
 - [Update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/Spomky-Labs/pwa-bundle/pull/408) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.2.1](https://github.com/Spomky-Labs/web-push/releases/tag/3.2.1), today) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.2.1](https://github.com/Spomky-Labs/web-push/releases/tag/3.2.1), 1 day ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.8.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.8.0), 1 week ago) - Adds extra security-related features in your Symfony application
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.0](https://github.com/web-auth/cose-lib/releases/tag/4.5.0), 1 week ago) - Cose Key and Algorithms support
 - [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
