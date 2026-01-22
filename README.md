@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add Asset Mapper support for Resource Hints preload](https://github.com/Spomky-Labs/pwa-bundle/pull/416) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Update composer.json to support Symfony 8.0](https://github.com/Spomky-Labs/web-push/pull/64) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 day ago)
 - [Change default page caching strategy to StaleWhileRevalidate](https://github.com/Spomky-Labs/pwa-bundle/pull/415) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Add Early Hints (HTTP 103) support for PWA resources](https://github.com/Spomky-Labs/pwa-bundle/pull/414) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat(tests): Add PHPUnit assertions for security headers and update testing documentation](https://github.com/nelmio/NelmioSecurityBundle/pull/389) on [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (1 week ago)
 - [ fix: update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/symfony/ai/pull/1390) on [symfony/ai](https://github.com/symfony/ai) (1 week ago)
 - [Update phpdocumentor/reflection-docblock version constraint to support 6.0](https://github.com/Spomky-Labs/pwa-bundle/pull/408) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Enhance status reporting, error handling, and add notification improvements](https://github.com/Spomky-Labs/web-push/pull/57) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
