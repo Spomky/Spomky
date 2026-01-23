@@ -37,12 +37,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
 - [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (1 week ago)
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) - PHP library for building agentic applications. (1 week ago)
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) - PHP library for interacting with AI platform provider. (1 week ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (2 weeks ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (2 weeks ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: make PublicKeyCredentialSource extend CredentialRecord](https://github.com/web-auth/webauthn-framework/pull/804) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Fix PHPStan errors and disable noisy rule](https://github.com/Spomky-Labs/pwa-bundle/pull/419) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Add Speculation Rules support for prefetching and prerendering resources](https://github.com/Spomky-Labs/pwa-bundle/pull/418) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Add ResourceHintsListener for Early Hints support](https://github.com/Spomky-Labs/pwa-bundle/pull/417) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Add Early Hints (HTTP 103) support for PWA resources](https://github.com/Spomky-Labs/pwa-bundle/pull/414) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Add Resource Hints support for preconnect, dns-prefetch, and preload](https://github.com/Spomky-Labs/pwa-bundle/pull/413) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Add Speculation Rules API support for prefetching and prerendering](https://github.com/Spomky-Labs/pwa-bundle/pull/412) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add Navigation Preload support for faster navigation](https://github.com/Spomky-Labs/pwa-bundle/pull/411) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
