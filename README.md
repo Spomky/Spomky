@@ -37,38 +37,38 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
 - [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (1 week ago)
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) - PHP library for building agentic applications. (1 week ago)
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) - PHP library for interacting with AI platform provider. (1 week ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (2 weeks ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (2 weeks ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (2 weeks ago)
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: make PublicKeyCredentialSource extend CredentialRecord](https://github.com/web-auth/webauthn-framework/pull/804) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Fix PHPStan errors and disable noisy rule](https://github.com/Spomky-Labs/pwa-bundle/pull/419) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add Speculation Rules support for prefetching and prerendering resources](https://github.com/Spomky-Labs/pwa-bundle/pull/418) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add ResourceHintsListener for Early Hints support](https://github.com/Spomky-Labs/pwa-bundle/pull/417) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add Asset Mapper support for Resource Hints preload](https://github.com/Spomky-Labs/pwa-bundle/pull/416) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Update composer.json to support Symfony 8.0](https://github.com/Spomky-Labs/web-push/pull/64) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 days ago)
-- [Change default page caching strategy to StaleWhileRevalidate](https://github.com/Spomky-Labs/pwa-bundle/pull/415) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add Early Hints (HTTP 103) support for PWA resources](https://github.com/Spomky-Labs/pwa-bundle/pull/414) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add Resource Hints support for preconnect, dns-prefetch, and preload](https://github.com/Spomky-Labs/pwa-bundle/pull/413) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add Speculation Rules API support for prefetching and prerendering](https://github.com/Spomky-Labs/pwa-bundle/pull/412) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [fix: respect authenticator_selection_criteria configuration when request body is empty](https://github.com/web-auth/webauthn-framework/pull/805) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [refactor: make PublicKeyCredentialSource extend CredentialRecord](https://github.com/web-auth/webauthn-framework/pull/804) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Fix PHPStan errors and disable noisy rule](https://github.com/Spomky-Labs/pwa-bundle/pull/419) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Add Speculation Rules support for prefetching and prerendering resources](https://github.com/Spomky-Labs/pwa-bundle/pull/418) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Add ResourceHintsListener for Early Hints support](https://github.com/Spomky-Labs/pwa-bundle/pull/417) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Add Asset Mapper support for Resource Hints preload](https://github.com/Spomky-Labs/pwa-bundle/pull/416) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Update composer.json to support Symfony 8.0](https://github.com/Spomky-Labs/web-push/pull/64) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (3 days ago)
+- [Change default page caching strategy to StaleWhileRevalidate](https://github.com/Spomky-Labs/pwa-bundle/pull/415) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Add Early Hints (HTTP 103) support for PWA resources](https://github.com/Spomky-Labs/pwa-bundle/pull/414) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Add Resource Hints support for preconnect, dns-prefetch, and preload](https://github.com/Spomky-Labs/pwa-bundle/pull/413) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.14](https://github.com/api-platform/core/releases/tag/v4.2.14), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.2](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.2), today) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.2.1](https://github.com/Spomky-Labs/web-push/releases/tag/3.2.1), 2 days ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.14](https://github.com/api-platform/core/releases/tag/v4.2.14), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.2](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.2), 1 day ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) ([3.2.1](https://github.com/Spomky-Labs/web-push/releases/tag/3.2.1), 3 days ago) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications.
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.8.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.8.0), 1 week ago) - Adds extra security-related features in your Symfony application
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.0](https://github.com/web-auth/cose-lib/releases/tag/4.5.0), 1 week ago) - Cose Key and Algorithms support
-- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 2 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.4.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.4.0), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.3](https://github.com/symfony/security-http/releases/tag/v8.0.3), 3 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.3](https://github.com/symfony/security-core/releases/tag/v8.0.3), 3 weeks ago) - Symfony Security Component - Core Library
