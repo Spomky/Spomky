@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.4.32](https://github.com/symfony/framework-bundle/releases/tag/v6.4.32), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.4.32](https://github.com/symfony/security-bundle/releases/tag/v6.4.32), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.4.32](https://github.com/symfony/http-foundation/releases/tag/v6.4.32), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/ldap](https://github.com/symfony/ldap) ([v6.4.32](https://github.com/symfony/ldap/releases/tag/v6.4.32), today) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.4](https://github.com/symfony/security-core/releases/tag/v7.4.4), today) - Symfony Security Component - Core Library
+- [symfony/ldap](https://github.com/symfony/ldap) ([v7.4.4](https://github.com/symfony/ldap/releases/tag/v7.4.4), today) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.4.4](https://github.com/symfony/framework-bundle/releases/tag/v7.4.4), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.4.4](https://github.com/symfony/mailer/releases/tag/v7.4.4), today) - Helps sending emails
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.4](https://github.com/symfony/http-foundation/releases/tag/v7.4.4), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.4.4](https://github.com/symfony/security-bundle/releases/tag/v7.4.4), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.4.4](https://github.com/symfony/security-http/releases/tag/v7.4.4), today) - Symfony Security Component - HTTP Integration
 - [symfony/ai](https://github.com/symfony/ai) ([v0.3.0](https://github.com/symfony/ai/releases/tag/v0.3.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.3.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.3.0), today) - Replicate platform bridge for Symfony AI
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.3.0](https://github.com/symfony/ai-platform/releases/tag/v0.3.0), today) - PHP library for interacting with AI platform provider.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.3.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.3.0), today) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.3.0](https://github.com/symfony/ai-agent/releases/tag/v0.3.0), today) - PHP library for building agentic applications.
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.3.0](https://github.com/symfony/ai-store/releases/tag/v0.3.0), today) - Low-level abstraction for storing and retrieving documents in a vector store.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
