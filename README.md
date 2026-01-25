@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.4](https://github.com/symfony/symfony/releases/tag/v8.0.4), today) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.4](https://github.com/symfony/framework-bundle/releases/tag/v8.0.4), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.4](https://github.com/symfony/security-bundle/releases/tag/v8.0.4), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.4](https://github.com/symfony/security-core/releases/tag/v8.0.4), today) - Symfony Security Component - Core Library
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.4](https://github.com/symfony/ldap/releases/tag/v8.0.4), today) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
 - [symfony/ai](https://github.com/symfony/ai) ([v0.3.0](https://github.com/symfony/ai/releases/tag/v0.3.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.3.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.3.0), 1 day ago) - Replicate platform bridge for Symfony AI
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.3.0](https://github.com/symfony/ai-platform/releases/tag/v0.3.0), 1 day ago) - PHP library for interacting with AI platform provider.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
