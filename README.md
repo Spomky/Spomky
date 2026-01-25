@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.3.1](https://github.com/symfony/ai/releases/tag/v0.3.1), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.4](https://github.com/symfony/symfony/releases/tag/v8.0.4), today) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.4](https://github.com/symfony/framework-bundle/releases/tag/v8.0.4), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.4](https://github.com/symfony/security-bundle/releases/tag/v8.0.4), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
@@ -71,7 +72,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.4](https://github.com/symfony/http-foundation/releases/tag/v8.0.4), today) - Defines an object-oriented layer for the HTTP specification
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.4](https://github.com/symfony/security-http/releases/tag/v8.0.4), today) - Symfony Security Component - HTTP Integration
 - [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.4](https://github.com/symfony/ldap/releases/tag/v8.0.4), today) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/ai](https://github.com/symfony/ai) ([v0.3.0](https://github.com/symfony/ai/releases/tag/v0.3.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.3.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.3.0), 1 day ago) - Replicate platform bridge for Symfony AI
 
 #### ❤️ These awesome people sponsor me (thank you!)
