@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 days ago)
 - [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (1 week ago)
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) - PHP library for building agentic applications. (1 week ago)
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) - PHP library for interacting with AI platform provider. (1 week ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (2 weeks ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (2 weeks ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 weeks ago)
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add granular client override policy system for WebAuthn options](https://github.com/web-auth/webauthn-framework/pull/805) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [refactor: make PublicKeyCredentialSource extend CredentialRecord](https://github.com/web-auth/webauthn-framework/pull/804) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Fix PHPStan errors and disable noisy rule](https://github.com/Spomky-Labs/pwa-bundle/pull/419) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add Speculation Rules support for prefetching and prerendering resources](https://github.com/Spomky-Labs/pwa-bundle/pull/418) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add ResourceHintsListener for Early Hints support](https://github.com/Spomky-Labs/pwa-bundle/pull/417) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add Asset Mapper support for Resource Hints preload](https://github.com/Spomky-Labs/pwa-bundle/pull/416) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Update composer.json to support Symfony 8.0](https://github.com/Spomky-Labs/web-push/pull/64) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (3 days ago)
-- [Change default page caching strategy to StaleWhileRevalidate](https://github.com/Spomky-Labs/pwa-bundle/pull/415) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Add Early Hints (HTTP 103) support for PWA resources](https://github.com/Spomky-Labs/pwa-bundle/pull/414) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Add Resource Hints support for preconnect, dns-prefetch, and preload](https://github.com/Spomky-Labs/pwa-bundle/pull/413) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [feat: Add granular client override policy system for WebAuthn options](https://github.com/web-auth/webauthn-framework/pull/805) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [refactor: make PublicKeyCredentialSource extend CredentialRecord](https://github.com/web-auth/webauthn-framework/pull/804) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [Fix PHPStan errors and disable noisy rule](https://github.com/Spomky-Labs/pwa-bundle/pull/419) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Add Speculation Rules support for prefetching and prerendering resources](https://github.com/Spomky-Labs/pwa-bundle/pull/418) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Add ResourceHintsListener for Early Hints support](https://github.com/Spomky-Labs/pwa-bundle/pull/417) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Add Asset Mapper support for Resource Hints preload](https://github.com/Spomky-Labs/pwa-bundle/pull/416) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Update composer.json to support Symfony 8.0](https://github.com/Spomky-Labs/web-push/pull/64) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (4 days ago)
+- [Change default page caching strategy to StaleWhileRevalidate](https://github.com/Spomky-Labs/pwa-bundle/pull/415) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
+- [Add Early Hints (HTTP 103) support for PWA resources](https://github.com/Spomky-Labs/pwa-bundle/pull/414) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
+- [Add Resource Hints support for preconnect, dns-prefetch, and preload](https://github.com/Spomky-Labs/pwa-bundle/pull/413) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.4](https://github.com/symfony/security-core/releases/tag/v7.4.4), today) - Symfony Security Component - Core Library
-- [symfony/ldap](https://github.com/symfony/ldap) ([v7.4.4](https://github.com/symfony/ldap/releases/tag/v7.4.4), today) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.4.4](https://github.com/symfony/framework-bundle/releases/tag/v7.4.4), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/mailer](https://github.com/symfony/mailer) ([v7.4.4](https://github.com/symfony/mailer/releases/tag/v7.4.4), today) - Helps sending emails
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.4](https://github.com/symfony/http-foundation/releases/tag/v7.4.4), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.4.4](https://github.com/symfony/security-bundle/releases/tag/v7.4.4), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v7.4.4](https://github.com/symfony/security-http/releases/tag/v7.4.4), today) - Symfony Security Component - HTTP Integration
-- [symfony/ai](https://github.com/symfony/ai) ([v0.3.0](https://github.com/symfony/ai/releases/tag/v0.3.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.3.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.3.0), today) - Replicate platform bridge for Symfony AI
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.3.0](https://github.com/symfony/ai-platform/releases/tag/v0.3.0), today) - PHP library for interacting with AI platform provider.
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.4](https://github.com/symfony/security-core/releases/tag/v7.4.4), 1 day ago) - Symfony Security Component - Core Library
+- [symfony/ldap](https://github.com/symfony/ldap) ([v7.4.4](https://github.com/symfony/ldap/releases/tag/v7.4.4), 1 day ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.4.4](https://github.com/symfony/framework-bundle/releases/tag/v7.4.4), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/mailer](https://github.com/symfony/mailer) ([v7.4.4](https://github.com/symfony/mailer/releases/tag/v7.4.4), 1 day ago) - Helps sending emails
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.4](https://github.com/symfony/http-foundation/releases/tag/v7.4.4), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.4.4](https://github.com/symfony/security-bundle/releases/tag/v7.4.4), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v7.4.4](https://github.com/symfony/security-http/releases/tag/v7.4.4), 1 day ago) - Symfony Security Component - HTTP Integration
+- [symfony/ai](https://github.com/symfony/ai) ([v0.3.0](https://github.com/symfony/ai/releases/tag/v0.3.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.3.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.3.0), 1 day ago) - Replicate platform bridge for Symfony AI
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.3.0](https://github.com/symfony/ai-platform/releases/tag/v0.3.0), 1 day ago) - PHP library for interacting with AI platform provider.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
