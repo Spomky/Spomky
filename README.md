@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.3.1](https://github.com/symfony/ai/releases/tag/v0.3.1), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai](https://github.com/symfony/ai) ([v0.3.2](https://github.com/symfony/ai/releases/tag/v0.3.2), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.4](https://github.com/symfony/symfony/releases/tag/v8.0.4), 1 day ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.4](https://github.com/symfony/framework-bundle/releases/tag/v8.0.4), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.4](https://github.com/symfony/security-bundle/releases/tag/v8.0.4), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
