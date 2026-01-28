@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Add Workbox debug configuration support](https://github.com/Spomky-Labs/pwa-bundle/pull/421) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [feat: Add granular client override policy system for WebAuthn options](https://github.com/web-auth/webauthn-framework/pull/805) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 - [refactor: make PublicKeyCredentialSource extend CredentialRecord](https://github.com/web-auth/webauthn-framework/pull/804) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 - [Fix PHPStan errors and disable noisy rule](https://github.com/Spomky-Labs/pwa-bundle/pull/419) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update composer.json to support Symfony 8.0](https://github.com/Spomky-Labs/web-push/pull/64) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 week ago)
 - [Change default page caching strategy to StaleWhileRevalidate](https://github.com/Spomky-Labs/pwa-bundle/pull/415) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Add Early Hints (HTTP 103) support for PWA resources](https://github.com/Spomky-Labs/pwa-bundle/pull/414) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Add Resource Hints support for preconnect, dns-prefetch, and preload](https://github.com/Spomky-Labs/pwa-bundle/pull/413) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
