@@ -63,14 +63,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.51](https://github.com/symfony/symfony/releases/tag/v5.4.51), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.5](https://github.com/symfony/framework-bundle/releases/tag/v8.0.5), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.5](https://github.com/symfony/http-foundation/releases/tag/v8.0.5), today) - Defines an object-oriented layer for the HTTP specification
 - [symfony/ai](https://github.com/symfony/ai) ([v0.3.3](https://github.com/symfony/ai/releases/tag/v0.3.3), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.3.3](https://github.com/symfony/ai-store/releases/tag/v0.3.3), 1 day ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.4](https://github.com/symfony/framework-bundle/releases/tag/v8.0.4), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.4](https://github.com/symfony/security-bundle/releases/tag/v8.0.4), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.4](https://github.com/symfony/security-core/releases/tag/v8.0.4), 3 days ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.4](https://github.com/symfony/mailer/releases/tag/v8.0.4), 3 days ago) - Helps sending emails
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.4](https://github.com/symfony/http-foundation/releases/tag/v8.0.4), 3 days ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.4](https://github.com/symfony/security-http/releases/tag/v8.0.4), 3 days ago) - Symfony Security Component - HTTP Integration
 - [symfony/ldap](https://github.com/symfony/ldap) ([v8.0.4](https://github.com/symfony/ldap/releases/tag/v8.0.4), 3 days ago) - Provides a LDAP client for PHP on top of PHP&#39;s ldap extension
 
