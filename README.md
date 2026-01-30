@@ -37,12 +37,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 week ago)
 - [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (2 weeks ago)
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) - PHP library for building agentic applications. (2 weeks ago)
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) - PHP library for interacting with AI platform provider. (2 weeks ago)
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) - PHP library for building agentic applications. (2 weeks ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (3 weeks ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (3 weeks ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 weeks ago)
@@ -50,10 +50,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add mobile-web-app-capable meta tag support](https://github.com/Spomky-Labs/pwa-bundle/pull/422) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [Add Workbox debug configuration support](https://github.com/Spomky-Labs/pwa-bundle/pull/421) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [feat: Add granular client override policy system for WebAuthn options](https://github.com/web-auth/webauthn-framework/pull/805) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [refactor: make PublicKeyCredentialSource extend CredentialRecord](https://github.com/web-auth/webauthn-framework/pull/804) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [feat: add mobile-web-app-capable meta tag support](https://github.com/Spomky-Labs/pwa-bundle/pull/422) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Add Workbox debug configuration support](https://github.com/Spomky-Labs/pwa-bundle/pull/421) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [feat: Add granular client override policy system for WebAuthn options](https://github.com/web-auth/webauthn-framework/pull/805) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [refactor: make PublicKeyCredentialSource extend CredentialRecord](https://github.com/web-auth/webauthn-framework/pull/804) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Fix PHPStan errors and disable noisy rule](https://github.com/Spomky-Labs/pwa-bundle/pull/419) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Add Speculation Rules support for prefetching and prerendering resources](https://github.com/Spomky-Labs/pwa-bundle/pull/418) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Add ResourceHintsListener for Early Hints support](https://github.com/Spomky-Labs/pwa-bundle/pull/417) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.0), 1 day ago) - PHP library for generating a full featured PWA manifest
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 1 day ago) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.5](https://github.com/symfony/framework-bundle/releases/tag/v8.0.5), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.5](https://github.com/symfony/http-foundation/releases/tag/v8.0.5), 1 day ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/ai](https://github.com/symfony/ai) ([v0.3.3](https://github.com/symfony/ai/releases/tag/v0.3.3), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.3.3](https://github.com/symfony/ai-store/releases/tag/v0.3.3), 2 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.4](https://github.com/symfony/security-bundle/releases/tag/v8.0.4), 4 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.4](https://github.com/symfony/security-core/releases/tag/v8.0.4), 4 days ago) - Symfony Security Component - Core Library
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.4](https://github.com/symfony/mailer/releases/tag/v8.0.4), 4 days ago) - Helps sending emails
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.4](https://github.com/symfony/security-http/releases/tag/v8.0.4), 4 days ago) - Symfony Security Component - HTTP Integration
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.0), 2 days ago) - PHP library for generating a full featured PWA manifest
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 2 days ago) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.5](https://github.com/symfony/framework-bundle/releases/tag/v8.0.5), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.5](https://github.com/symfony/http-foundation/releases/tag/v8.0.5), 2 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/ai](https://github.com/symfony/ai) ([v0.3.3](https://github.com/symfony/ai/releases/tag/v0.3.3), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.3.3](https://github.com/symfony/ai-store/releases/tag/v0.3.3), 3 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.4](https://github.com/symfony/security-bundle/releases/tag/v8.0.4), 5 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.4](https://github.com/symfony/security-core/releases/tag/v8.0.4), 5 days ago) - Symfony Security Component - Core Library
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.4](https://github.com/symfony/mailer/releases/tag/v8.0.4), 5 days ago) - Helps sending emails
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.4](https://github.com/symfony/security-http/releases/tag/v8.0.4), 5 days ago) - Symfony Security Component - HTTP Integration
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
