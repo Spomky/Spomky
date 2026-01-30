@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.15](https://github.com/api-platform/core/releases/tag/v4.2.15), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.0](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.0), 2 days ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 2 days ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.5](https://github.com/symfony/framework-bundle/releases/tag/v8.0.5), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.4](https://github.com/symfony/security-bundle/releases/tag/v8.0.4), 5 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.4](https://github.com/symfony/security-core/releases/tag/v8.0.4), 5 days ago) - Symfony Security Component - Core Library
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.4](https://github.com/symfony/mailer/releases/tag/v8.0.4), 5 days ago) - Helps sending emails
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.0.4](https://github.com/symfony/security-http/releases/tag/v8.0.4), 5 days ago) - Symfony Security Component - HTTP Integration
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
