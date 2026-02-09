@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.105.0](https://github.com/jakzal/toolbox/releases/tag/v1.105.0), today) - Helps to discover and install tools
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.9.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.9.3), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.2](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.2), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.15](https://github.com/api-platform/core/releases/tag/v4.2.15), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai](https://github.com/symfony/ai) ([v0.3.3](https://github.com/symfony/ai/releases/tag/v0.3.3), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.3.3](https://github.com/symfony/ai-store/releases/tag/v0.3.3), 1 week ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.4](https://github.com/symfony/security-bundle/releases/tag/v8.0.4), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.4](https://github.com/symfony/security-core/releases/tag/v8.0.4), 2 weeks ago) - Symfony Security Component - Core Library
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
