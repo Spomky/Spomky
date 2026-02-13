@@ -72,7 +72,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.5](https://github.com/symfony/http-foundation/releases/tag/v8.0.5), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/ai](https://github.com/symfony/ai) ([v0.3.3](https://github.com/symfony/ai/releases/tag/v0.3.3), 2 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.3.3](https://github.com/symfony/ai-store/releases/tag/v0.3.3), 2 weeks ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.0.4](https://github.com/symfony/security-bundle/releases/tag/v8.0.4), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.4](https://github.com/symfony/mailer/releases/tag/v8.0.4), 2 weeks ago) - Helps sending emails
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
