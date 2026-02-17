@@ -63,8 +63,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.106.0](https://github.com/jakzal/toolbox/releases/tag/v1.106.0), today) - Helps to discover and install tools
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.105.0](https://github.com/jakzal/toolbox/releases/tag/v1.105.0), 1 week ago) - Helps to discover and install tools
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.9.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.9.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.2](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.2), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 2 weeks ago) - The Symfony PHP framework
