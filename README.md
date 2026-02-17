@@ -37,9 +37,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (1 week ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 week ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
+- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 weeks ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (3 weeks ago)
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) - PHP library for building agentic applications. (1 month ago)
@@ -63,15 +63,15 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.105.0](https://github.com/jakzal/toolbox/releases/tag/v1.105.0), 1 week ago) - Helps to discover and install tools
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.9.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.9.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.2](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.2), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 2 weeks ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.5](https://github.com/symfony/framework-bundle/releases/tag/v8.0.5), 2 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.5](https://github.com/symfony/http-foundation/releases/tag/v8.0.5), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/ai](https://github.com/symfony/ai) ([v0.3.3](https://github.com/symfony/ai/releases/tag/v0.3.3), 2 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.3.3](https://github.com/symfony/ai-store/releases/tag/v0.3.3), 2 weeks ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai](https://github.com/symfony/ai) ([v0.3.3](https://github.com/symfony/ai/releases/tag/v0.3.3), 3 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.3.3](https://github.com/symfony/ai-store/releases/tag/v0.3.3), 3 weeks ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.0.4](https://github.com/symfony/mailer/releases/tag/v8.0.4), 3 weeks ago) - Helps sending emails
 
 #### ❤️ These awesome people sponsor me (thank you!)
