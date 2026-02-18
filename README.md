@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix SKIP_WAITING handler missing clients.claim()](https://github.com/Spomky-Labs/pwa-bundle/pull/426) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Fix service worker script loading for CSP compatibility](https://github.com/Spomky-Labs/pwa-bundle/pull/424) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [Fix CSP compatibility for service worker registration script](https://github.com/Spomky-Labs/pwa-bundle/pull/423) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 - [feat: add mobile-web-app-capable meta tag support](https://github.com/Spomky-Labs/pwa-bundle/pull/422) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
@@ -59,14 +60,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix PHPStan errors and disable noisy rule](https://github.com/Spomky-Labs/pwa-bundle/pull/419) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Add Speculation Rules support for prefetching and prerendering resources](https://github.com/Spomky-Labs/pwa-bundle/pull/418) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Add ResourceHintsListener for Early Hints support](https://github.com/Spomky-Labs/pwa-bundle/pull/417) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
-- [Add Asset Mapper support for Resource Hints preload](https://github.com/Spomky-Labs/pwa-bundle/pull/416) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.3](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.3), today) - PHP library for generating a full featured PWA manifest
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.106.0](https://github.com/jakzal/toolbox/releases/tag/v1.106.0), 1 day ago) - Helps to discover and install tools
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.1), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([4.9.3](https://github.com/web-auth/webauthn-framework/releases/tag/4.9.3), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.2](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.2), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 3 weeks ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.5](https://github.com/symfony/framework-bundle/releases/tag/v8.0.5), 3 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.5](https://github.com/symfony/http-foundation/releases/tag/v8.0.5), 3 weeks ago) - Defines an object-oriented layer for the HTTP specification
