@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.17](https://github.com/api-platform/core/releases/tag/v4.2.17), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.5.0](https://github.com/symfony/ai/releases/tag/v0.5.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.5.0](https://github.com/symfony/ai-agent/releases/tag/v0.5.0), today) - PHP library for building agentic applications.
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.5.0](https://github.com/symfony/ai-store/releases/tag/v0.5.0), today) - Low-level abstraction for storing and retrieving documents in a vector store.
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.5.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.5.0), today) - OpenRouter platform bridge for Symfony AI
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.3](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.3), 2 days ago) - PHP library for generating a full featured PWA manifest
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.106.0](https://github.com/jakzal/toolbox/releases/tag/v1.106.0), 3 days ago) - Helps to discover and install tools
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.1), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
