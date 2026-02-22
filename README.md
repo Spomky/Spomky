@@ -38,18 +38,19 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 weeks ago)
+- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 weeks ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) - PHP library for interacting with AI platform provider. (1 month ago)
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) - PHP library for building agentic applications. (1 month ago)
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) - PHP library for interacting with AI platform provider. (1 month ago)
 - [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (1 month ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add @throws phpdoc annotations to denormalizers](https://github.com/web-auth/webauthn-framework/pull/808) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Fix SKIP_WAITING handler missing clients.claim()](https://github.com/Spomky-Labs/pwa-bundle/pull/426) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 - [Fix service worker script loading for CSP compatibility](https://github.com/Spomky-Labs/pwa-bundle/pull/424) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Fix CSP compatibility for service worker registration script](https://github.com/Spomky-Labs/pwa-bundle/pull/423) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [refactor: make PublicKeyCredentialSource extend CredentialRecord](https://github.com/web-auth/webauthn-framework/pull/804) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 - [Fix PHPStan errors and disable noisy rule](https://github.com/Spomky-Labs/pwa-bundle/pull/419) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 - [Add Speculation Rules support for prefetching and prerendering resources](https://github.com/Spomky-Labs/pwa-bundle/pull/418) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
-- [Add ResourceHintsListener for Early Hints support](https://github.com/Spomky-Labs/pwa-bundle/pull/417) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
