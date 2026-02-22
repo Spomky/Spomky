@@ -50,29 +50,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Fix SKIP_WAITING handler missing clients.claim()](https://github.com/Spomky-Labs/pwa-bundle/pull/426) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Fix service worker script loading for CSP compatibility](https://github.com/Spomky-Labs/pwa-bundle/pull/424) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
-- [Fix CSP compatibility for service worker registration script](https://github.com/Spomky-Labs/pwa-bundle/pull/423) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Fix SKIP_WAITING handler missing clients.claim()](https://github.com/Spomky-Labs/pwa-bundle/pull/426) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
+- [Fix service worker script loading for CSP compatibility](https://github.com/Spomky-Labs/pwa-bundle/pull/424) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
+- [Fix CSP compatibility for service worker registration script](https://github.com/Spomky-Labs/pwa-bundle/pull/423) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [feat: add mobile-web-app-capable meta tag support](https://github.com/Spomky-Labs/pwa-bundle/pull/422) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Add Workbox debug configuration support](https://github.com/Spomky-Labs/pwa-bundle/pull/421) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
-- [feat: Add granular client override policy system for WebAuthn options](https://github.com/web-auth/webauthn-framework/pull/805) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 weeks ago)
-- [refactor: make PublicKeyCredentialSource extend CredentialRecord](https://github.com/web-auth/webauthn-framework/pull/804) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 weeks ago)
+- [feat: Add granular client override policy system for WebAuthn options](https://github.com/web-auth/webauthn-framework/pull/805) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
+- [refactor: make PublicKeyCredentialSource extend CredentialRecord](https://github.com/web-auth/webauthn-framework/pull/804) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 - [Fix PHPStan errors and disable noisy rule](https://github.com/Spomky-Labs/pwa-bundle/pull/419) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 - [Add Speculation Rules support for prefetching and prerendering resources](https://github.com/Spomky-Labs/pwa-bundle/pull/418) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 - [Add ResourceHintsListener for Early Hints support](https://github.com/Spomky-Labs/pwa-bundle/pull/417) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/ai](https://github.com/symfony/ai) ([v0.5.0](https://github.com/symfony/ai/releases/tag/v0.5.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.5.0](https://github.com/symfony/ai-agent/releases/tag/v0.5.0), 1 day ago) - PHP library for building agentic applications.
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.5.0](https://github.com/symfony/ai-store/releases/tag/v0.5.0), 1 day ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.5.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.5.0), 1 day ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.5.0](https://github.com/symfony/ai-platform/releases/tag/v0.5.0), 1 day ago) - PHP library for interacting with AI platform provider.
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.5.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.5.0), 1 day ago) - Replicate platform bridge for Symfony AI
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.5.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.5.0), 1 day ago) - OpenRouter platform bridge for Symfony AI
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.3](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.3), 3 days ago) - PHP library for generating a full featured PWA manifest
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.106.0](https://github.com/jakzal/toolbox/releases/tag/v1.106.0), 4 days ago) - Helps to discover and install tools
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/ai](https://github.com/symfony/ai) ([v0.5.0](https://github.com/symfony/ai/releases/tag/v0.5.0), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.5.0](https://github.com/symfony/ai-agent/releases/tag/v0.5.0), 2 days ago) - PHP library for building agentic applications.
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.5.0](https://github.com/symfony/ai-store/releases/tag/v0.5.0), 2 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.5.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.5.0), 2 days ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.5.0](https://github.com/symfony/ai-platform/releases/tag/v0.5.0), 2 days ago) - PHP library for interacting with AI platform provider.
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.5.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.5.0), 2 days ago) - Replicate platform bridge for Symfony AI
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.5.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.5.0), 2 days ago) - OpenRouter platform bridge for Symfony AI
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.3](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.3), 4 days ago) - PHP library for generating a full featured PWA manifest
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.106.0](https://github.com/jakzal/toolbox/releases/tag/v1.106.0), 5 days ago) - Helps to discover and install tools
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
