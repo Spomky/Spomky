@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.9.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.9.0), today) - Adds extra security-related features in your Symfony application
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.5.0](https://github.com/symfony/ai/releases/tag/v0.5.0), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.5.0](https://github.com/symfony/ai-agent/releases/tag/v0.5.0), 3 days ago) - PHP library for building agentic applications.
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.5.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.5.0), 3 days ago) - Replicate platform bridge for Symfony AI
 - [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.5.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.5.0), 3 days ago) - OpenRouter platform bridge for Symfony AI
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.3](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.3), 5 days ago) - PHP library for generating a full featured PWA manifest
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.106.0](https://github.com/jakzal/toolbox/releases/tag/v1.106.0), 6 days ago) - Helps to discover and install tools
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
