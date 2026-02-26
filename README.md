@@ -63,10 +63,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.6](https://github.com/symfony/symfony/releases/tag/v7.4.6), today) - The Symfony PHP framework
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v7.4.6](https://github.com/symfony/amazon-mailer/releases/tag/v7.4.6), today) - Symfony Amazon Mailer Bridge
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.6](https://github.com/symfony/http-foundation/releases/tag/v7.4.6), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.4.6](https://github.com/symfony/framework-bundle/releases/tag/v7.4.6), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.6](https://github.com/symfony/http-foundation/releases/tag/v8.0.6), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.6](https://github.com/symfony/framework-bundle/releases/tag/v8.0.6), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v8.0.6](https://github.com/symfony/amazon-mailer/releases/tag/v8.0.6), today) - Symfony Amazon Mailer Bridge
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.9.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.9.0), 3 days ago) - Adds extra security-related features in your Symfony application
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.2), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.5.0](https://github.com/symfony/ai/releases/tag/v0.5.0), 6 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
