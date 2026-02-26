@@ -37,11 +37,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (3 weeks ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (3 weeks ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (3 weeks ago)
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (3 weeks ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (4 weeks ago)
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (4 weeks ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) - PHP library for interacting with AI platform provider. (1 month ago)
 - [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (1 month ago)
@@ -50,8 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [fix: reduce PHPStan baseline from 1638 to 256 errors](https://github.com/web-auth/webauthn-framework/pull/809) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [docs: add @throws phpdoc annotations to denormalizers](https://github.com/web-auth/webauthn-framework/pull/808) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [fix: reduce PHPStan baseline from 1638 to 256 errors](https://github.com/web-auth/webauthn-framework/pull/809) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [docs: add @throws phpdoc annotations to denormalizers](https://github.com/web-auth/webauthn-framework/pull/808) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
 - [Fix SKIP_WAITING handler missing clients.claim()](https://github.com/Spomky-Labs/pwa-bundle/pull/426) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [Fix service worker script loading for CSP compatibility](https://github.com/Spomky-Labs/pwa-bundle/pull/424) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Fix CSP compatibility for service worker registration script](https://github.com/Spomky-Labs/pwa-bundle/pull/423) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
@@ -63,15 +63,15 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.9.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.9.0), 2 days ago) - Adds extra security-related features in your Symfony application
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.2), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/ai](https://github.com/symfony/ai) ([v0.5.0](https://github.com/symfony/ai/releases/tag/v0.5.0), 5 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.5.0](https://github.com/symfony/ai-agent/releases/tag/v0.5.0), 5 days ago) - PHP library for building agentic applications.
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.5.0](https://github.com/symfony/ai-store/releases/tag/v0.5.0), 5 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.5.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.5.0), 5 days ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.5.0](https://github.com/symfony/ai-platform/releases/tag/v0.5.0), 5 days ago) - PHP library for interacting with AI platform provider.
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.5.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.5.0), 5 days ago) - Replicate platform bridge for Symfony AI
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.5.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.5.0), 5 days ago) - OpenRouter platform bridge for Symfony AI
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.9.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.9.0), 3 days ago) - Adds extra security-related features in your Symfony application
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.2), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/ai](https://github.com/symfony/ai) ([v0.5.0](https://github.com/symfony/ai/releases/tag/v0.5.0), 6 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.5.0](https://github.com/symfony/ai-agent/releases/tag/v0.5.0), 6 days ago) - PHP library for building agentic applications.
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.5.0](https://github.com/symfony/ai-store/releases/tag/v0.5.0), 6 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.5.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.5.0), 6 days ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.5.0](https://github.com/symfony/ai-platform/releases/tag/v0.5.0), 6 days ago) - PHP library for interacting with AI platform provider.
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.5.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.5.0), 6 days ago) - Replicate platform bridge for Symfony AI
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.5.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.5.0), 6 days ago) - OpenRouter platform bridge for Symfony AI
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.3](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.3), 1 week ago) - PHP library for generating a full featured PWA manifest
 
 #### ❤️ These awesome people sponsor me (thank you!)
