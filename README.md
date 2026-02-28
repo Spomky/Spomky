@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.4](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.4), today) - PHP library for generating a full featured PWA manifest
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.19](https://github.com/api-platform/core/releases/tag/v4.2.19), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 2 days ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.6](https://github.com/symfony/http-foundation/releases/tag/v8.0.6), 2 days ago) - Defines an object-oriented layer for the HTTP specification
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.5.0](https://github.com/symfony/ai-agent/releases/tag/v0.5.0), 1 week ago) - PHP library for building agentic applications.
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.5.0](https://github.com/symfony/ai-store/releases/tag/v0.5.0), 1 week ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.5.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.5.0), 1 week ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.5.0](https://github.com/symfony/ai-platform/releases/tag/v0.5.0), 1 week ago) - PHP library for interacting with AI platform provider.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
