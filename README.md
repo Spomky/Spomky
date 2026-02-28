@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Workbox::$config must not be accessed before initialization](https://github.com/Spomky-Labs/pwa-bundle/pull/430) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [[AiBundle] Defer DataCollector to lateCollect](https://github.com/symfony/ai/pull/1708) on [symfony/ai](https://github.com/symfony/ai) (today)
 - [perf: defer PwaCollector data collection to lateCollect](https://github.com/Spomky-Labs/pwa-bundle/pull/429) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Fix unknown &#34;instanceof&#34; Twig test](https://github.com/Spomky-Labs/pwa-bundle/pull/428) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
@@ -59,11 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix service worker script loading for CSP compatibility](https://github.com/Spomky-Labs/pwa-bundle/pull/424) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [Fix CSP compatibility for service worker registration script](https://github.com/Spomky-Labs/pwa-bundle/pull/423) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 - [feat: add mobile-web-app-capable meta tag support](https://github.com/Spomky-Labs/pwa-bundle/pull/422) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
-- [Add Workbox debug configuration support](https://github.com/Spomky-Labs/pwa-bundle/pull/421) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.5](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.5), today) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.6](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.6), today) - PHP library for generating a full featured PWA manifest
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.19](https://github.com/api-platform/core/releases/tag/v4.2.19), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 2 days ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.6](https://github.com/symfony/http-foundation/releases/tag/v8.0.6), 2 days ago) - Defines an object-oriented layer for the HTTP specification
