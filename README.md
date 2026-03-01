@@ -54,7 +54,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix: support long-running processes (Messenger workers)](https://github.com/DamienHarper/auditor/pull/301) on [DamienHarper/auditor](https://github.com/DamienHarper/auditor) (today)
 - [fix: install Infection via Composer for PHP 8.5 compat](https://github.com/Spomky-Labs/phpqa/pull/4) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (today)
 - [Fix Workbox::$config must not be accessed before initialization](https://github.com/Spomky-Labs/pwa-bundle/pull/430) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
-- [[AiBundle] Defer DataCollector to lateCollect](https://github.com/symfony/ai/pull/1708) on [symfony/ai](https://github.com/symfony/ai) (1 day ago)
+- [[AI Bundle] Defer DataCollector to lateCollect](https://github.com/symfony/ai/pull/1708) on [symfony/ai](https://github.com/symfony/ai) (1 day ago)
 - [perf: defer PwaCollector data collection to lateCollect](https://github.com/Spomky-Labs/pwa-bundle/pull/429) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [Fix unknown &#34;instanceof&#34; Twig test](https://github.com/Spomky-Labs/pwa-bundle/pull/428) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 - [fix: reduce PHPStan baseline from 1638 to 256 errors](https://github.com/web-auth/webauthn-framework/pull/809) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
