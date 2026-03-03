@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 day ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (3 weeks ago)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (3 weeks ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (4 weeks ago)
+- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (4 weeks ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (1 month ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
@@ -50,24 +50,24 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [fix: tag DoctrineProvider with kernel.reset for long-running processes](https://github.com/DamienHarper/auditor-bundle/pull/602) on [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) (1 day ago)
-- [fix: support long-running processes (Messenger workers)](https://github.com/DamienHarper/auditor/pull/301) on [DamienHarper/auditor](https://github.com/DamienHarper/auditor) (1 day ago)
-- [fix: install Infection via Composer for PHP 8.5 compat](https://github.com/Spomky-Labs/phpqa/pull/4) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 day ago)
-- [Fix Workbox::$config must not be accessed before initialization](https://github.com/Spomky-Labs/pwa-bundle/pull/430) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [[AI Bundle] Defer DataCollector to lateCollect](https://github.com/symfony/ai/pull/1708) on [symfony/ai](https://github.com/symfony/ai) (2 days ago)
-- [perf: defer PwaCollector data collection to lateCollect](https://github.com/Spomky-Labs/pwa-bundle/pull/429) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Fix unknown &#34;instanceof&#34; Twig test](https://github.com/Spomky-Labs/pwa-bundle/pull/428) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [fix: tag DoctrineProvider with kernel.reset for long-running processes](https://github.com/DamienHarper/auditor-bundle/pull/602) on [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) (2 days ago)
+- [fix: support long-running processes (Messenger workers)](https://github.com/DamienHarper/auditor/pull/301) on [DamienHarper/auditor](https://github.com/DamienHarper/auditor) (2 days ago)
+- [fix: install Infection via Composer for PHP 8.5 compat](https://github.com/Spomky-Labs/phpqa/pull/4) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (2 days ago)
+- [Fix Workbox::$config must not be accessed before initialization](https://github.com/Spomky-Labs/pwa-bundle/pull/430) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [[AI Bundle] Defer DataCollector to lateCollect](https://github.com/symfony/ai/pull/1708) on [symfony/ai](https://github.com/symfony/ai) (3 days ago)
+- [perf: defer PwaCollector data collection to lateCollect](https://github.com/Spomky-Labs/pwa-bundle/pull/429) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [Fix unknown &#34;instanceof&#34; Twig test](https://github.com/Spomky-Labs/pwa-bundle/pull/428) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [fix: reduce PHPStan baseline from 1638 to 256 errors](https://github.com/web-auth/webauthn-framework/pull/809) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [docs: add @throws phpdoc annotations to denormalizers](https://github.com/web-auth/webauthn-framework/pull/808) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Fix SKIP_WAITING handler missing clients.claim()](https://github.com/Spomky-Labs/pwa-bundle/pull/426) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.6](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.6), 2 days ago) - PHP library for generating a full featured PWA manifest
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.19](https://github.com/api-platform/core/releases/tag/v4.2.19), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 4 days ago) - The Symfony PHP framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.6](https://github.com/symfony/http-foundation/releases/tag/v8.0.6), 4 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.6](https://github.com/symfony/framework-bundle/releases/tag/v8.0.6), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.6](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.6), 3 days ago) - PHP library for generating a full featured PWA manifest
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.19](https://github.com/api-platform/core/releases/tag/v4.2.19), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 5 days ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.6](https://github.com/symfony/http-foundation/releases/tag/v8.0.6), 5 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.6](https://github.com/symfony/framework-bundle/releases/tag/v8.0.6), 5 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v3.9.0](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v3.9.0), 1 week ago) - Adds extra security-related features in your Symfony application
 - [symfony/ai](https://github.com/symfony/ai) ([v0.5.0](https://github.com/symfony/ai/releases/tag/v0.5.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.5.0](https://github.com/symfony/ai-agent/releases/tag/v0.5.0), 1 week ago) - PHP library for building agentic applications.
