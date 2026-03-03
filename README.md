@@ -63,8 +63,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.6](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.6), 3 days ago) - PHP library for generating a full featured PWA manifest
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.19](https://github.com/api-platform/core/releases/tag/v4.2.19), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 5 days ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.6](https://github.com/symfony/http-foundation/releases/tag/v8.0.6), 5 days ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.6](https://github.com/symfony/framework-bundle/releases/tag/v8.0.6), 5 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
