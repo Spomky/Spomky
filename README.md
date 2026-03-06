@@ -37,7 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (4 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (5 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 month ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (1 month ago)
@@ -50,28 +50,28 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [fix: tag DoctrineProvider with kernel.reset for long-running processes](https://github.com/DamienHarper/auditor-bundle/pull/602) on [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) (4 days ago)
-- [fix: support long-running processes (Messenger workers)](https://github.com/DamienHarper/auditor/pull/301) on [DamienHarper/auditor](https://github.com/DamienHarper/auditor) (4 days ago)
-- [fix: install Infection via Composer for PHP 8.5 compat](https://github.com/Spomky-Labs/phpqa/pull/4) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (4 days ago)
-- [Fix Workbox::$config must not be accessed before initialization](https://github.com/Spomky-Labs/pwa-bundle/pull/430) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [[AI Bundle] Defer DataCollector to lateCollect](https://github.com/symfony/ai/pull/1708) on [symfony/ai](https://github.com/symfony/ai) (5 days ago)
-- [perf: defer PwaCollector data collection to lateCollect](https://github.com/Spomky-Labs/pwa-bundle/pull/429) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
-- [Fix unknown &#34;instanceof&#34; Twig test](https://github.com/Spomky-Labs/pwa-bundle/pull/428) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [fix: tag DoctrineProvider with kernel.reset for long-running processes](https://github.com/DamienHarper/auditor-bundle/pull/602) on [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) (5 days ago)
+- [fix: support long-running processes (Messenger workers)](https://github.com/DamienHarper/auditor/pull/301) on [DamienHarper/auditor](https://github.com/DamienHarper/auditor) (5 days ago)
+- [fix: install Infection via Composer for PHP 8.5 compat](https://github.com/Spomky-Labs/phpqa/pull/4) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (5 days ago)
+- [Fix Workbox::$config must not be accessed before initialization](https://github.com/Spomky-Labs/pwa-bundle/pull/430) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [[AI Bundle] Defer DataCollector to lateCollect](https://github.com/symfony/ai/pull/1708) on [symfony/ai](https://github.com/symfony/ai) (6 days ago)
+- [perf: defer PwaCollector data collection to lateCollect](https://github.com/Spomky-Labs/pwa-bundle/pull/429) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
+- [Fix unknown &#34;instanceof&#34; Twig test](https://github.com/Spomky-Labs/pwa-bundle/pull/428) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
 - [fix: reduce PHPStan baseline from 1638 to 256 errors](https://github.com/web-auth/webauthn-framework/pull/809) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [docs: add @throws phpdoc annotations to denormalizers](https://github.com/web-auth/webauthn-framework/pull/808) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Fix SKIP_WAITING handler missing clients.claim()](https://github.com/Spomky-Labs/pwa-bundle/pull/426) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.6.0](https://github.com/symfony/ai/releases/tag/v0.6.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.6.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.6.0), today) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.6.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.6.0), today) - Replicate platform bridge for Symfony AI
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.6.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.6.0), today) - OpenRouter platform bridge for Symfony AI
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.6.0](https://github.com/symfony/ai-agent/releases/tag/v0.6.0), today) - PHP library for building agentic applications.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.6.0](https://github.com/symfony/ai-platform/releases/tag/v0.6.0), today) - PHP library for interacting with AI platform provider.
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.6.0](https://github.com/symfony/ai-store/releases/tag/v0.6.0), today) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.6](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.6), 5 days ago) - PHP library for generating a full featured PWA manifest
+- [symfony/ai](https://github.com/symfony/ai) ([v0.6.0](https://github.com/symfony/ai/releases/tag/v0.6.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.6.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.6.0), 1 day ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.6.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.6.0), 1 day ago) - Replicate platform bridge for Symfony AI
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.6.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.6.0), 1 day ago) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.6.0](https://github.com/symfony/ai-agent/releases/tag/v0.6.0), 1 day ago) - PHP library for building agentic applications.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.6.0](https://github.com/symfony/ai-platform/releases/tag/v0.6.0), 1 day ago) - PHP library for interacting with AI platform provider.
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.6.0](https://github.com/symfony/ai-store/releases/tag/v0.6.0), 1 day ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.6](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.6), 6 days ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 1 week ago) - The Symfony PHP framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
