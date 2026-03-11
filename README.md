@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix profiler crash on Workbox service worker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/433) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [fix: harden ClientOverridePolicy defaults](https://github.com/web-auth/webauthn-framework/pull/815) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [fix: reduce PHPStan baseline errors by 42%](https://github.com/web-auth/webauthn-framework/pull/814) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [fix: merge up CVE fix (GHSA-f7pm-6hr8-7ggm) from 5.2.x](https://github.com/web-auth/webauthn-framework/pull/813) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
@@ -59,10 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix Workbox::$config must not be accessed before initialization](https://github.com/Spomky-Labs/pwa-bundle/pull/430) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [[AI Bundle] Defer DataCollector to lateCollect](https://github.com/symfony/ai/pull/1708) on [symfony/ai](https://github.com/symfony/ai) (1 week ago)
 - [perf: defer PwaCollector data collection to lateCollect](https://github.com/Spomky-Labs/pwa-bundle/pull/429) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [Fix unknown &#34;instanceof&#34; Twig test](https://github.com/Spomky-Labs/pwa-bundle/pull/428) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.7](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.7), today) - PHP library for generating a full featured PWA manifest
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.4](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.4), 3 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 5 days ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.7](https://github.com/symfony/http-foundation/releases/tag/v8.0.7), 5 days ago) - Defines an object-oriented layer for the HTTP specification
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai](https://github.com/symfony/ai) ([v0.6.0](https://github.com/symfony/ai/releases/tag/v0.6.0), 6 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.6.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.6.0), 6 days ago) - Azure AI platform bridge for Symfony AI
 - [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.6.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.6.0), 6 days ago) - Replicate platform bridge for Symfony AI
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.6.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.6.0), 6 days ago) - OpenRouter platform bridge for Symfony AI
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
