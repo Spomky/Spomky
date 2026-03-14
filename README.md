@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (5 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (6 days ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 weeks ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
@@ -50,22 +50,22 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Fix profiler crash on Workbox service worker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/433) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [fix: harden ClientOverridePolicy defaults](https://github.com/web-auth/webauthn-framework/pull/815) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [fix: reduce PHPStan baseline errors by 42%](https://github.com/web-auth/webauthn-framework/pull/814) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [fix: merge up CVE fix (GHSA-f7pm-6hr8-7ggm) from 5.2.x](https://github.com/web-auth/webauthn-framework/pull/813) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Fix profiler crash on Workbox service worker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/433) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
+- [fix: harden ClientOverridePolicy defaults](https://github.com/web-auth/webauthn-framework/pull/815) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
+- [fix: reduce PHPStan baseline errors by 42%](https://github.com/web-auth/webauthn-framework/pull/814) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [fix: merge up CVE fix (GHSA-f7pm-6hr8-7ggm) from 5.2.x](https://github.com/web-auth/webauthn-framework/pull/813) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [fix: tag DoctrineProvider with kernel.reset for long-running processes](https://github.com/DamienHarper/auditor-bundle/pull/602) on [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) (1 week ago)
 - [fix: support long-running processes (Messenger workers)](https://github.com/DamienHarper/auditor/pull/301) on [DamienHarper/auditor](https://github.com/DamienHarper/auditor) (1 week ago)
 - [fix: install Infection via Composer for PHP 8.5 compat](https://github.com/Spomky-Labs/phpqa/pull/4) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 week ago)
-- [Fix Workbox::$config must not be accessed before initialization](https://github.com/Spomky-Labs/pwa-bundle/pull/430) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
-- [[AI Bundle] Defer DataCollector to lateCollect](https://github.com/symfony/ai/pull/1708) on [symfony/ai](https://github.com/symfony/ai) (1 week ago)
-- [perf: defer PwaCollector data collection to lateCollect](https://github.com/Spomky-Labs/pwa-bundle/pull/429) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Fix Workbox::$config must not be accessed before initialization](https://github.com/Spomky-Labs/pwa-bundle/pull/430) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [[AI Bundle] Defer DataCollector to lateCollect](https://github.com/symfony/ai/pull/1708) on [symfony/ai](https://github.com/symfony/ai) (2 weeks ago)
+- [perf: defer PwaCollector data collection to lateCollect](https://github.com/Spomky-Labs/pwa-bundle/pull/429) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0](https://github.com/api-platform/core/releases/tag/v4.3.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.7](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.7), 2 days ago) - PHP library for generating a full featured PWA manifest
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.4](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.4), 5 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0](https://github.com/api-platform/core/releases/tag/v4.3.0), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.7](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.7), 3 days ago) - PHP library for generating a full featured PWA manifest
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.4](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.4), 6 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 1 week ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.7](https://github.com/symfony/http-foundation/releases/tag/v8.0.7), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.7](https://github.com/symfony/framework-bundle/releases/tag/v8.0.7), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
