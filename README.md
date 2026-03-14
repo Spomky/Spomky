@@ -37,15 +37,15 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) - auditor, the missing audit log library (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (6 days ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 weeks ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 weeks ago)
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (1 month ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 month ago)
-- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (1 month ago)
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) - PHP library for building agentic applications. (1 month ago)
 
 #### 🔨 My recent Pull Requests
@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.2.0](https://github.com/DamienHarper/auditor/releases/tag/4.2.0), today) - auditor, the missing audit log library
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.0](https://github.com/api-platform/core/releases/tag/v4.3.0), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.7](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.7), 3 days ago) - PHP library for generating a full featured PWA manifest
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.4](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.4), 6 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.7](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.7), 1 week ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [symfony/ai](https://github.com/symfony/ai) ([v0.6.0](https://github.com/symfony/ai/releases/tag/v0.6.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.6.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.6.0), 1 week ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.6.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.6.0), 1 week ago) - Replicate platform bridge for Symfony AI
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
