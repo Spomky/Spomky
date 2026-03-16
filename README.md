@@ -63,8 +63,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.0](https://github.com/DamienHarper/auditor/releases/tag/4.3.0), today) - auditor, the missing audit log library
 - [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.0](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.0), 2 days ago) - The missing audit log library
-- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.2.0](https://github.com/DamienHarper/auditor/releases/tag/4.2.0), 2 days ago) - auditor, the missing audit log library
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.0](https://github.com/api-platform/core/releases/tag/v4.3.0), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.7](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.7), 5 days ago) - PHP library for generating a full featured PWA manifest
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.4](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.4), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
