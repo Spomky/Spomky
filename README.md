@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) - The missing audit log library (5 days ago)
-- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) - auditor, the missing audit log library (6 days ago)
+- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) - The missing audit log library (6 days ago)
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) - auditor, the missing audit log library (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 weeks ago)
@@ -50,8 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Fix protocol implementation for PLR 50C](https://github.com/PointerEvent/bosch-plr-demo/pull/3) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (5 days ago)
-- [Fix protocol implementation for PLR 50C](https://github.com/Spomky-Labs/bosch-plr-demo/pull/1) on [Spomky-Labs/bosch-plr-demo](https://github.com/Spomky-Labs/bosch-plr-demo) (5 days ago)
+- [Fix protocol implementation for PLR 50C](https://github.com/PointerEvent/bosch-plr-demo/pull/3) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (6 days ago)
+- [Fix protocol implementation for PLR 50C](https://github.com/Spomky-Labs/bosch-plr-demo/pull/1) on [Spomky-Labs/bosch-plr-demo](https://github.com/Spomky-Labs/bosch-plr-demo) (6 days ago)
 - [Fix profiler crash on Workbox service worker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/433) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 - [fix: harden ClientOverridePolicy defaults](https://github.com/web-auth/webauthn-framework/pull/815) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [fix: reduce PHPStan baseline errors by 42%](https://github.com/web-auth/webauthn-framework/pull/814) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -59,13 +59,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix: tag DoctrineProvider with kernel.reset for long-running processes](https://github.com/DamienHarper/auditor-bundle/pull/602) on [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) (2 weeks ago)
 - [fix: support long-running processes (Messenger workers)](https://github.com/DamienHarper/auditor/pull/301) on [DamienHarper/auditor](https://github.com/DamienHarper/auditor) (2 weeks ago)
 - [fix: install Infection via Composer for PHP 8.5 compat](https://github.com/Spomky-Labs/phpqa/pull/4) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (2 weeks ago)
-- [Fix Workbox::$config must not be accessed before initialization](https://github.com/Spomky-Labs/pwa-bundle/pull/430) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
+- [Fix Workbox::$config must not be accessed before initialization](https://github.com/Spomky-Labs/pwa-bundle/pull/430) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.1](https://github.com/api-platform/core/releases/tag/v4.3.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.0](https://github.com/DamienHarper/auditor/releases/tag/4.3.0), 4 days ago) - auditor, the missing audit log library
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.0](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.0), 6 days ago) - The missing audit log library
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.1](https://github.com/api-platform/core/releases/tag/v4.3.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.0](https://github.com/DamienHarper/auditor/releases/tag/4.3.0), 5 days ago) - auditor, the missing audit log library
+- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.0](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.0), 1 week ago) - The missing audit log library
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.7](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.7), 1 week ago) - PHP library for generating a full featured PWA manifest
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.4](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.4), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 2 weeks ago) - The Symfony PHP framework
