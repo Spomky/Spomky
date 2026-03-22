@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [fix: derive compound attestation type from nested types](https://github.com/web-auth/webauthn-framework/pull/819) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix: reduce PHPStan baseline from 82 to 67 errors](https://github.com/web-auth/webauthn-framework/pull/818) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Fix protocol implementation for PLR 50C](https://github.com/PointerEvent/bosch-plr-demo/pull/3) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (1 week ago)
 - [Fix protocol implementation for PLR 50C](https://github.com/Spomky-Labs/bosch-plr-demo/pull/1) on [Spomky-Labs/bosch-plr-demo](https://github.com/Spomky-Labs/bosch-plr-demo) (1 week ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix: merge up CVE fix (GHSA-f7pm-6hr8-7ggm) from 5.2.x](https://github.com/web-auth/webauthn-framework/pull/813) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [fix: tag DoctrineProvider with kernel.reset for long-running processes](https://github.com/DamienHarper/auditor-bundle/pull/602) on [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) (3 weeks ago)
 - [fix: support long-running processes (Messenger workers)](https://github.com/DamienHarper/auditor/pull/301) on [DamienHarper/auditor](https://github.com/DamienHarper/auditor) (3 weeks ago)
-- [fix: install Infection via Composer for PHP 8.5 compat](https://github.com/Spomky-Labs/phpqa/pull/4) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
