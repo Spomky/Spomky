@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 day ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 days ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (2 days ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (3 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
+- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (3 days ago)
 - [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) - The missing audit log library (1 week ago)
 - [DamienHarper/auditor](https://github.com/DamienHarper/auditor) - auditor, the missing audit log library (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 weeks ago)
@@ -50,25 +50,25 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update brick/math constraint and remove dev minimum stability](https://github.com/web-token/jwt-framework/pull/649) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [chore: update dependency version constraints](https://github.com/Spomky-Labs/pki-framework/pull/82) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
-- [fix: normalize host-only allowed origins to https:// scheme](https://github.com/web-auth/webauthn-framework/pull/822) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [fix: pass topOriginValidator to CheckTopOrigin in requestCeremony()](https://github.com/web-auth/webauthn-framework/pull/821) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [fix: enforce HTTPS scheme check in CheckAllowedOrigins fallback path](https://github.com/web-auth/webauthn-framework/pull/820) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [fix: derive compound attestation type from nested types](https://github.com/web-auth/webauthn-framework/pull/819) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [fix: reduce PHPStan baseline from 82 to 67 errors](https://github.com/web-auth/webauthn-framework/pull/818) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [Update brick/math constraint and remove dev minimum stability](https://github.com/web-token/jwt-framework/pull/649) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [chore: update dependency version constraints](https://github.com/Spomky-Labs/pki-framework/pull/82) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 days ago)
+- [fix: normalize host-only allowed origins to https:// scheme](https://github.com/web-auth/webauthn-framework/pull/822) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [fix: pass topOriginValidator to CheckTopOrigin in requestCeremony()](https://github.com/web-auth/webauthn-framework/pull/821) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [fix: enforce HTTPS scheme check in CheckAllowedOrigins fallback path](https://github.com/web-auth/webauthn-framework/pull/820) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [fix: derive compound attestation type from nested types](https://github.com/web-auth/webauthn-framework/pull/819) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [fix: reduce PHPStan baseline from 82 to 67 errors](https://github.com/web-auth/webauthn-framework/pull/818) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Fix protocol implementation for PLR 50C](https://github.com/PointerEvent/bosch-plr-demo/pull/3) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (1 week ago)
 - [Fix protocol implementation for PLR 50C](https://github.com/Spomky-Labs/bosch-plr-demo/pull/1) on [Spomky-Labs/bosch-plr-demo](https://github.com/Spomky-Labs/bosch-plr-demo) (1 week ago)
-- [Fix profiler crash on Workbox service worker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/433) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [Fix profiler crash on Workbox service worker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/433) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.1), today) - The missing audit log library
-- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.1](https://github.com/DamienHarper/auditor/releases/tag/4.3.1), today) - auditor, the missing audit log library
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.2), 1 day ago) - Public Key Infrastructure
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.5), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.1](https://github.com/api-platform/core/releases/tag/v4.3.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.7](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.7), 1 week ago) - PHP library for generating a full featured PWA manifest
+- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.1), 1 day ago) - The missing audit log library
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.1](https://github.com/DamienHarper/auditor/releases/tag/4.3.1), 1 day ago) - auditor, the missing audit log library
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.2), 2 days ago) - Public Key Infrastructure
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.5), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.1](https://github.com/api-platform/core/releases/tag/v4.3.1), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.7](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.7), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 2 weeks ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.7](https://github.com/symfony/http-foundation/releases/tag/v8.0.7), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.7](https://github.com/symfony/framework-bundle/releases/tag/v8.0.7), 2 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
