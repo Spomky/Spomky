@@ -37,16 +37,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
+- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (1 day ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (4 days ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (5 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (5 days ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (5 days ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (5 days ago)
 - [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) - The missing audit log library (1 week ago)
 - [DamienHarper/auditor](https://github.com/DamienHarper/auditor) - auditor, the missing audit log library (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 weeks ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 month ago)
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application (1 month ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -70,9 +70,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.5), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.7](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.7), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 3 weeks ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.0.7](https://github.com/symfony/validator/releases/tag/v8.0.7), 3 weeks ago) - Provides tools to validate values
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.7](https://github.com/symfony/http-foundation/releases/tag/v8.0.7), 3 weeks ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.7](https://github.com/symfony/framework-bundle/releases/tag/v8.0.7), 3 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.7](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.7), 3 weeks ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
