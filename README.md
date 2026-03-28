@@ -37,37 +37,37 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (1 day ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (4 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (5 days ago)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (5 days ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (5 days ago)
+- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (2 days ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (5 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (6 days ago)
+- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (6 days ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (6 days ago)
 - [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) - The missing audit log library (1 week ago)
-- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) - auditor, the missing audit log library (1 week ago)
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) - auditor, the missing audit log library (2 weeks ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update brick/math constraint and remove dev minimum stability](https://github.com/web-token/jwt-framework/pull/649) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (4 days ago)
-- [chore: update dependency version constraints](https://github.com/Spomky-Labs/pki-framework/pull/82) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (4 days ago)
-- [fix: normalize host-only allowed origins to https:// scheme](https://github.com/web-auth/webauthn-framework/pull/822) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [fix: pass topOriginValidator to CheckTopOrigin in requestCeremony()](https://github.com/web-auth/webauthn-framework/pull/821) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [fix: enforce HTTPS scheme check in CheckAllowedOrigins fallback path](https://github.com/web-auth/webauthn-framework/pull/820) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [fix: derive compound attestation type from nested types](https://github.com/web-auth/webauthn-framework/pull/819) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
-- [fix: reduce PHPStan baseline from 82 to 67 errors](https://github.com/web-auth/webauthn-framework/pull/818) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Update brick/math constraint and remove dev minimum stability](https://github.com/web-token/jwt-framework/pull/649) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [chore: update dependency version constraints](https://github.com/Spomky-Labs/pki-framework/pull/82) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (5 days ago)
+- [fix: normalize host-only allowed origins to https:// scheme](https://github.com/web-auth/webauthn-framework/pull/822) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [fix: pass topOriginValidator to CheckTopOrigin in requestCeremony()](https://github.com/web-auth/webauthn-framework/pull/821) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [fix: enforce HTTPS scheme check in CheckAllowedOrigins fallback path](https://github.com/web-auth/webauthn-framework/pull/820) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [fix: derive compound attestation type from nested types](https://github.com/web-auth/webauthn-framework/pull/819) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [fix: reduce PHPStan baseline from 82 to 67 errors](https://github.com/web-auth/webauthn-framework/pull/818) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [Fix protocol implementation for PLR 50C](https://github.com/PointerEvent/bosch-plr-demo/pull/3) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (1 week ago)
 - [Fix protocol implementation for PLR 50C](https://github.com/Spomky-Labs/bosch-plr-demo/pull/1) on [Spomky-Labs/bosch-plr-demo](https://github.com/Spomky-Labs/bosch-plr-demo) (1 week ago)
 - [Fix profiler crash on Workbox service worker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/433) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.2](https://github.com/api-platform/core/releases/tag/v4.3.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.1), 3 days ago) - The missing audit log library
-- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.1](https://github.com/DamienHarper/auditor/releases/tag/4.3.1), 3 days ago) - auditor, the missing audit log library
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.2), 4 days ago) - Public Key Infrastructure
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.5), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.2](https://github.com/api-platform/core/releases/tag/v4.3.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.1), 4 days ago) - The missing audit log library
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.1](https://github.com/DamienHarper/auditor/releases/tag/4.3.1), 4 days ago) - auditor, the missing audit log library
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.2), 5 days ago) - Public Key Infrastructure
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.5), 5 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.7](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.7), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 3 weeks ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.0.7](https://github.com/symfony/validator/releases/tag/v8.0.7), 3 weeks ago) - Provides tools to validate values
@@ -76,7 +76,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [joostdebruijn](https://github.com/joostdebruijn) (today)
+- [joostdebruijn](https://github.com/joostdebruijn) (1 day ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (3 years ago)
 - [chalasr](https://github.com/chalasr) (3 years ago)
