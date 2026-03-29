@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.2](https://github.com/api-platform/core/releases/tag/v4.3.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.1), 5 days ago) - The missing audit log library
 - [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.1](https://github.com/DamienHarper/auditor/releases/tag/4.3.1), 5 days ago) - auditor, the missing audit log library
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.2), 6 days ago) - Public Key Infrastructure
