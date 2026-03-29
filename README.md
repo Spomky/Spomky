@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [fix: complete transport pool and deterministic generation in SimpleFakeCredentialGenerator](https://github.com/web-auth/webauthn-framework/pull/823) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Update brick/math constraint and remove dev minimum stability](https://github.com/web-token/jwt-framework/pull/649) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
 - [chore: update dependency version constraints](https://github.com/Spomky-Labs/pki-framework/pull/82) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (6 days ago)
 - [fix: normalize host-only allowed origins to https:// scheme](https://github.com/web-auth/webauthn-framework/pull/822) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix: reduce PHPStan baseline from 82 to 67 errors](https://github.com/web-auth/webauthn-framework/pull/818) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Fix protocol implementation for PLR 50C](https://github.com/PointerEvent/bosch-plr-demo/pull/3) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (2 weeks ago)
 - [Fix protocol implementation for PLR 50C](https://github.com/Spomky-Labs/bosch-plr-demo/pull/1) on [Spomky-Labs/bosch-plr-demo](https://github.com/Spomky-Labs/bosch-plr-demo) (2 weeks ago)
-- [Fix profiler crash on Workbox service worker tab](https://github.com/Spomky-Labs/pwa-bundle/pull/433) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
