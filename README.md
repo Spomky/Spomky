@@ -37,11 +37,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (3 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
-- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (3 days ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (6 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (4 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
+- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (4 days ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (1 week ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 week ago)
 - [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) - The missing audit log library (2 weeks ago)
@@ -50,12 +50,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [fix: complete transport pool and deterministic generation in SimpleFakeCredentialGenerator](https://github.com/web-auth/webauthn-framework/pull/823) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Update brick/math constraint and remove dev minimum stability](https://github.com/web-token/jwt-framework/pull/649) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
-- [chore: update dependency version constraints](https://github.com/Spomky-Labs/pki-framework/pull/82) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (6 days ago)
-- [fix: normalize host-only allowed origins to https:// scheme](https://github.com/web-auth/webauthn-framework/pull/822) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [fix: pass topOriginValidator to CheckTopOrigin in requestCeremony()](https://github.com/web-auth/webauthn-framework/pull/821) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [fix: enforce HTTPS scheme check in CheckAllowedOrigins fallback path](https://github.com/web-auth/webauthn-framework/pull/820) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [fix: complete transport pool and deterministic generation in SimpleFakeCredentialGenerator](https://github.com/web-auth/webauthn-framework/pull/823) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Update brick/math constraint and remove dev minimum stability](https://github.com/web-token/jwt-framework/pull/649) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
+- [chore: update dependency version constraints](https://github.com/Spomky-Labs/pki-framework/pull/82) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
+- [fix: normalize host-only allowed origins to https:// scheme](https://github.com/web-auth/webauthn-framework/pull/822) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [fix: pass topOriginValidator to CheckTopOrigin in requestCeremony()](https://github.com/web-auth/webauthn-framework/pull/821) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [fix: enforce HTTPS scheme check in CheckAllowedOrigins fallback path](https://github.com/web-auth/webauthn-framework/pull/820) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [fix: derive compound attestation type from nested types](https://github.com/web-auth/webauthn-framework/pull/819) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [fix: reduce PHPStan baseline from 82 to 67 errors](https://github.com/web-auth/webauthn-framework/pull/818) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Fix protocol implementation for PLR 50C](https://github.com/PointerEvent/bosch-plr-demo/pull/3) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (2 weeks ago)
@@ -63,11 +63,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.1), 5 days ago) - The missing audit log library
-- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.1](https://github.com/DamienHarper/auditor/releases/tag/4.3.1), 5 days ago) - auditor, the missing audit log library
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.2), 6 days ago) - Public Key Infrastructure
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.5), 6 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.1), 6 days ago) - The missing audit log library
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.1](https://github.com/DamienHarper/auditor/releases/tag/4.3.1), 6 days ago) - auditor, the missing audit log library
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.4.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.4.2), 1 week ago) - Public Key Infrastructure
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.2.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.2.5), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.7](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.7), 2 weeks ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 3 weeks ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.0.7](https://github.com/symfony/validator/releases/tag/v8.0.7), 3 weeks ago) - Provides tools to validate values
@@ -76,7 +76,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [joostdebruijn](https://github.com/joostdebruijn) (2 days ago)
+- [joostdebruijn](https://github.com/joostdebruijn) (3 days ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (3 years ago)
 - [chalasr](https://github.com/chalasr) (3 years ago)
