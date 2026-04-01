@@ -37,32 +37,34 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (today)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (today)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
+- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (today)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
-- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
 - [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (6 days ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (1 week ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 week ago)
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) - The missing audit log library (2 weeks ago)
-- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) - auditor, the missing audit log library (2 weeks ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 month ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
+- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (6 days ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Add merge-up skill for branch management](https://github.com/web-auth/cose-lib/pull/136) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [Fix ES256K algorithm value per RFC8812](https://github.com/web-auth/cose-lib/pull/135) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [Update dependencies (brick/math 0.15-0.17)](https://github.com/web-auth/cose-lib/pull/134) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [Merge up 3.3.x into 4.0.x](https://github.com/Spomky-Labs/cbor-php/pull/121) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [Fix CI: ECS import ordering and exported files](https://github.com/Spomky-Labs/cbor-php/pull/120) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [Merge up 3.3.x into 4.0.x](https://github.com/Spomky-Labs/cbor-php/pull/119) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [Merge up 3.2.x into 3.3.x](https://github.com/Spomky-Labs/cbor-php/pull/118) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [Add merge-up skill for cascade branch merging](https://github.com/Spomky-Labs/cbor-php/pull/117) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Add support for brick/math v0.15, v0.16 and v0.17](https://github.com/Spomky-Labs/cbor-php/pull/116) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [fix: complete transport pool and deterministic generation in SimpleFakeCredentialGenerator](https://github.com/web-auth/webauthn-framework/pull/823) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [Update brick/math constraint and remove dev minimum stability](https://github.com/web-token/jwt-framework/pull/649) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [chore: update dependency version constraints](https://github.com/Spomky-Labs/pki-framework/pull/82) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
-- [fix: normalize host-only allowed origins to https:// scheme](https://github.com/web-auth/webauthn-framework/pull/822) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [fix: pass topOriginValidator to CheckTopOrigin in requestCeremony()](https://github.com/web-auth/webauthn-framework/pull/821) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [fix: enforce HTTPS scheme check in CheckAllowedOrigins fallback path](https://github.com/web-auth/webauthn-framework/pull/820) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [fix: derive compound attestation type from nested types](https://github.com/web-auth/webauthn-framework/pull/819) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [fix: reduce PHPStan baseline from 82 to 67 errors](https://github.com/web-auth/webauthn-framework/pull/818) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Fix protocol implementation for PLR 50C](https://github.com/PointerEvent/bosch-plr-demo/pull/3) on [PointerEvent/bosch-plr-demo](https://github.com/PointerEvent/bosch-plr-demo) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.1](https://github.com/web-auth/cose-lib/releases/tag/4.5.1), today) - Cose Key and Algorithms support
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.3), today) - CBOR Encoder/Decoder for PHP
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 1 day ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.8](https://github.com/symfony/framework-bundle/releases/tag/v8.0.8), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.8](https://github.com/symfony/http-foundation/releases/tag/v8.0.8), 1 day ago) - Defines an object-oriented layer for the HTTP specification
@@ -71,8 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/validator](https://github.com/symfony/validator) ([v8.0.8](https://github.com/symfony/validator/releases/tag/v8.0.8), 1 day ago) - Provides tools to validate values
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.4](https://github.com/web-token/jwt-framework/releases/tag/4.1.4), 2 days ago) - JWT Framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.1), 1 week ago) - The missing audit log library
-- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.1](https://github.com/DamienHarper/auditor/releases/tag/4.3.1), 1 week ago) - auditor, the missing audit log library
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
