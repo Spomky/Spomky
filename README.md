@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
-- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (5 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
-- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (5 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
+- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
+- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (6 days ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - [FAKE APP] Community-Driven Weather App (1 week ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (1 week ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 week ago)
@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [fix: complete transport pool and deterministic generation in SimpleFakeCredentialGenerator](https://github.com/web-auth/webauthn-framework/pull/823) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [fix: complete transport pool and deterministic generation in SimpleFakeCredentialGenerator](https://github.com/web-auth/webauthn-framework/pull/823) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [Update brick/math constraint and remove dev minimum stability](https://github.com/web-token/jwt-framework/pull/649) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [chore: update dependency version constraints](https://github.com/Spomky-Labs/pki-framework/pull/82) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
 - [fix: normalize host-only allowed origins to https:// scheme](https://github.com/web-auth/webauthn-framework/pull/822) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -63,20 +63,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), today) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.8](https://github.com/symfony/framework-bundle/releases/tag/v8.0.8), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.8](https://github.com/symfony/http-foundation/releases/tag/v8.0.8), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.8](https://github.com/symfony/security-core/releases/tag/v8.0.8), today) - Symfony Security Component - Core Library
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.8](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.8), today) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
-- [symfony/validator](https://github.com/symfony/validator) ([v8.0.8](https://github.com/symfony/validator/releases/tag/v8.0.8), today) - Provides tools to validate values
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.4](https://github.com/web-token/jwt-framework/releases/tag/4.1.4), 1 day ago) - JWT Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 1 day ago) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.8](https://github.com/symfony/framework-bundle/releases/tag/v8.0.8), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.8](https://github.com/symfony/http-foundation/releases/tag/v8.0.8), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.8](https://github.com/symfony/security-core/releases/tag/v8.0.8), 1 day ago) - Symfony Security Component - Core Library
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.8](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.8), 1 day ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
+- [symfony/validator](https://github.com/symfony/validator) ([v8.0.8](https://github.com/symfony/validator/releases/tag/v8.0.8), 1 day ago) - Provides tools to validate values
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.4](https://github.com/web-token/jwt-framework/releases/tag/4.1.4), 2 days ago) - JWT Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.2.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.2.1), 1 week ago) - The missing audit log library
 - [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.3.1](https://github.com/DamienHarper/auditor/releases/tag/4.3.1), 1 week ago) - auditor, the missing audit log library
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [joostdebruijn](https://github.com/joostdebruijn) (4 days ago)
+- [joostdebruijn](https://github.com/joostdebruijn) (5 days ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (3 years ago)
 - [chalasr](https://github.com/chalasr) (3 years ago)
