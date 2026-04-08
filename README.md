@@ -37,12 +37,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (6 days ago)
-- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (6 days ago)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (6 days ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (6 days ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (6 days ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (6 days ago)
+- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 week ago)
+- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 week ago)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 week ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 week ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (1 week ago)
 - [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (1 week ago)
@@ -50,21 +50,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Add merge-up skill for branch management](https://github.com/web-auth/cose-lib/pull/136) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (6 days ago)
-- [Fix ES256K algorithm value per RFC8812](https://github.com/web-auth/cose-lib/pull/135) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (6 days ago)
-- [Update dependencies (brick/math 0.15-0.17)](https://github.com/web-auth/cose-lib/pull/134) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (6 days ago)
-- [Merge up 3.3.x into 4.0.x](https://github.com/Spomky-Labs/cbor-php/pull/121) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
-- [Fix CI: ECS import ordering and exported files](https://github.com/Spomky-Labs/cbor-php/pull/120) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
-- [Merge up 3.3.x into 4.0.x](https://github.com/Spomky-Labs/cbor-php/pull/119) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
-- [Merge up 3.2.x into 3.3.x](https://github.com/Spomky-Labs/cbor-php/pull/118) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
-- [Add merge-up skill for cascade branch merging](https://github.com/Spomky-Labs/cbor-php/pull/117) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
-- [Add support for brick/math v0.15, v0.16 and v0.17](https://github.com/Spomky-Labs/cbor-php/pull/116) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
+- [Add merge-up skill for branch management](https://github.com/web-auth/cose-lib/pull/136) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 week ago)
+- [Fix ES256K algorithm value per RFC8812](https://github.com/web-auth/cose-lib/pull/135) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 week ago)
+- [Update dependencies (brick/math 0.15-0.17)](https://github.com/web-auth/cose-lib/pull/134) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 week ago)
+- [Merge up 3.3.x into 4.0.x](https://github.com/Spomky-Labs/cbor-php/pull/121) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
+- [Fix CI: ECS import ordering and exported files](https://github.com/Spomky-Labs/cbor-php/pull/120) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
+- [Merge up 3.3.x into 4.0.x](https://github.com/Spomky-Labs/cbor-php/pull/119) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
+- [Merge up 3.2.x into 3.3.x](https://github.com/Spomky-Labs/cbor-php/pull/118) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
+- [Add merge-up skill for cascade branch merging](https://github.com/Spomky-Labs/cbor-php/pull/117) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
+- [Add support for brick/math v0.15, v0.16 and v0.17](https://github.com/Spomky-Labs/cbor-php/pull/116) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
 - [fix: complete transport pool and deterministic generation in SimpleFakeCredentialGenerator](https://github.com/web-auth/webauthn-framework/pull/823) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.1](https://github.com/web-auth/cose-lib/releases/tag/4.5.1), 6 days ago) - Cose Key and Algorithms support
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.3), 6 days ago) - CBOR Encoder/Decoder for PHP
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.1](https://github.com/web-auth/cose-lib/releases/tag/4.5.1), 1 week ago) - Cose Key and Algorithms support
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.3), 1 week ago) - CBOR Encoder/Decoder for PHP
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 1 week ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.8](https://github.com/symfony/framework-bundle/releases/tag/v8.0.8), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.8](https://github.com/symfony/http-foundation/releases/tag/v8.0.8), 1 week ago) - Defines an object-oriented layer for the HTTP specification
