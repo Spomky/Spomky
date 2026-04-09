@@ -44,9 +44,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
-- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (1 week ago)
-- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (2 weeks ago)
+- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (2 weeks ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
