@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.7.0](https://github.com/symfony/ai-store/releases/tag/v0.7.0), today) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.7.0](https://github.com/symfony/ai-agent/releases/tag/v0.7.0), today) - PHP library for building agentic applications.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.7.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.7.0), today) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.7.0](https://github.com/symfony/ai-platform/releases/tag/v0.7.0), today) - PHP library for interacting with AI platform provider.
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.7.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.7.0), today) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.7.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.7.0), today) - Replicate platform bridge for Symfony AI
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.1](https://github.com/web-auth/cose-lib/releases/tag/4.5.1), 1 week ago) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.3), 1 week ago) - CBOR Encoder/Decoder for PHP
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 1 week ago) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.8](https://github.com/symfony/framework-bundle/releases/tag/v8.0.8), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.8](https://github.com/symfony/http-foundation/releases/tag/v8.0.8), 1 week ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.8](https://github.com/symfony/security-core/releases/tag/v8.0.8), 1 week ago) - Symfony Security Component - Core Library
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.0.8](https://github.com/symfony/html-sanitizer/releases/tag/v8.0.8), 1 week ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
-- [symfony/validator](https://github.com/symfony/validator) ([v8.0.8](https://github.com/symfony/validator/releases/tag/v8.0.8), 1 week ago) - Provides tools to validate values
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.4](https://github.com/web-token/jwt-framework/releases/tag/4.1.4), 1 week ago) - JWT Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
