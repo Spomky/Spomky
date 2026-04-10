@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.107.0](https://github.com/jakzal/toolbox/releases/tag/v1.107.0), today) - Helps to discover and install tools
 - [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.7.0](https://github.com/symfony/ai-store/releases/tag/v0.7.0), today) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.7.0](https://github.com/symfony/ai-agent/releases/tag/v0.7.0), today) - PHP library for building agentic applications.
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.7.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.7.0), today) - Replicate platform bridge for Symfony AI
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.1](https://github.com/web-auth/cose-lib/releases/tag/4.5.1), 1 week ago) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.3), 1 week ago) - CBOR Encoder/Decoder for PHP
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 1 week ago) - The Symfony PHP framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
