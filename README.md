@@ -43,7 +43,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 week ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
 - [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (2 weeks ago)
 - [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
@@ -59,18 +59,18 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 3.2.x into 3.3.x](https://github.com/Spomky-Labs/cbor-php/pull/118) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
 - [Add merge-up skill for cascade branch merging](https://github.com/Spomky-Labs/cbor-php/pull/117) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
 - [Add support for brick/math v0.15, v0.16 and v0.17](https://github.com/Spomky-Labs/cbor-php/pull/116) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
-- [fix: complete transport pool and deterministic generation in SimpleFakeCredentialGenerator](https://github.com/web-auth/webauthn-framework/pull/823) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [fix: complete transport pool and deterministic generation in SimpleFakeCredentialGenerator](https://github.com/web-auth/webauthn-framework/pull/823) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.107.0](https://github.com/jakzal/toolbox/releases/tag/v1.107.0), 1 day ago) - Helps to discover and install tools
-- [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.7.0](https://github.com/symfony/ai-store/releases/tag/v0.7.0), 1 day ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.7.0](https://github.com/symfony/ai-agent/releases/tag/v0.7.0), 1 day ago) - PHP library for building agentic applications.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.7.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.7.0), 1 day ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.7.0](https://github.com/symfony/ai-platform/releases/tag/v0.7.0), 1 day ago) - PHP library for interacting with AI platform provider.
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.7.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.7.0), 1 day ago) - OpenRouter platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.7.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.7.0), 1 day ago) - Replicate platform bridge for Symfony AI
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.107.0](https://github.com/jakzal/toolbox/releases/tag/v1.107.0), 2 days ago) - Helps to discover and install tools
+- [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.7.0](https://github.com/symfony/ai-store/releases/tag/v0.7.0), 2 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.7.0](https://github.com/symfony/ai-agent/releases/tag/v0.7.0), 2 days ago) - PHP library for building agentic applications.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.7.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.7.0), 2 days ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.7.0](https://github.com/symfony/ai-platform/releases/tag/v0.7.0), 2 days ago) - PHP library for interacting with AI platform provider.
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.7.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.7.0), 2 days ago) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.7.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.7.0), 2 days ago) - Replicate platform bridge for Symfony AI
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.1](https://github.com/web-auth/cose-lib/releases/tag/4.5.1), 1 week ago) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.3), 1 week ago) - CBOR Encoder/Decoder for PHP
 
