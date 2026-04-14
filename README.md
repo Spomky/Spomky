@@ -63,14 +63,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.107.0](https://github.com/jakzal/toolbox/releases/tag/v1.107.0), 3 days ago) - Helps to discover and install tools
-- [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.7.0](https://github.com/symfony/ai-store/releases/tag/v0.7.0), 3 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.7.0](https://github.com/symfony/ai-agent/releases/tag/v0.7.0), 3 days ago) - PHP library for building agentic applications.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.7.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.7.0), 3 days ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.7.0](https://github.com/symfony/ai-platform/releases/tag/v0.7.0), 3 days ago) - PHP library for interacting with AI platform provider.
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.7.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.7.0), 3 days ago) - OpenRouter platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.7.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.7.0), 3 days ago) - Replicate platform bridge for Symfony AI
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.107.0](https://github.com/jakzal/toolbox/releases/tag/v1.107.0), 4 days ago) - Helps to discover and install tools
+- [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 4 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.7.0](https://github.com/symfony/ai-store/releases/tag/v0.7.0), 4 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.7.0](https://github.com/symfony/ai-agent/releases/tag/v0.7.0), 4 days ago) - PHP library for building agentic applications.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.7.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.7.0), 4 days ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.7.0](https://github.com/symfony/ai-platform/releases/tag/v0.7.0), 4 days ago) - PHP library for interacting with AI platform provider.
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.7.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.7.0), 4 days ago) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.7.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.7.0), 4 days ago) - Replicate platform bridge for Symfony AI
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.1](https://github.com/web-auth/cose-lib/releases/tag/4.5.1), 1 week ago) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.2.3](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.2.3), 1 week ago) - CBOR Encoder/Decoder for PHP
 
