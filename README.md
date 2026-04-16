@@ -44,9 +44,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 weeks ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
-- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (2 weeks ago)
-- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (2 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
+- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (3 weeks ago)
+- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (3 weeks ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -63,15 +63,15 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.6](https://github.com/web-token/jwt-framework/releases/tag/4.1.6), 1 day ago) - JWT Framework
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.107.0](https://github.com/jakzal/toolbox/releases/tag/v1.107.0), 5 days ago) - Helps to discover and install tools
-- [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 5 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.7.0](https://github.com/symfony/ai-store/releases/tag/v0.7.0), 5 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.7.0](https://github.com/symfony/ai-agent/releases/tag/v0.7.0), 5 days ago) - PHP library for building agentic applications.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.7.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.7.0), 5 days ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.7.0](https://github.com/symfony/ai-platform/releases/tag/v0.7.0), 5 days ago) - PHP library for interacting with AI platform provider.
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.7.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.7.0), 5 days ago) - OpenRouter platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.7.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.7.0), 5 days ago) - Replicate platform bridge for Symfony AI
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.6](https://github.com/web-token/jwt-framework/releases/tag/4.1.6), 2 days ago) - JWT Framework
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.107.0](https://github.com/jakzal/toolbox/releases/tag/v1.107.0), 6 days ago) - Helps to discover and install tools
+- [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 6 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.7.0](https://github.com/symfony/ai-store/releases/tag/v0.7.0), 6 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.7.0](https://github.com/symfony/ai-agent/releases/tag/v0.7.0), 6 days ago) - PHP library for building agentic applications.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.7.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.7.0), 6 days ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.7.0](https://github.com/symfony/ai-platform/releases/tag/v0.7.0), 6 days ago) - PHP library for interacting with AI platform provider.
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.7.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.7.0), 6 days ago) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.7.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.7.0), 6 days ago) - Replicate platform bridge for Symfony AI
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.1](https://github.com/web-auth/cose-lib/releases/tag/4.5.1), 2 weeks ago) - Cose Key and Algorithms support
 
 #### ❤️ These awesome people sponsor me (thank you!)
