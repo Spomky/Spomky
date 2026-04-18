@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.6](https://github.com/web-token/jwt-framework/releases/tag/4.1.6), 3 days ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.6](https://github.com/web-token/jwt-framework/releases/tag/4.1.6), 4 days ago) - JWT Framework
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.107.0](https://github.com/jakzal/toolbox/releases/tag/v1.107.0), 1 week ago) - Helps to discover and install tools
 - [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.7.0](https://github.com/symfony/ai-store/releases/tag/v0.7.0), 1 week ago) - Low-level abstraction for storing and retrieving documents in a vector store.
