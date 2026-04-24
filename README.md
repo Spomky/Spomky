@@ -63,20 +63,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.8.1](https://github.com/symfony/ai-platform/releases/tag/v0.8.1), 1 day ago) - PHP library for interacting with AI platform provider.
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.8.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.8.0), 3 days ago) - OpenRouter platform bridge for Symfony AI
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.8.0](https://github.com/symfony/ai-agent/releases/tag/v0.8.0), 3 days ago) - PHP library for building agentic applications.
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.8.0](https://github.com/symfony/ai-store/releases/tag/v0.8.0), 3 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.8.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.8.0), 3 days ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.8.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.8.0), 3 days ago) - Replicate platform bridge for Symfony AI
+- [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.8.1](https://github.com/symfony/ai-platform/releases/tag/v0.8.1), 2 days ago) - PHP library for interacting with AI platform provider.
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.8.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.8.0), 4 days ago) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.8.0](https://github.com/symfony/ai-agent/releases/tag/v0.8.0), 4 days ago) - PHP library for building agentic applications.
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.8.0](https://github.com/symfony/ai-store/releases/tag/v0.8.0), 4 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.8.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.8.0), 4 days ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.8.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.8.0), 4 days ago) - Replicate platform bridge for Symfony AI
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.6](https://github.com/web-token/jwt-framework/releases/tag/4.1.6), 1 week ago) - JWT Framework
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.107.0](https://github.com/jakzal/toolbox/releases/tag/v1.107.0), 1 week ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.107.0](https://github.com/jakzal/toolbox/releases/tag/v1.107.0), 2 weeks ago) - Helps to discover and install tools
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.1](https://github.com/web-auth/cose-lib/releases/tag/4.5.1), 3 weeks ago) - Cose Key and Algorithms support
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [joostdebruijn](https://github.com/joostdebruijn) (3 weeks ago)
+- [joostdebruijn](https://github.com/joostdebruijn) (4 weeks ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (3 years ago)
 - [passbolt](https://github.com/passbolt) (5 years ago)
