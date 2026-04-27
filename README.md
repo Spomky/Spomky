@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Kms] Initial documentation for the new Kms component](https://github.com/symfony/symfony-docs/pull/22280) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - [[Kms] Add a new component for Key Management Systems](https://github.com/symfony/symfony/pull/64052) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Add merge-up skill for branch management](https://github.com/web-auth/cose-lib/pull/136) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (3 weeks ago)
 - [Fix ES256K algorithm value per RFC8812](https://github.com/web-auth/cose-lib/pull/135) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (3 weeks ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 3.3.x into 4.0.x](https://github.com/Spomky-Labs/cbor-php/pull/119) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 weeks ago)
 - [Merge up 3.2.x into 3.3.x](https://github.com/Spomky-Labs/cbor-php/pull/118) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 weeks ago)
 - [Add merge-up skill for cascade branch merging](https://github.com/Spomky-Labs/cbor-php/pull/117) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 weeks ago)
-- [Add support for brick/math v0.15, v0.16 and v0.17](https://github.com/Spomky-Labs/cbor-php/pull/116) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
