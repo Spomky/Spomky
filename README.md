@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.8.1](https://github.com/symfony/ai-platform/releases/tag/v0.8.1), 1 week ago) - PHP library for interacting with AI platform provider.
 - [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.8.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.8.0), 1 week ago) - OpenRouter platform bridge for Symfony AI
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.8.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.8.0), 1 week ago) - Replicate platform bridge for Symfony AI
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.6](https://github.com/web-token/jwt-framework/releases/tag/4.1.6), 2 weeks ago) - JWT Framework
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.107.0](https://github.com/jakzal/toolbox/releases/tag/v1.107.0), 2 weeks ago) - Helps to discover and install tools
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.1](https://github.com/web-auth/cose-lib/releases/tag/4.5.1), 4 weeks ago) - Cose Key and Algorithms support
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
