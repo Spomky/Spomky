@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support Conditional Create mediation for auto-register flows (#831)](https://github.com/web-auth/webauthn-framework/pull/839) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix: complete CredentialRecord migration and restore 5.2.x BC (#827, #832, #833)](https://github.com/web-auth/webauthn-framework/pull/838) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [[Kms] Initial documentation for the new Kms component](https://github.com/symfony/symfony-docs/pull/22280) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - [[Kms] Add a new component for Key Management Systems](https://github.com/symfony/symfony/pull/64052) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge up 3.3.x into 4.0.x](https://github.com/Spomky-Labs/cbor-php/pull/121) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 month ago)
 - [Fix CI: ECS import ordering and exported files](https://github.com/Spomky-Labs/cbor-php/pull/120) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 month ago)
 - [Merge up 3.3.x into 4.0.x](https://github.com/Spomky-Labs/cbor-php/pull/119) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 month ago)
-- [Merge up 3.2.x into 3.3.x](https://github.com/Spomky-Labs/cbor-php/pull/118) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
