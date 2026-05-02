@@ -38,18 +38,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 day ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (1 day ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 month ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 month ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
-- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
+- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
+- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Document mandatory UV flag check and corrected override defaults](https://github.com/web-auth/doc/pull/42) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [Document mandatory UV flag check and corrected override defaults](https://github.com/web-auth/doc/pull/41) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [feat(prf): builder validation, controller fixes, end-to-end demo](https://github.com/web-auth/webauthn-framework/pull/845) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [docs(stimulus): recommend the npm package install path](https://github.com/web-auth/webauthn-framework/pull/844) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix(stimulus): restore AssetMapper path &#43; add canonical importmap name (#842)](https://github.com/web-auth/webauthn-framework/pull/843) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat: support Conditional Create mediation for auto-register flows (#831)](https://github.com/web-auth/webauthn-framework/pull/839) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [fix: complete CredentialRecord migration and restore 5.2.x BC (#827, #832, #833)](https://github.com/web-auth/webauthn-framework/pull/838) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [[Kms] Initial documentation for the new Kms component](https://github.com/symfony/symfony-docs/pull/22280) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- [[Kms] Add a new component for Key Management Systems](https://github.com/symfony/symfony/pull/64052) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
-- [Add merge-up skill for branch management](https://github.com/web-auth/cose-lib/pull/136) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
