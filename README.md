@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat(prf): builder validation, controller fixes, end-to-end demo](https://github.com/web-auth/webauthn-framework/pull/845) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [docs(stimulus): recommend the npm package install path](https://github.com/web-auth/webauthn-framework/pull/844) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix(stimulus): restore AssetMapper path &#43; add canonical importmap name (#842)](https://github.com/web-auth/webauthn-framework/pull/843) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [test: pin the three user-provider resolution paths exposed by the bundle](https://github.com/web-auth/webauthn-framework/pull/841) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Kms] Initial documentation for the new Kms component](https://github.com/symfony/symfony-docs/pull/22280) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - [[Kms] Add a new component for Key Management Systems](https://github.com/symfony/symfony/pull/64052) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - [Add merge-up skill for branch management](https://github.com/web-auth/cose-lib/pull/136) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 month ago)
-- [Fix ES256K algorithm value per RFC8812](https://github.com/web-auth/cose-lib/pull/135) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
