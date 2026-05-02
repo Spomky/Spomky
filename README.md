@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat(extensions): support minPinLength extension (CTAP 2.1 §12.4)](https://github.com/web-auth/webauthn-framework/pull/862) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [feat(extensions): document and detect hmac-secret-mc PRF requirement](https://github.com/web-auth/webauthn-framework/pull/861) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [feat(options): support uiMode &#34;immediate&#34; on navigator.credentials.get()](https://github.com/web-auth/webauthn-framework/pull/860) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [feat(extensions): parse credProps.authenticatorDisplayName (L3)](https://github.com/web-auth/webauthn-framework/pull/859) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Document mandatory UV flag check and corrected override defaults](https://github.com/web-auth/doc/pull/42) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [Document mandatory UV flag check and corrected override defaults](https://github.com/web-auth/doc/pull/41) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [feat(prf): builder validation, controller fixes, end-to-end demo](https://github.com/web-auth/webauthn-framework/pull/845) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [docs(stimulus): recommend the npm package install path](https://github.com/web-auth/webauthn-framework/pull/844) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix(stimulus): restore AssetMapper path &#43; add canonical importmap name (#842)](https://github.com/web-auth/webauthn-framework/pull/843) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [test: pin the three user-provider resolution paths exposed by the bundle](https://github.com/web-auth/webauthn-framework/pull/841) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [test: deepen #833 regression coverage with multi-providers functional config](https://github.com/web-auth/webauthn-framework/pull/840) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [feat: support Conditional Create mediation for auto-register flows (#831)](https://github.com/web-auth/webauthn-framework/pull/839) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [fix: complete CredentialRecord migration and restore 5.2.x BC (#827, #832, #833)](https://github.com/web-auth/webauthn-framework/pull/838) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [[Kms] Initial documentation for the new Kms component](https://github.com/symfony/symfony-docs/pull/22280) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
