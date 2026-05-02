@@ -37,9 +37,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (today)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (1 day ago)
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 month ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 month ago)
@@ -50,12 +50,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [test: pin the three user-provider resolution paths exposed by the bundle](https://github.com/web-auth/webauthn-framework/pull/841) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [test: deepen #833 regression coverage with multi-providers functional config](https://github.com/web-auth/webauthn-framework/pull/840) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [feat: support Conditional Create mediation for auto-register flows (#831)](https://github.com/web-auth/webauthn-framework/pull/839) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [fix: complete CredentialRecord migration and restore 5.2.x BC (#827, #832, #833)](https://github.com/web-auth/webauthn-framework/pull/838) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [[Kms] Initial documentation for the new Kms component](https://github.com/symfony/symfony-docs/pull/22280) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
-- [[Kms] Add a new component for Key Management Systems](https://github.com/symfony/symfony/pull/64052) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- [test: pin the three user-provider resolution paths exposed by the bundle](https://github.com/web-auth/webauthn-framework/pull/841) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [test: deepen #833 regression coverage with multi-providers functional config](https://github.com/web-auth/webauthn-framework/pull/840) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [feat: support Conditional Create mediation for auto-register flows (#831)](https://github.com/web-auth/webauthn-framework/pull/839) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [fix: complete CredentialRecord migration and restore 5.2.x BC (#827, #832, #833)](https://github.com/web-auth/webauthn-framework/pull/838) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [[Kms] Initial documentation for the new Kms component](https://github.com/symfony/symfony-docs/pull/22280) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- [[Kms] Add a new component for Key Management Systems](https://github.com/symfony/symfony/pull/64052) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - [Add merge-up skill for branch management](https://github.com/web-auth/cose-lib/pull/136) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 month ago)
 - [Fix ES256K algorithm value per RFC8812](https://github.com/web-auth/cose-lib/pull/135) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 month ago)
 - [Update dependencies (brick/math 0.15-0.17)](https://github.com/web-auth/cose-lib/pull/134) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 month ago)
@@ -63,11 +63,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.0](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.0), today) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), today) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.9](https://github.com/symfony/framework-bundle/releases/tag/v8.0.9), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.0.9](https://github.com/symfony/validator/releases/tag/v8.0.9), today) - Provides tools to validate values
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.0](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.0), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 1 day ago) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.9](https://github.com/symfony/framework-bundle/releases/tag/v8.0.9), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.0.9](https://github.com/symfony/validator/releases/tag/v8.0.9), 1 day ago) - Provides tools to validate values
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.8.1](https://github.com/symfony/ai-platform/releases/tag/v0.8.1), 1 week ago) - PHP library for interacting with AI platform provider.
 - [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.8.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.8.0), 1 week ago) - OpenRouter platform bridge for Symfony AI
