@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat(options): support attestationFormats &#43; attestation on RequestOptions (NEW-L3)](https://github.com/web-auth/webauthn-framework/pull/867) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat(stimulus): adopt PublicKeyCredential.getClientCapabilities() (deprecate isConditionalMediationAvailable usage)](https://github.com/web-auth/webauthn-framework/pull/866) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat(stimulus): use native parseCreationOptionsFromJSON / parseRequestOptionsFromJSON / toJSON helpers (NEW-L3)](https://github.com/web-auth/webauthn-framework/pull/865) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat(extensions): support credBlob / getCredBlob extensions (CTAP 2.1 §12.2)](https://github.com/web-auth/webauthn-framework/pull/864) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat(options): support uiMode &#34;immediate&#34; on navigator.credentials.get()](https://github.com/web-auth/webauthn-framework/pull/860) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat(extensions): parse credProps.authenticatorDisplayName (L3)](https://github.com/web-auth/webauthn-framework/pull/859) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Document mandatory UV flag check and corrected override defaults](https://github.com/web-auth/doc/pull/42) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [Document mandatory UV flag check and corrected override defaults](https://github.com/web-auth/doc/pull/41) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 
 #### 🔭 Latest releases I've contributed to
 
