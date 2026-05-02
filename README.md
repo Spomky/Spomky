@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat(stimulus): adopt PublicKeyCredential.getClientCapabilities() (deprecate isConditionalMediationAvailable usage)](https://github.com/web-auth/webauthn-framework/pull/866) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [feat(stimulus): use native parseCreationOptionsFromJSON / parseRequestOptionsFromJSON / toJSON helpers (NEW-L3)](https://github.com/web-auth/webauthn-framework/pull/865) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [feat(extensions): support credBlob / getCredBlob extensions (CTAP 2.1 §12.2)](https://github.com/web-auth/webauthn-framework/pull/864) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [feat(extensions): support credProtect extension (CTAP 2.1 §12.1)](https://github.com/web-auth/webauthn-framework/pull/863) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat(extensions): support minPinLength extension (CTAP 2.1 §12.4)](https://github.com/web-auth/webauthn-framework/pull/862) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat(extensions): document and detect hmac-secret-mc PRF requirement](https://github.com/web-auth/webauthn-framework/pull/861) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat(options): support uiMode &#34;immediate&#34; on navigator.credentials.get()](https://github.com/web-auth/webauthn-framework/pull/860) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat(extensions): parse credProps.authenticatorDisplayName (L3)](https://github.com/web-auth/webauthn-framework/pull/859) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Document mandatory UV flag check and corrected override defaults](https://github.com/web-auth/doc/pull/42) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [Document mandatory UV flag check and corrected override defaults](https://github.com/web-auth/doc/pull/41) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [feat(prf): builder validation, controller fixes, end-to-end demo](https://github.com/web-auth/webauthn-framework/pull/845) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [docs(stimulus): recommend the npm package install path](https://github.com/web-auth/webauthn-framework/pull/844) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [fix(stimulus): restore AssetMapper path &#43; add canonical importmap name (#842)](https://github.com/web-auth/webauthn-framework/pull/843) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [test: pin the three user-provider resolution paths exposed by the bundle](https://github.com/web-auth/webauthn-framework/pull/841) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
