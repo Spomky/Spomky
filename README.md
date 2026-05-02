@@ -37,19 +37,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (today)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 day ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 month ago)
-- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 month ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
+- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 month ago)
-- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (1 month ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
+- [docs(stimulus): recommend the npm package install path](https://github.com/web-auth/webauthn-framework/pull/844) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [fix(stimulus): restore AssetMapper path &#43; add canonical importmap name (#842)](https://github.com/web-auth/webauthn-framework/pull/843) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [test: pin the three user-provider resolution paths exposed by the bundle](https://github.com/web-auth/webauthn-framework/pull/841) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [test: deepen #833 regression coverage with multi-providers functional config](https://github.com/web-auth/webauthn-framework/pull/840) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [feat: support Conditional Create mediation for auto-register flows (#831)](https://github.com/web-auth/webauthn-framework/pull/839) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Kms] Add a new component for Key Management Systems](https://github.com/symfony/symfony/pull/64052) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - [Add merge-up skill for branch management](https://github.com/web-auth/cose-lib/pull/136) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 month ago)
 - [Fix ES256K algorithm value per RFC8812](https://github.com/web-auth/cose-lib/pull/135) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 month ago)
-- [Update dependencies (brick/math 0.15-0.17)](https://github.com/web-auth/cose-lib/pull/134) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 month ago)
-- [Merge up 3.3.x into 4.0.x](https://github.com/Spomky-Labs/cbor-php/pull/121) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
