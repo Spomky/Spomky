@@ -65,7 +65,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.1), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 1 day ago) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.9](https://github.com/symfony/framework-bundle/releases/tag/v8.0.9), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.0.9](https://github.com/symfony/validator/releases/tag/v8.0.9), 1 day ago) - Provides tools to validate values
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
@@ -73,6 +72,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.8.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.8.0), 1 week ago) - OpenRouter platform bridge for Symfony AI
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.8.0](https://github.com/symfony/ai-agent/releases/tag/v0.8.0), 1 week ago) - PHP library for building agentic applications.
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.8.0](https://github.com/symfony/ai-store/releases/tag/v0.8.0), 1 week ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.8.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.8.0), 1 week ago) - Azure AI platform bridge for Symfony AI
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
