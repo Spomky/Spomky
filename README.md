@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.0](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.0), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.1), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 1 day ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.0.9](https://github.com/symfony/framework-bundle/releases/tag/v8.0.9), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.0.9](https://github.com/symfony/validator/releases/tag/v8.0.9), 1 day ago) - Provides tools to validate values
