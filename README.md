@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 day ago)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (1 day ago)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 days ago)
+- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 days ago)
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 month ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 month ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
@@ -50,23 +50,23 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [feat(options): support attestationFormats &#43; attestation on RequestOptions (NEW-L3)](https://github.com/web-auth/webauthn-framework/pull/867) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [feat(stimulus): adopt PublicKeyCredential.getClientCapabilities() (deprecate isConditionalMediationAvailable usage)](https://github.com/web-auth/webauthn-framework/pull/866) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [feat(stimulus): use native parseCreationOptionsFromJSON / parseRequestOptionsFromJSON / toJSON helpers (NEW-L3)](https://github.com/web-auth/webauthn-framework/pull/865) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [feat(extensions): support credBlob / getCredBlob extensions (CTAP 2.1 §12.2)](https://github.com/web-auth/webauthn-framework/pull/864) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [feat(extensions): support credProtect extension (CTAP 2.1 §12.1)](https://github.com/web-auth/webauthn-framework/pull/863) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [feat(extensions): support minPinLength extension (CTAP 2.1 §12.4)](https://github.com/web-auth/webauthn-framework/pull/862) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [feat(extensions): document and detect hmac-secret-mc PRF requirement](https://github.com/web-auth/webauthn-framework/pull/861) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [feat(options): support uiMode &#34;immediate&#34; on navigator.credentials.get()](https://github.com/web-auth/webauthn-framework/pull/860) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [feat(extensions): parse credProps.authenticatorDisplayName (L3)](https://github.com/web-auth/webauthn-framework/pull/859) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Document mandatory UV flag check and corrected override defaults](https://github.com/web-auth/doc/pull/42) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [feat(options): support attestationFormats &#43; attestation on RequestOptions (NEW-L3)](https://github.com/web-auth/webauthn-framework/pull/867) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [feat(stimulus): adopt PublicKeyCredential.getClientCapabilities() (deprecate isConditionalMediationAvailable usage)](https://github.com/web-auth/webauthn-framework/pull/866) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [feat(stimulus): use native parseCreationOptionsFromJSON / parseRequestOptionsFromJSON / toJSON helpers (NEW-L3)](https://github.com/web-auth/webauthn-framework/pull/865) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [feat(extensions): support credBlob / getCredBlob extensions (CTAP 2.1 §12.2)](https://github.com/web-auth/webauthn-framework/pull/864) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [feat(extensions): support credProtect extension (CTAP 2.1 §12.1)](https://github.com/web-auth/webauthn-framework/pull/863) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [feat(extensions): support minPinLength extension (CTAP 2.1 §12.4)](https://github.com/web-auth/webauthn-framework/pull/862) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [feat(extensions): document and detect hmac-secret-mc PRF requirement](https://github.com/web-auth/webauthn-framework/pull/861) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [feat(options): support uiMode &#34;immediate&#34; on navigator.credentials.get()](https://github.com/web-auth/webauthn-framework/pull/860) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [feat(extensions): parse credProps.authenticatorDisplayName (L3)](https://github.com/web-auth/webauthn-framework/pull/859) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Document mandatory UV flag check and corrected override defaults](https://github.com/web-auth/doc/pull/42) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.1), today) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 1 day ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.0.9](https://github.com/symfony/validator/releases/tag/v8.0.9), 1 day ago) - Provides tools to validate values
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.1), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 2 days ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.0.9](https://github.com/symfony/validator/releases/tag/v8.0.9), 2 days ago) - Provides tools to validate values
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.8.1](https://github.com/symfony/ai-platform/releases/tag/v0.8.1), 1 week ago) - PHP library for interacting with AI platform provider.
 - [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.8.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.8.0), 1 week ago) - OpenRouter platform bridge for Symfony AI
