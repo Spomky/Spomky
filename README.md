@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [docs(examples): add extensions-demo (credProps &#43; credProtect &#43; credBlob &#43; minPinLength in one ceremony)](https://github.com/web-auth/webauthn-framework/pull/870) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [ci: keep package-lock.json out of release archives](https://github.com/web-auth/webauthn-framework/pull/869) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [fix(ci): unblock PHPStan, repair JS tests, run them on CI](https://github.com/web-auth/webauthn-framework/pull/868) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat(options): support attestationFormats &#43; attestation on RequestOptions (NEW-L3)](https://github.com/web-auth/webauthn-framework/pull/867) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [feat(stimulus): adopt PublicKeyCredential.getClientCapabilities() (deprecate isConditionalMediationAvailable usage)](https://github.com/web-auth/webauthn-framework/pull/866) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [feat(stimulus): use native parseCreationOptionsFromJSON / parseRequestOptionsFromJSON / toJSON helpers (NEW-L3)](https://github.com/web-auth/webauthn-framework/pull/865) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
@@ -57,9 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat(extensions): support credProtect extension (CTAP 2.1 §12.1)](https://github.com/web-auth/webauthn-framework/pull/863) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [feat(extensions): support minPinLength extension (CTAP 2.1 §12.4)](https://github.com/web-auth/webauthn-framework/pull/862) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [feat(extensions): document and detect hmac-secret-mc PRF requirement](https://github.com/web-auth/webauthn-framework/pull/861) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [feat(options): support uiMode &#34;immediate&#34; on navigator.credentials.get()](https://github.com/web-auth/webauthn-framework/pull/860) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [feat(extensions): parse credProps.authenticatorDisplayName (L3)](https://github.com/web-auth/webauthn-framework/pull/859) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Document mandatory UV flag check and corrected override defaults](https://github.com/web-auth/doc/pull/42) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
