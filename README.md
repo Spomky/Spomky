@@ -63,8 +63,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.2), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.2](https://github.com/web-auth/cose-lib/releases/tag/4.5.2), 1 day ago) - Cose Key and Algorithms support
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.1](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.1), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 3 days ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.0.9](https://github.com/symfony/validator/releases/tag/v8.0.9), 3 days ago) - Provides tools to validate values
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
