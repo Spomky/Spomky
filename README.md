@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Document the WebauthnOptionsResponse helpers (#876)](https://github.com/web-auth/doc/pull/46) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [feat(options): profile-free fluent helpers for creation/request options](https://github.com/web-auth/webauthn-framework/pull/876) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Document the WebAuthn L3 Signal API helpers (#846)](https://github.com/web-auth/doc/pull/45) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [feat(signal): WebAuthn L3 §5.1.10 helpers (factory &#43; JSON envelope)](https://github.com/web-auth/webauthn-framework/pull/875) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix(stimulus install): JS-side registration, never assets/controllers.json](https://github.com/web-auth/doc/pull/44) on [web-auth/doc](https://github.com/web-auth/doc) (today)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [ci: fix merge-up step in automatic releases workflow](https://github.com/web-auth/cose-lib/pull/142) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 days ago)
 - [Fix ES256K ID in class constant and test](https://github.com/web-auth/cose-lib/pull/141) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 days ago)
 - [fix(ci): drop PHPStan baseline entries that don&#39;t fire on PHP 8.4](https://github.com/web-auth/webauthn-framework/pull/871) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [docs(examples): add extensions-demo (credProps &#43; credProtect &#43; credBlob &#43; minPinLength in one ceremony)](https://github.com/web-auth/webauthn-framework/pull/870) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [ci: keep package-lock.json out of release archives](https://github.com/web-auth/webauthn-framework/pull/869) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
