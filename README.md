@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Document the WebAuthn L3 Signal API helpers (#846)](https://github.com/web-auth/doc/pull/45) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [feat(signal): WebAuthn L3 §5.1.10 helpers (factory &#43; JSON envelope)](https://github.com/web-auth/webauthn-framework/pull/875) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix(stimulus install): JS-side registration, never assets/controllers.json](https://github.com/web-auth/doc/pull/44) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [fix(stimulus install): JS-side registration, never assets/controllers.json](https://github.com/web-auth/doc/pull/43) on [web-auth/doc](https://github.com/web-auth/doc) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix(ci): drop PHPStan baseline entries that don&#39;t fire on PHP 8.4](https://github.com/web-auth/webauthn-framework/pull/871) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [docs(examples): add extensions-demo (credProps &#43; credProtect &#43; credBlob &#43; minPinLength in one ceremony)](https://github.com/web-auth/webauthn-framework/pull/870) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [ci: keep package-lock.json out of release archives](https://github.com/web-auth/webauthn-framework/pull/869) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [fix(ci): unblock PHPStan, repair JS tests, run them on CI](https://github.com/web-auth/webauthn-framework/pull/868) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
