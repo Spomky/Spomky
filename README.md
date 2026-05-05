@@ -37,29 +37,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 days ago)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (3 days ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (4 days ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (4 days ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (4 days ago)
+- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 month ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
-- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 month ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
 - [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
+- [feat(signal): WebAuthn L3 §5.1.10 helpers (factory &#43; JSON envelope)](https://github.com/web-auth/webauthn-framework/pull/875) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [fix(stimulus install): JS-side registration, never assets/controllers.json](https://github.com/web-auth/doc/pull/44) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [fix(stimulus install): JS-side registration, never assets/controllers.json](https://github.com/web-auth/doc/pull/43) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [fix(stimulus): drop assets/controllers.json from the install path](https://github.com/web-auth/webauthn-framework/pull/874) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [ci: fix merge-up step in automatic releases workflow](https://github.com/web-auth/cose-lib/pull/142) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 days ago)
 - [Fix ES256K ID in class constant and test](https://github.com/web-auth/cose-lib/pull/141) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 days ago)
 - [fix(ci): drop PHPStan baseline entries that don&#39;t fire on PHP 8.4](https://github.com/web-auth/webauthn-framework/pull/871) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [docs(examples): add extensions-demo (credProps &#43; credProtect &#43; credBlob &#43; minPinLength in one ceremony)](https://github.com/web-auth/webauthn-framework/pull/870) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [ci: keep package-lock.json out of release archives](https://github.com/web-auth/webauthn-framework/pull/869) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [fix(ci): unblock PHPStan, repair JS tests, run them on CI](https://github.com/web-auth/webauthn-framework/pull/868) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [feat(options): support attestationFormats &#43; attestation on RequestOptions (NEW-L3)](https://github.com/web-auth/webauthn-framework/pull/867) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [feat(stimulus): adopt PublicKeyCredential.getClientCapabilities() (deprecate isConditionalMediationAvailable usage)](https://github.com/web-auth/webauthn-framework/pull/866) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [feat(stimulus): use native parseCreationOptionsFromJSON / parseRequestOptionsFromJSON / toJSON helpers (NEW-L3)](https://github.com/web-auth/webauthn-framework/pull/865) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [feat(extensions): support credBlob / getCredBlob extensions (CTAP 2.1 §12.2)](https://github.com/web-auth/webauthn-framework/pull/864) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
