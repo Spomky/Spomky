@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [fix(creation-options): default rp.name to rpId for browser compatibility](https://github.com/web-auth/webauthn-framework/pull/889) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Document withExtensions(array) on the options helpers](https://github.com/web-auth/doc/pull/56) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [refactor(helpers): withExtensions(array) instead of AuthenticationExtensions](https://github.com/web-auth/webauthn-framework/pull/887) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Update doc snippets to the array form (no variadic)](https://github.com/web-auth/doc/pull/55) on [web-auth/doc](https://github.com/web-auth/doc) (today)
@@ -59,14 +60,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Document the per-call DI service ID overrides on the helpers](https://github.com/web-auth/doc/pull/53) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [feat(helpers): per-call overrides for the bundle&#39;s DI service IDs](https://github.com/web-auth/webauthn-framework/pull/884) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Document the DI service ID YAML node deprecations](https://github.com/web-auth/doc/pull/52) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [feat(config): deprecate the DI service ID YAML nodes](https://github.com/web-auth/webauthn-framework/pull/883) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.10](https://github.com/symfony/symfony/releases/tag/v7.4.10), today) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v7.4.10](https://github.com/symfony/validator/releases/tag/v7.4.10), today) - Provides tools to validate values
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.2), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.2](https://github.com/web-auth/cose-lib/releases/tag/4.5.2), 3 days ago) - Cose Key and Algorithms support
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 5 days ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.0.9](https://github.com/symfony/validator/releases/tag/v8.0.9), 5 days ago) - Provides tools to validate values
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 2 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.8.1](https://github.com/symfony/ai-platform/releases/tag/v0.8.1), 2 weeks ago) - PHP library for interacting with AI platform provider.
