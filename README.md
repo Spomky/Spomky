@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.38](https://github.com/symfony/symfony/releases/tag/v6.4.38), today) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.0.10](https://github.com/symfony/validator/releases/tag/v8.0.10), today) - Provides tools to validate values
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA1), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA1](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA1), today) - Symfony Security Component - Core Library
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.0-BETA1](https://github.com/symfony/validator/releases/tag/v8.1.0-BETA1), today) - Provides tools to validate values
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.1.0-BETA1](https://github.com/symfony/html-sanitizer/releases/tag/v8.1.0-BETA1), today) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.2), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.2](https://github.com/web-auth/cose-lib/releases/tag/4.5.2), 3 days ago) - Cose Key and Algorithms support
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 2 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.8.1](https://github.com/symfony/ai-platform/releases/tag/v0.8.1), 2 weeks ago) - PHP library for interacting with AI platform provider.
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.8.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.8.0), 2 weeks ago) - OpenRouter platform bridge for Symfony AI
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.8.0](https://github.com/symfony/ai-agent/releases/tag/v0.8.0), 2 weeks ago) - PHP library for building agentic applications.
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.8.0](https://github.com/symfony/ai-store/releases/tag/v0.8.0), 2 weeks ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
