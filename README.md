@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Document the per-call DI service ID overrides on the helpers](https://github.com/web-auth/doc/pull/53) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [feat(helpers): per-call overrides for the bundle&#39;s DI service IDs](https://github.com/web-auth/webauthn-framework/pull/884) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Document the DI service ID YAML node deprecations](https://github.com/web-auth/doc/pull/52) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [feat(config): deprecate the DI service ID YAML nodes](https://github.com/web-auth/webauthn-framework/pull/883) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Document withMetadata / withoutMetadata on the attestation verifier](https://github.com/web-auth/doc/pull/51) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [feat(metadata): per-verifier withMetadata / withoutMetadata helper setters](https://github.com/web-auth/webauthn-framework/pull/882) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Document the helper-based migration in the 5.x to 6.0 page](https://github.com/web-auth/doc/pull/50) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
 - [feat(config): deprecate the YAML sections superseded by the helpers](https://github.com/web-auth/webauthn-framework/pull/881) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [Document per-verifier withAllowedOrigins &#43; withFakeCredentialGenerator](https://github.com/web-auth/doc/pull/49) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
 - [feat(helpers): per-verifier origin override &#43; anti-enumeration faker](https://github.com/web-auth/webauthn-framework/pull/880) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [fix(controllers): restore the per-controller origin override regression](https://github.com/web-auth/webauthn-framework/pull/879) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Document withUser() on WebauthnRequestOptionsBuilder](https://github.com/web-auth/doc/pull/48) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
-- [fix(options-helper): move $user from forRequest() to a withUser() setter](https://github.com/web-auth/webauthn-framework/pull/878) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Document the new WebauthnResponseVerifier helpers](https://github.com/web-auth/doc/pull/47) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
-- [feat(verifier): profile-free response verification helpers](https://github.com/web-auth/webauthn-framework/pull/877) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Document the WebauthnOptionsResponse helpers (#876)](https://github.com/web-auth/doc/pull/46) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
