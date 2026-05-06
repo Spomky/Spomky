@@ -63,8 +63,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.10](https://github.com/symfony/symfony/releases/tag/v7.4.10), today) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v7.4.10](https://github.com/symfony/validator/releases/tag/v7.4.10), today) - Provides tools to validate values
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.38](https://github.com/symfony/symfony/releases/tag/v6.4.38), today) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.0.10](https://github.com/symfony/validator/releases/tag/v8.0.10), today) - Provides tools to validate values
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.2), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.2](https://github.com/web-auth/cose-lib/releases/tag/4.5.2), 3 days ago) - Cose Key and Algorithms support
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
