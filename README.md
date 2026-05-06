@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Document withExtensions(array) on the options helpers](https://github.com/web-auth/doc/pull/56) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [refactor(helpers): withExtensions(array) instead of AuthenticationExtensions](https://github.com/web-auth/webauthn-framework/pull/887) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Update doc snippets to the array form (no variadic)](https://github.com/web-auth/doc/pull/55) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [refactor(helpers): drop variadic, take an explicit array argument](https://github.com/web-auth/webauthn-framework/pull/886) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Document the typed ClientOverrideRule &#43; fromRules() factory](https://github.com/web-auth/doc/pull/54) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [feat(policy): typed ClientOverrideRule &#43; fromRules() factory](https://github.com/web-auth/webauthn-framework/pull/885) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Document the per-call DI service ID overrides on the helpers](https://github.com/web-auth/doc/pull/53) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [feat(helpers): per-call overrides for the bundle&#39;s DI service IDs](https://github.com/web-auth/webauthn-framework/pull/884) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Document the DI service ID YAML node deprecations](https://github.com/web-auth/doc/pull/52) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [feat(config): deprecate the DI service ID YAML nodes](https://github.com/web-auth/webauthn-framework/pull/883) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Document withMetadata / withoutMetadata on the attestation verifier](https://github.com/web-auth/doc/pull/51) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [feat(metadata): per-verifier withMetadata / withoutMetadata helper setters](https://github.com/web-auth/webauthn-framework/pull/882) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Document the helper-based migration in the 5.x to 6.0 page](https://github.com/web-auth/doc/pull/50) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
-- [feat(config): deprecate the YAML sections superseded by the helpers](https://github.com/web-auth/webauthn-framework/pull/881) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [Document per-verifier withAllowedOrigins &#43; withFakeCredentialGenerator](https://github.com/web-auth/doc/pull/49) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
-- [feat(helpers): per-verifier origin override &#43; anti-enumeration faker](https://github.com/web-auth/webauthn-framework/pull/880) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
