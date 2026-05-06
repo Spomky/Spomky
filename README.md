@@ -38,10 +38,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (today)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 days ago)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (4 days ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (4 days ago)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 day ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 days ago)
+- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (5 days ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (5 days ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 month ago)
@@ -50,26 +50,26 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Document withUser() on WebauthnRequestOptionsBuilder](https://github.com/web-auth/doc/pull/48) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [fix(options-helper): move $user from forRequest() to a withUser() setter](https://github.com/web-auth/webauthn-framework/pull/878) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Document the new WebauthnResponseVerifier helpers](https://github.com/web-auth/doc/pull/47) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [feat(verifier): profile-free response verification helpers](https://github.com/web-auth/webauthn-framework/pull/877) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Document the WebauthnOptionsResponse helpers (#876)](https://github.com/web-auth/doc/pull/46) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [feat(options): profile-free fluent helpers for creation/request options](https://github.com/web-auth/webauthn-framework/pull/876) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Document the WebAuthn L3 Signal API helpers (#846)](https://github.com/web-auth/doc/pull/45) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [feat(signal): WebAuthn L3 §5.1.10 helpers (factory &#43; JSON envelope)](https://github.com/web-auth/webauthn-framework/pull/875) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [fix(stimulus install): JS-side registration, never assets/controllers.json](https://github.com/web-auth/doc/pull/44) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [fix(stimulus install): JS-side registration, never assets/controllers.json](https://github.com/web-auth/doc/pull/43) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [Document the helper-based migration in the 5.x to 6.0 page](https://github.com/web-auth/doc/pull/50) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
+- [feat(config): deprecate the YAML sections superseded by the helpers](https://github.com/web-auth/webauthn-framework/pull/881) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Document per-verifier withAllowedOrigins &#43; withFakeCredentialGenerator](https://github.com/web-auth/doc/pull/49) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
+- [feat(helpers): per-verifier origin override &#43; anti-enumeration faker](https://github.com/web-auth/webauthn-framework/pull/880) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [fix(controllers): restore the per-controller origin override regression](https://github.com/web-auth/webauthn-framework/pull/879) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Document withUser() on WebauthnRequestOptionsBuilder](https://github.com/web-auth/doc/pull/48) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
+- [fix(options-helper): move $user from forRequest() to a withUser() setter](https://github.com/web-auth/webauthn-framework/pull/878) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Document the new WebauthnResponseVerifier helpers](https://github.com/web-auth/doc/pull/47) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
+- [feat(verifier): profile-free response verification helpers](https://github.com/web-auth/webauthn-framework/pull/877) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Document the WebauthnOptionsResponse helpers (#876)](https://github.com/web-auth/doc/pull/46) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.2), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.2](https://github.com/web-auth/cose-lib/releases/tag/4.5.2), 2 days ago) - Cose Key and Algorithms support
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 4 days ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.0.9](https://github.com/symfony/validator/releases/tag/v8.0.9), 4 days ago) - Provides tools to validate values
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.8.1](https://github.com/symfony/ai-platform/releases/tag/v0.8.1), 1 week ago) - PHP library for interacting with AI platform provider.
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.2), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.2](https://github.com/web-auth/cose-lib/releases/tag/4.5.2), 3 days ago) - Cose Key and Algorithms support
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 5 days ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.0.9](https://github.com/symfony/validator/releases/tag/v8.0.9), 5 days ago) - Provides tools to validate values
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 2 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.8.1](https://github.com/symfony/ai-platform/releases/tag/v0.8.1), 2 weeks ago) - PHP library for interacting with AI platform provider.
 - [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.8.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.8.0), 2 weeks ago) - OpenRouter platform bridge for Symfony AI
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.8.0](https://github.com/symfony/ai-agent/releases/tag/v0.8.0), 2 weeks ago) - PHP library for building agentic applications.
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.8.0](https://github.com/symfony/ai-store/releases/tag/v0.8.0), 2 weeks ago) - Low-level abstraction for storing and retrieving documents in a vector store.
