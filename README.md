@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.5](https://github.com/api-platform/core/releases/tag/v4.3.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.108.0](https://github.com/jakzal/toolbox/releases/tag/v1.108.0), 1 day ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), 5 days ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA1), 5 days ago) - Defines an object-oriented layer for the HTTP specification
@@ -71,7 +72,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.1.0-BETA1](https://github.com/symfony/html-sanitizer/releases/tag/v8.1.0-BETA1), 5 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.2), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.2](https://github.com/web-auth/cose-lib/releases/tag/4.5.2), 1 week ago) - Cose Key and Algorithms support
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.4](https://github.com/api-platform/core/releases/tag/v4.3.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 2 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
 #### ❤️ These awesome people sponsor me (thank you!)
