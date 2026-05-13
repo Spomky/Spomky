@@ -63,11 +63,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.11](https://github.com/symfony/symfony/releases/tag/v8.0.11), today) - The Symfony PHP framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.0.11](https://github.com/symfony/security-core/releases/tag/v8.0.11), today) - Symfony Security Component - Core Library
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.5](https://github.com/api-platform/core/releases/tag/v4.3.5), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.108.0](https://github.com/jakzal/toolbox/releases/tag/v1.108.0), 3 days ago) - Helps to discover and install tools
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA1), 1 week ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA1](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA1), 1 week ago) - Symfony Security Component - Core Library
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.0-BETA1](https://github.com/symfony/validator/releases/tag/v8.1.0-BETA1), 1 week ago) - Provides tools to validate values
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.1.0-BETA1](https://github.com/symfony/html-sanitizer/releases/tag/v8.1.0-BETA1), 1 week ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.2), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
