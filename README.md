@@ -40,8 +40,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 week ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 week ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 week ago)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (1 week ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 weeks ago)
+- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
@@ -63,11 +63,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 1 day ago) - The Symfony PHP framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA2](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA2), 1 day ago) - Symfony Security Component - Core Library
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.1.0-BETA2), 1 day ago) - Provides tools to validate values
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.5](https://github.com/api-platform/core/releases/tag/v4.3.5), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.108.0](https://github.com/jakzal/toolbox/releases/tag/v1.108.0), 4 days ago) - Helps to discover and install tools
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 2 days ago) - The Symfony PHP framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA2](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA2), 2 days ago) - Symfony Security Component - Core Library
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.1.0-BETA2), 2 days ago) - Provides tools to validate values
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.5](https://github.com/api-platform/core/releases/tag/v4.3.5), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.108.0](https://github.com/jakzal/toolbox/releases/tag/v1.108.0), 5 days ago) - Helps to discover and install tools
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA1), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.1.0-BETA1](https://github.com/symfony/html-sanitizer/releases/tag/v8.1.0-BETA1), 1 week ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.2), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
