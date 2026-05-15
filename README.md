@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Fix SW push event silently dropped on Android Chrome](https://github.com/Spomky-Labs/pwa-bundle/pull/439) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [fix(creation-options): default rp.name to rpId for browser compatibility](https://github.com/web-auth/webauthn-framework/pull/889) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Document withExtensions(array) on the options helpers](https://github.com/web-auth/doc/pull/56) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
 - [refactor(helpers): withExtensions(array) instead of AuthenticationExtensions](https://github.com/web-auth/webauthn-framework/pull/887) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -59,10 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat(policy): typed ClientOverrideRule &#43; fromRules() factory](https://github.com/web-auth/webauthn-framework/pull/885) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Document the per-call DI service ID overrides on the helpers](https://github.com/web-auth/doc/pull/53) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
 - [feat(helpers): per-call overrides for the bundle&#39;s DI service IDs](https://github.com/web-auth/webauthn-framework/pull/884) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Document the DI service ID YAML node deprecations](https://github.com/web-auth/doc/pull/52) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.8](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.8), today) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 2 days ago) - The Symfony PHP framework
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA2](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA2), 2 days ago) - Symfony Security Component - Core Library
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.1.0-BETA2), 2 days ago) - Provides tools to validate values
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.1.0-BETA1](https://github.com/symfony/html-sanitizer/releases/tag/v8.1.0-BETA1), 1 week ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.2](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.2), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.5.2](https://github.com/web-auth/cose-lib/releases/tag/4.5.2), 1 week ago) - Cose Key and Algorithms support
-- [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 3 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
