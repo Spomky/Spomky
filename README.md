@@ -39,7 +39,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 week ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 week ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 weeks ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Fix SW push event silently dropped on Android Chrome](https://github.com/Spomky-Labs/pwa-bundle/pull/439) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Fix SW push event silently dropped on Android Chrome](https://github.com/Spomky-Labs/pwa-bundle/pull/439) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [fix(creation-options): default rp.name to rpId for browser compatibility](https://github.com/web-auth/webauthn-framework/pull/889) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Document withExtensions(array) on the options helpers](https://github.com/web-auth/doc/pull/56) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
 - [refactor(helpers): withExtensions(array) instead of AuthenticationExtensions](https://github.com/web-auth/webauthn-framework/pull/887) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.9.0](https://github.com/symfony/ai-store/releases/tag/v0.9.0), today) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.9.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.9.0), today) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.9.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.9.0), today) - Replicate platform bridge for Symfony AI
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.9.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.9.0), today) - OpenRouter platform bridge for Symfony AI
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.9.0](https://github.com/symfony/ai-agent/releases/tag/v0.9.0), today) - PHP library for building agentic applications.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.9.0](https://github.com/symfony/ai-platform/releases/tag/v0.9.0), today) - PHP library for interacting with AI platform provider.
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.8](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.8), 1 day ago) - PHP library for generating a full featured PWA manifest
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 3 days ago) - The Symfony PHP framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA2](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA2), 3 days ago) - Symfony Security Component - Core Library
+- [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.9.0](https://github.com/symfony/ai-store/releases/tag/v0.9.0), 1 day ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.9.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.9.0), 1 day ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.9.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.9.0), 1 day ago) - Replicate platform bridge for Symfony AI
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.9.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.9.0), 1 day ago) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.9.0](https://github.com/symfony/ai-agent/releases/tag/v0.9.0), 1 day ago) - PHP library for building agentic applications.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.9.0](https://github.com/symfony/ai-platform/releases/tag/v0.9.0), 1 day ago) - PHP library for interacting with AI platform provider.
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.8](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.8), 2 days ago) - PHP library for generating a full featured PWA manifest
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 4 days ago) - The Symfony PHP framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA2](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA2), 4 days ago) - Symfony Security Component - Core Library
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
