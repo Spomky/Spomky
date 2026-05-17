@@ -42,14 +42,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 weeks ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
-- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 month ago)
-- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (1 month ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
+- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
+- [fix(creation-profiles): default rp.name to rp.id when empty (#893)](https://github.com/web-auth/webauthn-framework/pull/896) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [feat(stimulus): ship TypeScript type declarations (.d.ts)](https://github.com/web-auth/webauthn-framework/pull/895) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix(origins): accept non-URL facet IDs (e.g. android:apk-key-hash:...)](https://github.com/web-auth/webauthn-framework/pull/894) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Fix SW push event silently dropped on Android Chrome](https://github.com/Spomky-Labs/pwa-bundle/pull/439) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [fix(creation-options): default rp.name to rpId for browser compatibility](https://github.com/web-auth/webauthn-framework/pull/889) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Update doc snippets to the array form (no variadic)](https://github.com/web-auth/doc/pull/55) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
 - [refactor(helpers): drop variadic, take an explicit array argument](https://github.com/web-auth/webauthn-framework/pull/886) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Document the typed ClientOverrideRule &#43; fromRules() factory](https://github.com/web-auth/doc/pull/54) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
-- [feat(policy): typed ClientOverrideRule &#43; fromRules() factory](https://github.com/web-auth/webauthn-framework/pull/885) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Document the per-call DI service ID overrides on the helpers](https://github.com/web-auth/doc/pull/53) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
