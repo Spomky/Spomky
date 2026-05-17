@@ -37,19 +37,22 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 week ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 weeks ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
-- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 month ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
+- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 weeks ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
+- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 month ago)
+- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
+- [docs(symfony-ux): fix wrong route name and Stimulus action (5.4)](https://github.com/web-auth/doc/pull/59) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [docs(symfony-ux): fix wrong route name and Stimulus action (5.3)](https://github.com/web-auth/doc/pull/58) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [docs(symfony-ux): fix wrong route name and Stimulus action (5.2)](https://github.com/web-auth/doc/pull/57) on [web-auth/doc](https://github.com/web-auth/doc) (today)
 - [fix(creation-profiles): default rp.name to rp.id when empty (#893)](https://github.com/web-auth/webauthn-framework/pull/896) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat(stimulus): ship TypeScript type declarations (.d.ts)](https://github.com/web-auth/webauthn-framework/pull/895) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix(origins): accept non-URL facet IDs (e.g. android:apk-key-hash:...)](https://github.com/web-auth/webauthn-framework/pull/894) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
@@ -57,12 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix(creation-options): default rp.name to rpId for browser compatibility](https://github.com/web-auth/webauthn-framework/pull/889) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Document withExtensions(array) on the options helpers](https://github.com/web-auth/doc/pull/56) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
 - [refactor(helpers): withExtensions(array) instead of AuthenticationExtensions](https://github.com/web-auth/webauthn-framework/pull/887) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Update doc snippets to the array form (no variadic)](https://github.com/web-auth/doc/pull/55) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
-- [refactor(helpers): drop variadic, take an explicit array argument](https://github.com/web-auth/webauthn-framework/pull/886) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [Document the typed ClientOverrideRule &#43; fromRules() factory](https://github.com/web-auth/doc/pull/54) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.3), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.9.0](https://github.com/symfony/ai-store/releases/tag/v0.9.0), 1 day ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.9.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.9.0), 1 day ago) - Azure AI platform bridge for Symfony AI
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.9.0](https://github.com/symfony/ai-platform/releases/tag/v0.9.0), 1 day ago) - PHP library for interacting with AI platform provider.
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.8](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.8), 2 days ago) - PHP library for generating a full featured PWA manifest
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 4 days ago) - The Symfony PHP framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA2](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA2), 4 days ago) - Symfony Security Component - Core Library
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
