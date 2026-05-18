@@ -37,7 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (today)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 day ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
@@ -50,29 +50,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [docs(symfony-ux): fix wrong route name and Stimulus action (5.4)](https://github.com/web-auth/doc/pull/59) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [docs(symfony-ux): fix wrong route name and Stimulus action (5.3)](https://github.com/web-auth/doc/pull/58) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [docs(symfony-ux): fix wrong route name and Stimulus action (5.2)](https://github.com/web-auth/doc/pull/57) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [fix(creation-profiles): default rp.name to rp.id when empty (#893)](https://github.com/web-auth/webauthn-framework/pull/896) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [feat(stimulus): ship TypeScript type declarations (.d.ts)](https://github.com/web-auth/webauthn-framework/pull/895) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [fix(origins): accept non-URL facet IDs (e.g. android:apk-key-hash:...)](https://github.com/web-auth/webauthn-framework/pull/894) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Fix SW push event silently dropped on Android Chrome](https://github.com/Spomky-Labs/pwa-bundle/pull/439) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [docs(symfony-ux): fix wrong route name and Stimulus action (5.4)](https://github.com/web-auth/doc/pull/59) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
+- [docs(symfony-ux): fix wrong route name and Stimulus action (5.3)](https://github.com/web-auth/doc/pull/58) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
+- [docs(symfony-ux): fix wrong route name and Stimulus action (5.2)](https://github.com/web-auth/doc/pull/57) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
+- [fix(creation-profiles): default rp.name to rp.id when empty (#893)](https://github.com/web-auth/webauthn-framework/pull/896) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [feat(stimulus): ship TypeScript type declarations (.d.ts)](https://github.com/web-auth/webauthn-framework/pull/895) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [fix(origins): accept non-URL facet IDs (e.g. android:apk-key-hash:...)](https://github.com/web-auth/webauthn-framework/pull/894) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Fix SW push event silently dropped on Android Chrome](https://github.com/Spomky-Labs/pwa-bundle/pull/439) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [fix(creation-options): default rp.name to rpId for browser compatibility](https://github.com/web-auth/webauthn-framework/pull/889) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Document withExtensions(array) on the options helpers](https://github.com/web-auth/doc/pull/56) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
 - [refactor(helpers): withExtensions(array) instead of AuthenticationExtensions](https://github.com/web-auth/webauthn-framework/pull/887) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.3), today) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.9.0](https://github.com/symfony/ai-store/releases/tag/v0.9.0), 1 day ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.9.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.9.0), 1 day ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.9.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.9.0), 1 day ago) - Replicate platform bridge for Symfony AI
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.9.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.9.0), 1 day ago) - OpenRouter platform bridge for Symfony AI
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.9.0](https://github.com/symfony/ai-agent/releases/tag/v0.9.0), 1 day ago) - PHP library for building agentic applications.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.9.0](https://github.com/symfony/ai-platform/releases/tag/v0.9.0), 1 day ago) - PHP library for interacting with AI platform provider.
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.8](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.8), 2 days ago) - PHP library for generating a full featured PWA manifest
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 4 days ago) - The Symfony PHP framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.3](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.3), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.9.0](https://github.com/symfony/ai-store/releases/tag/v0.9.0), 2 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.9.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.9.0), 2 days ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.9.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.9.0), 2 days ago) - Replicate platform bridge for Symfony AI
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.9.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.9.0), 2 days ago) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.9.0](https://github.com/symfony/ai-agent/releases/tag/v0.9.0), 2 days ago) - PHP library for building agentic applications.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.9.0](https://github.com/symfony/ai-platform/releases/tag/v0.9.0), 2 days ago) - PHP library for interacting with AI platform provider.
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.8](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.8), 3 days ago) - PHP library for generating a full featured PWA manifest
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 5 days ago) - The Symfony PHP framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
