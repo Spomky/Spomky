@@ -37,19 +37,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 day ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 weeks ago)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 weeks ago)
-- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
+- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 weeks ago)
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 month ago)
-- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values (1 month ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
+- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
+- [feat(events): dispatch UvInitializedChangedEvent on uvInitialized transition](https://github.com/web-auth/webauthn-framework/pull/897) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [docs(symfony-ux): fix wrong route name and Stimulus action (5.4)](https://github.com/web-auth/doc/pull/59) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
 - [docs(symfony-ux): fix wrong route name and Stimulus action (5.3)](https://github.com/web-auth/doc/pull/58) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
 - [docs(symfony-ux): fix wrong route name and Stimulus action (5.2)](https://github.com/web-auth/doc/pull/57) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Fix SW push event silently dropped on Android Chrome](https://github.com/Spomky-Labs/pwa-bundle/pull/439) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [fix(creation-options): default rp.name to rpId for browser compatibility](https://github.com/web-auth/webauthn-framework/pull/889) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Document withExtensions(array) on the options helpers](https://github.com/web-auth/doc/pull/56) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
-- [refactor(helpers): withExtensions(array) instead of AuthenticationExtensions](https://github.com/web-auth/webauthn-framework/pull/887) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
