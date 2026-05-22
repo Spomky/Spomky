@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.6](https://github.com/api-platform/core/releases/tag/v4.3.6), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.0-BETA3](https://github.com/symfony/validator/releases/tag/v8.1.0-BETA3), 2 days ago) - Provides tools to validate values
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA3](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA3), 2 days ago) - Symfony Security Component - Core Library
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA3), 2 days ago) - Defines an object-oriented layer for the HTTP specification
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 6 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.9.0](https://github.com/symfony/ai-store/releases/tag/v0.9.0), 6 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.9.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.9.0), 6 days ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.9.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.9.0), 6 days ago) - Replicate platform bridge for Symfony AI
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
