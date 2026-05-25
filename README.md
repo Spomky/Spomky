@@ -37,7 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 week ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 weeks ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (3 weeks ago)
@@ -46,13 +46,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 month ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (1 month ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 month ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(top-origin): reject cross-origin responses when no validator is configured](https://github.com/web-auth/webauthn-framework/pull/901) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [docs(examples): add basic, usernameless, passkey-upgrade and signal-api pure-PHP demos (#649)](https://github.com/web-auth/webauthn-framework/pull/899) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [feat(events): dispatch UvInitializedChangedEvent on uvInitialized transition](https://github.com/web-auth/webauthn-framework/pull/897) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [fix(top-origin): reject cross-origin responses when no validator is configured](https://github.com/web-auth/webauthn-framework/pull/901) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [docs(examples): add basic, usernameless, passkey-upgrade and signal-api pure-PHP demos (#649)](https://github.com/web-auth/webauthn-framework/pull/899) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [feat(events): dispatch UvInitializedChangedEvent on uvInitialized transition](https://github.com/web-auth/webauthn-framework/pull/897) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [docs(symfony-ux): fix wrong route name and Stimulus action (5.4)](https://github.com/web-auth/doc/pull/59) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
 - [docs(symfony-ux): fix wrong route name and Stimulus action (5.3)](https://github.com/web-auth/doc/pull/58) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
 - [docs(symfony-ux): fix wrong route name and Stimulus action (5.2)](https://github.com/web-auth/doc/pull/57) on [web-auth/doc](https://github.com/web-auth/doc) (1 week ago)
@@ -63,13 +63,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.4](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.4), today) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.6](https://github.com/api-platform/core/releases/tag/v4.3.6), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.0-BETA3](https://github.com/symfony/validator/releases/tag/v8.1.0-BETA3), 4 days ago) - Provides tools to validate values
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA3](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA3), 4 days ago) - Symfony Security Component - Core Library
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA3), 4 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.1.0-BETA3](https://github.com/symfony/html-sanitizer/releases/tag/v8.1.0-BETA3), 4 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA3](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA3), 4 days ago) - The Symfony PHP framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.4](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.4), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.6](https://github.com/api-platform/core/releases/tag/v4.3.6), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.0-BETA3](https://github.com/symfony/validator/releases/tag/v8.1.0-BETA3), 5 days ago) - Provides tools to validate values
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA3](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA3), 5 days ago) - Symfony Security Component - Core Library
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA3), 5 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.1.0-BETA3](https://github.com/symfony/html-sanitizer/releases/tag/v8.1.0-BETA3), 5 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA3](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA3), 5 days ago) - The Symfony PHP framework
 - [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.9.0](https://github.com/symfony/ai-store/releases/tag/v0.9.0), 1 week ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.9.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.9.0), 1 week ago) - Azure AI platform bridge for Symfony AI
