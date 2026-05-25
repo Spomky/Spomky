@@ -68,11 +68,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.0-BETA3](https://github.com/symfony/validator/releases/tag/v8.1.0-BETA3), 5 days ago) - Provides tools to validate values
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA3](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA3), 5 days ago) - Symfony Security Component - Core Library
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA3), 5 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) ([v8.1.0-BETA3](https://github.com/symfony/html-sanitizer/releases/tag/v8.1.0-BETA3), 5 days ago) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA3](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA3), 5 days ago) - The Symfony PHP framework
 - [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.9.0](https://github.com/symfony/ai-store/releases/tag/v0.9.0), 1 week ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.9.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.9.0), 1 week ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.9.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.9.0), 1 week ago) - Replicate platform bridge for Symfony AI
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
