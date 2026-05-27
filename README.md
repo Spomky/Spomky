@@ -63,12 +63,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.13](https://github.com/symfony/symfony/releases/tag/v7.4.13), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.13](https://github.com/symfony/http-foundation/releases/tag/v7.4.13), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/security-core](https://github.com/symfony/security-core) ([v7.4.13](https://github.com/symfony/security-core/releases/tag/v7.4.13), today) - Symfony Security Component - Core Library
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.4](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.4), 3 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.6](https://github.com/api-platform/core/releases/tag/v4.3.6), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.0-BETA3](https://github.com/symfony/validator/releases/tag/v8.1.0-BETA3), 1 week ago) - Provides tools to validate values
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0-BETA3](https://github.com/symfony/security-core/releases/tag/v8.1.0-BETA3), 1 week ago) - Symfony Security Component - Core Library
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA3), 1 week ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA3](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA3), 1 week ago) - The Symfony PHP framework
 - [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.9.0](https://github.com/symfony/ai-store/releases/tag/v0.9.0), 1 week ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.9.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.9.0), 1 week ago) - Azure AI platform bridge for Symfony AI
