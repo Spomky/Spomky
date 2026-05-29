@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.13.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.13.0), today) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), today) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0](https://github.com/symfony/http-foundation/releases/tag/v8.1.0), today) - Defines an object-oriented layer for the HTTP specification
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0](https://github.com/symfony/security-core/releases/tag/v8.1.0), today) - Symfony Security Component - Core Library
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.9.0](https://github.com/symfony/ai-store/releases/tag/v0.9.0), 1 week ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.9.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.9.0), 1 week ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.9.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.9.0), 1 week ago) - Replicate platform bridge for Symfony AI
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
