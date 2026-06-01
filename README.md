@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 day ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (2 weeks ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (4 weeks ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 month ago)
@@ -50,10 +50,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [style: coding standards &amp; static analysis on 11.4.x](https://github.com/Spomky-Labs/otphp/pull/277) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
-- [fix(top-origin): reject cross-origin responses when no validator is configured](https://github.com/web-auth/webauthn-framework/pull/901) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [docs(examples): add basic, usernameless, passkey-upgrade and signal-api pure-PHP demos (#649)](https://github.com/web-auth/webauthn-framework/pull/899) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [feat(events): dispatch UvInitializedChangedEvent on uvInitialized transition](https://github.com/web-auth/webauthn-framework/pull/897) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [style: coding standards &amp; static analysis on 11.4.x](https://github.com/Spomky-Labs/otphp/pull/277) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
+- [fix(top-origin): reject cross-origin responses when no validator is configured](https://github.com/web-auth/webauthn-framework/pull/901) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
+- [docs(examples): add basic, usernameless, passkey-upgrade and signal-api pure-PHP demos (#649)](https://github.com/web-auth/webauthn-framework/pull/899) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
+- [feat(events): dispatch UvInitializedChangedEvent on uvInitialized transition](https://github.com/web-auth/webauthn-framework/pull/897) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [docs(symfony-ux): fix wrong route name and Stimulus action (5.4)](https://github.com/web-auth/doc/pull/59) on [web-auth/doc](https://github.com/web-auth/doc) (2 weeks ago)
 - [docs(symfony-ux): fix wrong route name and Stimulus action (5.3)](https://github.com/web-auth/doc/pull/58) on [web-auth/doc](https://github.com/web-auth/doc) (2 weeks ago)
 - [docs(symfony-ux): fix wrong route name and Stimulus action (5.2)](https://github.com/web-auth/doc/pull/57) on [web-auth/doc](https://github.com/web-auth/doc) (2 weeks ago)
@@ -63,14 +63,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.5), today) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.3](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.3), today) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.13.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.13.0), 2 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 2 days ago) - The Symfony PHP framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0](https://github.com/symfony/http-foundation/releases/tag/v8.1.0), 2 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0](https://github.com/symfony/security-core/releases/tag/v8.1.0), 2 days ago) - Symfony Security Component - Core Library
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.0](https://github.com/symfony/validator/releases/tag/v8.1.0), 2 days ago) - Provides tools to validate values
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.7](https://github.com/api-platform/core/releases/tag/v4.3.7), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.5), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.3](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.3), 1 day ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.13.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.13.0), 3 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 3 days ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0](https://github.com/symfony/http-foundation/releases/tag/v8.1.0), 3 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0](https://github.com/symfony/security-core/releases/tag/v8.1.0), 3 days ago) - Symfony Security Component - Core Library
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.0](https://github.com/symfony/validator/releases/tag/v8.1.0), 3 days ago) - Provides tools to validate values
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.7](https://github.com/api-platform/core/releases/tag/v4.3.7), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 2 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.9.0](https://github.com/symfony/ai-store/releases/tag/v0.9.0), 2 weeks ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 
