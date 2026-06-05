@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) ([0.1.0](https://github.com/Spomky-Labs/dbsc-bundle/releases/tag/0.1.0), today) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys.
+- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) ([0.2.0](https://github.com/Spomky-Labs/dbsc-bundle/releases/tag/0.2.0), today) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.5), 5 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.3](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.3), 5 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
