@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.10](https://github.com/web-token/jwt-framework/releases/tag/3.4.10), today) - JWT Framework
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) ([0.3.0](https://github.com/Spomky-Labs/dbsc-bundle/releases/tag/0.3.0), today) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.5), 6 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0](https://github.com/symfony/http-foundation/releases/tag/v8.1.0), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0](https://github.com/symfony/security-core/releases/tag/v8.1.0), 1 week ago) - Symfony Security Component - Core Library
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.0](https://github.com/symfony/validator/releases/tag/v8.1.0), 1 week ago) - Provides tools to validate values
-- [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 3 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
