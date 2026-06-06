@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Merge-up 4.0.x → 4.1.x (security fixes)](https://github.com/web-token/jwt-framework/pull/655) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [Merge-up 3.4.x → 4.0.x (security fixes &#43; accumulated backports)](https://github.com/web-token/jwt-framework/pull/652) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [Update signature tests for the protected-header &#34;alg&#34; requirement](https://github.com/web-token/jwt-framework/pull/651) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Feature/per firewall configuration](https://github.com/Spomky-Labs/dbsc-bundle/pull/1) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (1 day ago)
 - [style: coding standards &amp; static analysis on 11.4.x](https://github.com/Spomky-Labs/otphp/pull/277) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (6 days ago)
 - [fix(top-origin): reject cross-origin responses when no validator is configured](https://github.com/web-auth/webauthn-framework/pull/901) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
@@ -57,13 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat(events): dispatch UvInitializedChangedEvent on uvInitialized transition](https://github.com/web-auth/webauthn-framework/pull/897) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 - [docs(symfony-ux): fix wrong route name and Stimulus action (5.4)](https://github.com/web-auth/doc/pull/59) on [web-auth/doc](https://github.com/web-auth/doc) (2 weeks ago)
 - [docs(symfony-ux): fix wrong route name and Stimulus action (5.3)](https://github.com/web-auth/doc/pull/58) on [web-auth/doc](https://github.com/web-auth/doc) (2 weeks ago)
-- [docs(symfony-ux): fix wrong route name and Stimulus action (5.2)](https://github.com/web-auth/doc/pull/57) on [web-auth/doc](https://github.com/web-auth/doc) (2 weeks ago)
-- [fix(creation-profiles): default rp.name to rp.id when empty (#893)](https://github.com/web-auth/webauthn-framework/pull/896) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
-- [feat(stimulus): ship TypeScript type declarations (.d.ts)](https://github.com/web-auth/webauthn-framework/pull/895) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.4.10](https://github.com/web-token/jwt-framework/releases/tag/3.4.10), today) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.7](https://github.com/web-token/jwt-framework/releases/tag/4.1.7), today) - JWT Framework
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) ([0.3.0](https://github.com/Spomky-Labs/dbsc-bundle/releases/tag/0.3.0), today) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.5), 6 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
