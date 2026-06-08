@@ -37,9 +37,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 day ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
+- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (2 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (3 weeks ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 month ago)
@@ -50,23 +50,23 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [fix: enforce minimum digest length](https://github.com/Spomky-Labs/otphp/pull/280) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
-- [Merge-up 4.1.x → 4.2.x (security fixes)](https://github.com/web-token/jwt-framework/pull/656) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Merge-up 4.0.x → 4.1.x (security fixes)](https://github.com/web-token/jwt-framework/pull/655) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Merge-up 3.4.x → 4.0.x (security fixes &#43; accumulated backports)](https://github.com/web-token/jwt-framework/pull/652) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Update signature tests for the protected-header &#34;alg&#34; requirement](https://github.com/web-token/jwt-framework/pull/651) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Feature/per firewall configuration](https://github.com/Spomky-Labs/dbsc-bundle/pull/1) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (2 days ago)
+- [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [fix: enforce minimum digest length](https://github.com/Spomky-Labs/otphp/pull/280) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 days ago)
+- [Merge-up 4.1.x → 4.2.x (security fixes)](https://github.com/web-token/jwt-framework/pull/656) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [Merge-up 4.0.x → 4.1.x (security fixes)](https://github.com/web-token/jwt-framework/pull/655) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [Merge-up 3.4.x → 4.0.x (security fixes &#43; accumulated backports)](https://github.com/web-token/jwt-framework/pull/652) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [Update signature tests for the protected-header &#34;alg&#34; requirement](https://github.com/web-token/jwt-framework/pull/651) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [Feature/per firewall configuration](https://github.com/Spomky-Labs/dbsc-bundle/pull/1) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (3 days ago)
 - [style: coding standards &amp; static analysis on 11.4.x](https://github.com/Spomky-Labs/otphp/pull/277) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 week ago)
-- [fix(top-origin): reject cross-origin responses when no validator is configured](https://github.com/web-auth/webauthn-framework/pull/901) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 weeks ago)
+- [fix(top-origin): reject cross-origin responses when no validator is configured](https://github.com/web-auth/webauthn-framework/pull/901) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.0), 1 day ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.7](https://github.com/web-token/jwt-framework/releases/tag/4.1.7), 1 day ago) - JWT Framework
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) ([0.3.0](https://github.com/Spomky-Labs/dbsc-bundle/releases/tag/0.3.0), 1 day ago) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.0), 2 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.7](https://github.com/web-token/jwt-framework/releases/tag/4.1.7), 2 days ago) - JWT Framework
+- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) ([0.3.0](https://github.com/Spomky-Labs/dbsc-bundle/releases/tag/0.3.0), 2 days ago) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.5), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.13.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.13.0), 1 week ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 1 week ago) - The Symfony PHP framework
