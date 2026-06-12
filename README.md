@@ -63,10 +63,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.11](https://github.com/api-platform/core/releases/tag/v4.3.11), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.0), 6 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.7](https://github.com/web-token/jwt-framework/releases/tag/4.1.7), 6 days ago) - JWT Framework
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) ([0.3.0](https://github.com/Spomky-Labs/dbsc-bundle/releases/tag/0.3.0), 6 days ago) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.5), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.13.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.13.0), 2 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 2 weeks ago) - The Symfony PHP framework
