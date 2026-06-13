@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.11](https://github.com/api-platform/core/releases/tag/v4.3.11), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.13](https://github.com/api-platform/core/releases/tag/v4.3.13), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.0), 1 week ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.7](https://github.com/web-token/jwt-framework/releases/tag/4.1.7), 1 week ago) - JWT Framework
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) ([0.3.0](https://github.com/Spomky-Labs/dbsc-bundle/releases/tag/0.3.0), 1 week ago) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys.
