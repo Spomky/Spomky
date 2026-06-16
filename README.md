@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), today) - Integration bundle for Symfony AI components
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.10.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.10.0), today) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.10.0](https://github.com/symfony/ai-agent/releases/tag/v0.10.0), today) - PHP library for building agentic applications.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.10.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.10.0), today) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.10.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.10.0), today) - Replicate platform bridge for Symfony AI
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.10.0](https://github.com/symfony/ai-store/releases/tag/v0.10.0), today) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.10.0](https://github.com/symfony/ai-platform/releases/tag/v0.10.0), today) - PHP library for interacting with AI platform provider.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.13](https://github.com/api-platform/core/releases/tag/v4.3.13), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.0), 1 week ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.1.7](https://github.com/web-token/jwt-framework/releases/tag/4.1.7), 1 week ago) - JWT Framework
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) ([0.3.0](https://github.com/Spomky-Labs/dbsc-bundle/releases/tag/0.3.0), 1 week ago) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys.
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.5](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.5), 2 weeks ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.13.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.13.0), 2 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 2 weeks ago) - The Symfony PHP framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0](https://github.com/symfony/http-foundation/releases/tag/v8.1.0), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.0](https://github.com/symfony/security-core/releases/tag/v8.1.0), 2 weeks ago) - Symfony Security Component - Core Library
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.0](https://github.com/symfony/validator/releases/tag/v8.1.0), 2 weeks ago) - Provides tools to validate values
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
