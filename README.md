@@ -57,21 +57,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge-up 4.0.x → 4.1.x (security fixes)](https://github.com/web-token/jwt-framework/pull/655) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Merge-up 3.4.x → 4.0.x (security fixes &#43; accumulated backports)](https://github.com/web-token/jwt-framework/pull/652) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Update signature tests for the protected-header &#34;alg&#34; requirement](https://github.com/web-token/jwt-framework/pull/651) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Feature/per firewall configuration](https://github.com/Spomky-Labs/dbsc-bundle/pull/1) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (1 week ago)
+- [Feature/per firewall configuration](https://github.com/Spomky-Labs/dbsc-bundle/pull/1) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (2 weeks ago)
 - [style: coding standards &amp; static analysis on 11.4.x](https://github.com/Spomky-Labs/otphp/pull/277) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 weeks ago)
 - [fix(top-origin): reject cross-origin responses when no validator is configured](https://github.com/web-auth/webauthn-framework/pull/901) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), 2 days ago) - Integration bundle for Symfony AI components
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.10.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.10.0), 2 days ago) - OpenRouter platform bridge for Symfony AI
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.10.0](https://github.com/symfony/ai-agent/releases/tag/v0.10.0), 2 days ago) - PHP library for building agentic applications.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.10.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.10.0), 2 days ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.10.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.10.0), 2 days ago) - Replicate platform bridge for Symfony AI
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.10.0](https://github.com/symfony/ai-store/releases/tag/v0.10.0), 2 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.10.0](https://github.com/symfony/ai-platform/releases/tag/v0.10.0), 2 days ago) - PHP library for interacting with AI platform provider.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.13](https://github.com/api-platform/core/releases/tag/v4.3.13), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), 3 days ago) - Integration bundle for Symfony AI components
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.10.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.10.0), 3 days ago) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.10.0](https://github.com/symfony/ai-agent/releases/tag/v0.10.0), 3 days ago) - PHP library for building agentic applications.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.10.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.10.0), 3 days ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.10.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.10.0), 3 days ago) - Replicate platform bridge for Symfony AI
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.10.0](https://github.com/symfony/ai-store/releases/tag/v0.10.0), 3 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.10.0](https://github.com/symfony/ai-platform/releases/tag/v0.10.0), 3 days ago) - PHP library for interacting with AI platform provider.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.13](https://github.com/api-platform/core/releases/tag/v4.3.13), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.0), 1 week ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 
 #### ❤️ These awesome people sponsor me (thank you!)
