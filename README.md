@@ -76,6 +76,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [the-pulli](https://github.com/the-pulli) (today)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (3 years ago)
 - [passbolt](https://github.com/passbolt) (5 years ago)
