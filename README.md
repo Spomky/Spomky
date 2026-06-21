@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 week ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (2 weeks ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 weeks ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 weeks ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 month ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 month ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (1 month ago)
@@ -50,33 +50,33 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
+- [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [fix: enforce minimum digest length](https://github.com/Spomky-Labs/otphp/pull/280) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 weeks ago)
 - [Merge-up 4.1.x → 4.2.x (security fixes)](https://github.com/web-token/jwt-framework/pull/656) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
 - [Merge-up 4.0.x → 4.1.x (security fixes)](https://github.com/web-token/jwt-framework/pull/655) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
 - [Merge-up 3.4.x → 4.0.x (security fixes &#43; accumulated backports)](https://github.com/web-token/jwt-framework/pull/652) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
 - [Update signature tests for the protected-header &#34;alg&#34; requirement](https://github.com/web-token/jwt-framework/pull/651) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 weeks ago)
 - [Feature/per firewall configuration](https://github.com/Spomky-Labs/dbsc-bundle/pull/1) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (2 weeks ago)
-- [style: coding standards &amp; static analysis on 11.4.x](https://github.com/Spomky-Labs/otphp/pull/277) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 weeks ago)
+- [style: coding standards &amp; static analysis on 11.4.x](https://github.com/Spomky-Labs/otphp/pull/277) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 weeks ago)
 - [fix(top-origin): reject cross-origin responses when no validator is configured](https://github.com/web-auth/webauthn-framework/pull/901) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.14](https://github.com/api-platform/core/releases/tag/v4.3.14), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 4 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), 4 days ago) - Integration bundle for Symfony AI components
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.10.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.10.0), 4 days ago) - OpenRouter platform bridge for Symfony AI
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.10.0](https://github.com/symfony/ai-agent/releases/tag/v0.10.0), 4 days ago) - PHP library for building agentic applications.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.10.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.10.0), 4 days ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.10.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.10.0), 4 days ago) - Replicate platform bridge for Symfony AI
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.10.0](https://github.com/symfony/ai-store/releases/tag/v0.10.0), 4 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.10.0](https://github.com/symfony/ai-platform/releases/tag/v0.10.0), 4 days ago) - PHP library for interacting with AI platform provider.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.14](https://github.com/api-platform/core/releases/tag/v4.3.14), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 5 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), 5 days ago) - Integration bundle for Symfony AI components
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.10.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.10.0), 5 days ago) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.10.0](https://github.com/symfony/ai-agent/releases/tag/v0.10.0), 5 days ago) - PHP library for building agentic applications.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.10.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.10.0), 5 days ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.10.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.10.0), 5 days ago) - Replicate platform bridge for Symfony AI
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.10.0](https://github.com/symfony/ai-store/releases/tag/v0.10.0), 5 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.10.0](https://github.com/symfony/ai-platform/releases/tag/v0.10.0), 5 days ago) - PHP library for interacting with AI platform provider.
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.0), 2 weeks ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [the-pulli](https://github.com/the-pulli) (1 day ago)
+- [the-pulli](https://github.com/the-pulli) (2 days ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (3 years ago)
 - [passbolt](https://github.com/passbolt) (5 years ago)
