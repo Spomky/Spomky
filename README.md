@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.14.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.14.0), today) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.14](https://github.com/api-platform/core/releases/tag/v4.3.14), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 5 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), 5 days ago) - Integration bundle for Symfony AI components
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.10.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.10.0), 5 days ago) - Replicate platform bridge for Symfony AI
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.10.0](https://github.com/symfony/ai-store/releases/tag/v0.10.0), 5 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.10.0](https://github.com/symfony/ai-platform/releases/tag/v0.10.0), 5 days ago) - PHP library for interacting with AI platform provider.
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.0), 2 weeks ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
