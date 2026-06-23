@@ -63,20 +63,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.14.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.14.0), 1 day ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.14](https://github.com/api-platform/core/releases/tag/v4.3.14), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 6 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), 6 days ago) - Integration bundle for Symfony AI components
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.10.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.10.0), 6 days ago) - OpenRouter platform bridge for Symfony AI
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.10.0](https://github.com/symfony/ai-agent/releases/tag/v0.10.0), 6 days ago) - PHP library for building agentic applications.
-- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.10.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.10.0), 6 days ago) - Azure AI platform bridge for Symfony AI
-- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.10.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.10.0), 6 days ago) - Replicate platform bridge for Symfony AI
-- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.10.0](https://github.com/symfony/ai-store/releases/tag/v0.10.0), 6 days ago) - Low-level abstraction for storing and retrieving documents in a vector store.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.10.0](https://github.com/symfony/ai-platform/releases/tag/v0.10.0), 6 days ago) - PHP library for interacting with AI platform provider.
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.14.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.14.0), 2 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.14](https://github.com/api-platform/core/releases/tag/v4.3.14), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), 1 week ago) - Integration bundle for Symfony AI components
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.10.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.10.0), 1 week ago) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.10.0](https://github.com/symfony/ai-agent/releases/tag/v0.10.0), 1 week ago) - PHP library for building agentic applications.
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.10.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.10.0), 1 week ago) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.10.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.10.0), 1 week ago) - Replicate platform bridge for Symfony AI
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.10.0](https://github.com/symfony/ai-store/releases/tag/v0.10.0), 1 week ago) - Low-level abstraction for storing and retrieving documents in a vector store.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.10.0](https://github.com/symfony/ai-platform/releases/tag/v0.10.0), 1 week ago) - PHP library for interacting with AI platform provider.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [the-pulli](https://github.com/the-pulli) (3 days ago)
+- [the-pulli](https://github.com/the-pulli) (4 days ago)
 - [tacman](https://github.com/tacman) (2 years ago)
 - [YousignAdmin](https://github.com/YousignAdmin) (3 years ago)
 - [passbolt](https://github.com/passbolt) (5 years ago)
