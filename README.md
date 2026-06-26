@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.4.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.4.0-alpha.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.15](https://github.com/api-platform/core/releases/tag/v4.3.15), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.109.0](https://github.com/jakzal/toolbox/releases/tag/v1.109.0), 2 days ago) - Helps to discover and install tools
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.14.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.14.0), 5 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
