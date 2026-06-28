@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 weeks ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 weeks ago)
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (3 weeks ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 weeks ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 weeks ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 month ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 month ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (1 month ago)
@@ -50,26 +50,26 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
+- [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
+- [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [fix: enforce minimum digest length](https://github.com/Spomky-Labs/otphp/pull/280) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 weeks ago)
 - [Merge-up 4.1.x → 4.2.x (security fixes)](https://github.com/web-token/jwt-framework/pull/656) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 weeks ago)
 - [Merge-up 4.0.x → 4.1.x (security fixes)](https://github.com/web-token/jwt-framework/pull/655) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 weeks ago)
 - [Merge-up 3.4.x → 4.0.x (security fixes &#43; accumulated backports)](https://github.com/web-token/jwt-framework/pull/652) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 weeks ago)
 - [Update signature tests for the protected-header &#34;alg&#34; requirement](https://github.com/web-token/jwt-framework/pull/651) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 weeks ago)
 - [Feature/per firewall configuration](https://github.com/Spomky-Labs/dbsc-bundle/pull/1) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (3 weeks ago)
-- [style: coding standards &amp; static analysis on 11.4.x](https://github.com/Spomky-Labs/otphp/pull/277) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 weeks ago)
+- [style: coding standards &amp; static analysis on 11.4.x](https://github.com/Spomky-Labs/otphp/pull/277) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (4 weeks ago)
 - [fix(top-origin): reject cross-origin responses when no validator is configured](https://github.com/web-auth/webauthn-framework/pull/901) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), today) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.1](https://github.com/symfony/validator/releases/tag/v8.1.1), today) - Provides tools to validate values
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.1](https://github.com/symfony/security-core/releases/tag/v8.1.1), today) - Symfony Security Component - Core Library
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.1](https://github.com/symfony/http-foundation/releases/tag/v8.1.1), today) - Defines an object-oriented layer for the HTTP specification
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.15](https://github.com/api-platform/core/releases/tag/v4.3.15), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.109.0](https://github.com/jakzal/toolbox/releases/tag/v1.109.0), 3 days ago) - Helps to discover and install tools
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.14.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.14.0), 6 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 1 day ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.1](https://github.com/symfony/validator/releases/tag/v8.1.1), 1 day ago) - Provides tools to validate values
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.1](https://github.com/symfony/security-core/releases/tag/v8.1.1), 1 day ago) - Symfony Security Component - Core Library
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.1](https://github.com/symfony/http-foundation/releases/tag/v8.1.1), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.15](https://github.com/api-platform/core/releases/tag/v4.3.15), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.109.0](https://github.com/jakzal/toolbox/releases/tag/v1.109.0), 4 days ago) - Helps to discover and install tools
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.14.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.14.0), 1 week ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), 1 week ago) - Integration bundle for Symfony AI components
 - [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.10.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.10.0), 1 week ago) - OpenRouter platform bridge for Symfony AI
