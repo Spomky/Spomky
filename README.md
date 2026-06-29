@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Register $allowed_files as a WordPress global (fix 500 on theme-editor.php)](https://github.com/phpsword/sword-bundle/pull/45) on [phpsword/sword-bundle](https://github.com/phpsword/sword-bundle) (today)
+- [Register $allowed_files as a WordPress global (fix 500 on theme-editor.php)](https://github.com/phpsword/sword-bundle/pull/45) on [phpsword/sword-bundle](https://github.com/phpsword/sword-bundle) (1 day ago)
 - [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [fix: enforce minimum digest length](https://github.com/Spomky-Labs/otphp/pull/280) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 weeks ago)
@@ -63,12 +63,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 1 day ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.1](https://github.com/symfony/validator/releases/tag/v8.1.1), 1 day ago) - Provides tools to validate values
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.1](https://github.com/symfony/security-core/releases/tag/v8.1.1), 1 day ago) - Symfony Security Component - Core Library
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.1](https://github.com/symfony/http-foundation/releases/tag/v8.1.1), 1 day ago) - Defines an object-oriented layer for the HTTP specification
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.15](https://github.com/api-platform/core/releases/tag/v4.3.15), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.109.0](https://github.com/jakzal/toolbox/releases/tag/v1.109.0), 4 days ago) - Helps to discover and install tools
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 2 days ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.1](https://github.com/symfony/validator/releases/tag/v8.1.1), 2 days ago) - Provides tools to validate values
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.1](https://github.com/symfony/security-core/releases/tag/v8.1.1), 2 days ago) - Symfony Security Component - Core Library
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.1](https://github.com/symfony/http-foundation/releases/tag/v8.1.1), 2 days ago) - Defines an object-oriented layer for the HTTP specification
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.15](https://github.com/api-platform/core/releases/tag/v4.3.15), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.109.0](https://github.com/jakzal/toolbox/releases/tag/v1.109.0), 5 days ago) - Helps to discover and install tools
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.14.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.14.0), 1 week ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), 1 week ago) - Integration bundle for Symfony AI components
