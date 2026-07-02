@@ -42,7 +42,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (3 weeks ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 month ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 month ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 months ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 months ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 months ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (3 months ago)
@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Register $allowed_files as a WordPress global (fix 500 on theme-editor.php)](https://github.com/phpsword/sword-bundle/pull/45) on [phpsword/sword-bundle](https://github.com/phpsword/sword-bundle) (3 days ago)
+- [Register $allowed_files as a WordPress global (fix 500 on theme-editor.php)](https://github.com/phpsword/sword-bundle/pull/45) on [phpsword/sword-bundle](https://github.com/phpsword/sword-bundle) (4 days ago)
 - [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [fix: enforce minimum digest length](https://github.com/Spomky-Labs/otphp/pull/280) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 weeks ago)
@@ -63,11 +63,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 4 days ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.1](https://github.com/symfony/validator/releases/tag/v8.1.1), 4 days ago) - Provides tools to validate values
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.1](https://github.com/symfony/security-core/releases/tag/v8.1.1), 4 days ago) - Symfony Security Component - Core Library
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.1](https://github.com/symfony/http-foundation/releases/tag/v8.1.1), 4 days ago) - Defines an object-oriented layer for the HTTP specification
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.15](https://github.com/api-platform/core/releases/tag/v4.3.15), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 5 days ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.1](https://github.com/symfony/validator/releases/tag/v8.1.1), 5 days ago) - Provides tools to validate values
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.1](https://github.com/symfony/security-core/releases/tag/v8.1.1), 5 days ago) - Symfony Security Component - Core Library
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.1](https://github.com/symfony/http-foundation/releases/tag/v8.1.1), 5 days ago) - Defines an object-oriented layer for the HTTP specification
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.15](https://github.com/api-platform/core/releases/tag/v4.3.15), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.109.0](https://github.com/jakzal/toolbox/releases/tag/v1.109.0), 1 week ago) - Helps to discover and install tools
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.14.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.14.0), 1 week ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 2 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
