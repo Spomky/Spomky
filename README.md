@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Register $allowed_files as a WordPress global (fix 500 on theme-editor.php)](https://github.com/phpsword/sword-bundle/pull/45) on [phpsword/sword-bundle](https://github.com/phpsword/sword-bundle) (1 week ago)
+- [Register $allowed_files as a WordPress global (fix 500 on theme-editor.php)](https://github.com/phpsword/sword-bundle/pull/45) on [phpsword/sword-bundle](https://github.com/phpsword/sword-bundle) (2 weeks ago)
 - [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [fix: enforce minimum digest length](https://github.com/Spomky-Labs/otphp/pull/280) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 month ago)
@@ -69,7 +69,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.1](https://github.com/symfony/security-core/releases/tag/v8.1.1), 2 weeks ago) - Symfony Security Component - Core Library
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.1](https://github.com/symfony/http-foundation/releases/tag/v8.1.1), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.109.0](https://github.com/jakzal/toolbox/releases/tag/v1.109.0), 2 weeks ago) - Helps to discover and install tools
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.14.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.14.0), 2 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.14.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.14.0), 3 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 3 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), 3 weeks ago) - Integration bundle for Symfony AI components
 - [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.10.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.10.0), 3 weeks ago) - OpenRouter platform bridge for Symfony AI
