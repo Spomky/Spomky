@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.11.0](https://github.com/symfony/ai/releases/tag/v0.11.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.11.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.11.0), today) - Azure AI platform bridge for Symfony AI
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.11.0](https://github.com/symfony/ai-platform/releases/tag/v0.11.0), today) - PHP library for interacting with AI platform provider.
+- [symfony/ai-replicate-platform](https://github.com/symfony/ai-replicate-platform) ([v0.11.0](https://github.com/symfony/ai-replicate-platform/releases/tag/v0.11.0), today) - Replicate platform bridge for Symfony AI
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.11.0](https://github.com/symfony/ai-bundle/releases/tag/v0.11.0), today) - Integration bundle for Symfony AI components
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.11.0](https://github.com/symfony/ai-agent/releases/tag/v0.11.0), today) - PHP library for building agentic applications.
+- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.11.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.11.0), today) - OpenRouter platform bridge for Symfony AI
+- [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.11.0](https://github.com/symfony/ai-store/releases/tag/v0.11.0), today) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 2 weeks ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.1](https://github.com/symfony/validator/releases/tag/v8.1.1), 2 weeks ago) - Provides tools to validate values
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.1](https://github.com/symfony/security-core/releases/tag/v8.1.1), 2 weeks ago) - Symfony Security Component - Core Library
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.1](https://github.com/symfony/http-foundation/releases/tag/v8.1.1), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.109.0](https://github.com/jakzal/toolbox/releases/tag/v1.109.0), 3 weeks ago) - Helps to discover and install tools
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.14.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.14.0), 3 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
-- [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 4 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.10.0](https://github.com/symfony/ai-bundle/releases/tag/v0.10.0), 4 weeks ago) - Integration bundle for Symfony AI components
-- [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.10.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.10.0), 4 weeks ago) - OpenRouter platform bridge for Symfony AI
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
