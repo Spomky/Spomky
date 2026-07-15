@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.0), today) - CBOR Encoder/Decoder for PHP
 - [symfony/ai](https://github.com/symfony/ai) ([v0.11.0](https://github.com/symfony/ai/releases/tag/v0.11.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-azure-platform](https://github.com/symfony/ai-azure-platform) ([v0.11.0](https://github.com/symfony/ai-azure-platform/releases/tag/v0.11.0), today) - Azure AI platform bridge for Symfony AI
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.11.0](https://github.com/symfony/ai-platform/releases/tag/v0.11.0), today) - PHP library for interacting with AI platform provider.
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/ai-open-router-platform](https://github.com/symfony/ai-open-router-platform) ([v0.11.0](https://github.com/symfony/ai-open-router-platform/releases/tag/v0.11.0), today) - OpenRouter platform bridge for Symfony AI
 - [symfony/ai-store](https://github.com/symfony/ai-store) ([v0.11.0](https://github.com/symfony/ai-store/releases/tag/v0.11.0), today) - Low-level abstraction for storing and retrieving documents in a vector store.
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 2 weeks ago) - The Symfony PHP framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
