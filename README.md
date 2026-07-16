@@ -63,12 +63,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.11.1](https://github.com/symfony/ai/releases/tag/v0.11.1), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.11.1](https://github.com/symfony/ai-bundle/releases/tag/v0.11.1), today) - Integration bundle for Symfony AI components
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.5.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.5.0), today) - Public Key Infrastructure
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.6.0](https://github.com/web-auth/cose-lib/releases/tag/4.6.0), today) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.0), 1 day ago) - CBOR Encoder/Decoder for PHP
-- [symfony/ai](https://github.com/symfony/ai) ([v0.11.0](https://github.com/symfony/ai/releases/tag/v0.11.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.11.0](https://github.com/symfony/ai-platform/releases/tag/v0.11.0), 1 day ago) - PHP library for interacting with AI platform provider.
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.11.0](https://github.com/symfony/ai-bundle/releases/tag/v0.11.0), 1 day ago) - Integration bundle for Symfony AI components
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.11.0](https://github.com/symfony/ai-agent/releases/tag/v0.11.0), 1 day ago) - PHP library for building agentic applications.
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 2 weeks ago) - The Symfony PHP framework
