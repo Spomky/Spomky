@@ -37,19 +37,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 month ago)
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
+- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (2 months ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 months ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 months ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 months ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) -  (3 months ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Update brick/math version requirements in composer.json](https://github.com/Spomky-Labs/pki-framework/pull/87) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Register $allowed_files as a WordPress global (fix 500 on theme-editor.php)](https://github.com/phpsword/sword-bundle/pull/45) on [phpsword/sword-bundle](https://github.com/phpsword/sword-bundle) (2 weeks ago)
 - [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
@@ -59,10 +60,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Merge-up 3.4.x → 4.0.x (security fixes &#43; accumulated backports)](https://github.com/web-token/jwt-framework/pull/652) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 month ago)
 - [Update signature tests for the protected-header &#34;alg&#34; requirement](https://github.com/web-token/jwt-framework/pull/651) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 month ago)
 - [Feature/per firewall configuration](https://github.com/Spomky-Labs/dbsc-bundle/pull/1) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (1 month ago)
-- [style: coding standards &amp; static analysis on 11.4.x](https://github.com/Spomky-Labs/otphp/pull/277) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.5.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.5.0), today) - Public Key Infrastructure
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.6.0](https://github.com/web-auth/cose-lib/releases/tag/4.6.0), today) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.0), 1 day ago) - CBOR Encoder/Decoder for PHP
 - [symfony/ai](https://github.com/symfony/ai) ([v0.11.0](https://github.com/symfony/ai/releases/tag/v0.11.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.11.0](https://github.com/symfony/ai-platform/releases/tag/v0.11.0), 1 day ago) - PHP library for interacting with AI platform provider.
@@ -71,8 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 2 weeks ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.1](https://github.com/symfony/validator/releases/tag/v8.1.1), 2 weeks ago) - Provides tools to validate values
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.1](https://github.com/symfony/security-core/releases/tag/v8.1.1), 2 weeks ago) - Symfony Security Component - Core Library
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.1](https://github.com/symfony/http-foundation/releases/tag/v8.1.1), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
