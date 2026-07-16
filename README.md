@@ -41,7 +41,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 month ago)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 month ago)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (2 months ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 months ago)
 - [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (2 months ago)
 - [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (2 months ago)
@@ -63,12 +63,12 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.0), today) - CBOR Encoder/Decoder for PHP
-- [symfony/ai](https://github.com/symfony/ai) ([v0.11.0](https://github.com/symfony/ai/releases/tag/v0.11.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.11.0](https://github.com/symfony/ai-platform/releases/tag/v0.11.0), today) - PHP library for interacting with AI platform provider.
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.11.0](https://github.com/symfony/ai-bundle/releases/tag/v0.11.0), today) - Integration bundle for Symfony AI components
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.11.0](https://github.com/symfony/ai-agent/releases/tag/v0.11.0), today) - PHP library for building agentic applications.
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.0), 1 day ago) - CBOR Encoder/Decoder for PHP
+- [symfony/ai](https://github.com/symfony/ai) ([v0.11.0](https://github.com/symfony/ai/releases/tag/v0.11.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.11.0](https://github.com/symfony/ai-platform/releases/tag/v0.11.0), 1 day ago) - PHP library for interacting with AI platform provider.
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.11.0](https://github.com/symfony/ai-bundle/releases/tag/v0.11.0), 1 day ago) - Integration bundle for Symfony AI components
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.11.0](https://github.com/symfony/ai-agent/releases/tag/v0.11.0), 1 day ago) - PHP library for building agentic applications.
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 2 weeks ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.1](https://github.com/symfony/validator/releases/tag/v8.1.1), 2 weeks ago) - Provides tools to validate values
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.1](https://github.com/symfony/security-core/releases/tag/v8.1.1), 2 weeks ago) - Symfony Security Component - Core Library
