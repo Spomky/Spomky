@@ -37,7 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 days ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 month ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 month ago)
@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Update brick/math version requirements in composer.json](https://github.com/Spomky-Labs/pki-framework/pull/87) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
+- [Update brick/math version requirements in composer.json](https://github.com/Spomky-Labs/pki-framework/pull/87) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 days ago)
 - [Register $allowed_files as a WordPress global (fix 500 on theme-editor.php)](https://github.com/phpsword/sword-bundle/pull/45) on [phpsword/sword-bundle](https://github.com/phpsword/sword-bundle) (2 weeks ago)
 - [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.11.1](https://github.com/symfony/ai/releases/tag/v0.11.1), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.11.1](https://github.com/symfony/ai-bundle/releases/tag/v0.11.1), 1 day ago) - Integration bundle for Symfony AI components
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.5.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.5.0), 1 day ago) - Public Key Infrastructure
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.6.0](https://github.com/web-auth/cose-lib/releases/tag/4.6.0), 1 day ago) - Cose Key and Algorithms support
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.0), 2 days ago) - CBOR Encoder/Decoder for PHP
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.11.0](https://github.com/symfony/ai-platform/releases/tag/v0.11.0), 2 days ago) - PHP library for interacting with AI platform provider.
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.11.0](https://github.com/symfony/ai-agent/releases/tag/v0.11.0), 2 days ago) - PHP library for building agentic applications.
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 2 weeks ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.1](https://github.com/symfony/validator/releases/tag/v8.1.1), 2 weeks ago) - Provides tools to validate values
+- [symfony/ai](https://github.com/symfony/ai) ([v0.11.1](https://github.com/symfony/ai/releases/tag/v0.11.1), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.11.1](https://github.com/symfony/ai-bundle/releases/tag/v0.11.1), 2 days ago) - Integration bundle for Symfony AI components
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.5.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.5.0), 2 days ago) - Public Key Infrastructure
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.6.0](https://github.com/web-auth/cose-lib/releases/tag/4.6.0), 2 days ago) - Cose Key and Algorithms support
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.0), 3 days ago) - CBOR Encoder/Decoder for PHP
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.11.0](https://github.com/symfony/ai-platform/releases/tag/v0.11.0), 3 days ago) - PHP library for interacting with AI platform provider.
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.11.0](https://github.com/symfony/ai-agent/releases/tag/v0.11.0), 3 days ago) - PHP library for building agentic applications.
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 3 weeks ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.1](https://github.com/symfony/validator/releases/tag/v8.1.1), 3 weeks ago) - Provides tools to validate values
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
