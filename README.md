@@ -51,7 +51,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 🔨 My recent Pull Requests
 
 - [Update brick/math version requirements in composer.json](https://github.com/Spomky-Labs/pki-framework/pull/87) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 week ago)
-- [Register $allowed_files as a WordPress global (fix 500 on theme-editor.php)](https://github.com/phpsword/sword-bundle/pull/45) on [phpsword/sword-bundle](https://github.com/phpsword/sword-bundle) (3 weeks ago)
+- [Register $allowed_files as a WordPress global (fix 500 on theme-editor.php)](https://github.com/phpsword/sword-bundle/pull/45) on [phpsword/sword-bundle](https://github.com/phpsword/sword-bundle) (4 weeks ago)
 - [[FrameworkBundle][Mailer] Align the S/MIME listeners with the PGP/MIME design](https://github.com/symfony/symfony/pull/64541) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [[FrameworkBundle][Mailer][Mime] Add PGP/MIME signing and encryption support](https://github.com/symfony/symfony/pull/64540) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [fix: enforce minimum digest length](https://github.com/Spomky-Labs/otphp/pull/280) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 month ago)
@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v1.0.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v1.0.0), 2 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.109.1](https://github.com/jakzal/toolbox/releases/tag/v1.109.1), 3 days ago) - Helps to discover and install tools
-- [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.12.0](https://github.com/symfony/ai-agent/releases/tag/v0.12.0), 3 days ago) - PHP library for building agentic applications.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.12.0](https://github.com/symfony/ai-platform/releases/tag/v0.12.0), 3 days ago) - PHP library for interacting with AI platform provider.
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.12.0](https://github.com/symfony/ai-bundle/releases/tag/v0.12.0), 3 days ago) - Integration bundle for Symfony AI components
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v1.0.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v1.0.0), 3 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.109.1](https://github.com/jakzal/toolbox/releases/tag/v1.109.1), 4 days ago) - Helps to discover and install tools
+- [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 4 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.12.0](https://github.com/symfony/ai-agent/releases/tag/v0.12.0), 4 days ago) - PHP library for building agentic applications.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.12.0](https://github.com/symfony/ai-platform/releases/tag/v0.12.0), 4 days ago) - PHP library for interacting with AI platform provider.
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.12.0](https://github.com/symfony/ai-bundle/releases/tag/v0.12.0), 4 days ago) - Integration bundle for Symfony AI components
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.5.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.5.0), 1 week ago) - Public Key Infrastructure
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.6.0](https://github.com/web-auth/cose-lib/releases/tag/4.6.0), 1 week ago) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.0), 1 week ago) - CBOR Encoder/Decoder for PHP
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
