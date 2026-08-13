@@ -37,6 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (3 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (4 weeks ago)
@@ -45,11 +47,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 months ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (2 months ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 months ago)
-- [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle) - [READ ONLY] Webauthn Symfony Bundle (3 months ago)
-- [web-auth/webauthn-lib](https://github.com/web-auth/webauthn-lib) - [READ ONLY] Webauthn library (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [[WebProfilerBundle] Fix missing `has_dump` variable](https://github.com/symfony/symfony/pull/65312) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[WebProfiler] Fix missing `has_dump` variable](https://github.com/Spomky/symfony/pull/1) on [Spomky/symfony](https://github.com/Spomky/symfony) (today)
 - [feat(console): add a command to convert a key into PKCS#8](https://github.com/web-token/jwt-framework/pull/674) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [fix(bundle): alias the nested token services with their own class](https://github.com/web-token/jwt-framework/pull/673) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [fix(core): correct the parameter types of the nested token builder](https://github.com/web-token/jwt-framework/pull/672) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
@@ -58,21 +60,19 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Make the quality gates pass again](https://github.com/web-token/jwt-framework/pull/669) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Register the experimental algorithms again](https://github.com/web-token/jwt-framework/pull/668) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Repair the conditional swap of the elliptic curve points](https://github.com/web-token/jwt-framework/pull/667) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [fix(encryption): enforce the disjoint header requirement of RFC 7516](https://github.com/web-token/jwt-framework/pull/666) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Deprecate the hardcoded RSA1_5 CEK size table](https://github.com/web-token/jwt-framework/pull/665) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.110.1](https://github.com/jakzal/toolbox/releases/tag/v1.110.1), 3 days ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.111.1](https://github.com/jakzal/toolbox/releases/tag/v1.111.1), today) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 6 days ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.4](https://github.com/symfony/http-foundation/releases/tag/v8.1.4), 6 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.4](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.4), 6 days ago) - Provides a development tool that gives detailed information about the execution of any request
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.4](https://github.com/symfony/validator/releases/tag/v8.1.4), 6 days ago) - Provides tools to validate values
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.0), 1 week ago) - Public Key Infrastructure
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.2](https://github.com/symfony/security-core/releases/tag/v8.1.2), 2 weeks ago) - Symfony Security Component - Core Library
 - [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 3 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.12.0](https://github.com/symfony/ai-agent/releases/tag/v0.12.0), 3 weeks ago) - PHP library for building agentic applications.
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.12.0](https://github.com/symfony/ai-platform/releases/tag/v0.12.0), 3 weeks ago) - PHP library for interacting with AI platform provider.
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.12.0](https://github.com/symfony/ai-bundle/releases/tag/v0.12.0), 3 weeks ago) - Integration bundle for Symfony AI components
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
