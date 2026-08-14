@@ -37,32 +37,33 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (today)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (4 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (4 weeks ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 months ago)
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (2 months ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 months ago)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (2 months ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[WebProfilerBundle] Fix missing `has_dump` variable](https://github.com/symfony/symfony/pull/65312) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[WebProfiler] Fix missing `has_dump` variable](https://github.com/Spomky/symfony/pull/1) on [Spomky/symfony](https://github.com/Spomky/symfony) (1 day ago)
-- [feat(console): add a command to convert a key into PKCS#8](https://github.com/web-token/jwt-framework/pull/674) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [fix(bundle): alias the nested token services with their own class](https://github.com/web-token/jwt-framework/pull/673) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [fix(core): correct the parameter types of the nested token builder](https://github.com/web-token/jwt-framework/pull/672) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [fix(bundle): align the web debug toolbar item with the Symfony core styles](https://github.com/web-token/jwt-framework/pull/671) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Add support for the ECC Brainpool curves](https://github.com/web-token/jwt-framework/pull/670) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Make the quality gates pass again](https://github.com/web-token/jwt-framework/pull/669) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Register the experimental algorithms again](https://github.com/web-token/jwt-framework/pull/668) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
-- [Repair the conditional swap of the elliptic curve points](https://github.com/web-token/jwt-framework/pull/667) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
+- [Point CLAUDE.md at the 1.6.x branch](https://github.com/Spomky-Labs/pwa-bundle/pull/459) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Add a pwa:create:config command to bootstrap the configuration file](https://github.com/Spomky-Labs/pwa-bundle/pull/458) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Let the application contribute caches to purge on install](https://github.com/Spomky-Labs/pwa-bundle/pull/457) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Deprecate the Stimulus controllers shipped by the bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/456) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Deprecate the service worker helpers the application can write itself](https://github.com/Spomky-Labs/pwa-bundle/pull/455) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Fix Symfony 8.1 deprecations on tagged service worker rules](https://github.com/Spomky-Labs/pwa-bundle/pull/453) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Prefix the generated public URLs with the base path](https://github.com/Spomky-Labs/pwa-bundle/pull/452) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Restore the CI after the QA toolchain upgrade](https://github.com/Spomky-Labs/pwa-bundle/pull/451) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [Fail explicitly when the image processor&#39;s PHP extension is missing](https://github.com/Spomky-Labs/pwa-bundle/pull/450) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [ Challenge new public API in the PR review skill](https://github.com/symfony/symfony/pull/65318) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.10](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.10), today) - PHP library for generating a full featured PWA manifest
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.0](https://github.com/jakzal/toolbox/releases/tag/v1.112.0), 1 day ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 1 week ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.4](https://github.com/symfony/http-foundation/releases/tag/v8.1.4), 1 week ago) - Defines an object-oriented layer for the HTTP specification
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.2](https://github.com/symfony/security-core/releases/tag/v8.1.2), 2 weeks ago) - Symfony Security Component - Core Library
 - [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 3 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.12.0](https://github.com/symfony/ai-agent/releases/tag/v0.12.0), 3 weeks ago) - PHP library for building agentic applications.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.12.0](https://github.com/symfony/ai-platform/releases/tag/v0.12.0), 3 weeks ago) - PHP library for interacting with AI platform provider.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
