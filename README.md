@@ -37,34 +37,34 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request (1 day ago)
-- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (4 days ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request (2 days ago)
+- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (5 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (4 weeks ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 months ago)
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (2 months ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Point CLAUDE.md at the 1.6.x branch](https://github.com/Spomky-Labs/pwa-bundle/pull/459) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Add a pwa:create:config command to bootstrap the configuration file](https://github.com/Spomky-Labs/pwa-bundle/pull/458) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Let the application contribute caches to purge on install](https://github.com/Spomky-Labs/pwa-bundle/pull/457) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Deprecate the Stimulus controllers shipped by the bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/456) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Deprecate the service worker helpers the application can write itself](https://github.com/Spomky-Labs/pwa-bundle/pull/455) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Fix Symfony 8.1 deprecations on tagged service worker rules](https://github.com/Spomky-Labs/pwa-bundle/pull/453) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Prefix the generated public URLs with the base path](https://github.com/Spomky-Labs/pwa-bundle/pull/452) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Restore the CI after the QA toolchain upgrade](https://github.com/Spomky-Labs/pwa-bundle/pull/451) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Fail explicitly when the image processor&#39;s PHP extension is missing](https://github.com/Spomky-Labs/pwa-bundle/pull/450) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [ Challenge new public API in the PR review skill](https://github.com/symfony/symfony/pull/65318) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [Point CLAUDE.md at the 1.6.x branch](https://github.com/Spomky-Labs/pwa-bundle/pull/459) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Add a pwa:create:config command to bootstrap the configuration file](https://github.com/Spomky-Labs/pwa-bundle/pull/458) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Let the application contribute caches to purge on install](https://github.com/Spomky-Labs/pwa-bundle/pull/457) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Deprecate the Stimulus controllers shipped by the bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/456) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Deprecate the service worker helpers the application can write itself](https://github.com/Spomky-Labs/pwa-bundle/pull/455) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Fix Symfony 8.1 deprecations on tagged service worker rules](https://github.com/Spomky-Labs/pwa-bundle/pull/453) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Prefix the generated public URLs with the base path](https://github.com/Spomky-Labs/pwa-bundle/pull/452) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Restore the CI after the QA toolchain upgrade](https://github.com/Spomky-Labs/pwa-bundle/pull/451) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Fail explicitly when the image processor&#39;s PHP extension is missing](https://github.com/Spomky-Labs/pwa-bundle/pull/450) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [ Challenge new public API in the PR review skill](https://github.com/symfony/symfony/pull/65318) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.10](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.10), today) - PHP library for generating a full featured PWA manifest
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.0](https://github.com/jakzal/toolbox/releases/tag/v1.112.0), 1 day ago) - Helps to discover and install tools
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.10](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.10), 1 day ago) - PHP library for generating a full featured PWA manifest
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.0](https://github.com/jakzal/toolbox/releases/tag/v1.112.0), 2 days ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 1 week ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.4](https://github.com/symfony/http-foundation/releases/tag/v8.1.4), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.4](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.4), 1 week ago) - Provides a development tool that gives detailed information about the execution of any request
