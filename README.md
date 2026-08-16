@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Replace the debug comment heredocs with a ScriptSection builder](https://github.com/Spomky-Labs/pwa-bundle/pull/461) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [Point CLAUDE.md at the 1.6.x branch](https://github.com/Spomky-Labs/pwa-bundle/pull/459) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Add a pwa:create:config command to bootstrap the configuration file](https://github.com/Spomky-Labs/pwa-bundle/pull/458) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Let the application contribute caches to purge on install](https://github.com/Spomky-Labs/pwa-bundle/pull/457) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Prefix the generated public URLs with the base path](https://github.com/Spomky-Labs/pwa-bundle/pull/452) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Restore the CI after the QA toolchain upgrade](https://github.com/Spomky-Labs/pwa-bundle/pull/451) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Fail explicitly when the image processor&#39;s PHP extension is missing](https://github.com/Spomky-Labs/pwa-bundle/pull/450) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [ Challenge new public API in the PR review skill](https://github.com/symfony/symfony/pull/65318) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
