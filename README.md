@@ -37,11 +37,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (2 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request (3 days ago)
-- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (6 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request (4 days ago)
+- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 months ago)
@@ -50,21 +50,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Ship Workbox 7.4.1 as the only bundled version](https://github.com/Spomky-Labs/pwa-bundle/pull/466) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Shrink the PHPStan baseline from 102 to 12 entries](https://github.com/Spomky-Labs/pwa-bundle/pull/465) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Match the profiler toolbar icon to the Symfony core icons](https://github.com/Spomky-Labs/pwa-bundle/pull/464) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Silence the PHP 8.5 deprecations and align the two image processors](https://github.com/Spomky-Labs/pwa-bundle/pull/463) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Fix the iOS startup images end to end](https://github.com/Spomky-Labs/pwa-bundle/pull/462) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Replace the debug comment heredocs with a ScriptSection builder](https://github.com/Spomky-Labs/pwa-bundle/pull/461) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
-- [Point CLAUDE.md at the 1.6.x branch](https://github.com/Spomky-Labs/pwa-bundle/pull/459) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Add a pwa:create:config command to bootstrap the configuration file](https://github.com/Spomky-Labs/pwa-bundle/pull/458) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Let the application contribute caches to purge on install](https://github.com/Spomky-Labs/pwa-bundle/pull/457) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
-- [Deprecate the Stimulus controllers shipped by the bundle](https://github.com/Spomky-Labs/pwa-bundle/pull/456) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
+- [Stop the bundle from deprecating itself over PageCache](https://github.com/Spomky-Labs/pwa-bundle/pull/469) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Document the localized manifest members](https://github.com/Spomky-Labs/phpwa-doc/pull/18) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
+- [Support the localized manifest members (`*_localized`)](https://github.com/Spomky-Labs/pwa-bundle/pull/468) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Describe the iOS startup images with a Twig template](https://github.com/Spomky-Labs/pwa-bundle/pull/467) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Ship Workbox 7.4.1 as the only bundled version](https://github.com/Spomky-Labs/pwa-bundle/pull/466) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Shrink the PHPStan baseline from 102 to 12 entries](https://github.com/Spomky-Labs/pwa-bundle/pull/465) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Match the profiler toolbar icon to the Symfony core icons](https://github.com/Spomky-Labs/pwa-bundle/pull/464) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Silence the PHP 8.5 deprecations and align the two image processors](https://github.com/Spomky-Labs/pwa-bundle/pull/463) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Fix the iOS startup images end to end](https://github.com/Spomky-Labs/pwa-bundle/pull/462) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
+- [Replace the debug comment heredocs with a ScriptSection builder](https://github.com/Spomky-Labs/pwa-bundle/pull/461) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.12](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.12), today) - PHP library for generating a full featured PWA manifest
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.0](https://github.com/jakzal/toolbox/releases/tag/v1.112.0), 3 days ago) - Helps to discover and install tools
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.12](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.12), 1 day ago) - PHP library for generating a full featured PWA manifest
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.0](https://github.com/jakzal/toolbox/releases/tag/v1.112.0), 4 days ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 1 week ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.4](https://github.com/symfony/http-foundation/releases/tag/v8.1.4), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.4](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.4), 1 week ago) - Provides a development tool that gives detailed information about the execution of any request
