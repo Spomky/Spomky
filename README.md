@@ -45,8 +45,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 months ago)
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (2 months ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 months ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (2 months ago)
+- [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -66,13 +66,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.13](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.13), 1 day ago) - PHP library for generating a full featured PWA manifest
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.0](https://github.com/jakzal/toolbox/releases/tag/v1.112.0), 5 days ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 1 week ago) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.4](https://github.com/symfony/framework-bundle/releases/tag/v8.1.4), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/mime](https://github.com/symfony/mime) ([v8.1.4](https://github.com/symfony/mime/releases/tag/v8.1.4), 1 week ago) - Allows manipulating MIME messages
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.4](https://github.com/symfony/http-foundation/releases/tag/v8.1.4), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.4](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.4), 1 week ago) - Provides a development tool that gives detailed information about the execution of any request
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.4](https://github.com/symfony/validator/releases/tag/v8.1.4), 1 week ago) - Provides tools to validate values
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.0), 1 week ago) - Public Key Infrastructure
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.2](https://github.com/symfony/security-core/releases/tag/v8.1.2), 2 weeks ago) - Symfony Security Component - Core Library
-- [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 3 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.12.0](https://github.com/symfony/ai-agent/releases/tag/v0.12.0), 3 weeks ago) - PHP library for building agentic applications.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
