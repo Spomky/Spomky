@@ -1,0 +1,239 @@
+#!/usr/bin/env bash
+#
+# Renders templates/README.md.tpl into README.md.
+#
+# Replaces markscribe (github.com/muesli/markscribe), unmaintained since 2023.
+# Every repository it returned carried a stargazer count, a field this template
+# never displays, and asking GitHub for it over a hundred repositories at once
+# pushed the GraphQL query past the gateway timeout: three runs out of four died
+# on a 502 with no retry. The queries below fetch only what the template renders.
+#
+# Reads the token from GH_TOKEN. It needs the `read:user` scope on top of read
+# access to public repositories: the sponsor listing is refused without it.
+
+set -euo pipefail
+
+readonly TEMPLATE=${1:-templates/README.md.tpl}
+readonly OUTPUT=${2:-README.md}
+readonly LOGIN=${README_LOGIN:-${GITHUB_REPOSITORY_OWNER:-Spomky}}
+
+# The profile repository is named after its owner. Its own commits and pull
+# requests are chores about this README, so they never belong in the listings.
+readonly META_REPOSITORY="$LOGIN/$LOGIN"
+
+readonly ATTEMPTS=5
+readonly NOW=$(date -u +%s)
+
+die() {
+    echo "render-readme: $*" >&2
+    exit 1
+}
+
+# GitHub answers a slow query with a gateway error, so a failure is retried by
+# default. Only a rejected token or a malformed query, which will not fix
+# itself, stops the run immediately.
+graphql() {
+    local query=$1
+    shift
+
+    local attempt response error
+    for (( attempt = 1; attempt <= ATTEMPTS; attempt++ )); do
+        error=$(mktemp)
+        if response=$(gh api graphql -f query="$query" "$@" 2>"$error" </dev/null); then
+            rm -f "$error"
+            printf '%s' "$response"
+            return 0
+        fi
+
+        local message; message=$(<"$error")
+        rm -f "$error"
+
+        if grep -qE 'HTTP (401|403|404)|has not been granted|Could not resolve to|Parse error|Validation error' <<<"$message"; then
+            die "$message"
+        fi
+
+        echo "retrying after: $(head -n 1 <<<"$message")" >&2
+        sleep $(( 2 ** attempt ))
+    done
+
+    die "gave up after $ATTEMPTS attempts"
+}
+
+# Reproduces markscribe's `humanize`: dates are flattened to midnight, which puts
+# anything less than a day old at "today" and leaves the day as the finest unit.
+readonly HUMANIZE='
+def humanize($now):
+    ((.[0:10] + "T00:00:00Z") | fromdateiso8601) as $midnight
+    | ($now - $midnight) as $elapsed
+    | (86400) as $day | (604800) as $week | (2592000) as $month | (31536000) as $year
+    | if   $elapsed <= $day       then "today"
+      elif $elapsed <  2 * $day   then "1 day ago"
+      elif $elapsed <  $week      then "\($elapsed / $day | floor) days ago"
+      elif $elapsed <  2 * $week  then "1 week ago"
+      elif $elapsed <  $month     then "\($elapsed / $week | floor) weeks ago"
+      elif $elapsed <  2 * $month then "1 month ago"
+      elif $elapsed <  $year      then "\($elapsed / $month | floor) months ago"
+      elif $elapsed < 18 * $month then "1 year ago"
+      elif $elapsed <  2 * $year  then "2 years ago"
+      elif $elapsed < 37 * $year  then "\($elapsed / $year | floor) years ago"
+      else "a long while ago"
+      end;
+'
+
+# Runs a jq filter over a GraphQL response, with `humanize`, `$now`, `$count` and
+# `$meta` already in scope.
+extract() {
+    local filter=$1 count=$2
+    jq -r --argjson now "$NOW" --argjson count "$count" --arg meta "$META_REPOSITORY" \
+        "$HUMANIZE $filter"
+}
+
+contributions() {
+    local count=$1
+    graphql '
+        query($login: String!) {
+          user(login: $login) {
+            contributionsCollection {
+              commitContributionsByRepository(maxRepositories: 100) {
+                contributions(first: 1) { nodes { occurredAt } }
+                repository { nameWithOwner url description isPrivate }
+              }
+            }
+          }
+        }
+    ' -f login="$LOGIN" | extract '
+        # GitHub dates contributions to the day, so same-day ties are the rule
+        # rather than the exception: the name breaks them, otherwise the listing
+        # would follow the order of the response and churn between two runs.
+        [ .data.user.contributionsCollection.commitContributionsByRepository[]
+          | select(.repository.isPrivate | not)
+          | select(.repository.nameWithOwner != $meta)
+          | { repository: .repository, occurredAt: .contributions.nodes[0].occurredAt } ]
+        | sort_by(.repository.nameWithOwner)
+        | sort_by(- (.occurredAt | fromdateiso8601)) | .[:$count]
+        | .[] | "- [\(.repository.nameWithOwner)](\(.repository.url)) - \(.repository.description // "") (\(.occurredAt | humanize($now)))"
+    ' "$count"
+}
+
+pull_requests() {
+    local count=$1
+    # Over-fetch: the pull requests dropped below still count against `first`.
+    graphql '
+        query($login: String!, $count: Int!) {
+          user(login: $login) {
+            pullRequests(first: $count, orderBy: {field: CREATED_AT, direction: DESC}) {
+              nodes { title url createdAt repository { nameWithOwner url isPrivate } }
+            }
+          }
+        }
+    ' -f login="$LOGIN" -F count=$(( count + 10 )) | extract '
+        [ .data.user.pullRequests.nodes[]
+          | select(.repository.isPrivate | not)
+          | select(.repository.nameWithOwner != $meta) ]
+        | .[:$count]
+        | .[] | "- [\(.title)](\(.url)) on [\(.repository.nameWithOwner)](\(.repository.url)) (\(.createdAt | humanize($now)))"
+    ' "$count"
+}
+
+releases() {
+    local count=$1 after='' page
+    local -a arguments
+    local nodes; nodes=$(mktemp)
+
+    while :; do
+        arguments=(-f login="$LOGIN")
+        if [[ -n $after ]]; then
+            arguments+=(-f after="$after")
+        fi
+
+        page=$(graphql '
+            query($login: String!, $after: String) {
+              user(login: $login) {
+                repositoriesContributedTo(first: 100, after: $after, includeUserRepositories: true, contributionTypes: COMMIT, privacy: PUBLIC) {
+                  pageInfo { hasNextPage endCursor }
+                  nodes {
+                    nameWithOwner url description
+                    releases(first: 10, orderBy: {field: CREATED_AT, direction: DESC}) {
+                      nodes { name tagName publishedAt url isPrerelease isDraft }
+                    }
+                  }
+                }
+              }
+            }
+        ' "${arguments[@]}")
+
+        jq -c '.data.user.repositoriesContributedTo.nodes[]' <<<"$page" >>"$nodes"
+
+        [[ $(jq -r '.data.user.repositoriesContributedTo.pageInfo.hasNextPage' <<<"$page") == true ]] || break
+        after=$(jq -r '.data.user.repositoriesContributedTo.pageInfo.endCursor' <<<"$page")
+    done
+
+    jq -rs --argjson now "$NOW" --argjson count "$count" "$HUMANIZE"'
+        [ .[]
+          | { repository: .,
+              release: ( [ .releases.nodes[]
+                           | select((.isPrerelease or .isDraft) | not)
+                           | select(.tagName != "" and .publishedAt != null) ][0] ) }
+          | select(.release != null) ]
+        | sort_by(.repository.nameWithOwner)
+        | sort_by(- (.release.publishedAt | fromdateiso8601)) | .[:$count]
+        | .[] | "- [\(.repository.nameWithOwner)](\(.repository.url)) ([\(.release.tagName)](\(.release.url)), \(.release.publishedAt | humanize($now))) - \(.repository.description // "")"
+    ' "$nodes"
+
+    rm -f "$nodes"
+}
+
+sponsors() {
+    local count=$1
+    graphql '
+        query($login: String!, $count: Int!) {
+          user(login: $login) {
+            sponsorshipsAsMaintainer(first: $count, orderBy: {field: CREATED_AT, direction: DESC}) {
+              nodes {
+                createdAt
+                sponsorEntity {
+                  ... on User { login url }
+                  ... on Organization { login url }
+                }
+              }
+            }
+          }
+        }
+    ' -f login="$LOGIN" -F count="$count" | extract '
+        .data.user.sponsorshipsAsMaintainer.nodes | .[:$count]
+        | .[] | "- [\(.sponsorEntity.login)](\(.sponsorEntity.url)) (\(.createdAt | humanize($now)))"
+    ' "$count"
+}
+
+section() {
+    local name=$1 count=$2 items
+
+    echo "rendering $name ($count)" >&2
+    case $name in
+        contributions)  items=$(contributions "$count") ;;
+        pull-requests)  items=$(pull_requests "$count") ;;
+        releases)       items=$(releases "$count") ;;
+        sponsors)       items=$(sponsors "$count") ;;
+        *)              die "unknown section '$name' in $TEMPLATE" ;;
+    esac
+
+    if [[ -n $items ]]; then
+        printf '\n%s\n' "$items"
+    fi
+}
+
+[[ -r $TEMPLATE ]] || die "cannot read template $TEMPLATE"
+command -v gh >/dev/null || die "gh is required"
+command -v jq >/dev/null || die "jq is required"
+
+rendered=$(mktemp)
+while IFS= read -r line || [[ -n $line ]]; do
+    if [[ $line =~ ^\<!--[[:space:]]+([a-z-]+):([0-9]+)[[:space:]]+--\>$ ]]; then
+        section "${BASH_REMATCH[1]}" "${BASH_REMATCH[2]}"
+    else
+        printf '%s\n' "$line"
+    fi
+done <"$TEMPLATE" >"$rendered"
+
+mv "$rendered" "$OUTPUT"
+echo "wrote $OUTPUT" >&2

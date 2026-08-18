@@ -36,24 +36,16 @@ Hereafter an overview of my involvement in the Open-Source ecosystem.
 If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/sponsors/Spomky/) or the [Patreon page](https://www.patreon.com/FlorentMorselli) are made for that purpose. Any help is greatly appreciated and allows me to spend time on these projects.
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+<!-- contributions:10 -->
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+<!-- pull-requests:10 -->
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
+<!-- releases:10 -->
 
 #### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+<!-- sponsors:5 -->
 
 <a href="https://stackoverflow.com/users/2157818/florent-morselli"><img src="https://stackoverflow.com/users/flair/2157818.png" width="208" height="58" alt="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
