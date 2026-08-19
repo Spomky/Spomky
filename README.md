@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[WebLink] Document RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony-docs/pull/22740) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- [[FrameworkBundle][WebLink] Add RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony/pull/65428) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Deprecate the Workbox version and the CDN](https://github.com/Spomky-Labs/pwa-bundle/pull/470) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (2 days ago)
 - [Stop the bundle from deprecating itself over PageCache](https://github.com/Spomky-Labs/pwa-bundle/pull/469) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [Document the localized manifest members](https://github.com/Spomky-Labs/phpwa-doc/pull/18) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (3 days ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Ship Workbox 7.4.1 as the only bundled version](https://github.com/Spomky-Labs/pwa-bundle/pull/466) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [Shrink the PHPStan baseline from 102 to 12 entries](https://github.com/Spomky-Labs/pwa-bundle/pull/465) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [Match the profiler toolbar icon to the Symfony core icons](https://github.com/Spomky-Labs/pwa-bundle/pull/464) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Silence the PHP 8.5 deprecations and align the two image processors](https://github.com/Spomky-Labs/pwa-bundle/pull/463) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Fix the iOS startup images end to end](https://github.com/Spomky-Labs/pwa-bundle/pull/462) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -77,7 +77,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [tacman](https://github.com/tacman) (2 years ago)
-- [YousignAdmin](https://github.com/YousignAdmin) (3 years ago)
+- [yousign](https://github.com/yousign) (3 years ago)
 - [passbolt](https://github.com/passbolt) (5 years ago)
 
 <a href="https://stackoverflow.com/users/2157818/florent-morselli"><img src="https://stackoverflow.com/users/flair/2157818.png" width="208" height="58" alt="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Florent Morselli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
