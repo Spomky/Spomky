@@ -37,6 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [symfony/web-link](https://github.com/symfony/web-link) - Manages links between resources (1 day ago)
@@ -46,10 +47,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 weeks ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 month ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [ci: install dependencies in the analysis jobs](https://github.com/web-auth/webauthn-framework/pull/936) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [ci: repair the pipeline](https://github.com/web-auth/webauthn-framework/pull/934) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Provide the raw text when symfony/translation is absent](https://github.com/Spomky-Labs/pwa-bundle/pull/471) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
 - [fix(android-key): verify the AuthorizationList origin and purpose](https://github.com/web-auth/webauthn-framework/pull/932) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[WebLink] Document RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony-docs/pull/22740) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - [[FrameworkBundle][WebLink] Add RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony/pull/65428) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [Deprecate the Workbox version and the CDN](https://github.com/Spomky-Labs/pwa-bundle/pull/470) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
-- [Stop the bundle from deprecating itself over PageCache](https://github.com/Spomky-Labs/pwa-bundle/pull/469) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
