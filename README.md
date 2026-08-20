@@ -50,20 +50,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [ci: repair the pipeline](https://github.com/web-auth/webauthn-framework/pull/934) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Provide the raw text when symfony/translation is absent](https://github.com/Spomky-Labs/pwa-bundle/pull/471) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (today)
+- [fix(android-key): verify the AuthorizationList origin and purpose](https://github.com/web-auth/webauthn-framework/pull/932) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [fix: Webauthn Level 3 compliance fixes](https://github.com/web-auth/webauthn-framework/pull/931) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [[Mailer] Document the new S/MIME encrypter options and the listener priorities](https://github.com/symfony/symfony-docs/pull/22764) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - [feat: Link-Template (RFC 9652), link sets (RFC 9264) and api-catalog (RFC 9727)](https://github.com/api-platform/core/pull/8468) on [api-platform/core](https://github.com/api-platform/core) (1 day ago)
 - [[WebLink] Document RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony-docs/pull/22740) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - [[FrameworkBundle][WebLink] Add RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony/pull/65428) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [Deprecate the Workbox version and the CDN](https://github.com/Spomky-Labs/pwa-bundle/pull/470) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (3 days ago)
 - [Stop the bundle from deprecating itself over PageCache](https://github.com/Spomky-Labs/pwa-bundle/pull/469) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Document the localized manifest members](https://github.com/Spomky-Labs/phpwa-doc/pull/18) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (4 days ago)
-- [Support the localized manifest members (`*_localized`)](https://github.com/Spomky-Labs/pwa-bundle/pull/468) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Describe the iOS startup images with a Twig template](https://github.com/Spomky-Labs/pwa-bundle/pull/467) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [Ship Workbox 7.4.1 as the only bundled version](https://github.com/Spomky-Labs/pwa-bundle/pull/466) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.13](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.13), 3 days ago) - PHP library for generating a full featured PWA manifest
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.14](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.14), today) - PHP library for generating a full featured PWA manifest
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.0](https://github.com/jakzal/toolbox/releases/tag/v1.112.0), 1 week ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 1 week ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.4](https://github.com/symfony/framework-bundle/releases/tag/v8.1.4), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
