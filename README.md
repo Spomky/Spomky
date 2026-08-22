@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.5](https://github.com/symfony/symfony/releases/tag/v8.1.5), today) - The Symfony PHP framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.5](https://github.com/symfony/security-core/releases/tag/v8.1.5), today) - Symfony Security Component - Core Library
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.5](https://github.com/symfony/validator/releases/tag/v8.1.5), today) - Provides tools to validate values
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.5](https://github.com/symfony/http-foundation/releases/tag/v8.1.5), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.5](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.5), today) - Provides a development tool that gives detailed information about the execution of any request
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.5](https://github.com/symfony/framework-bundle/releases/tag/v8.1.5), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.5](https://github.com/symfony/mailer/releases/tag/v8.1.5), today) - Helps sending emails
+- [symfony/mime](https://github.com/symfony/mime) ([v8.1.5](https://github.com/symfony/mime/releases/tag/v8.1.5), today) - Allows manipulating MIME messages
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.14](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.14), 2 days ago) - PHP library for generating a full featured PWA manifest
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.0](https://github.com/jakzal/toolbox/releases/tag/v1.112.0), 1 week ago) - Helps to discover and install tools
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 2 weeks ago) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.4](https://github.com/symfony/framework-bundle/releases/tag/v8.1.4), 2 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/mime](https://github.com/symfony/mime) ([v8.1.4](https://github.com/symfony/mime/releases/tag/v8.1.4), 2 weeks ago) - Allows manipulating MIME messages
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.4](https://github.com/symfony/http-foundation/releases/tag/v8.1.4), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.4](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.4), 2 weeks ago) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.4](https://github.com/symfony/validator/releases/tag/v8.1.4), 2 weeks ago) - Provides tools to validate values
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.0](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.0), 2 weeks ago) - Public Key Infrastructure
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.2](https://github.com/symfony/security-core/releases/tag/v8.1.2), 3 weeks ago) - Symfony Security Component - Core Library
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
