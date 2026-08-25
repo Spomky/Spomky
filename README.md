@@ -37,16 +37,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/access-control-bundle](https://github.com/Spomky-Labs/access-control-bundle) - Integration of the Access Control library into the Symfony full-stack framework. (today)
 - [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework: authorization for PHP and Symfony. (today)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester is allowed to perform an action on a subject. (today)
+- [Spomky-Labs/access-control-lib](https://github.com/Spomky-Labs/access-control-lib) - Authorization for PHP: decides whether a requester is allowed to perform an action on a subject. (today)
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces (today)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (5 days ago)
 - [symfony/web-link](https://github.com/symfony/web-link) - Manages links between resources (6 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 week ago)
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
