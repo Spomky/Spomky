@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Console][FrameworkBundle] Fix profiling a command stopped at ConsoleEvents::COMMAND](https://github.com/symfony/symfony/pull/65637) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [ci: install dependencies in the analysis jobs](https://github.com/web-auth/webauthn-framework/pull/936) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 - [ci: repair the pipeline](https://github.com/web-auth/webauthn-framework/pull/934) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
 - [Provide the raw text when symfony/translation is absent](https://github.com/Spomky-Labs/pwa-bundle/pull/471) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat: Link-Template (RFC 9652), link sets (RFC 9264) and api-catalog (RFC 9727)](https://github.com/api-platform/core/pull/8468) on [api-platform/core](https://github.com/api-platform/core) (6 days ago)
 - [[WebLink] Document RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony-docs/pull/22740) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - [[FrameworkBundle][WebLink] Add RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony/pull/65428) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
-- [Deprecate the Workbox version and the CDN](https://github.com/Spomky-Labs/pwa-bundle/pull/470) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
