@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (5 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
-- [symfony/web-link](https://github.com/symfony/web-link) - Manages links between resources (5 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (5 days ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
+- [symfony/web-link](https://github.com/symfony/web-link) - Manages links between resources (6 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 week ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - This is the repository for the GitBook documentation available at the website below (1 week ago)
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request (1 week ago)
@@ -50,28 +50,28 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [ci: install dependencies in the analysis jobs](https://github.com/web-auth/webauthn-framework/pull/936) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [ci: repair the pipeline](https://github.com/web-auth/webauthn-framework/pull/934) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [Provide the raw text when symfony/translation is absent](https://github.com/Spomky-Labs/pwa-bundle/pull/471) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (4 days ago)
-- [fix(android-key): verify the AuthorizationList origin and purpose](https://github.com/web-auth/webauthn-framework/pull/932) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [fix: Webauthn Level 3 compliance fixes](https://github.com/web-auth/webauthn-framework/pull/931) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (4 days ago)
-- [[Mailer] Document the new S/MIME encrypter options and the listener priorities](https://github.com/symfony/symfony-docs/pull/22764) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- [feat: Link-Template (RFC 9652), link sets (RFC 9264) and api-catalog (RFC 9727)](https://github.com/api-platform/core/pull/8468) on [api-platform/core](https://github.com/api-platform/core) (5 days ago)
-- [[WebLink] Document RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony-docs/pull/22740) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- [[FrameworkBundle][WebLink] Add RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony/pull/65428) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- [ci: install dependencies in the analysis jobs](https://github.com/web-auth/webauthn-framework/pull/936) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [ci: repair the pipeline](https://github.com/web-auth/webauthn-framework/pull/934) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [Provide the raw text when symfony/translation is absent](https://github.com/Spomky-Labs/pwa-bundle/pull/471) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (5 days ago)
+- [fix(android-key): verify the AuthorizationList origin and purpose](https://github.com/web-auth/webauthn-framework/pull/932) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [fix: Webauthn Level 3 compliance fixes](https://github.com/web-auth/webauthn-framework/pull/931) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (5 days ago)
+- [[Mailer] Document the new S/MIME encrypter options and the listener priorities](https://github.com/symfony/symfony-docs/pull/22764) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- [feat: Link-Template (RFC 9652), link sets (RFC 9264) and api-catalog (RFC 9727)](https://github.com/api-platform/core/pull/8468) on [api-platform/core](https://github.com/api-platform/core) (6 days ago)
+- [[WebLink] Document RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony-docs/pull/22740) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- [[FrameworkBundle][WebLink] Add RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony/pull/65428) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - [Deprecate the Workbox version and the CDN](https://github.com/Spomky-Labs/pwa-bundle/pull/470) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.5](https://github.com/symfony/symfony/releases/tag/v8.1.5), 2 days ago) - The Symfony PHP framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.5](https://github.com/symfony/security-core/releases/tag/v8.1.5), 2 days ago) - Symfony Security Component - Core Library
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.5](https://github.com/symfony/validator/releases/tag/v8.1.5), 2 days ago) - Provides tools to validate values
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.5](https://github.com/symfony/http-foundation/releases/tag/v8.1.5), 2 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.5](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.5), 2 days ago) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.5](https://github.com/symfony/framework-bundle/releases/tag/v8.1.5), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.5](https://github.com/symfony/mailer/releases/tag/v8.1.5), 2 days ago) - Helps sending emails
-- [symfony/mime](https://github.com/symfony/mime) ([v8.1.5](https://github.com/symfony/mime/releases/tag/v8.1.5), 2 days ago) - Allows manipulating MIME messages
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.14](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.14), 4 days ago) - PHP library for generating a full featured PWA manifest
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.5](https://github.com/symfony/symfony/releases/tag/v8.1.5), 3 days ago) - The Symfony PHP framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.5](https://github.com/symfony/security-core/releases/tag/v8.1.5), 3 days ago) - Symfony Security Component - Core Library
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.5](https://github.com/symfony/validator/releases/tag/v8.1.5), 3 days ago) - Provides tools to validate values
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.5](https://github.com/symfony/http-foundation/releases/tag/v8.1.5), 3 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.5](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.5), 3 days ago) - Provides a development tool that gives detailed information about the execution of any request
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.5](https://github.com/symfony/framework-bundle/releases/tag/v8.1.5), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.5](https://github.com/symfony/mailer/releases/tag/v8.1.5), 3 days ago) - Helps sending emails
+- [symfony/mime](https://github.com/symfony/mime) ([v8.1.5](https://github.com/symfony/mime/releases/tag/v8.1.5), 3 days ago) - Allows manipulating MIME messages
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.14](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.14), 5 days ago) - PHP library for generating a full featured PWA manifest
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.0](https://github.com/jakzal/toolbox/releases/tag/v1.112.0), 1 week ago) - Helps to discover and install tools
 
 #### ❤️ These awesome people sponsor me (thank you!)
