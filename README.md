@@ -37,6 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/access-control-bundle](https://github.com/Spomky-Labs/access-control-bundle) - Integration of the Access Control library into the Symfony full-stack framework. (1 day ago)
@@ -46,7 +47,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces (1 day ago)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (6 days ago)
 
 #### 🔨 My recent Pull Requests
 
