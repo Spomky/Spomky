@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [ci: make the QA gates and the test suite pass again on 4.1.x](https://github.com/web-token/jwt-framework/pull/676) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(core): bound the compact serializers' segment split](https://github.com/web-token/jwt-framework/pull/675) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [[Console][FrameworkBundle] Fix profiling a command stopped at ConsoleEvents::COMMAND](https://github.com/symfony/symfony/pull/65637) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [ci: install dependencies in the analysis jobs](https://github.com/web-auth/webauthn-framework/pull/936) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [ci: repair the pipeline](https://github.com/web-auth/webauthn-framework/pull/934) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix: Webauthn Level 3 compliance fixes](https://github.com/web-auth/webauthn-framework/pull/931) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
 - [[Mailer] Document the new S/MIME encrypter options and the listener priorities](https://github.com/symfony/symfony-docs/pull/22764) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [feat: Link-Template (RFC 9652), link sets (RFC 9264) and api-catalog (RFC 9727)](https://github.com/api-platform/core/pull/8468) on [api-platform/core](https://github.com/api-platform/core) (1 week ago)
-- [[WebLink] Document RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony-docs/pull/22740) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
-- [[FrameworkBundle][WebLink] Add RFC 9264 link sets and the RFC 9652 Link-Template header](https://github.com/symfony/symfony/pull/65428) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
