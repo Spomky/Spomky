@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
-- [Spomky-Labs/access-control-bundle](https://github.com/Spomky-Labs/access-control-bundle) - Integration of the Access Control library into the Symfony full-stack framework. (1 day ago)
-- [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework: authorization for PHP and Symfony. (1 day ago)
-- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester is allowed to perform an action on a subject. (1 day ago)
-- [Spomky-Labs/access-control-lib](https://github.com/Spomky-Labs/access-control-lib) - Authorization for PHP: decides whether a requester is allowed to perform an action on a subject. (1 day ago)
-- [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces (1 day ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
+- [Spomky-Labs/access-control-bundle](https://github.com/Spomky-Labs/access-control-bundle) - Integration of the Access Control library into the Symfony full-stack framework. (2 days ago)
+- [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework: authorization for PHP and Symfony. (2 days ago)
+- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester is allowed to perform an action on a subject. (2 days ago)
+- [Spomky-Labs/access-control-lib](https://github.com/Spomky-Labs/access-control-lib) - Authorization for PHP: decides whether a requester is allowed to perform an action on a subject. (2 days ago)
+- [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces (2 days ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Repair the CI pipeline and extend brick/math support up to 0.19](https://github.com/Spomky-Labs/cbor-php/pull/137) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [ci: make the QA gates and the test suite pass again on 4.1.x](https://github.com/web-token/jwt-framework/pull/676) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(core): bound the compact serializers' segment split](https://github.com/web-token/jwt-framework/pull/675) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [[Console][FrameworkBundle] Fix profiling a command stopped at ConsoleEvents::COMMAND](https://github.com/symfony/symfony/pull/65637) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [ci: install dependencies in the analysis jobs](https://github.com/web-auth/webauthn-framework/pull/936) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [ci: repair the pipeline](https://github.com/web-auth/webauthn-framework/pull/934) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [Provide the raw text when symfony/translation is absent](https://github.com/Spomky-Labs/pwa-bundle/pull/471) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (6 days ago)
-- [fix(android-key): verify the AuthorizationList origin and purpose](https://github.com/web-auth/webauthn-framework/pull/932) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [fix: Webauthn Level 3 compliance fixes](https://github.com/web-auth/webauthn-framework/pull/931) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Repair the CI pipeline and extend brick/math support up to 0.19](https://github.com/Spomky-Labs/cbor-php/pull/137) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 day ago)
+- [ci: make the QA gates and the test suite pass again on 4.1.x](https://github.com/web-token/jwt-framework/pull/676) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(core): bound the compact serializers' segment split](https://github.com/web-token/jwt-framework/pull/675) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [[Console][FrameworkBundle] Fix profiling a command stopped at ConsoleEvents::COMMAND](https://github.com/symfony/symfony/pull/65637) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [ci: install dependencies in the analysis jobs](https://github.com/web-auth/webauthn-framework/pull/936) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [ci: repair the pipeline](https://github.com/web-auth/webauthn-framework/pull/934) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [Provide the raw text when symfony/translation is absent](https://github.com/Spomky-Labs/pwa-bundle/pull/471) on [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) (1 week ago)
+- [fix(android-key): verify the AuthorizationList origin and purpose](https://github.com/web-auth/webauthn-framework/pull/932) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [fix: Webauthn Level 3 compliance fixes](https://github.com/web-auth/webauthn-framework/pull/931) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [[Mailer] Document the new S/MIME encrypter options and the listener priorities](https://github.com/symfony/symfony-docs/pull/22764) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.5](https://github.com/symfony/symfony/releases/tag/v8.1.5), 4 days ago) - The Symfony PHP framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.5](https://github.com/symfony/security-core/releases/tag/v8.1.5), 4 days ago) - Symfony Security Component - Core Library
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.5](https://github.com/symfony/validator/releases/tag/v8.1.5), 4 days ago) - Provides tools to validate values
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.5](https://github.com/symfony/http-foundation/releases/tag/v8.1.5), 4 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.5](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.5), 4 days ago) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.5](https://github.com/symfony/framework-bundle/releases/tag/v8.1.5), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/console](https://github.com/symfony/console) ([v8.1.5](https://github.com/symfony/console/releases/tag/v8.1.5), 4 days ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.5](https://github.com/symfony/mailer/releases/tag/v8.1.5), 4 days ago) - Helps sending emails
-- [symfony/mime](https://github.com/symfony/mime) ([v8.1.5](https://github.com/symfony/mime/releases/tag/v8.1.5), 4 days ago) - Allows manipulating MIME messages
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.14](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.14), 6 days ago) - PHP library for generating a full featured PWA manifest
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.5](https://github.com/symfony/symfony/releases/tag/v8.1.5), 5 days ago) - The Symfony PHP framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.5](https://github.com/symfony/security-core/releases/tag/v8.1.5), 5 days ago) - Symfony Security Component - Core Library
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.5](https://github.com/symfony/validator/releases/tag/v8.1.5), 5 days ago) - Provides tools to validate values
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.5](https://github.com/symfony/http-foundation/releases/tag/v8.1.5), 5 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.5](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.5), 5 days ago) - Provides a development tool that gives detailed information about the execution of any request
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.5](https://github.com/symfony/framework-bundle/releases/tag/v8.1.5), 5 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/console](https://github.com/symfony/console) ([v8.1.5](https://github.com/symfony/console/releases/tag/v8.1.5), 5 days ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.5](https://github.com/symfony/mailer/releases/tag/v8.1.5), 5 days ago) - Helps sending emails
+- [symfony/mime](https://github.com/symfony/mime) ([v8.1.5](https://github.com/symfony/mime/releases/tag/v8.1.5), 5 days ago) - Allows manipulating MIME messages
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) ([1.5.14](https://github.com/Spomky-Labs/pwa-bundle/releases/tag/1.5.14), 1 week ago) - PHP library for generating a full featured PWA manifest
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
