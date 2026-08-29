@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester is allowed to perform an action on a subject. (today)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (today)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (today)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (today)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (today)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (today)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (today)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
+- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester is allowed to perform an action on a subject. (1 day ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 day ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
+- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 day ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 day ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 day ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 day ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat(core): introduce interfaces for the main services](https://github.com/web-token/jwt-framework/pull/709) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(core): return result objects instead of by-reference output parameters](https://github.com/web-token/jwt-framework/pull/708) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(core): introduce a JOSE exception hierarchy](https://github.com/web-token/jwt-framework/pull/707) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(core): make the JWS and JWE builders immutable](https://github.com/web-token/jwt-framework/pull/706) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(signature): unify MAC and signature algorithms behind sign()](https://github.com/web-token/jwt-framework/pull/705) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [refactor: remove the code duplicated by the managers, factories and JWE components](https://github.com/web-token/jwt-framework/pull/704) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat: make the algorithm, checker and serializer managers immutable](https://github.com/web-token/jwt-framework/pull/703) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [ci: run the whole release sequence in a single job](https://github.com/web-token/jwt-framework/pull/701) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [ci: run the whole release sequence in a single job](https://github.com/web-token/jwt-framework/pull/700) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [ci: run the whole release sequence in a single job](https://github.com/web-auth/cose-lib/pull/158) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(core): introduce interfaces for the main services](https://github.com/web-token/jwt-framework/pull/709) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(core): return result objects instead of by-reference output parameters](https://github.com/web-token/jwt-framework/pull/708) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(core): introduce a JOSE exception hierarchy](https://github.com/web-token/jwt-framework/pull/707) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(core): make the JWS and JWE builders immutable](https://github.com/web-token/jwt-framework/pull/706) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(signature): unify MAC and signature algorithms behind sign()](https://github.com/web-token/jwt-framework/pull/705) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [refactor: remove the code duplicated by the managers, factories and JWE components](https://github.com/web-token/jwt-framework/pull/704) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat: make the algorithm, checker and serializer managers immutable](https://github.com/web-token/jwt-framework/pull/703) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [ci: run the whole release sequence in a single job](https://github.com/web-token/jwt-framework/pull/701) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [ci: run the whole release sequence in a single job](https://github.com/web-token/jwt-framework/pull/700) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [ci: run the whole release sequence in a single job](https://github.com/web-auth/cose-lib/pull/158) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.1](https://github.com/web-token/jwt-framework/releases/tag/4.2.1), today) - JWT Framework
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.7.0](https://github.com/web-auth/cose-lib/releases/tag/4.7.0), today) - Cose Key and Algorithms support
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.6](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.6), today) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.1), today) - CBOR Encoder/Decoder for PHP
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.5](https://github.com/symfony/symfony/releases/tag/v8.1.5), 6 days ago) - The Symfony PHP framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.5](https://github.com/symfony/security-core/releases/tag/v8.1.5), 6 days ago) - Symfony Security Component - Core Library
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.5](https://github.com/symfony/validator/releases/tag/v8.1.5), 6 days ago) - Provides tools to validate values
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.5](https://github.com/symfony/http-foundation/releases/tag/v8.1.5), 6 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.5](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.5), 6 days ago) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.5](https://github.com/symfony/framework-bundle/releases/tag/v8.1.5), 6 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.1](https://github.com/web-token/jwt-framework/releases/tag/4.2.1), 1 day ago) - JWT Framework
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.7.0](https://github.com/web-auth/cose-lib/releases/tag/4.7.0), 1 day ago) - Cose Key and Algorithms support
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.6](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.6), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.1), 1 day ago) - CBOR Encoder/Decoder for PHP
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.5](https://github.com/symfony/symfony/releases/tag/v8.1.5), 1 week ago) - The Symfony PHP framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.5](https://github.com/symfony/security-core/releases/tag/v8.1.5), 1 week ago) - Symfony Security Component - Core Library
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.5](https://github.com/symfony/validator/releases/tag/v8.1.5), 1 week ago) - Provides tools to validate values
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.5](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.5), 1 week ago) - Provides a development tool that gives detailed information about the execution of any request
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.5](https://github.com/symfony/framework-bundle/releases/tag/v8.1.5), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/console](https://github.com/symfony/console) ([v8.1.5](https://github.com/symfony/console/releases/tag/v8.1.5), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
