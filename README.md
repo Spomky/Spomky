@@ -37,6 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (today)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester is allowed to perform an action on a subject. (1 day ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 day ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
@@ -45,21 +47,19 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 day ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 day ago)
 
 #### 🔨 My recent Pull Requests
 
+- [feat(core): typed accessors on the JWK, sealed helpers on the JWKSet](https://github.com/web-token/jwt-framework/pull/713) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [feat(key-mgmt): make the key factory an injectable service](https://github.com/web-token/jwt-framework/pull/712) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [feat(core): seal the internal mutators of the JWS and the JWE](https://github.com/web-token/jwt-framework/pull/711) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [feat(key-management): free JKUFactory and X5UFactory from a deprecated base](https://github.com/web-token/jwt-framework/pull/710) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [feat(core): introduce interfaces for the main services](https://github.com/web-token/jwt-framework/pull/709) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [feat(core): return result objects instead of by-reference output parameters](https://github.com/web-token/jwt-framework/pull/708) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [feat(core): introduce a JOSE exception hierarchy](https://github.com/web-token/jwt-framework/pull/707) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [feat(core): make the JWS and JWE builders immutable](https://github.com/web-token/jwt-framework/pull/706) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [feat(signature): unify MAC and signature algorithms behind sign()](https://github.com/web-token/jwt-framework/pull/705) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [refactor: remove the code duplicated by the managers, factories and JWE components](https://github.com/web-token/jwt-framework/pull/704) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [feat: make the algorithm, checker and serializer managers immutable](https://github.com/web-token/jwt-framework/pull/703) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [ci: run the whole release sequence in a single job](https://github.com/web-token/jwt-framework/pull/701) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [ci: run the whole release sequence in a single job](https://github.com/web-token/jwt-framework/pull/700) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [ci: run the whole release sequence in a single job](https://github.com/web-auth/cose-lib/pull/158) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
