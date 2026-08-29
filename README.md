@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat(checker): announce the object replacing the token type support headers](https://github.com/web-token/jwt-framework/pull/716) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [feat(core): announce the 5.0.0 breaks that were still silent](https://github.com/web-token/jwt-framework/pull/715) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [feat(algorithms): ship "none" and RSA1_5 in their own packages](https://github.com/web-token/jwt-framework/pull/714) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [feat(core): typed accessors on the JWK, sealed helpers on the JWKSet](https://github.com/web-token/jwt-framework/pull/713) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [feat(key-mgmt): make the key factory an injectable service](https://github.com/web-token/jwt-framework/pull/712) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [feat(core): seal the internal mutators of the JWS and the JWE](https://github.com/web-token/jwt-framework/pull/711) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
@@ -57,9 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat(core): introduce interfaces for the main services](https://github.com/web-token/jwt-framework/pull/709) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [feat(core): return result objects instead of by-reference output parameters](https://github.com/web-token/jwt-framework/pull/708) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [feat(core): introduce a JOSE exception hierarchy](https://github.com/web-token/jwt-framework/pull/707) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [feat(core): make the JWS and JWE builders immutable](https://github.com/web-token/jwt-framework/pull/706) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [feat(signature): unify MAC and signature algorithms behind sign()](https://github.com/web-token/jwt-framework/pull/705) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [refactor: remove the code duplicated by the managers, factories and JWE components](https://github.com/web-token/jwt-framework/pull/704) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
