@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), today) - The Symfony PHP framework
+- [symfony/console](https://github.com/symfony/console) ([v8.1.6](https://github.com/symfony/console/releases/tag/v8.1.6), today) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/mime](https://github.com/symfony/mime) ([v8.1.6](https://github.com/symfony/mime/releases/tag/v8.1.6), today) - Allows manipulating MIME messages
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.6](https://github.com/symfony/validator/releases/tag/v8.1.6), today) - Provides tools to validate values
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.6](https://github.com/symfony/security-core/releases/tag/v8.1.6), today) - Symfony Security Component - Core Library
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.6](https://github.com/symfony/framework-bundle/releases/tag/v8.1.6), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.8](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.8), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.1), today) - Public Key Infrastructure
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.2](https://github.com/web-token/jwt-framework/releases/tag/4.2.2), today) - JWT Framework
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.2](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.2), today) - CBOR Encoder/Decoder for PHP
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.7.1](https://github.com/web-auth/cose-lib/releases/tag/4.7.1), today) - Cose Key and Algorithms support
-- [symfony/ai](https://github.com/symfony/ai) ([v0.13.0](https://github.com/symfony/ai/releases/tag/v0.13.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.13.0](https://github.com/symfony/ai-agent/releases/tag/v0.13.0), today) - PHP library for building agentic applications.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.13.0](https://github.com/symfony/ai-platform/releases/tag/v0.13.0), today) - PHP library for interacting with AI platform provider.
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.13.0](https://github.com/symfony/ai-bundle/releases/tag/v0.13.0), today) - Integration bundle for Symfony AI components
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.5](https://github.com/symfony/symfony/releases/tag/v8.1.5), 1 week ago) - The Symfony PHP framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
