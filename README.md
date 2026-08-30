@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [fix(symfony): stop registering the insecure RS1 algorithm](https://github.com/web-auth/webauthn-framework/pull/958) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [fix(symfony)!: stop registering the insecure RS1 algorithm](https://github.com/web-auth/webauthn-framework/pull/958) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [chore(demos): move the demos to a dedicated repository](https://github.com/web-auth/webauthn-framework/pull/956) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [ci: stop tracking package-lock.json](https://github.com/web-auth/webauthn-framework/pull/954) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat(origins): pin the ceremony to the origin it was started on](https://github.com/web-auth/webauthn-framework/pull/953) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.7](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.7), today) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.8](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.8), today) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.1), today) - Public Key Infrastructure
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.2](https://github.com/web-token/jwt-framework/releases/tag/4.2.2), today) - JWT Framework
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.2](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.2), today) - CBOR Encoder/Decoder for PHP
