@@ -37,36 +37,36 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
-- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester is allowed to perform an action on a subject. (1 day ago)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 day ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 day ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 day ago)
-- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (1 day ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (1 day ago)
+- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
+- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester is allowed to perform an action on a subject. (2 days ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (2 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 days ago)
+- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (2 days ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 days ago)
+- [Spomky-Labs/phpwa-demo](https://github.com/Spomky-Labs/phpwa-demo) - Demonstration for the PHPWA Bundle (2 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest (2 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat(checker): announce the object replacing the token type support headers](https://github.com/web-token/jwt-framework/pull/716) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(core): announce the 5.0.0 breaks that were still silent](https://github.com/web-token/jwt-framework/pull/715) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(algorithms): ship "none" and RSA1_5 in their own packages](https://github.com/web-token/jwt-framework/pull/714) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(core): typed accessors on the JWK, sealed helpers on the JWKSet](https://github.com/web-token/jwt-framework/pull/713) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(key-mgmt): make the key factory an injectable service](https://github.com/web-token/jwt-framework/pull/712) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(core): seal the internal mutators of the JWS and the JWE](https://github.com/web-token/jwt-framework/pull/711) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(key-management): free JKUFactory and X5UFactory from a deprecated base](https://github.com/web-token/jwt-framework/pull/710) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(core): introduce interfaces for the main services](https://github.com/web-token/jwt-framework/pull/709) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [feat(core): return result objects instead of by-reference output parameters](https://github.com/web-token/jwt-framework/pull/708) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [feat(core): introduce a JOSE exception hierarchy](https://github.com/web-token/jwt-framework/pull/707) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(checker): announce the object replacing the token type support headers](https://github.com/web-token/jwt-framework/pull/716) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(core): announce the 5.0.0 breaks that were still silent](https://github.com/web-token/jwt-framework/pull/715) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(algorithms): ship "none" and RSA1_5 in their own packages](https://github.com/web-token/jwt-framework/pull/714) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(core): typed accessors on the JWK, sealed helpers on the JWKSet](https://github.com/web-token/jwt-framework/pull/713) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(key-mgmt): make the key factory an injectable service](https://github.com/web-token/jwt-framework/pull/712) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(core): seal the internal mutators of the JWS and the JWE](https://github.com/web-token/jwt-framework/pull/711) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(key-management): free JKUFactory and X5UFactory from a deprecated base](https://github.com/web-token/jwt-framework/pull/710) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(core): introduce interfaces for the main services](https://github.com/web-token/jwt-framework/pull/709) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [feat(core): return result objects instead of by-reference output parameters](https://github.com/web-token/jwt-framework/pull/708) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [feat(core): introduce a JOSE exception hierarchy](https://github.com/web-token/jwt-framework/pull/707) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.1](https://github.com/web-token/jwt-framework/releases/tag/4.2.1), 1 day ago) - JWT Framework
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.7.0](https://github.com/web-auth/cose-lib/releases/tag/4.7.0), 1 day ago) - Cose Key and Algorithms support
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.6](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.6), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.1), 1 day ago) - CBOR Encoder/Decoder for PHP
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.1](https://github.com/web-token/jwt-framework/releases/tag/4.2.1), 2 days ago) - JWT Framework
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.7.0](https://github.com/web-auth/cose-lib/releases/tag/4.7.0), 2 days ago) - Cose Key and Algorithms support
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.6](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.6), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.1), 2 days ago) - CBOR Encoder/Decoder for PHP
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.5](https://github.com/symfony/symfony/releases/tag/v8.1.5), 1 week ago) - The Symfony PHP framework
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.5](https://github.com/symfony/security-core/releases/tag/v8.1.5), 1 week ago) - Symfony Security Component - Core Library
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.5](https://github.com/symfony/validator/releases/tag/v8.1.5), 1 week ago) - Provides tools to validate values
