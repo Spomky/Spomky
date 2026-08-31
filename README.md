@@ -37,32 +37,34 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (today)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
 - [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails (today)
 - [symfony/mime](https://github.com/symfony/mime) - Allows manipulating MIME messages (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 day ago)
 - [web-auth/webauthn-demos](https://github.com/web-auth/webauthn-demos) - Runnable WebAuthn demos for web-auth/webauthn-framework: pure PHP demos (passkeys, usernameless, passkey upgrade, Signal API, extensions, PRF, SPC) and a full Symfony application (1 day ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
-- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (2 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[Mime] Strip control characters from the display name of an Address](https://github.com/symfony/symfony/pull/65778) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [[Mime] Do not treat an "@" inside a domain-literal as the addr-spec separator](https://github.com/symfony/symfony/pull/65777) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [[Mime] Add RFC 6854 group support to mailbox list headers](https://github.com/symfony/symfony/pull/65771) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [ci: extend the Extension base class that Symfony 8 keeps](https://github.com/Spomky-Labs/cbor-bundle/pull/78) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
+- [feat(decoder): expose the maximum nesting depth as a configuration option](https://github.com/Spomky-Labs/cbor-bundle/pull/77) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
+- [Merge up 3.0.x into 4.0.x](https://github.com/Spomky-Labs/cbor-bundle/pull/76) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
+- [ci: port the current pipeline generation to 3.0.x](https://github.com/Spomky-Labs/cbor-bundle/pull/75) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
+- [fix(decoder): limit the nesting depth of the decoded data](https://github.com/Spomky-Labs/cbor-php/pull/143) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [[Mime] Never emit a raw control character in a header](https://github.com/symfony/symfony/pull/65778) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Mime] Do not treat an "@" inside the domain as the addr-spec separator](https://github.com/symfony/symfony/pull/65777) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Mailer][Mime] Add RFC 6854 group support to mailbox list headers](https://github.com/symfony/symfony/pull/65771) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Mailer][Mime] Update the RFC references and document what Address validates](https://github.com/symfony/symfony/pull/65770) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [fix(symfony)!: stop registering the insecure RS1 algorithm](https://github.com/web-auth/webauthn-framework/pull/958) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [chore(demos): move the demos to a dedicated repository](https://github.com/web-auth/webauthn-framework/pull/956) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [ci: stop tracking package-lock.json](https://github.com/web-auth/webauthn-framework/pull/954) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [feat(origins): pin the ceremony to the origin it was started on](https://github.com/web-auth/webauthn-framework/pull/953) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [feat(ror): warn and document the 5 eTLD+1 labels limit on Related Origins](https://github.com/web-auth/webauthn-framework/pull/952) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [feat(cose): accept the RFC 9864 fully-specified algorithm identifiers](https://github.com/web-auth/webauthn-framework/pull/951) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.4), today) - CBOR Encoder/Decoder for PHP
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), today) - CBOR Encoder/Decoder Bundle for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 1 day ago) - The Symfony PHP framework
 - [symfony/console](https://github.com/symfony/console) ([v8.1.6](https://github.com/symfony/console/releases/tag/v8.1.6), 1 day ago) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/mime](https://github.com/symfony/mime) ([v8.1.6](https://github.com/symfony/mime/releases/tag/v8.1.6), 1 day ago) - Allows manipulating MIME messages
@@ -71,8 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.6](https://github.com/symfony/framework-bundle/releases/tag/v8.1.6), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.8](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.8), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.1), 1 day ago) - Public Key Infrastructure
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.2](https://github.com/web-token/jwt-framework/releases/tag/4.2.2), 1 day ago) - JWT Framework
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.2](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.2), 1 day ago) - CBOR Encoder/Decoder for PHP
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
