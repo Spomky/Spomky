@@ -37,6 +37,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails (today)
+- [symfony/mime](https://github.com/symfony/mime) - Allows manipulating MIME messages (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 day ago)
@@ -44,22 +47,19 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation for the JWT Framework (2 days ago)
-- [web-token/jwt-rsa15](https://github.com/web-token/jwt-rsa15) - The RSA1_5 key encryption algorithm for the JWT Framework. (2 days ago)
-- [web-token/jwt-unsecured](https://github.com/web-token/jwt-unsecured) - Unsecured JWS (the "none" algorithm) for the JWT Framework. (2 days ago)
-- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester is allowed to perform an action on a subject. (3 days ago)
 
 #### 🔨 My recent Pull Requests
 
+- [[Mime] Strip control characters from the display name of an Address](https://github.com/symfony/symfony/pull/65778) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Mime] Do not treat an "@" inside a domain-literal as the addr-spec separator](https://github.com/symfony/symfony/pull/65777) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Mime] Add RFC 6854 group support to mailbox list headers](https://github.com/symfony/symfony/pull/65771) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Mailer][Mime] Update the RFC references and document what Address validates](https://github.com/symfony/symfony/pull/65770) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [fix(symfony)!: stop registering the insecure RS1 algorithm](https://github.com/web-auth/webauthn-framework/pull/958) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [chore(demos): move the demos to a dedicated repository](https://github.com/web-auth/webauthn-framework/pull/956) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [ci: stop tracking package-lock.json](https://github.com/web-auth/webauthn-framework/pull/954) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [feat(origins): pin the ceremony to the origin it was started on](https://github.com/web-auth/webauthn-framework/pull/953) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [feat(ror): warn and document the 5 eTLD+1 labels limit on Related Origins](https://github.com/web-auth/webauthn-framework/pull/952) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [feat(cose): accept the RFC 9864 fully-specified algorithm identifiers](https://github.com/web-auth/webauthn-framework/pull/951) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [chore(prf): align with the generalized PRF processing model](https://github.com/web-auth/webauthn-framework/pull/950) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [feat(credential-record): add the optional rpId member (W3C PR #2258)](https://github.com/web-auth/webauthn-framework/pull/949) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [chore(deprecation): deprecate the reserved-for-future-use accessors and the WebauthnToken arguments](https://github.com/web-auth/webauthn-framework/pull/948) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [chore(deps): drop the redundant ext-json requirement](https://github.com/web-auth/webauthn-framework/pull/947) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
