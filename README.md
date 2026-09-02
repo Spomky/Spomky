@@ -37,6 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky/kms-example](https://github.com/Spomky/kms-example) - A Symfony application exercising the KeyManagement component against Vault, AWS KMS, Flysystem, Doctrine and local backends (today)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (2 days ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 days ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 days ago)
@@ -46,7 +47,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (3 days ago)
 - [web-auth/webauthn-demos](https://github.com/web-auth/webauthn-demos) - Runnable WebAuthn demos for web-auth/webauthn-framework: pure PHP demos (passkeys, usernameless, passkey upgrade, Signal API, extensions, PRF, SPC) and a full Symfony application (3 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (3 days ago)
 
 #### 🔨 My recent Pull Requests
 
