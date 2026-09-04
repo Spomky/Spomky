@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.18](https://github.com/api-platform/core/releases/tag/v4.3.18), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.4), 4 days ago) - CBOR Encoder/Decoder for PHP
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), 4 days ago) - CBOR Encoder/Decoder Bundle for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 5 days ago) - The Symfony PHP framework
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.6](https://github.com/symfony/security-core/releases/tag/v8.1.6), 5 days ago) - Symfony Security Component - Core Library
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.6](https://github.com/symfony/framework-bundle/releases/tag/v8.1.6), 5 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.8](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.8), 5 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.1](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.1), 5 days ago) - Public Key Infrastructure
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
