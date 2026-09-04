@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.18](https://github.com/api-platform/core/releases/tag/v4.3.18), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.4), 4 days ago) - CBOR Encoder/Decoder for PHP
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), 4 days ago) - CBOR Encoder/Decoder Bundle for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 5 days ago) - The Symfony PHP framework
