@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Security][SecurityBundle] Add RFC 9701 signed introspection responses](https://github.com/symfony/symfony/pull/65866) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security][SecurityBundle] Make the OAuth2 introspection token handler configurable](https://github.com/symfony/symfony/pull/65865) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security][SecurityBundle] Serve the RFC 9728 protected resource metadata of an access_token firewall](https://github.com/symfony/symfony/pull/65864) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security][SecurityBundle] Check the RFC 9068 "at+jwt" type of OIDC access tokens](https://github.com/symfony/symfony/pull/65862) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [ci: extend the Extension base class that Symfony 8 keeps](https://github.com/Spomky-Labs/cbor-bundle/pull/78) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
 - [feat(decoder): expose the maximum nesting depth as a configuration option](https://github.com/Spomky-Labs/cbor-bundle/pull/77) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
 - [Merge up 3.0.x into 4.0.x](https://github.com/Spomky-Labs/cbor-bundle/pull/76) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
 - [ci: port the current pipeline generation to 3.0.x](https://github.com/Spomky-Labs/cbor-bundle/pull/75) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
 - [fix(decoder): limit the nesting depth of the decoded data](https://github.com/Spomky-Labs/cbor-php/pull/143) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
 - [[Mime] Never emit a raw control character in a header](https://github.com/symfony/symfony/pull/65778) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
-- [[Mime] Do not treat an "@" inside the domain as the addr-spec separator](https://github.com/symfony/symfony/pull/65777) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
-- [[Mailer][Mime] Add RFC 6854 group support to mailbox list headers](https://github.com/symfony/symfony/pull/65771) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
-- [[Mailer][Mime] Update the RFC references and document what Address validates](https://github.com/symfony/symfony/pull/65770) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
-- [fix(symfony)!: stop registering the insecure RS1 algorithm](https://github.com/web-auth/webauthn-framework/pull/958) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
