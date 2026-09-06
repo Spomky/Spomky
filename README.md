@@ -37,29 +37,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (today)
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [Spomky/kms-example](https://github.com/Spomky/kms-example) - A Symfony application exercising the KeyManagement component against Vault, AWS KMS, Flysystem, Doctrine and local backends (4 days ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (6 days ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (6 days ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (6 days ago)
 - [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails (6 days ago)
 - [symfony/mime](https://github.com/symfony/mime) - Allows manipulating MIME messages (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 week ago)
-- [web-auth/webauthn-demos](https://github.com/web-auth/webauthn-demos) - Runnable WebAuthn demos for web-auth/webauthn-framework: pure PHP demos (passkeys, usernameless, passkey upgrade, Signal API, extensions, PRF, SPC) and a full Symfony application (1 week ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
+- [[Security] Keep the "at+jwt" type check off by default in OidcTokenHandler](https://github.com/symfony/symfony/pull/65871) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [Declare the protected resource metadata route of the SecurityBundle](https://github.com/symfony/recipes/pull/1570) on [symfony/recipes](https://github.com/symfony/recipes) (today)
+- [[Security] Answer 401 instead of 500 when the introspection request fails](https://github.com/symfony/symfony/pull/65870) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security][SecurityBundle] Add RFC 9701 signed introspection responses](https://github.com/symfony/symfony/pull/65866) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [[Security][SecurityBundle] Make the OAuth2 introspection token handler configurable](https://github.com/symfony/symfony/pull/65865) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security][SecurityBundle] Make the OAuth2 introspection token handler usable](https://github.com/symfony/symfony/pull/65865) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security][SecurityBundle] Serve the RFC 9728 protected resource metadata of an access_token firewall](https://github.com/symfony/symfony/pull/65864) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security][SecurityBundle] Check the RFC 9068 "at+jwt" type of OIDC access tokens](https://github.com/symfony/symfony/pull/65862) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [ci: extend the Extension base class that Symfony 8 keeps](https://github.com/Spomky-Labs/cbor-bundle/pull/78) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
 - [feat(decoder): expose the maximum nesting depth as a configuration option](https://github.com/Spomky-Labs/cbor-bundle/pull/77) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
 - [Merge up 3.0.x into 4.0.x](https://github.com/Spomky-Labs/cbor-bundle/pull/76) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
-- [ci: port the current pipeline generation to 3.0.x](https://github.com/Spomky-Labs/cbor-bundle/pull/75) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
-- [fix(decoder): limit the nesting depth of the decoded data](https://github.com/Spomky-Labs/cbor-php/pull/143) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
-- [[Mime] Never emit a raw control character in a header](https://github.com/symfony/symfony/pull/65778) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -70,9 +70,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/console](https://github.com/symfony/console) ([v8.1.6](https://github.com/symfony/console/releases/tag/v8.1.6), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/mime](https://github.com/symfony/mime) ([v8.1.6](https://github.com/symfony/mime/releases/tag/v8.1.6), 1 week ago) - Allows manipulating MIME messages
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.6](https://github.com/symfony/validator/releases/tag/v8.1.6), 1 week ago) - Provides tools to validate values
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.6](https://github.com/symfony/security-http/releases/tag/v8.1.6), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.6](https://github.com/symfony/security-core/releases/tag/v8.1.6), 1 week ago) - Symfony Security Component - Core Library
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.6](https://github.com/symfony/framework-bundle/releases/tag/v8.1.6), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.8](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.8), 1 week ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.6](https://github.com/symfony/security-bundle/releases/tag/v8.1.6), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
