@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Security] Renew the OIDC access token with the refresh token grant](https://github.com/symfony/symfony/pull/65875) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [Split contracts from branch 8.1 to 3.7](https://github.com/Spomky/symfony/pull/2) on [Spomky/symfony](https://github.com/Spomky/symfony) (today)
+- [[Security][SecurityBundle] Require OAuth2 scopes on resources protected by an access token](https://github.com/symfony/symfony/pull/65874) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security] Keep the "at+jwt" type check off by default in OidcTokenHandler](https://github.com/symfony/symfony/pull/65871) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Declare the protected resource metadata route of the SecurityBundle](https://github.com/symfony/recipes/pull/1570) on [symfony/recipes](https://github.com/symfony/recipes) (today)
 - [[Security] Answer 401 instead of 500 when the introspection request fails](https://github.com/symfony/symfony/pull/65870) on [symfony/symfony](https://github.com/symfony/symfony) (today)
@@ -57,9 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Security][SecurityBundle] Make the OAuth2 introspection token handler usable](https://github.com/symfony/symfony/pull/65865) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security][SecurityBundle] Serve the RFC 9728 protected resource metadata of an access_token firewall](https://github.com/symfony/symfony/pull/65864) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security][SecurityBundle] Check the RFC 9068 "at+jwt" type of OIDC access tokens](https://github.com/symfony/symfony/pull/65862) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [ci: extend the Extension base class that Symfony 8 keeps](https://github.com/Spomky-Labs/cbor-bundle/pull/78) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
-- [feat(decoder): expose the maximum nesting depth as a configuration option](https://github.com/Spomky-Labs/cbor-bundle/pull/77) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
-- [Merge up 3.0.x into 4.0.x](https://github.com/Spomky-Labs/cbor-bundle/pull/76) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
