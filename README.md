@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Address the open hardening issues](https://github.com/Spomky-Labs/pki-framework/pull/112) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [fix(asn1): walk indefinite length content when decoding tagged types](https://github.com/Spomky-Labs/pki-framework/pull/101) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [docs: indent the README bullet continuations to four spaces](https://github.com/Spomky-Labs/pki-framework/pull/100) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [ci: repair the Coding Standards and CodeQL jobs](https://github.com/Spomky-Labs/pki-framework/pull/99) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [ci: drop the ECS set removed in easy-coding-standard 13.3](https://github.com/Spomky-Labs/pki-framework/pull/98) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [fix(ci): repair the static analysis, coding standards and CodeQL jobs](https://github.com/Spomky-Labs/pki-framework/pull/97) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
@@ -57,9 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [ci: repair the pipeline (CodeQL language, ECS 13.3 set removal)](https://github.com/Spomky-Labs/pki-framework/pull/95) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [[Security] Read the "active" member of an introspection response as a boolean](https://github.com/symfony/symfony/pull/65881) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security] Call the OIDC token handler through its positional API in tests](https://github.com/symfony/symfony/pull/65880) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [[Security] Renew the OIDC access token with the refresh token grant](https://github.com/symfony/symfony/pull/65875) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [Split contracts from branch 8.1 to 3.7](https://github.com/Spomky/symfony/pull/2) on [Spomky/symfony](https://github.com/Spomky/symfony) (1 day ago)
-- [[Security][SecurityBundle] Require OAuth2 scopes on resources protected by an access token](https://github.com/symfony/symfony/pull/65874) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
