@@ -37,35 +37,35 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (today)
-- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
-- [Spomky/kms-example](https://github.com/Spomky/kms-example) - A Symfony application exercising the KeyManagement component against Vault, AWS KMS, Flysystem, Doctrine and local backends (4 days ago)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (6 days ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (6 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (6 days ago)
-- [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails (6 days ago)
-- [symfony/mime](https://github.com/symfony/mime) - Allows manipulating MIME messages (6 days ago)
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 day ago)
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
+- [Spomky/kms-example](https://github.com/Spomky/kms-example) - A Symfony application exercising the KeyManagement component against Vault, AWS KMS, Flysystem, Doctrine and local backends (5 days ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 week ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
+- [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails (1 week ago)
+- [symfony/mime](https://github.com/symfony/mime) - Allows manipulating MIME messages (1 week ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[Security] Renew the OIDC access token with the refresh token grant](https://github.com/symfony/symfony/pull/65875) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [Split contracts from branch 8.1 to 3.7](https://github.com/Spomky/symfony/pull/2) on [Spomky/symfony](https://github.com/Spomky/symfony) (today)
-- [[Security][SecurityBundle] Require OAuth2 scopes on resources protected by an access token](https://github.com/symfony/symfony/pull/65874) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [[Security] Keep the "at+jwt" type check off by default in OidcTokenHandler](https://github.com/symfony/symfony/pull/65871) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [Declare the protected resource metadata route of the SecurityBundle](https://github.com/symfony/recipes/pull/1570) on [symfony/recipes](https://github.com/symfony/recipes) (today)
-- [[Security] Answer 401 instead of 500 when the introspection request fails](https://github.com/symfony/symfony/pull/65870) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [[Security][SecurityBundle] Add RFC 9701 signed introspection responses](https://github.com/symfony/symfony/pull/65866) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [[Security][SecurityBundle] Make the OAuth2 introspection token handler usable](https://github.com/symfony/symfony/pull/65865) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [[Security][SecurityBundle] Serve the RFC 9728 protected resource metadata of an access_token firewall](https://github.com/symfony/symfony/pull/65864) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- [[Security][SecurityBundle] Check the RFC 9068 "at+jwt" type of OIDC access tokens](https://github.com/symfony/symfony/pull/65862) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security] Renew the OIDC access token with the refresh token grant](https://github.com/symfony/symfony/pull/65875) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [Split contracts from branch 8.1 to 3.7](https://github.com/Spomky/symfony/pull/2) on [Spomky/symfony](https://github.com/Spomky/symfony) (1 day ago)
+- [[Security][SecurityBundle] Require OAuth2 scopes on resources protected by an access token](https://github.com/symfony/symfony/pull/65874) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [[Security] Keep the "at+jwt" type check off by default in OidcTokenHandler](https://github.com/symfony/symfony/pull/65871) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [Declare the protected resource metadata route of the SecurityBundle](https://github.com/symfony/recipes/pull/1570) on [symfony/recipes](https://github.com/symfony/recipes) (1 day ago)
+- [[Security] Answer 401 instead of 500 when the introspection request fails](https://github.com/symfony/symfony/pull/65870) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [[Security][SecurityBundle] Add RFC 9701 signed introspection responses](https://github.com/symfony/symfony/pull/65866) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [[Security][SecurityBundle] Make the OAuth2 introspection token handler usable](https://github.com/symfony/symfony/pull/65865) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [[Security][SecurityBundle] Serve the RFC 9728 protected resource metadata of an access_token firewall](https://github.com/symfony/symfony/pull/65864) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [[Security][SecurityBundle] Check the RFC 9068 "at+jwt" type of OIDC access tokens](https://github.com/symfony/symfony/pull/65862) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.4), 6 days ago) - CBOR Encoder/Decoder for PHP
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), 6 days ago) - CBOR Encoder/Decoder Bundle for Symfony
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.4), 1 week ago) - CBOR Encoder/Decoder for PHP
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), 1 week ago) - CBOR Encoder/Decoder Bundle for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 1 week ago) - The Symfony PHP framework
 - [symfony/console](https://github.com/symfony/console) ([v8.1.6](https://github.com/symfony/console/releases/tag/v8.1.6), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/mime](https://github.com/symfony/mime) ([v8.1.6](https://github.com/symfony/mime/releases/tag/v8.1.6), 1 week ago) - Allows manipulating MIME messages
