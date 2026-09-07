@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Security] Read the "active" member of an introspection response as a boolean](https://github.com/symfony/symfony/pull/65881) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security] Call the OIDC token handler through its positional API in tests](https://github.com/symfony/symfony/pull/65880) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security] Renew the OIDC access token with the refresh token grant](https://github.com/symfony/symfony/pull/65875) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [Split contracts from branch 8.1 to 3.7](https://github.com/Spomky/symfony/pull/2) on [Spomky/symfony](https://github.com/Spomky/symfony) (1 day ago)
 - [[Security][SecurityBundle] Require OAuth2 scopes on resources protected by an access token](https://github.com/symfony/symfony/pull/65874) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Security] Answer 401 instead of 500 when the introspection request fails](https://github.com/symfony/symfony/pull/65870) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [[Security][SecurityBundle] Add RFC 9701 signed introspection responses](https://github.com/symfony/symfony/pull/65866) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [[Security][SecurityBundle] Make the OAuth2 introspection token handler usable](https://github.com/symfony/symfony/pull/65865) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security][SecurityBundle] Serve the RFC 9728 protected resource metadata of an access_token firewall](https://github.com/symfony/symfony/pull/65864) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security][SecurityBundle] Check the RFC 9068 "at+jwt" type of OIDC access tokens](https://github.com/symfony/symfony/pull/65862) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
