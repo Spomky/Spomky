@@ -37,9 +37,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 day ago)
-- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [Spomky/kms-example](https://github.com/Spomky/kms-example) - A Symfony application exercising the KeyManagement component against Vault, AWS KMS, Flysystem, Doctrine and local backends (5 days ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [ci: repair the Coding Standards and CodeQL jobs](https://github.com/Spomky-Labs/pki-framework/pull/99) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [ci: drop the ECS set removed in easy-coding-standard 13.3](https://github.com/Spomky-Labs/pki-framework/pull/98) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [fix(ci): repair the static analysis, coding standards and CodeQL jobs](https://github.com/Spomky-Labs/pki-framework/pull/97) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [ci: repair the pipeline against the current toolchain](https://github.com/Spomky-Labs/pki-framework/pull/96) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [ci: repair the pipeline (CodeQL language, ECS 13.3 set removal)](https://github.com/Spomky-Labs/pki-framework/pull/95) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [[Security] Read the "active" member of an introspection response as a boolean](https://github.com/symfony/symfony/pull/65881) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security] Call the OIDC token handler through its positional API in tests](https://github.com/symfony/symfony/pull/65880) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security] Renew the OIDC access token with the refresh token grant](https://github.com/symfony/symfony/pull/65875) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [Split contracts from branch 8.1 to 3.7](https://github.com/Spomky/symfony/pull/2) on [Spomky/symfony](https://github.com/Spomky/symfony) (1 day ago)
 - [[Security][SecurityBundle] Require OAuth2 scopes on resources protected by an access token](https://github.com/symfony/symfony/pull/65874) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security] Keep the "at+jwt" type check off by default in OidcTokenHandler](https://github.com/symfony/symfony/pull/65871) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [Declare the protected resource metadata route of the SecurityBundle](https://github.com/symfony/recipes/pull/1570) on [symfony/recipes](https://github.com/symfony/recipes) (1 day ago)
-- [[Security] Answer 401 instead of 500 when the introspection request fails](https://github.com/symfony/symfony/pull/65870) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security][SecurityBundle] Add RFC 9701 signed introspection responses](https://github.com/symfony/symfony/pull/65866) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security][SecurityBundle] Make the OAuth2 introspection token handler usable](https://github.com/symfony/symfony/pull/65865) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
