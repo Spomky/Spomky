@@ -50,7 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Deprecate the classes of the WebPush\Bundle\Service namespace](https://github.com/Spomky-Labs/web-push/pull/87) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
+- [Add a Declarative Web Push payload builder](https://github.com/Spomky-Labs/web-push/pull/88) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
+- [Deprecate the WebPush\Bundle\Service classes and alias the WebPushService interface](https://github.com/Spomky-Labs/web-push/pull/87) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
 - [[Security][SecurityBundle] Add the private_key_jwt and client_secret_jwt client authentication methods](https://github.com/symfony/symfony/pull/65916) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security][SecurityBundle] Let the oidc token handler answer for several audiences](https://github.com/symfony/symfony/pull/65915) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[SecurityBundle] Add an "http_client" option to the "oidc_login" authenticator](https://github.com/symfony/symfony/pull/65910) on [symfony/symfony](https://github.com/symfony/symfony) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix(x509): accept a critical subjectAltName during path validation](https://github.com/Spomky-Labs/pki-framework/pull/114) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [fix(x509): report an uncomparable name as a path validation or building failure](https://github.com/Spomky-Labs/pki-framework/pull/113) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Address the open hardening issues](https://github.com/Spomky-Labs/pki-framework/pull/112) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
-- [fix(asn1): walk indefinite length content when decoding tagged types](https://github.com/Spomky-Labs/pki-framework/pull/101) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
