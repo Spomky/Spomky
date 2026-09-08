@@ -38,9 +38,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 day ago)
-- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (today)
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (2 days ago)
 - [Spomky/kms-example](https://github.com/Spomky/kms-example) - A Symfony application exercising the KeyManagement component against Vault, AWS KMS, Flysystem, Doctrine and local backends (6 days ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 week ago)
@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Security][SecurityBundle] Add the private_key_jwt and client_secret_jwt client authentication methods](https://github.com/symfony/symfony/pull/65916) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security][SecurityBundle] Let the oidc token handler answer for several audiences](https://github.com/symfony/symfony/pull/65915) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[SecurityBundle] Add an "http_client" option to the "oidc_login" authenticator](https://github.com/symfony/symfony/pull/65910) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security][SecurityBundle] Inject the OAuth2 client authentication into the OIDC client](https://github.com/symfony/symfony/pull/65895) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Merge release 1.6.2 into 1.7.x](https://github.com/Spomky-Labs/pki-framework/pull/115) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [fix(x509): accept a critical subjectAltName during path validation](https://github.com/Spomky-Labs/pki-framework/pull/114) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
@@ -57,9 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Address the open hardening issues](https://github.com/Spomky-Labs/pki-framework/pull/112) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [fix(asn1): walk indefinite length content when decoding tagged types](https://github.com/Spomky-Labs/pki-framework/pull/101) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [docs: indent the README bullet continuations to four spaces](https://github.com/Spomky-Labs/pki-framework/pull/100) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
-- [ci: repair the Coding Standards and CodeQL jobs](https://github.com/Spomky-Labs/pki-framework/pull/99) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
-- [ci: drop the ECS set removed in easy-coding-standard 13.3](https://github.com/Spomky-Labs/pki-framework/pull/98) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
-- [fix(ci): repair the static analysis, coding standards and CodeQL jobs](https://github.com/Spomky-Labs/pki-framework/pull/97) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
