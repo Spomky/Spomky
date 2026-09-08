@@ -38,6 +38,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (today)
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (today)
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
@@ -46,10 +47,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
 - [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails (1 week ago)
-- [symfony/mime](https://github.com/symfony/mime) - Allows manipulating MIME messages (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Deprecate the classes of the WebPush\Bundle\Service namespace](https://github.com/Spomky-Labs/web-push/pull/87) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
 - [[Security][SecurityBundle] Add the private_key_jwt and client_secret_jwt client authentication methods](https://github.com/symfony/symfony/pull/65916) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security][SecurityBundle] Let the oidc token handler answer for several audiences](https://github.com/symfony/symfony/pull/65915) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[SecurityBundle] Add an "http_client" option to the "oidc_login" authenticator](https://github.com/symfony/symfony/pull/65910) on [symfony/symfony](https://github.com/symfony/symfony) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix(x509): report an uncomparable name as a path validation or building failure](https://github.com/Spomky-Labs/pki-framework/pull/113) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Address the open hardening issues](https://github.com/Spomky-Labs/pki-framework/pull/112) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [fix(asn1): walk indefinite length content when decoding tagged types](https://github.com/Spomky-Labs/pki-framework/pull/101) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
-- [docs: indent the README bullet continuations to four spaces](https://github.com/Spomky-Labs/pki-framework/pull/100) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
