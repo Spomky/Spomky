@@ -37,19 +37,22 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 day ago)
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (2 days ago)
+- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (2 days ago)
 - [Spomky/kms-example](https://github.com/Spomky/kms-example) - A Symfony application exercising the KeyManagement component against Vault, AWS KMS, Flysystem, Doctrine and local backends (6 days ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
 - [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails (1 week ago)
 - [symfony/mime](https://github.com/symfony/mime) - Allows manipulating MIME messages (1 week ago)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
+- [[Security][SecurityBundle] Inject the OAuth2 client authentication into the OIDC client](https://github.com/symfony/symfony/pull/65895) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [Merge release 1.6.2 into 1.7.x](https://github.com/Spomky-Labs/pki-framework/pull/115) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [fix(x509): accept a critical subjectAltName during path validation](https://github.com/Spomky-Labs/pki-framework/pull/114) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [fix(x509): report an uncomparable name as a path validation or building failure](https://github.com/Spomky-Labs/pki-framework/pull/113) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Address the open hardening issues](https://github.com/Spomky-Labs/pki-framework/pull/112) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [fix(asn1): walk indefinite length content when decoding tagged types](https://github.com/Spomky-Labs/pki-framework/pull/101) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
@@ -57,12 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [ci: repair the Coding Standards and CodeQL jobs](https://github.com/Spomky-Labs/pki-framework/pull/99) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [ci: drop the ECS set removed in easy-coding-standard 13.3](https://github.com/Spomky-Labs/pki-framework/pull/98) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [fix(ci): repair the static analysis, coding standards and CodeQL jobs](https://github.com/Spomky-Labs/pki-framework/pull/97) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
-- [ci: repair the pipeline against the current toolchain](https://github.com/Spomky-Labs/pki-framework/pull/96) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
-- [ci: repair the pipeline (CodeQL language, ECS 13.3 set removal)](https://github.com/Spomky-Labs/pki-framework/pull/95) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
-- [[Security] Read the "active" member of an introspection response as a boolean](https://github.com/symfony/symfony/pull/65881) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.2), today) - Public Key Infrastructure
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.4), 1 week ago) - CBOR Encoder/Decoder for PHP
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), 1 week ago) - CBOR Encoder/Decoder Bundle for Symfony
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.6](https://github.com/symfony/validator/releases/tag/v8.1.6), 1 week ago) - Provides tools to validate values
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.6](https://github.com/symfony/security-http/releases/tag/v8.1.6), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.6](https://github.com/symfony/security-core/releases/tag/v8.1.6), 1 week ago) - Symfony Security Component - Core Library
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.6](https://github.com/symfony/security-bundle/releases/tag/v8.1.6), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
