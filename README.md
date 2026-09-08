@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [fix(x509): report an uncomparable name as a path validation or building failure](https://github.com/Spomky-Labs/pki-framework/pull/113) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
 - [Address the open hardening issues](https://github.com/Spomky-Labs/pki-framework/pull/112) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [fix(asn1): walk indefinite length content when decoding tagged types](https://github.com/Spomky-Labs/pki-framework/pull/101) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [docs: indent the README bullet continuations to four spaces](https://github.com/Spomky-Labs/pki-framework/pull/100) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [ci: repair the pipeline against the current toolchain](https://github.com/Spomky-Labs/pki-framework/pull/96) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [ci: repair the pipeline (CodeQL language, ECS 13.3 set removal)](https://github.com/Spomky-Labs/pki-framework/pull/95) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
 - [[Security] Read the "active" member of an introspection response as a boolean](https://github.com/symfony/symfony/pull/65881) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security] Call the OIDC token handler through its positional API in tests](https://github.com/symfony/symfony/pull/65880) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
