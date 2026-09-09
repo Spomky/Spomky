@@ -37,6 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 day ago)
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 day ago)
@@ -46,7 +47,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky/kms-example](https://github.com/Spomky/kms-example) - A Symfony application exercising the KeyManagement component against Vault, AWS KMS, Flysystem, Doctrine and local backends (1 week ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
-- [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
