@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [fix(rsa): bound the cost of an RSA verification (GHSA-9v8c-2mgr-qvx3)](https://github.com/web-auth/cose-lib/pull/181) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [fix(signature): make verify() total for every invalid signature outcome](https://github.com/web-auth/cose-lib/pull/180) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [fix(rsa): blind and harden the RSASSA-PSS private exponentiation](https://github.com/web-auth/cose-lib/pull/179) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [fix(rsa): make RSASSA-PSS follow RFC 8017](https://github.com/web-auth/cose-lib/pull/178) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [fix(ecdsa): encode and decode Ecdsa-Sig-Value strictly as DER](https://github.com/web-auth/cose-lib/pull/177) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [perf(php): use the native integer range of cbor-php 3.3.5](https://github.com/leo-gan/GLD.SerializerBenchmark/pull/148) on [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) (today)
 - [perf(decode): read head arguments natively and defer string length heads](https://github.com/Spomky-Labs/cbor-php/pull/167) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [Implement the missing IANA registry tags](https://github.com/Spomky-Labs/cbor-php/pull/166) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [perf(container): defer length heads and read the stream without a file handle](https://github.com/Spomky-Labs/cbor-php/pull/164) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [perf(float): read IEEE 754 payloads with unpack() instead of brick/math](https://github.com/Spomky-Labs/cbor-php/pull/163) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [fix: robustness, encoding-helper, compatibility and documentation fixes](https://github.com/Spomky-Labs/cbor-php/pull/162) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [fix(tag): normalize tags to the value they encode](https://github.com/Spomky-Labs/cbor-php/pull/161) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [chore(ci): harden the CI and release workflows](https://github.com/Spomky-Labs/cbor-php/pull/160) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [Déprécier SelfDescribeCBORTag au profit de CBORTag](https://github.com/Spomky-Labs/cbor-php/pull/159) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [fix: shortest-form tag numbers and bignum mantissas](https://github.com/Spomky-Labs/cbor-php/pull/158) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 
 #### 🔭 Latest releases I've contributed to
 
