@@ -38,6 +38,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 days ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (2 days ago)
@@ -46,23 +47,23 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
 - [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (4 days ago)
 - [Spomky/kms-example](https://github.com/Spomky/kms-example) - A Symfony application exercising the KeyManagement component against Vault, AWS KMS, Flysystem, Doctrine and local backends (1 week ago)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
+- [feat(algorithms): close the identifier and registry gaps of issue #169](https://github.com/web-auth/cose-lib/pull/189) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(key): enforce the COSE key "alg" and "key_ops" restrictions (opt-in)](https://github.com/web-auth/cose-lib/pull/188) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [fix(packaging): declare the cbor-php floor and fix the packaging and documentation defects of #171](https://github.com/web-auth/cose-lib/pull/187) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [fix(key): validate key parameters in order and accept every registered form](https://github.com/web-auth/cose-lib/pull/186) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(rsa): apply the RFC 8230 minimum modulus length by default](https://github.com/web-auth/cose-lib/pull/185) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [ci: harden the GitHub Actions workflows](https://github.com/web-auth/cose-lib/pull/184) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [fix(mac): validate the type and the length of the HMAC key](https://github.com/web-auth/cose-lib/pull/183) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [fix(rsa): bound the cost of an RSA verification (GHSA-9v8c-2mgr-qvx3)](https://github.com/web-auth/cose-lib/pull/181) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [fix(signature): make verify() total for every invalid signature outcome](https://github.com/web-auth/cose-lib/pull/180) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [fix(rsa): blind and harden the RSASSA-PSS private exponentiation](https://github.com/web-auth/cose-lib/pull/179) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [fix(rsa): make RSASSA-PSS follow RFC 8017](https://github.com/web-auth/cose-lib/pull/178) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [fix(ecdsa): encode and decode Ecdsa-Sig-Value strictly as DER](https://github.com/web-auth/cose-lib/pull/177) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [perf(php): use the native integer range of cbor-php 3.3.5](https://github.com/leo-gan/GLD.SerializerBenchmark/pull/148) on [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) (today)
-- [perf(decode): read head arguments natively and defer string length heads](https://github.com/Spomky-Labs/cbor-php/pull/167) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [Implement the missing IANA registry tags](https://github.com/Spomky-Labs/cbor-php/pull/166) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [perf(container): defer length heads and read the stream without a file handle](https://github.com/Spomky-Labs/cbor-php/pull/164) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [perf(float): read IEEE 754 payloads with unpack() instead of brick/math](https://github.com/Spomky-Labs/cbor-php/pull/163) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.7.2](https://github.com/web-auth/cose-lib/releases/tag/4.7.2), today) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.5](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.5), today) - CBOR Encoder/Decoder for PHP
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.2), 2 days ago) - Public Key Infrastructure
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/mime](https://github.com/symfony/mime) ([v8.1.6](https://github.com/symfony/mime/releases/tag/v8.1.6), 1 week ago) - Allows manipulating MIME messages
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.6](https://github.com/symfony/validator/releases/tag/v8.1.6), 1 week ago) - Provides tools to validate values
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.6](https://github.com/symfony/security-http/releases/tag/v8.1.6), 1 week ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.6](https://github.com/symfony/security-core/releases/tag/v8.1.6), 1 week ago) - Symfony Security Component - Core Library
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
