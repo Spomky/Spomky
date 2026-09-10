@@ -37,6 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 days ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (2 days ago)
@@ -46,26 +47,25 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (4 days ago)
 - [Spomky/kms-example](https://github.com/Spomky/kms-example) - A Symfony application exercising the KeyManagement component against Vault, AWS KMS, Flysystem, Doctrine and local backends (1 week ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 week ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add a Declarative Web Push payload builder](https://github.com/Spomky-Labs/web-push/pull/88) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 days ago)
-- [Deprecate the WebPush\Bundle\Service classes and alias the WebPushService interface](https://github.com/Spomky-Labs/web-push/pull/87) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (2 days ago)
-- [[Security][SecurityBundle] Add the private_key_jwt and client_secret_jwt client authentication methods](https://github.com/symfony/symfony/pull/65916) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [[Security][SecurityBundle] Let the oidc token handler answer for several audiences](https://github.com/symfony/symfony/pull/65915) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [[SecurityBundle] Add an "http_client" option to the "oidc_login" authenticator](https://github.com/symfony/symfony/pull/65910) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [[Security][SecurityBundle] Inject the OAuth2 client authentication into the OIDC client](https://github.com/symfony/symfony/pull/65895) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [Merge release 1.6.2 into 1.7.x](https://github.com/Spomky-Labs/pki-framework/pull/115) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 days ago)
-- [fix(x509): accept a critical subjectAltName during path validation](https://github.com/Spomky-Labs/pki-framework/pull/114) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 days ago)
-- [fix(x509): report an uncomparable name as a path validation or building failure](https://github.com/Spomky-Labs/pki-framework/pull/113) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 days ago)
-- [Address the open hardening issues](https://github.com/Spomky-Labs/pki-framework/pull/112) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 days ago)
+- [perf(php): use the native integer range of cbor-php 3.3.5](https://github.com/leo-gan/GLD.SerializerBenchmark/pull/148) on [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) (today)
+- [perf(decode): read head arguments natively and defer string length heads](https://github.com/Spomky-Labs/cbor-php/pull/167) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [Implement the missing IANA registry tags](https://github.com/Spomky-Labs/cbor-php/pull/166) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [perf(container): defer length heads and read the stream without a file handle](https://github.com/Spomky-Labs/cbor-php/pull/164) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [perf(float): read IEEE 754 payloads with unpack() instead of brick/math](https://github.com/Spomky-Labs/cbor-php/pull/163) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [fix: robustness, encoding-helper, compatibility and documentation fixes](https://github.com/Spomky-Labs/cbor-php/pull/162) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [fix(tag): normalize tags to the value they encode](https://github.com/Spomky-Labs/cbor-php/pull/161) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [chore(ci): harden the CI and release workflows](https://github.com/Spomky-Labs/cbor-php/pull/160) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [Déprécier SelfDescribeCBORTag au profit de CBORTag](https://github.com/Spomky-Labs/cbor-php/pull/159) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [fix: shortest-form tag numbers and bignum mantissas](https://github.com/Spomky-Labs/cbor-php/pull/158) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.5](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.5), today) - CBOR Encoder/Decoder for PHP
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.2), 2 days ago) - Public Key Infrastructure
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.3.4](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.3.4), 1 week ago) - CBOR Encoder/Decoder for PHP
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), 1 week ago) - CBOR Encoder/Decoder Bundle for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 1 week ago) - The Symfony PHP framework
 - [symfony/console](https://github.com/symfony/console) ([v8.1.6](https://github.com/symfony/console/releases/tag/v8.1.6), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
