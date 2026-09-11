@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 day ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 days ago)
@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [fix(symfony): stop using the deprecated COSE_ALGORITHM_EdDSA constant](https://github.com/web-auth/webauthn-framework/pull/964) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [fix(deps): require cbor-php ^3.4 and cose-lib ^4.8](https://github.com/web-auth/webauthn-framework/pull/962) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
-- [docs: add a runnable examples/ directory and document the RFC 9052 layer](https://github.com/web-auth/cose-lib/pull/191) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [feat(structures): deprecate the COSE tag classes and keep the RFC 9052 layer (#166, #176)](https://github.com/web-auth/cose-lib/pull/190) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [feat(algorithms): close the identifier and registry gaps of issue #169](https://github.com/web-auth/cose-lib/pull/189) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [feat(key): enforce the COSE key "alg" and "key_ops" restrictions (opt-in)](https://github.com/web-auth/cose-lib/pull/188) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [fix(packaging): declare the cbor-php floor and fix the packaging and documentation defects of #171](https://github.com/web-auth/cose-lib/pull/187) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [fix(key): validate key parameters in order and accept every registered form](https://github.com/web-auth/cose-lib/pull/186) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [feat(rsa): apply the RFC 8230 minimum modulus length by default](https://github.com/web-auth/cose-lib/pull/185) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [ci: harden the GitHub Actions workflows](https://github.com/web-auth/cose-lib/pull/184) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
+- [feat(headers): X.509 header parameters x5bag, x5chain, x5t, x5u (RFC 9360) (#196)](https://github.com/web-auth/cose-lib/pull/212) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(keys): COSE Key Thumbprint (RFC 9679) and compressed EC2 points (#197)](https://github.com/web-auth/cose-lib/pull/211) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(algorithms): hash algorithms of RFC 9054 with a type-level Filter Only distinction (#195)](https://github.com/web-auth/cose-lib/pull/210) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(encryption): AEAD content encryption algorithms — AES-GCM, AES-CCM, ChaCha20/Poly1305 (RFC 9053 §4) (#199)](https://github.com/web-auth/cose-lib/pull/209) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [docs: declare RFC 9596 and RFC 9597 as implemented and reference their sections](https://github.com/web-auth/cose-lib/pull/208) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(algorithms): finish RFC 9864 — Brainpool availability gate, per-identifier tests, cross-verification, IANA deprecation note (#194)](https://github.com/web-auth/cose-lib/pull/207) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(headers): typ (RFC 9596) and CWT Claims (RFC 9597) header parameters (#198)](https://github.com/web-auth/cose-lib/pull/206) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [docs: declare RFC 8230 and RFC 8812 coverage and reference the defining RFC in every table (#193)](https://github.com/web-auth/cose-lib/pull/205) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(mac): AES-CBC-MAC algorithms 14, 15, 25, 26 (RFC 9053 §3.2)](https://github.com/web-auth/cose-lib/pull/204) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [test(cose-wg): vendor the cose-wg/Examples fixtures and add the interoperability harness (#192)](https://github.com/web-auth/cose-lib/pull/203) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 
 #### 🔭 Latest releases I've contributed to
 
