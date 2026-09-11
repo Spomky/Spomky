@@ -37,37 +37,37 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 days ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (2 days ago)
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (2 days ago)
-- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (2 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
-- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (4 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 days ago)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (3 days ago)
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (3 days ago)
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
+- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library (5 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(symfony): stop using the deprecated COSE_ALGORITHM_EdDSA constant](https://github.com/web-auth/webauthn-framework/pull/964) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [fix(deps): require cbor-php ^3.4 and cose-lib ^4.8](https://github.com/web-auth/webauthn-framework/pull/962) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [docs: add a runnable examples/ directory and document the RFC 9052 layer](https://github.com/web-auth/cose-lib/pull/191) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [feat(structures): deprecate the COSE tag classes and keep the RFC 9052 layer (#166, #176)](https://github.com/web-auth/cose-lib/pull/190) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [feat(algorithms): close the identifier and registry gaps of issue #169](https://github.com/web-auth/cose-lib/pull/189) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [feat(key): enforce the COSE key "alg" and "key_ops" restrictions (opt-in)](https://github.com/web-auth/cose-lib/pull/188) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [fix(packaging): declare the cbor-php floor and fix the packaging and documentation defects of #171](https://github.com/web-auth/cose-lib/pull/187) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [fix(key): validate key parameters in order and accept every registered form](https://github.com/web-auth/cose-lib/pull/186) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [feat(rsa): apply the RFC 8230 minimum modulus length by default](https://github.com/web-auth/cose-lib/pull/185) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [ci: harden the GitHub Actions workflows](https://github.com/web-auth/cose-lib/pull/184) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [fix(symfony): stop using the deprecated COSE_ALGORITHM_EdDSA constant](https://github.com/web-auth/webauthn-framework/pull/964) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [fix(deps): require cbor-php ^3.4 and cose-lib ^4.8](https://github.com/web-auth/webauthn-framework/pull/962) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [docs: add a runnable examples/ directory and document the RFC 9052 layer](https://github.com/web-auth/cose-lib/pull/191) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
+- [feat(structures): deprecate the COSE tag classes and keep the RFC 9052 layer (#166, #176)](https://github.com/web-auth/cose-lib/pull/190) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
+- [feat(algorithms): close the identifier and registry gaps of issue #169](https://github.com/web-auth/cose-lib/pull/189) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
+- [feat(key): enforce the COSE key "alg" and "key_ops" restrictions (opt-in)](https://github.com/web-auth/cose-lib/pull/188) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
+- [fix(packaging): declare the cbor-php floor and fix the packaging and documentation defects of #171](https://github.com/web-auth/cose-lib/pull/187) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
+- [fix(key): validate key parameters in order and accept every registered form](https://github.com/web-auth/cose-lib/pull/186) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
+- [feat(rsa): apply the RFC 8230 minimum modulus length by default](https://github.com/web-auth/cose-lib/pull/185) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
+- [ci: harden the GitHub Actions workflows](https://github.com/web-auth/cose-lib/pull/184) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.9](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.9), today) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.0](https://github.com/web-auth/cose-lib/releases/tag/4.8.0), today) - Cose Key and Algorithms support
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.4.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.4.0), today) - CBOR Encoder/Decoder for PHP
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.2), 2 days ago) - Public Key Infrastructure
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.9](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.9), 1 day ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.0](https://github.com/web-auth/cose-lib/releases/tag/4.8.0), 1 day ago) - Cose Key and Algorithms support
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.4.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.4.0), 1 day ago) - CBOR Encoder/Decoder for PHP
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.2), 3 days ago) - Public Key Infrastructure
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), 1 week ago) - CBOR Encoder/Decoder Bundle for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 1 week ago) - The Symfony PHP framework
 - [symfony/console](https://github.com/symfony/console) ([v8.1.6](https://github.com/symfony/console/releases/tag/v8.1.6), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
