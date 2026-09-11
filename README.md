@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat(key management): direct, AES-KW, HKDF, ECDH-ES/SS recipient algorithms (RFC 9053 §5–6) (#201)](https://github.com/web-auth/cose-lib/pull/213) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [feat(headers): X.509 header parameters x5bag, x5chain, x5t, x5u (RFC 9360) (#196)](https://github.com/web-auth/cose-lib/pull/212) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [feat(keys): COSE Key Thumbprint (RFC 9679) and compressed EC2 points (#197)](https://github.com/web-auth/cose-lib/pull/211) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [feat(algorithms): hash algorithms of RFC 9054 with a type-level Filter Only distinction (#195)](https://github.com/web-auth/cose-lib/pull/210) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat(headers): typ (RFC 9596) and CWT Claims (RFC 9597) header parameters (#198)](https://github.com/web-auth/cose-lib/pull/206) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [docs: declare RFC 8230 and RFC 8812 coverage and reference the defining RFC in every table (#193)](https://github.com/web-auth/cose-lib/pull/205) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [feat(mac): AES-CBC-MAC algorithms 14, 15, 25, 26 (RFC 9053 §3.2)](https://github.com/web-auth/cose-lib/pull/204) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [test(cose-wg): vendor the cose-wg/Examples fixtures and add the interoperability harness (#192)](https://github.com/web-auth/cose-lib/pull/203) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 
 #### 🔭 Latest releases I've contributed to
 
