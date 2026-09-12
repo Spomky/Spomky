@@ -50,25 +50,25 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat(algorithms): ML-DSA-44/65/87 and the AKP key type via OpenSSL 3.5 (RFC 9964) (#214)](https://github.com/web-auth/cose-lib/pull/223) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(signature): version 2 countersignatures, labels 11 and 12 (RFC 9338) (#216)](https://github.com/web-auth/cose-lib/pull/222) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(headers): receipts, vds, vdp and RFC9162_SHA256 inclusion proofs (RFC 9942) (#218)](https://github.com/web-auth/cose-lib/pull/221) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [feat(headers): COSE hash envelope — payload-hash-alg, preimage-content-type, payload-location (RFC 9995) (#215)](https://github.com/web-auth/cose-lib/pull/220) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [feat(key management): direct, AES-KW, HKDF, ECDH-ES/SS recipient algorithms (RFC 9053 §5–6) (#201)](https://github.com/web-auth/cose-lib/pull/213) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 - [feat(headers): X.509 header parameters x5bag, x5chain, x5t, x5u (RFC 9360) (#196)](https://github.com/web-auth/cose-lib/pull/212) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 - [feat(keys): COSE Key Thumbprint (RFC 9679) and compressed EC2 points (#197)](https://github.com/web-auth/cose-lib/pull/211) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 - [feat(algorithms): hash algorithms of RFC 9054 with a type-level Filter Only distinction (#195)](https://github.com/web-auth/cose-lib/pull/210) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 - [feat(encryption): AEAD content encryption algorithms — AES-GCM, AES-CCM, ChaCha20/Poly1305 (RFC 9053 §4) (#199)](https://github.com/web-auth/cose-lib/pull/209) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 - [docs: declare RFC 9596 and RFC 9597 as implemented and reference their sections](https://github.com/web-auth/cose-lib/pull/208) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [feat(algorithms): finish RFC 9864 — Brainpool availability gate, per-identifier tests, cross-verification, IANA deprecation note (#194)](https://github.com/web-auth/cose-lib/pull/207) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [feat(headers): typ (RFC 9596) and CWT Claims (RFC 9597) header parameters (#198)](https://github.com/web-auth/cose-lib/pull/206) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [docs: declare RFC 8230 and RFC 8812 coverage and reference the defining RFC in every table (#193)](https://github.com/web-auth/cose-lib/pull/205) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [feat(mac): AES-CBC-MAC algorithms 14, 15, 25, 26 (RFC 9053 §3.2)](https://github.com/web-auth/cose-lib/pull/204) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.1](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.3.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.3.0), today) - Serialization benchmarks (13 languages, 200+ codecs), Serialization 101–401 course
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.9](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.9), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.0](https://github.com/web-auth/cose-lib/releases/tag/4.8.0), 2 days ago) - Cose Key and Algorithms support
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.4.0](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.4.0), 2 days ago) - CBOR Encoder/Decoder for PHP
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.2](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.2), 4 days ago) - Public Key Infrastructure
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), 1 week ago) - CBOR Encoder/Decoder Bundle for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 1 week ago) - The Symfony PHP framework
 - [symfony/console](https://github.com/symfony/console) ([v8.1.6](https://github.com/symfony/console/releases/tag/v8.1.6), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
