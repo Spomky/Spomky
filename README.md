@@ -40,7 +40,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (today)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (today)
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) - Serialization benchmarks (13 languages, 200+ codecs), Serialization 101–401 course (today)
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course (today)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 days ago)
@@ -68,7 +68,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.1](https://github.com/web-auth/cose-lib/releases/tag/4.8.1), today) - Cose Key and Algorithms support
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.3](https://github.com/web-token/jwt-framework/releases/tag/4.2.3), today) - JWT Framework
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.1](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.3.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.3.0), today) - Serialization benchmarks (13 languages, 200+ codecs), Serialization 101–401 course
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.3.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.3.0), today) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.9](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.9), 2 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), 1 week ago) - CBOR Encoder/Decoder Bundle for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 1 week ago) - The Symfony PHP framework
