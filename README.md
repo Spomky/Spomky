@@ -37,6 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (today)
 - [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) - Serialization benchmarks (13 languages, 200+ codecs), Serialization 101–401 course (today)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 days ago)
@@ -46,10 +47,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (4 days ago)
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (4 days ago)
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (4 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
 
 #### 🔨 My recent Pull Requests
 
+- [feat(decoder): build the tag and other object managers from the cbor-php 3.4 registry](https://github.com/Spomky-Labs/cbor-bundle/pull/84) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
 - [feat(algorithms): ML-DSA-44/65/87 and the AKP key type via OpenSSL 3.5 (RFC 9964) (#214)](https://github.com/web-auth/cose-lib/pull/223) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [feat(signature): version 2 countersignatures, labels 11 and 12 (RFC 9338) (#216)](https://github.com/web-auth/cose-lib/pull/222) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [feat(headers): receipts, vds, vdp and RFC9162_SHA256 inclusion proofs (RFC 9942) (#218)](https://github.com/web-auth/cose-lib/pull/221) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat(keys): COSE Key Thumbprint (RFC 9679) and compressed EC2 points (#197)](https://github.com/web-auth/cose-lib/pull/211) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 - [feat(algorithms): hash algorithms of RFC 9054 with a type-level Filter Only distinction (#195)](https://github.com/web-auth/cose-lib/pull/210) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 - [feat(encryption): AEAD content encryption algorithms — AES-GCM, AES-CCM, ChaCha20/Poly1305 (RFC 9053 §4) (#199)](https://github.com/web-auth/cose-lib/pull/209) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [docs: declare RFC 9596 and RFC 9597 as implemented and reference their sections](https://github.com/web-auth/cose-lib/pull/208) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
