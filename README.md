@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat(headers): 3161-ttc and 3161-ctt timestamp tokens, carried and bound, not validated (RFC 9921) (#217)](https://github.com/web-auth/cose-lib/pull/225) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [docs: ES256K moves from the experimental table to the standard one (RFC 8812)](https://github.com/web-token/jwt-doc/pull/54) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
 - [feat(signature): move ES256K from the experimental package to the library (RFC 8812)](https://github.com/web-token/jwt-framework/pull/736) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [docs: document ML-DSA and the AKP key type (RFC 9964)](https://github.com/web-token/jwt-doc/pull/53) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [docs: document the JWK Thumbprint URI (RFC 9278)](https://github.com/web-token/jwt-doc/pull/51) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
 - [feat(core): JWK Thumbprint URI (RFC 9278)](https://github.com/web-token/jwt-framework/pull/733) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [docs: document the "typ" header checker (RFC 8725 §3.11)](https://github.com/web-token/jwt-doc/pull/50) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
-- [feat(checker): explicit typing header checker for "typ" (RFC 8725 §3.11)](https://github.com/web-token/jwt-framework/pull/732) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 
 #### 🔭 Latest releases I've contributed to
 
