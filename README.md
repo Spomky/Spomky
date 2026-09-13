@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (today)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 day ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 day ago)
 - [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course (1 day ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (3 days ago)
@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [feat(diagnostic): diagnostic notation (RFC 8949 §8), annotated with the CDDL of a schema](https://github.com/Spomky-Labs/cbor-php/pull/174) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [feat(tag): COSE_Countersignature tag 19 (RFC 9338 §3.1)](https://github.com/Spomky-Labs/cbor-php/pull/173) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [feat(headers): 3161-ttc and 3161-ctt timestamp tokens, carried and bound, not validated (RFC 9921) (#217)](https://github.com/web-auth/cose-lib/pull/225) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [docs: ES256K moves from the experimental table to the standard one (RFC 8812)](https://github.com/web-token/jwt-doc/pull/54) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
 - [feat(signature): move ES256K from the experimental package to the library (RFC 8812)](https://github.com/web-token/jwt-framework/pull/736) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [docs: document Ed25519, Ed448, X448 and the EdDSA deprecation (RFC 9864)](https://github.com/web-token/jwt-doc/pull/52) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
 - [feat(signature): Ed25519 and Ed448 fully-specified algorithms, X448 for ECDH-ES (RFC 9864, RFC 8037)](https://github.com/web-token/jwt-framework/pull/734) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [docs: document the JWK Thumbprint URI (RFC 9278)](https://github.com/web-token/jwt-doc/pull/51) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
-- [feat(core): JWK Thumbprint URI (RFC 9278)](https://github.com/web-token/jwt-framework/pull/733) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [docs: document the "typ" header checker (RFC 8725 §3.11)](https://github.com/web-token/jwt-doc/pull/50) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
 
 #### 🔭 Latest releases I've contributed to
 
