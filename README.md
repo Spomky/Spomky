@@ -38,7 +38,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 days ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (3 days ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 days ago)
@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.2](https://github.com/web-auth/cose-lib/releases/tag/4.8.2), today) - Cose Key and Algorithms support
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.2](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), today) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), today) - Provides tools to validate values
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.7](https://github.com/symfony/security-http/releases/tag/v8.1.7), today) - Symfony Security Component - HTTP Integration
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.7](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.7), today) - Provides a development tool that gives detailed information about the execution of any request
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.7](https://github.com/symfony/mailer/releases/tag/v8.1.7), today) - Helps sending emails
-- [symfony/mime](https://github.com/symfony/mime) ([v8.1.7](https://github.com/symfony/mime/releases/tag/v8.1.7), today) - Allows manipulating MIME messages
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
