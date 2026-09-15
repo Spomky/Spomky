@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [fix(map): keep every key RFC 8949 allows instead of rejecting the map](https://github.com/Spomky-Labs/cbor-php/pull/176) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [feat(diagnostic): diagnostic notation (RFC 8949 §8), annotated with the CDDL of a schema](https://github.com/Spomky-Labs/cbor-php/pull/174) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
 - [feat(tag): COSE_Countersignature tag 19 (RFC 9338 §3.1)](https://github.com/Spomky-Labs/cbor-php/pull/173) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
 - [feat(headers): 3161-ttc and 3161-ctt timestamp tokens, carried and bound, not validated (RFC 9921) (#217)](https://github.com/web-auth/cose-lib/pull/225) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat(signature): ML-DSA-44/65/87 and the AKP key type via OpenSSL 3.5 (RFC 9964)](https://github.com/web-token/jwt-framework/pull/735) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 - [docs: document Ed25519, Ed448, X448 and the EdDSA deprecation (RFC 9864)](https://github.com/web-token/jwt-doc/pull/52) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (2 days ago)
 - [feat(signature): Ed25519 and Ed448 fully-specified algorithms, X448 for ECDH-ES (RFC 9864, RFC 8037)](https://github.com/web-token/jwt-framework/pull/734) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
-- [docs: document the JWK Thumbprint URI (RFC 9278)](https://github.com/web-token/jwt-doc/pull/51) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
