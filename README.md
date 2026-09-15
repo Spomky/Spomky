@@ -37,39 +37,39 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (1 day ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (1 day ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 day ago)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (2 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (2 days ago)
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course (2 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (4 days ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (6 days ago)
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (6 days ago)
-- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (6 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 days ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (3 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (3 days ago)
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course (3 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (5 days ago)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 week ago)
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 week ago)
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat(diagnostic): diagnostic notation (RFC 8949 §8), annotated with the CDDL of a schema](https://github.com/Spomky-Labs/cbor-php/pull/174) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 day ago)
-- [feat(tag): COSE_Countersignature tag 19 (RFC 9338 §3.1)](https://github.com/Spomky-Labs/cbor-php/pull/173) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 day ago)
-- [feat(headers): 3161-ttc and 3161-ctt timestamp tokens, carried and bound, not validated (RFC 9921) (#217)](https://github.com/web-auth/cose-lib/pull/225) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
-- [docs: ES256K moves from the experimental table to the standard one (RFC 8812)](https://github.com/web-token/jwt-doc/pull/54) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (1 day ago)
-- [feat(signature): move ES256K from the experimental package to the library (RFC 8812)](https://github.com/web-token/jwt-framework/pull/736) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [docs: document ML-DSA and the AKP key type (RFC 9964)](https://github.com/web-token/jwt-doc/pull/53) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (1 day ago)
-- [feat(signature): ML-DSA-44/65/87 and the AKP key type via OpenSSL 3.5 (RFC 9964)](https://github.com/web-token/jwt-framework/pull/735) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [docs: document Ed25519, Ed448, X448 and the EdDSA deprecation (RFC 9864)](https://github.com/web-token/jwt-doc/pull/52) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (1 day ago)
-- [feat(signature): Ed25519 and Ed448 fully-specified algorithms, X448 for ECDH-ES (RFC 9864, RFC 8037)](https://github.com/web-token/jwt-framework/pull/734) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [docs: document the JWK Thumbprint URI (RFC 9278)](https://github.com/web-token/jwt-doc/pull/51) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (1 day ago)
+- [feat(diagnostic): diagnostic notation (RFC 8949 §8), annotated with the CDDL of a schema](https://github.com/Spomky-Labs/cbor-php/pull/174) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
+- [feat(tag): COSE_Countersignature tag 19 (RFC 9338 §3.1)](https://github.com/Spomky-Labs/cbor-php/pull/173) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
+- [feat(headers): 3161-ttc and 3161-ctt timestamp tokens, carried and bound, not validated (RFC 9921) (#217)](https://github.com/web-auth/cose-lib/pull/225) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 days ago)
+- [docs: ES256K moves from the experimental table to the standard one (RFC 8812)](https://github.com/web-token/jwt-doc/pull/54) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (2 days ago)
+- [feat(signature): move ES256K from the experimental package to the library (RFC 8812)](https://github.com/web-token/jwt-framework/pull/736) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [docs: document ML-DSA and the AKP key type (RFC 9964)](https://github.com/web-token/jwt-doc/pull/53) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (2 days ago)
+- [feat(signature): ML-DSA-44/65/87 and the AKP key type via OpenSSL 3.5 (RFC 9964)](https://github.com/web-token/jwt-framework/pull/735) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [docs: document Ed25519, Ed448, X448 and the EdDSA deprecation (RFC 9864)](https://github.com/web-token/jwt-doc/pull/52) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (2 days ago)
+- [feat(signature): Ed25519 and Ed448 fully-specified algorithms, X448 for ECDH-ES (RFC 9864, RFC 8037)](https://github.com/web-token/jwt-framework/pull/734) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [docs: document the JWK Thumbprint URI (RFC 9278)](https://github.com/web-token/jwt-doc/pull/51) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.3.1](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.3.1), today) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.3), 2 days ago) - Public Key Infrastructure
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.4.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.4.1), 2 days ago) - CBOR Encoder/Decoder for PHP
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.1](https://github.com/web-auth/cose-lib/releases/tag/4.8.1), 2 days ago) - Cose Key and Algorithms support
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.3](https://github.com/web-token/jwt-framework/releases/tag/4.2.3), 2 days ago) - JWT Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.1](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.9](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.9), 4 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.3.1](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.3.1), 1 day ago) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.3), 3 days ago) - Public Key Infrastructure
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.4.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.4.1), 3 days ago) - CBOR Encoder/Decoder for PHP
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.1](https://github.com/web-auth/cose-lib/releases/tag/4.8.1), 3 days ago) - Cose Key and Algorithms support
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.3](https://github.com/web-token/jwt-framework/releases/tag/4.2.3), 3 days ago) - JWT Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.1](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.9](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.9), 5 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), 2 weeks ago) - CBOR Encoder/Decoder Bundle for Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 2 weeks ago) - The Symfony PHP framework
 - [symfony/console](https://github.com/symfony/console) ([v8.1.6](https://github.com/symfony/console/releases/tag/v8.1.6), 2 weeks ago) - Eases the creation of beautiful and testable command line interfaces
