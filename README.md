@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [fix(composer): stop replacing symfony/polyfill-php81](https://github.com/web-auth/cose-lib/pull/226) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
 - [php: compliance runner compares the normalized CBOR value, not the object model](https://github.com/leo-gan/GLD.SerializerBenchmark/pull/163) on [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) (today)
 - [fix(map): keep every key RFC 8949 allows instead of rejecting the map](https://github.com/Spomky-Labs/cbor-php/pull/176) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [feat(diagnostic): diagnostic notation (RFC 8949 §8), annotated with the CDDL of a schema](https://github.com/Spomky-Labs/cbor-php/pull/174) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
@@ -59,10 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat(signature): move ES256K from the experimental package to the library (RFC 8812)](https://github.com/web-token/jwt-framework/pull/736) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 - [docs: document ML-DSA and the AKP key type (RFC 9964)](https://github.com/web-token/jwt-doc/pull/53) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (2 days ago)
 - [feat(signature): ML-DSA-44/65/87 and the AKP key type via OpenSSL 3.5 (RFC 9964)](https://github.com/web-token/jwt-framework/pull/735) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
-- [docs: document Ed25519, Ed448, X448 and the EdDSA deprecation (RFC 9864)](https://github.com/web-token/jwt-doc/pull/52) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.2](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), today) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), today) - Provides tools to validate values
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.7](https://github.com/symfony/framework-bundle/releases/tag/v8.1.7), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.7](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.7), today) - Provides a development tool that gives detailed information about the execution of any request
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.7](https://github.com/symfony/mailer/releases/tag/v8.1.7), today) - Helps sending emails
 - [symfony/mime](https://github.com/symfony/mime) ([v8.1.7](https://github.com/symfony/mime/releases/tag/v8.1.7), today) - Allows manipulating MIME messages
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.4.2](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.4.2), today) - CBOR Encoder/Decoder for PHP
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
