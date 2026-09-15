@@ -37,7 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (today)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (2 days ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (3 days ago)
@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [php: compliance runner compares the normalized CBOR value, not the object model](https://github.com/leo-gan/GLD.SerializerBenchmark/pull/163) on [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) (today)
 - [fix(map): keep every key RFC 8949 allows instead of rejecting the map](https://github.com/Spomky-Labs/cbor-php/pull/176) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [feat(diagnostic): diagnostic notation (RFC 8949 §8), annotated with the CDDL of a schema](https://github.com/Spomky-Labs/cbor-php/pull/174) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
 - [feat(tag): COSE_Countersignature tag 19 (RFC 9338 §3.1)](https://github.com/Spomky-Labs/cbor-php/pull/173) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
@@ -59,20 +60,19 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [docs: document ML-DSA and the AKP key type (RFC 9964)](https://github.com/web-token/jwt-doc/pull/53) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (2 days ago)
 - [feat(signature): ML-DSA-44/65/87 and the AKP key type via OpenSSL 3.5 (RFC 9964)](https://github.com/web-token/jwt-framework/pull/735) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 - [docs: document Ed25519, Ed448, X448 and the EdDSA deprecation (RFC 9864)](https://github.com/web-token/jwt-doc/pull/52) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (2 days ago)
-- [feat(signature): Ed25519 and Ed448 fully-specified algorithms, X448 for ECDH-ES (RFC 9864, RFC 8037)](https://github.com/web-token/jwt-framework/pull/734) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.3.1](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.3.1), 1 day ago) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) ([1.6.3](https://github.com/Spomky-Labs/pki-framework/releases/tag/1.6.3), 3 days ago) - Public Key Infrastructure
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.4.1](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.4.1), 3 days ago) - CBOR Encoder/Decoder for PHP
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.1](https://github.com/web-auth/cose-lib/releases/tag/4.8.1), 3 days ago) - Cose Key and Algorithms support
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.3](https://github.com/web-token/jwt-framework/releases/tag/4.2.3), 3 days ago) - JWT Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.1](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.9](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.9), 5 days ago) - FIDO-U2F / FIDO2 / Webauthn Framework
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) ([3.1.0](https://github.com/Spomky-Labs/cbor-bundle/releases/tag/3.1.0), 2 weeks ago) - CBOR Encoder/Decoder Bundle for Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 2 weeks ago) - The Symfony PHP framework
-- [symfony/console](https://github.com/symfony/console) ([v8.1.6](https://github.com/symfony/console/releases/tag/v8.1.6), 2 weeks ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), today) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), today) - Provides tools to validate values
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.7](https://github.com/symfony/framework-bundle/releases/tag/v8.1.7), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/console](https://github.com/symfony/console) ([v8.1.7](https://github.com/symfony/console/releases/tag/v8.1.7), today) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.7](https://github.com/symfony/security-bundle/releases/tag/v8.1.7), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.7](https://github.com/symfony/security-http/releases/tag/v8.1.7), today) - Symfony Security Component - HTTP Integration
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.7](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.7), today) - Provides a development tool that gives detailed information about the execution of any request
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.7](https://github.com/symfony/mailer/releases/tag/v8.1.7), today) - Helps sending emails
+- [symfony/mime](https://github.com/symfony/mime) ([v8.1.7](https://github.com/symfony/mime/releases/tag/v8.1.7), today) - Allows manipulating MIME messages
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) ([3.4.2](https://github.com/Spomky-Labs/cbor-php/releases/tag/3.4.2), today) - CBOR Encoder/Decoder for PHP
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
