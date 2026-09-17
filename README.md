@@ -37,6 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides showed during the ApiPlatformCon 2026 (today)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (2 days ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (2 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (4 days ago)
@@ -46,7 +47,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 week ago)
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 week ago)
-- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
