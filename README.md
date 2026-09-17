@@ -63,8 +63,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0](https://github.com/api-platform/core/releases/tag/v5.0.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.2](https://github.com/web-auth/cose-lib/releases/tag/4.8.2), 2 days ago) - Cose Key and Algorithms support
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.2](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 2 days ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), 2 days ago) - Provides tools to validate values
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.7](https://github.com/symfony/framework-bundle/releases/tag/v8.1.7), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
