@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[KeyManagement] Add RedundantKms, a client wrapping under several providers](https://github.com/symfony/symfony/pull/66165) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [fix(composer): stop replacing symfony/polyfill-php81](https://github.com/web-auth/cose-lib/pull/226) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (4 days ago)
 - [php: compliance runner compares the normalized CBOR value, not the object model](https://github.com/leo-gan/GLD.SerializerBenchmark/pull/163) on [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) (4 days ago)
 - [fix(map): keep every key RFC 8949 allows instead of rejecting the map](https://github.com/Spomky-Labs/cbor-php/pull/176) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (4 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [docs: ES256K moves from the experimental table to the standard one (RFC 8812)](https://github.com/web-token/jwt-doc/pull/54) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (6 days ago)
 - [feat(signature): move ES256K from the experimental package to the library (RFC 8812)](https://github.com/web-token/jwt-framework/pull/736) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
 - [docs: document ML-DSA and the AKP key type (RFC 9964)](https://github.com/web-token/jwt-doc/pull/53) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (6 days ago)
-- [feat(signature): ML-DSA-44/65/87 and the AKP key type via OpenSSL 3.5 (RFC 9964)](https://github.com/web-token/jwt-framework/pull/735) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
