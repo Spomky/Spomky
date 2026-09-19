@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course (today)
-- [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides showed during the ApiPlatformCon 2026 (1 day ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (3 days ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (3 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (5 days ago)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (6 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (6 days ago)
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course (1 day ago)
+- [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides showed during the ApiPlatformCon 2026 (2 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (4 days ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - Cose Key and Algorithms support (4 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (6 days ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - CBOR Encoder/Decoder Bundle for Symfony (1 week ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - Public Key Infrastructure (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (1 week ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - This framework contains PHP libraries and Symfony bundle to allow developers to integrate web-push notifications into their web applications. (1 week ago)
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(composer): stop replacing symfony/polyfill-php81](https://github.com/web-auth/cose-lib/pull/226) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (3 days ago)
-- [php: compliance runner compares the normalized CBOR value, not the object model](https://github.com/leo-gan/GLD.SerializerBenchmark/pull/163) on [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) (3 days ago)
-- [fix(map): keep every key RFC 8949 allows instead of rejecting the map](https://github.com/Spomky-Labs/cbor-php/pull/176) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
-- [feat(diagnostic): diagnostic notation (RFC 8949 §8), annotated with the CDDL of a schema](https://github.com/Spomky-Labs/cbor-php/pull/174) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (5 days ago)
-- [feat(tag): COSE_Countersignature tag 19 (RFC 9338 §3.1)](https://github.com/Spomky-Labs/cbor-php/pull/173) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (5 days ago)
-- [feat(headers): 3161-ttc and 3161-ctt timestamp tokens, carried and bound, not validated (RFC 9921) (#217)](https://github.com/web-auth/cose-lib/pull/225) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (5 days ago)
-- [docs: ES256K moves from the experimental table to the standard one (RFC 8812)](https://github.com/web-token/jwt-doc/pull/54) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (5 days ago)
-- [feat(signature): move ES256K from the experimental package to the library (RFC 8812)](https://github.com/web-token/jwt-framework/pull/736) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
-- [docs: document ML-DSA and the AKP key type (RFC 9964)](https://github.com/web-token/jwt-doc/pull/53) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (5 days ago)
-- [feat(signature): ML-DSA-44/65/87 and the AKP key type via OpenSSL 3.5 (RFC 9964)](https://github.com/web-token/jwt-framework/pull/735) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (5 days ago)
+- [fix(composer): stop replacing symfony/polyfill-php81](https://github.com/web-auth/cose-lib/pull/226) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (4 days ago)
+- [php: compliance runner compares the normalized CBOR value, not the object model](https://github.com/leo-gan/GLD.SerializerBenchmark/pull/163) on [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) (4 days ago)
+- [fix(map): keep every key RFC 8949 allows instead of rejecting the map](https://github.com/Spomky-Labs/cbor-php/pull/176) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (4 days ago)
+- [feat(diagnostic): diagnostic notation (RFC 8949 §8), annotated with the CDDL of a schema](https://github.com/Spomky-Labs/cbor-php/pull/174) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
+- [feat(tag): COSE_Countersignature tag 19 (RFC 9338 §3.1)](https://github.com/Spomky-Labs/cbor-php/pull/173) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (6 days ago)
+- [feat(headers): 3161-ttc and 3161-ctt timestamp tokens, carried and bound, not validated (RFC 9921) (#217)](https://github.com/web-auth/cose-lib/pull/225) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (6 days ago)
+- [docs: ES256K moves from the experimental table to the standard one (RFC 8812)](https://github.com/web-token/jwt-doc/pull/54) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (6 days ago)
+- [feat(signature): move ES256K from the experimental package to the library (RFC 8812)](https://github.com/web-token/jwt-framework/pull/736) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
+- [docs: document ML-DSA and the AKP key type (RFC 9964)](https://github.com/web-token/jwt-doc/pull/53) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (6 days ago)
+- [feat(signature): ML-DSA-44/65/87 and the AKP key type via OpenSSL 3.5 (RFC 9964)](https://github.com/web-token/jwt-framework/pull/735) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0](https://github.com/api-platform/core/releases/tag/v5.0.0), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.2](https://github.com/web-auth/cose-lib/releases/tag/4.8.2), 3 days ago) - Cose Key and Algorithms support
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 3 days ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), 3 days ago) - Provides tools to validate values
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.7](https://github.com/symfony/framework-bundle/releases/tag/v8.1.7), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/console](https://github.com/symfony/console) ([v8.1.7](https://github.com/symfony/console/releases/tag/v8.1.7), 3 days ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.7](https://github.com/symfony/security-bundle/releases/tag/v8.1.7), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.7](https://github.com/symfony/security-http/releases/tag/v8.1.7), 3 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.7](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.7), 3 days ago) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.7](https://github.com/symfony/mailer/releases/tag/v8.1.7), 3 days ago) - Helps sending emails
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0](https://github.com/api-platform/core/releases/tag/v5.0.0), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.2](https://github.com/web-auth/cose-lib/releases/tag/4.8.2), 4 days ago) - Cose Key and Algorithms support
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 4 days ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), 4 days ago) - Provides tools to validate values
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.7](https://github.com/symfony/framework-bundle/releases/tag/v8.1.7), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/console](https://github.com/symfony/console) ([v8.1.7](https://github.com/symfony/console/releases/tag/v8.1.7), 4 days ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.7](https://github.com/symfony/security-bundle/releases/tag/v8.1.7), 4 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.7](https://github.com/symfony/security-http/releases/tag/v8.1.7), 4 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.7](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.7), 4 days ago) - Provides a development tool that gives detailed information about the execution of any request
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.7](https://github.com/symfony/mailer/releases/tag/v8.1.7), 4 days ago) - Helps sending emails
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
