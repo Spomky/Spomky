@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Security] Let a route require an authentication context class, re-authenticated with acr_values](https://github.com/symfony/symfony/pull/66181) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [feat: federated sessions (key sharing) and the well-known document](https://github.com/Spomky-Labs/dbsc-bundle/pull/9) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (today)
+- [feat: accept the 'none' algorithm for unbound sessions as an explicit opt-in](https://github.com/Spomky-Labs/dbsc-bundle/pull/8) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (today)
+- [feat: pre-provision the next refresh challenge on successful responses](https://github.com/Spomky-Labs/dbsc-bundle/pull/7) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (today)
 - [chore: align with DBSC GA in Chrome, patch jwt-library floor and fix QA tooling](https://github.com/Spomky-Labs/dbsc-bundle/pull/3) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (today)
 - [[KeyManagement] Tell InMemoryKms instances apart](https://github.com/symfony/symfony/pull/66178) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[KeyManagement] Let the HTTP factories take the application's HTTP client](https://github.com/symfony/symfony/pull/66177) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[KeyManagement] Add CompositeKms, a client wrapping under several providers](https://github.com/symfony/symfony/pull/66165) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [fix(composer): stop replacing symfony/polyfill-php81](https://github.com/web-auth/cose-lib/pull/226) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (5 days ago)
 - [php: compliance runner compares the normalized CBOR value, not the object model](https://github.com/leo-gan/GLD.SerializerBenchmark/pull/163) on [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) (5 days ago)
-- [fix(map): keep every key RFC 8949 allows instead of rejecting the map](https://github.com/Spomky-Labs/cbor-php/pull/176) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (5 days ago)
-- [feat(diagnostic): diagnostic notation (RFC 8949 §8), annotated with the CDDL of a schema](https://github.com/Spomky-Labs/cbor-php/pull/174) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
-- [feat(tag): COSE_Countersignature tag 19 (RFC 9338 §3.1)](https://github.com/Spomky-Labs/cbor-php/pull/173) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 week ago)
-- [feat(headers): 3161-ttc and 3161-ctt timestamp tokens, carried and bound, not validated (RFC 9921) (#217)](https://github.com/web-auth/cose-lib/pull/225) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
