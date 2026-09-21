@@ -37,19 +37,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 day ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 day ago)
 - [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (1 day ago)
 - [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (1 day ago)
 - [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (1 day ago)
 - [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, ...) behind a single interface (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course (3 days ago)
 - [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides showed during the ApiPlatformCon 2026 (4 days ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR Encoder/Decoder for PHP (6 days ago)
 
 #### 🔨 My recent Pull Requests
 
+- [[Security] Back-Channel Logout for oidc_login](https://github.com/symfony/symfony/pull/66196) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security] Read an OIDC authorization response the provider posted (form_post)](https://github.com/symfony/symfony/pull/66195) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security] Let a route require an authentication context class, re-authenticated with acr_values](https://github.com/symfony/symfony/pull/66181) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [feat: federated sessions (key sharing) and the well-known document](https://github.com/Spomky-Labs/dbsc-bundle/pull/9) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (1 day ago)
 - [feat: accept the 'none' algorithm for unbound sessions as an explicit opt-in](https://github.com/Spomky-Labs/dbsc-bundle/pull/8) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (1 day ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[KeyManagement] Tell InMemoryKms instances apart](https://github.com/symfony/symfony/pull/66178) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [[KeyManagement] Let the HTTP factories take the application's HTTP client](https://github.com/symfony/symfony/pull/66177) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [[KeyManagement] Add CompositeKms, a client wrapping under several providers](https://github.com/symfony/symfony/pull/66165) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [fix(composer): stop replacing symfony/polyfill-php81](https://github.com/web-auth/cose-lib/pull/226) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (6 days ago)
-- [php: compliance runner compares the normalized CBOR value, not the object model](https://github.com/leo-gan/GLD.SerializerBenchmark/pull/163) on [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
