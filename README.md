@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0](https://github.com/api-platform/core/releases/tag/v5.0.0), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.4.1](https://github.com/api-platform/core/releases/tag/v4.4.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.2](https://github.com/web-auth/cose-lib/releases/tag/4.8.2), 1 week ago) - Cose Key and Algorithms support
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 1 week ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), 1 week ago) - Provides tools to validate values
