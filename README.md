@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Security] Bind what an OIDC provider issues to a key the client holds (DPoP)](https://github.com/symfony/symfony/pull/66239) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security][SecurityBundle] Authenticate the OIDC client with its TLS certificate, per RFC 8705](https://github.com/symfony/symfony/pull/66238) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security] Let the re-authentication entry point say which denials it acts on](https://github.com/symfony/symfony/pull/66235) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security] Name the issuer as the audience of an OIDC client assertion](https://github.com/symfony/symfony/pull/66234) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Security] Back-Channel Logout for oidc_login](https://github.com/symfony/symfony/pull/66196) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - [[Security] Read an OIDC authorization response the provider posted (form_post)](https://github.com/symfony/symfony/pull/66195) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - [[Security] Let a route require an authentication context class, re-authenticated with acr_values](https://github.com/symfony/symfony/pull/66181) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - [feat: federated sessions (key sharing) and the well-known document](https://github.com/Spomky-Labs/dbsc-bundle/pull/9) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (3 days ago)
 - [feat: accept the 'none' algorithm for unbound sessions as an explicit opt-in](https://github.com/Spomky-Labs/dbsc-bundle/pull/8) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (3 days ago)
 - [feat: pre-provision the next refresh challenge on successful responses](https://github.com/Spomky-Labs/dbsc-bundle/pull/7) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (3 days ago)
-- [chore: align with DBSC GA in Chrome, patch jwt-library floor and fix QA tooling](https://github.com/Spomky-Labs/dbsc-bundle/pull/3) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (3 days ago)
-- [[KeyManagement] Tell InMemoryKms instances apart](https://github.com/symfony/symfony/pull/66178) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- [[KeyManagement] Let the HTTP factories take the application's HTTP client](https://github.com/symfony/symfony/pull/66177) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- [[KeyManagement] Add CompositeKms, a client wrapping under several providers](https://github.com/symfony/symfony/pull/66165) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
