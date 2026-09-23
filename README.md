@@ -37,33 +37,33 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (today)
-- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, ...) behind a single interface (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
-- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 day ago)
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (2 days ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 days ago)
-- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (2 days ago)
-- [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (2 days ago)
-- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (2 days ago)
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course (4 days ago)
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (1 day ago)
+- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, ...) behind a single interface (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (2 days ago)
+- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (3 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (3 days ago)
+- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (3 days ago)
+- [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (3 days ago)
+- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (3 days ago)
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) - Serialization benchmarks (13 languages, 200+ codecs), Compliance tests, Serialization 101–401 course (5 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[Security] Back-Channel Logout for oidc_login](https://github.com/symfony/symfony/pull/66196) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security] Read an OIDC authorization response the provider posted (form_post)](https://github.com/symfony/symfony/pull/66195) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security] Let a route require an authentication context class, re-authenticated with acr_values](https://github.com/symfony/symfony/pull/66181) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [feat: federated sessions (key sharing) and the well-known document](https://github.com/Spomky-Labs/dbsc-bundle/pull/9) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (2 days ago)
-- [feat: accept the 'none' algorithm for unbound sessions as an explicit opt-in](https://github.com/Spomky-Labs/dbsc-bundle/pull/8) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (2 days ago)
-- [feat: pre-provision the next refresh challenge on successful responses](https://github.com/Spomky-Labs/dbsc-bundle/pull/7) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (2 days ago)
-- [chore: align with DBSC GA in Chrome, patch jwt-library floor and fix QA tooling](https://github.com/Spomky-Labs/dbsc-bundle/pull/3) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (2 days ago)
-- [[KeyManagement] Tell InMemoryKms instances apart](https://github.com/symfony/symfony/pull/66178) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [[KeyManagement] Let the HTTP factories take the application's HTTP client](https://github.com/symfony/symfony/pull/66177) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [[KeyManagement] Add CompositeKms, a client wrapping under several providers](https://github.com/symfony/symfony/pull/66165) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- [[Security] Back-Channel Logout for oidc_login](https://github.com/symfony/symfony/pull/66196) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[Security] Read an OIDC authorization response the provider posted (form_post)](https://github.com/symfony/symfony/pull/66195) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[Security] Let a route require an authentication context class, re-authenticated with acr_values](https://github.com/symfony/symfony/pull/66181) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- [feat: federated sessions (key sharing) and the well-known document](https://github.com/Spomky-Labs/dbsc-bundle/pull/9) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (3 days ago)
+- [feat: accept the 'none' algorithm for unbound sessions as an explicit opt-in](https://github.com/Spomky-Labs/dbsc-bundle/pull/8) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (3 days ago)
+- [feat: pre-provision the next refresh challenge on successful responses](https://github.com/Spomky-Labs/dbsc-bundle/pull/7) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (3 days ago)
+- [chore: align with DBSC GA in Chrome, patch jwt-library floor and fix QA tooling](https://github.com/Spomky-Labs/dbsc-bundle/pull/3) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (3 days ago)
+- [[KeyManagement] Tell InMemoryKms instances apart](https://github.com/symfony/symfony/pull/66178) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- [[KeyManagement] Let the HTTP factories take the application's HTTP client](https://github.com/symfony/symfony/pull/66177) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- [[KeyManagement] Add CompositeKms, a client wrapping under several providers](https://github.com/symfony/symfony/pull/66165) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.4.1](https://github.com/api-platform/core/releases/tag/v4.4.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.4.1](https://github.com/api-platform/core/releases/tag/v4.4.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.2](https://github.com/web-auth/cose-lib/releases/tag/4.8.2), 1 week ago) - Cose Key and Algorithms support
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 1 week ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), 1 week ago) - Provides tools to validate values
