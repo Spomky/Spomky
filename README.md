@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.14.0](https://github.com/symfony/ai/releases/tag/v0.14.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.14.0](https://github.com/symfony/ai-platform/releases/tag/v0.14.0), today) - PHP library for interacting with AI platform provider.
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.14.0](https://github.com/symfony/ai-agent/releases/tag/v0.14.0), today) - PHP library for building agentic applications.
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.14.0](https://github.com/symfony/ai-bundle/releases/tag/v0.14.0), today) - Integration bundle for Symfony AI components
 - [api-platform/core](https://github.com/api-platform/core) ([v4.4.1](https://github.com/api-platform/core/releases/tag/v4.4.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.2](https://github.com/web-auth/cose-lib/releases/tag/4.8.2), 1 week ago) - Cose Key and Algorithms support
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 1 week ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), 1 week ago) - Provides tools to validate values
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.7](https://github.com/symfony/framework-bundle/releases/tag/v8.1.7), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/console](https://github.com/symfony/console) ([v8.1.7](https://github.com/symfony/console/releases/tag/v8.1.7), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.7](https://github.com/symfony/security-bundle/releases/tag/v8.1.7), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.7](https://github.com/symfony/security-http/releases/tag/v8.1.7), 1 week ago) - Symfony Security Component - HTTP Integration
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.7](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.7), 1 week ago) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.7](https://github.com/symfony/mailer/releases/tag/v8.1.7), 1 week ago) - Helps sending emails
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
