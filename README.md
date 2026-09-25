@@ -37,33 +37,33 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [beffroi-php/.github](https://github.com/beffroi-php/.github) -  (1 day ago)
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (2 days ago)
-- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, ...) behind a single interface (2 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
-- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (3 days ago)
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (4 days ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (4 days ago)
-- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (4 days ago)
-- [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (4 days ago)
-- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (4 days ago)
+- [beffroi-php/.github](https://github.com/beffroi-php/.github) -  (2 days ago)
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (3 days ago)
+- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, ...) behind a single interface (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (4 days ago)
+- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (5 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (5 days ago)
+- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (5 days ago)
+- [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (5 days ago)
+- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (5 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[Security] Bind what an OIDC provider issues to a key the client holds (DPoP)](https://github.com/symfony/symfony/pull/66239) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security][SecurityBundle] Authenticate the OIDC client with its TLS certificate, per RFC 8705](https://github.com/symfony/symfony/pull/66238) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security] Let the re-authentication entry point say which denials it acts on](https://github.com/symfony/symfony/pull/66235) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security] Name the issuer as the audience of an OIDC client assertion](https://github.com/symfony/symfony/pull/66234) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security] Back-Channel Logout for oidc_login](https://github.com/symfony/symfony/pull/66196) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- [[Security] Read an OIDC authorization response the provider posted (form_post)](https://github.com/symfony/symfony/pull/66195) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- [[Security] Let a route require an authentication context class, re-authenticated with acr_values](https://github.com/symfony/symfony/pull/66181) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- [feat: federated sessions (key sharing) and the well-known document](https://github.com/Spomky-Labs/dbsc-bundle/pull/9) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (4 days ago)
-- [feat: accept the 'none' algorithm for unbound sessions as an explicit opt-in](https://github.com/Spomky-Labs/dbsc-bundle/pull/8) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (4 days ago)
-- [feat: pre-provision the next refresh challenge on successful responses](https://github.com/Spomky-Labs/dbsc-bundle/pull/7) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (4 days ago)
+- [[Security] Bind what an OIDC provider issues to a key the client holds (DPoP)](https://github.com/symfony/symfony/pull/66239) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[Security][SecurityBundle] Authenticate the OIDC client with its TLS certificate, per RFC 8705](https://github.com/symfony/symfony/pull/66238) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[Security] Let the re-authentication entry point say which denials it acts on](https://github.com/symfony/symfony/pull/66235) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[Security] Name the issuer as the audience of an OIDC client assertion](https://github.com/symfony/symfony/pull/66234) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[Security] Back-Channel Logout for oidc_login](https://github.com/symfony/symfony/pull/66196) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- [[Security] Read an OIDC authorization response the provider posted (form_post)](https://github.com/symfony/symfony/pull/66195) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- [[Security] Let a route require an authentication context class, re-authenticated with acr_values](https://github.com/symfony/symfony/pull/66181) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- [feat: federated sessions (key sharing) and the well-known document](https://github.com/Spomky-Labs/dbsc-bundle/pull/9) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (5 days ago)
+- [feat: accept the 'none' algorithm for unbound sessions as an explicit opt-in](https://github.com/Spomky-Labs/dbsc-bundle/pull/8) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (5 days ago)
+- [feat: pre-provision the next refresh challenge on successful responses](https://github.com/Spomky-Labs/dbsc-bundle/pull/7) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.4.1](https://github.com/api-platform/core/releases/tag/v4.4.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.4.1](https://github.com/api-platform/core/releases/tag/v4.4.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.2](https://github.com/web-auth/cose-lib/releases/tag/4.8.2), 1 week ago) - Cose Key and Algorithms support
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 1 week ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), 1 week ago) - Provides tools to validate values
