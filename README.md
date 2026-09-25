@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[Security] Document the form_post response mode of oidc_login](https://github.com/symfony/symfony-docs/pull/23105) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - [[Security] Bind what an OIDC provider issues to a key the client holds (DPoP)](https://github.com/symfony/symfony/pull/66239) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - [[Security][SecurityBundle] Authenticate the OIDC client with its TLS certificate, per RFC 8705](https://github.com/symfony/symfony/pull/66238) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - [[Security] Let the re-authentication entry point say which denials it acts on](https://github.com/symfony/symfony/pull/66235) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
@@ -59,15 +60,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Security] Let a route require an authentication context class, re-authenticated with acr_values](https://github.com/symfony/symfony/pull/66181) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - [feat: federated sessions (key sharing) and the well-known document](https://github.com/Spomky-Labs/dbsc-bundle/pull/9) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (5 days ago)
 - [feat: accept the 'none' algorithm for unbound sessions as an explicit opt-in](https://github.com/Spomky-Labs/dbsc-bundle/pull/8) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (5 days ago)
-- [feat: pre-provision the next refresh challenge on successful responses](https://github.com/Spomky-Labs/dbsc-bundle/pull/7) on [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.1](https://github.com/api-platform/core/releases/tag/v5.0.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.14.0](https://github.com/symfony/ai/releases/tag/v0.14.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.14.0](https://github.com/symfony/ai-platform/releases/tag/v0.14.0), today) - PHP library for interacting with AI platform provider.
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.14.0](https://github.com/symfony/ai-agent/releases/tag/v0.14.0), today) - PHP library for building agentic applications.
 - [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.14.0](https://github.com/symfony/ai-bundle/releases/tag/v0.14.0), today) - Integration bundle for Symfony AI components
-- [api-platform/core](https://github.com/api-platform/core) ([v4.4.1](https://github.com/api-platform/core/releases/tag/v4.4.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.2](https://github.com/web-auth/cose-lib/releases/tag/4.8.2), 1 week ago) - Cose Key and Algorithms support
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 1 week ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), 1 week ago) - Provides tools to validate values
