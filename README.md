@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [beffroi-php/.github](https://github.com/beffroi-php/.github) -  (5 days ago)
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (6 days ago)
-- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, ...) behind a single interface (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
+- [beffroi-php/.github](https://github.com/beffroi-php/.github) -  (6 days ago)
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (1 week ago)
+- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, ...) behind a single interface (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 week ago)
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
@@ -50,11 +50,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[Security] Document the form_post response mode of oidc_login](https://github.com/symfony/symfony-docs/pull/23105) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- [[Security] Bind what an OIDC provider issues to a key the client holds (DPoP)](https://github.com/symfony/symfony/pull/66239) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
-- [[Security][SecurityBundle] Authenticate the OIDC client with its TLS certificate, per RFC 8705](https://github.com/symfony/symfony/pull/66238) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
-- [[Security] Let the re-authentication entry point say which denials it acts on](https://github.com/symfony/symfony/pull/66235) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
-- [[Security] Name the issuer as the audience of an OIDC client assertion](https://github.com/symfony/symfony/pull/66234) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- [[Security] Document the form_post response mode of oidc_login](https://github.com/symfony/symfony-docs/pull/23105) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- [[Security] Bind what an OIDC provider issues to a key the client holds (DPoP)](https://github.com/symfony/symfony/pull/66239) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- [[Security][SecurityBundle] Authenticate the OIDC client with its TLS certificate, per RFC 8705](https://github.com/symfony/symfony/pull/66238) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- [[Security] Let the re-authentication entry point say which denials it acts on](https://github.com/symfony/symfony/pull/66235) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- [[Security] Name the issuer as the audience of an OIDC client assertion](https://github.com/symfony/symfony/pull/66234) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - [[Security] Back-Channel Logout for oidc_login](https://github.com/symfony/symfony/pull/66196) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[Security] Read an OIDC authorization response the provider posted (form_post)](https://github.com/symfony/symfony/pull/66195) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[Security] Let a route require an authentication context class, re-authenticated with acr_values](https://github.com/symfony/symfony/pull/66181) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.14.1](https://github.com/symfony/ai/releases/tag/v0.14.1), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.14.1](https://github.com/symfony/ai-agent/releases/tag/v0.14.1), 1 day ago) - PHP library for building agentic applications.
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.14.1](https://github.com/symfony/ai-bundle/releases/tag/v0.14.1), 1 day ago) - Integration bundle for Symfony AI components
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.14.1](https://github.com/symfony/ai-platform/releases/tag/v0.14.1), 1 day ago) - PHP library for interacting with AI platform provider.
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.1](https://github.com/api-platform/core/releases/tag/v5.0.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.2](https://github.com/web-auth/cose-lib/releases/tag/4.8.2), 1 week ago) - Cose Key and Algorithms support
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 1 week ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), 1 week ago) - Provides tools to validate values
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.7](https://github.com/symfony/framework-bundle/releases/tag/v8.1.7), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/console](https://github.com/symfony/console) ([v8.1.7](https://github.com/symfony/console/releases/tag/v8.1.7), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/ai](https://github.com/symfony/ai) ([v0.14.1](https://github.com/symfony/ai/releases/tag/v0.14.1), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.14.1](https://github.com/symfony/ai-agent/releases/tag/v0.14.1), 2 days ago) - PHP library for building agentic applications.
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.14.1](https://github.com/symfony/ai-bundle/releases/tag/v0.14.1), 2 days ago) - Integration bundle for Symfony AI components
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.14.1](https://github.com/symfony/ai-platform/releases/tag/v0.14.1), 2 days ago) - PHP library for interacting with AI platform provider.
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.1](https://github.com/api-platform/core/releases/tag/v5.0.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) ([4.8.2](https://github.com/web-auth/cose-lib/releases/tag/4.8.2), 2 weeks ago) - Cose Key and Algorithms support
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 2 weeks ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.7](https://github.com/symfony/validator/releases/tag/v8.1.7), 2 weeks ago) - Provides tools to validate values
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.7](https://github.com/symfony/framework-bundle/releases/tag/v8.1.7), 2 weeks ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/console](https://github.com/symfony/console) ([v8.1.7](https://github.com/symfony/console/releases/tag/v8.1.7), 2 weeks ago) - Eases the creation of beautiful and testable command line interfaces
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
