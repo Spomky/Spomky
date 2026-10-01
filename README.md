@@ -50,8 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[Security] Accept a DPoP-bound access token only from a request that proves its key](https://github.com/symfony/symfony/pull/66465) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security] Document the form_post response mode of oidc_login](https://github.com/symfony/symfony-docs/pull/23105) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- [[Security] Accept a DPoP-bound access token only from a request that proves its key](https://github.com/symfony/symfony/pull/66465) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[Security] Document the form_post response mode of oidc_login](https://github.com/symfony/symfony-docs/pull/23105) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - [[Security] Bind what an OIDC provider issues to a key the client holds (DPoP)](https://github.com/symfony/symfony/pull/66239) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[Security][SecurityBundle] Authenticate the OIDC client with its TLS certificate, per RFC 8705](https://github.com/symfony/symfony/pull/66238) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[Security] Let the re-authentication entry point say which denials it acts on](https://github.com/symfony/symfony/pull/66235) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.21](https://github.com/api-platform/core/releases/tag/v4.3.21), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 1 day ago) - The Symfony PHP framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.8](https://github.com/symfony/security-http/releases/tag/v8.1.8), 1 day ago) - Symfony Security Component - HTTP Integration
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.8](https://github.com/symfony/validator/releases/tag/v8.1.8), 1 day ago) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.8](https://github.com/symfony/security-bundle/releases/tag/v8.1.8), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.8](https://github.com/symfony/security-core/releases/tag/v8.1.8), 1 day ago) - Symfony Security Component - Core Library
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.8](https://github.com/symfony/framework-bundle/releases/tag/v8.1.8), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.8](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.8), 1 day ago) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/console](https://github.com/symfony/console) ([v8.1.8](https://github.com/symfony/console/releases/tag/v8.1.8), 1 day ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/ai](https://github.com/symfony/ai) ([v0.14.1](https://github.com/symfony/ai/releases/tag/v0.14.1), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.21](https://github.com/api-platform/core/releases/tag/v4.3.21), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 2 days ago) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.8](https://github.com/symfony/security-http/releases/tag/v8.1.8), 2 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.8](https://github.com/symfony/validator/releases/tag/v8.1.8), 2 days ago) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.8](https://github.com/symfony/security-bundle/releases/tag/v8.1.8), 2 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.8](https://github.com/symfony/security-core/releases/tag/v8.1.8), 2 days ago) - Symfony Security Component - Core Library
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.8](https://github.com/symfony/framework-bundle/releases/tag/v8.1.8), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.8](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.8), 2 days ago) - Provides a development tool that gives detailed information about the execution of any request
+- [symfony/console](https://github.com/symfony/console) ([v8.1.8](https://github.com/symfony/console/releases/tag/v8.1.8), 2 days ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/ai](https://github.com/symfony/ai) ([v0.14.1](https://github.com/symfony/ai/releases/tag/v0.14.1), 4 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
