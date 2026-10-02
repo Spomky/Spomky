@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.21](https://github.com/api-platform/core/releases/tag/v4.3.21), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.2](https://github.com/api-platform/core/releases/tag/v5.0.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 3 days ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.8](https://github.com/symfony/security-http/releases/tag/v8.1.8), 3 days ago) - Symfony Security Component - HTTP Integration
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.8](https://github.com/symfony/validator/releases/tag/v8.1.8), 3 days ago) - Provides tools to validate values
