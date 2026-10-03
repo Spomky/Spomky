@@ -38,20 +38,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [beffroi-php/.github](https://github.com/beffroi-php/.github) -  (1 day ago)
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (1 week ago)
-- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, ...) behind a single interface (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (2 days ago)
+- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) - Symfony Doctrine ORM Key Management Bridge (2 days ago)
+- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, ...) behind a single interface (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 week ago)
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 week ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
 - [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (1 week ago)
 - [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (1 week ago)
-- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
 - [[KeyManagement] Let a blind index derive its tags under a data key a store holds](https://github.com/symfony/symfony/pull/66531) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [[KeyManagement] Bind a stored data key to its scope](https://github.com/symfony/symfony/pull/66527) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[KeyManagement] Bind a stored data key to its reference and scope](https://github.com/symfony/symfony/pull/66527) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - [[Security] Accept a DPoP-bound access token only from a request that proves its key](https://github.com/symfony/symfony/pull/66465) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - [[Security] Document the form_post response mode of oidc_login](https://github.com/symfony/symfony-docs/pull/23105) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [[Security] Bind what an OIDC provider issues to a key the client holds (DPoP)](https://github.com/symfony/symfony/pull/66239) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
