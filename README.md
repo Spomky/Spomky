@@ -50,7 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [[Security] Factor what an application does with its OIDC provider: the signing keys, and reaching an endpoint](https://github.com/symfony/symfony/pull/66617) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security] Let an application reach an endpoint of its OIDC provider through the client](https://github.com/symfony/symfony/pull/66618) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Security] Read the keys of an OIDC provider through one object](https://github.com/symfony/symfony/pull/66617) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[KeyManagement] Let a projection cover several forms of a value, and three fixes](https://github.com/symfony/symfony/pull/66606) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[KeyManagement] Let a blind index derive its tags under a data key a store holds](https://github.com/symfony/symfony/pull/66531) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - [[KeyManagement] Bind a stored data key to its reference and scope](https://github.com/symfony/symfony/pull/66527) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Security][SecurityBundle] Bind what an OIDC provider issues to a key the client holds (DPoP)](https://github.com/symfony/symfony/pull/66239) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[Security][SecurityBundle] Authenticate the OIDC client with its TLS certificate, per RFC 8705](https://github.com/symfony/symfony/pull/66238) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[Security] Let the re-authentication entry point say which denials it acts on](https://github.com/symfony/symfony/pull/66235) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [[Security] Name the issuer as the audience of an OIDC client assertion](https://github.com/symfony/symfony/pull/66234) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
