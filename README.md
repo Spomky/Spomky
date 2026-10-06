@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) - Symfony Doctrine ORM Key Management Bridge (1 day ago)
-- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, KMIP, ...) behind a single interface (1 day ago)
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 day ago)
-- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [beffroi-php/.github](https://github.com/beffroi-php/.github) -  (3 days ago)
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (4 days ago)
+- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) - Symfony Doctrine ORM Key Management Bridge (2 days ago)
+- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, KMIP, ...) behind a single interface (2 days ago)
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (2 days ago)
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [beffroi-php/.github](https://github.com/beffroi-php/.github) -  (4 days ago)
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (5 days ago)
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (2 weeks ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (2 weeks ago)
 - [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[Security] Let an application reach an endpoint of its OIDC provider through the client](https://github.com/symfony/symfony/pull/66618) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Security] Read the keys of an OIDC provider through one object](https://github.com/symfony/symfony/pull/66617) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[KeyManagement] Let a projection cover several forms of a value, and three fixes](https://github.com/symfony/symfony/pull/66606) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[KeyManagement] Let a blind index derive its tags under a data key a store holds](https://github.com/symfony/symfony/pull/66531) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- [[KeyManagement] Bind a stored data key to its reference and scope](https://github.com/symfony/symfony/pull/66527) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- [[Security][SecurityBundle] Accept a DPoP-bound access token only from a request that proves its key](https://github.com/symfony/symfony/pull/66465) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
-- [[Security] Document the form_post response mode of oidc_login](https://github.com/symfony/symfony-docs/pull/23105) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
-- [[Security][SecurityBundle] Bind what an OIDC provider issues to a key the client holds (DPoP)](https://github.com/symfony/symfony/pull/66239) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [[Security][SecurityBundle] Authenticate the OIDC client with its TLS certificate, per RFC 8705](https://github.com/symfony/symfony/pull/66238) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [[Security] Let the re-authentication entry point say which denials it acts on](https://github.com/symfony/symfony/pull/66235) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- [[KeyManagement] Make reading a self-contained payload a stated choice](https://github.com/symfony/symfony/pull/66639) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [[KeyManagement] Cover the format a column may not be read in](https://github.com/symfony/symfony/pull/66638) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [[KeyManagement] Have the Doctrine type authenticate the context it knows](https://github.com/symfony/symfony/pull/66637) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [[KeyManagement] Let a reader state the key or scope it expects a payload to carry](https://github.com/symfony/symfony/pull/66636) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [[KeyManagement] Let a data key store bind its wrapping context at the backend](https://github.com/symfony/symfony/pull/66635) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- [[Security] Let an application reach an endpoint of its OIDC provider through the client](https://github.com/symfony/symfony/pull/66618) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[Security] Read the keys of an OIDC provider through one object](https://github.com/symfony/symfony/pull/66617) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[KeyManagement] Let a projection cover several forms of a value, and three fixes](https://github.com/symfony/symfony/pull/66606) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[KeyManagement] Let a blind index derive its tags under a data key a store holds](https://github.com/symfony/symfony/pull/66531) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- [[KeyManagement] Bind a stored data key to its reference and scope](https://github.com/symfony/symfony/pull/66527) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.2](https://github.com/api-platform/core/releases/tag/v5.0.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 6 days ago) - The Symfony PHP framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.8](https://github.com/symfony/security-http/releases/tag/v8.1.8), 6 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.8](https://github.com/symfony/validator/releases/tag/v8.1.8), 6 days ago) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.8](https://github.com/symfony/security-bundle/releases/tag/v8.1.8), 6 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.8](https://github.com/symfony/security-core/releases/tag/v8.1.8), 6 days ago) - Symfony Security Component - Core Library
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.8](https://github.com/symfony/framework-bundle/releases/tag/v8.1.8), 6 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.8](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.8), 6 days ago) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/console](https://github.com/symfony/console) ([v8.1.8](https://github.com/symfony/console/releases/tag/v8.1.8), 6 days ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/ai](https://github.com/symfony/ai) ([v0.14.1](https://github.com/symfony/ai/releases/tag/v0.14.1), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.4.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.4.0), 1 day ago) - Serialization benchmarks (13 languages, 300+ serializers), Compliance tests, Serialization 101–401 course
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.2](https://github.com/api-platform/core/releases/tag/v5.0.2), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 1 week ago) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.8](https://github.com/symfony/security-http/releases/tag/v8.1.8), 1 week ago) - Symfony Security Component - HTTP Integration
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.8](https://github.com/symfony/validator/releases/tag/v8.1.8), 1 week ago) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.8](https://github.com/symfony/security-bundle/releases/tag/v8.1.8), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.8](https://github.com/symfony/security-core/releases/tag/v8.1.8), 1 week ago) - Symfony Security Component - Core Library
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.8](https://github.com/symfony/framework-bundle/releases/tag/v8.1.8), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.8](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.8), 1 week ago) - Provides a development tool that gives detailed information about the execution of any request
+- [symfony/console](https://github.com/symfony/console) ([v8.1.8](https://github.com/symfony/console/releases/tag/v8.1.8), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
