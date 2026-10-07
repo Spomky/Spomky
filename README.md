@@ -63,7 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.4.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.4.0), 2 days ago) - Serialization benchmarks (13 languages, 300+ serializers), Compliance tests, Serialization 101–401 course
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.4.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.4.0), 2 days ago) - Serialization benchmarks (13 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.2](https://github.com/api-platform/core/releases/tag/v5.0.2), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 1 week ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.8](https://github.com/symfony/security-http/releases/tag/v8.1.8), 1 week ago) - Symfony Security Component - HTTP Integration
