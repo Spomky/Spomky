@@ -39,13 +39,13 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [beffroi-php/docs](https://github.com/beffroi-php/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (2 days ago)
 - [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (4 days ago)
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) - Symfony Doctrine ORM Key Management Bridge (1 week ago)
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (1 week ago)
 - [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, KMIP, ...) behind a single interface (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) - Symfony Doctrine ORM Key Management Bridge (1 week ago)
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 week ago)
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [beffroi-php/.github](https://github.com/beffroi-php/.github) -  (1 week ago)
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (1 week ago)
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
@@ -54,7 +54,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[KeyManagement] Make reading a self-contained payload a stated choice](https://github.com/symfony/symfony/pull/66639) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[KeyManagement] Cover the format a column may not be read in](https://github.com/symfony/symfony/pull/66638) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[KeyManagement] Have the Doctrine type authenticate the context it knows](https://github.com/symfony/symfony/pull/66637) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [[KeyManagement] Let a reader state the key or scope it expects a payload to carry](https://github.com/symfony/symfony/pull/66636) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- [[KeyManagement] Test that the envelope records the key id reported by the backend](https://github.com/symfony/symfony/pull/66636) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[KeyManagement] Let a data key store bind its wrapping context at the backend](https://github.com/symfony/symfony/pull/66635) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[Security] Let an application reach an endpoint of its OIDC provider through the client](https://github.com/symfony/symfony/pull/66618) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[Security] Read the keys of an OIDC provider through one object](https://github.com/symfony/symfony/pull/66617) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
