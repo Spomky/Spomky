@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [beffroi-php/docs](https://github.com/beffroi-php/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (2 days ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (4 days ago)
+- [beffroi-php/docs](https://github.com/beffroi-php/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (3 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (5 days ago)
 - [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (1 week ago)
 - [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, KMIP, ...) behind a single interface (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [feat: install ParaTest in the image](https://github.com/Spomky-Labs/phpqa/pull/13) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (4 days ago)
+- [feat: install ParaTest in the image](https://github.com/Spomky-Labs/phpqa/pull/13) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (5 days ago)
 - [[KeyManagement] Make reading a self-contained payload a stated choice](https://github.com/symfony/symfony/pull/66639) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[KeyManagement] Cover the format a column may not be read in](https://github.com/symfony/symfony/pull/66638) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[KeyManagement] Have the Doctrine type authenticate the context it knows](https://github.com/symfony/symfony/pull/66637) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -63,8 +63,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.5.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.5.0), 2 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.3](https://github.com/api-platform/core/releases/tag/v5.0.3), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.5.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.5.0), 3 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.3](https://github.com/api-platform/core/releases/tag/v5.0.3), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 2 weeks ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.8](https://github.com/symfony/security-http/releases/tag/v8.1.8), 2 weeks ago) - Symfony Security Component - HTTP Integration
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.8](https://github.com/symfony/validator/releases/tag/v8.1.8), 2 weeks ago) - Provides tools to validate values
