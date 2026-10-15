@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.9](https://github.com/symfony/symfony/releases/tag/v8.1.9), 1 day ago) - The Symfony PHP framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.9](https://github.com/symfony/security-core/releases/tag/v8.1.9), 1 day ago) - Symfony Security Component - Core Library
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.9](https://github.com/symfony/framework-bundle/releases/tag/v8.1.9), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/console](https://github.com/symfony/console) ([v8.1.9](https://github.com/symfony/console/releases/tag/v8.1.9), 1 day ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.9](https://github.com/symfony/security-bundle/releases/tag/v8.1.9), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.9](https://github.com/symfony/security-http/releases/tag/v8.1.9), 1 day ago) - Symfony Security Component - HTTP Integration
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), today) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v5.4.54](https://github.com/symfony/security-http/releases/tag/v5.4.54), today) - Symfony Security Component - HTTP Integration
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.54](https://github.com/symfony/framework-bundle/releases/tag/v5.4.54), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v5.4.54](https://github.com/symfony/security-bundle/releases/tag/v5.4.54), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/mime](https://github.com/symfony/mime) ([v5.4.54](https://github.com/symfony/mime/releases/tag/v5.4.54), today) - Allows manipulating MIME messages
+- [symfony/validator](https://github.com/symfony/validator) ([v5.4.54](https://github.com/symfony/validator/releases/tag/v5.4.54), today) - Provides tools to validate values
+- [symfony/console](https://github.com/symfony/console) ([v5.4.54](https://github.com/symfony/console/releases/tag/v5.4.54), today) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/security-core](https://github.com/symfony/security-core) ([v5.4.54](https://github.com/symfony/security-core/releases/tag/v5.4.54), today) - Symfony Security Component - Core Library
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.9](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.9), 1 day ago) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.9](https://github.com/symfony/validator/releases/tag/v8.1.9), 1 day ago) - Provides tools to validate values
 - [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.5.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.5.0), 4 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.3](https://github.com/api-platform/core/releases/tag/v5.0.3), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
