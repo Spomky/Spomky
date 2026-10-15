@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [beffroi-php/docs](https://github.com/beffroi-php/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (3 days ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (5 days ago)
+- [beffroi-php/docs](https://github.com/beffroi-php/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (4 days ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (6 days ago)
 - [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (1 week ago)
 - [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
@@ -50,7 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [feat: install ParaTest in the image](https://github.com/Spomky-Labs/phpqa/pull/13) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (5 days ago)
+- [feat: install ParaTest in the image](https://github.com/Spomky-Labs/phpqa/pull/13) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (6 days ago)
 - [[KeyManagement] Make reading a self-contained payload a stated choice](https://github.com/symfony/symfony/pull/66639) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[KeyManagement] Cover the format a column may not be read in](https://github.com/symfony/symfony/pull/66638) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[KeyManagement] Have the Doctrine type authenticate the context it knows](https://github.com/symfony/symfony/pull/66637) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -59,20 +59,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [[Security] Let an application reach an endpoint of its OIDC provider through the client](https://github.com/symfony/symfony/pull/66618) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[Security] Read the keys of an OIDC provider through one object](https://github.com/symfony/symfony/pull/66617) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [[KeyManagement] Let a projection cover several forms of a value, and three fixes](https://github.com/symfony/symfony/pull/66606) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [[KeyManagement] Let a blind index derive its tags under a data key a store holds](https://github.com/symfony/symfony/pull/66531) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- [[KeyManagement] Let a blind index derive its tags under a data key a store holds](https://github.com/symfony/symfony/pull/66531) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.9](https://github.com/symfony/symfony/releases/tag/v8.1.9), today) - The Symfony PHP framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.9](https://github.com/symfony/security-core/releases/tag/v8.1.9), today) - Symfony Security Component - Core Library
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.9](https://github.com/symfony/framework-bundle/releases/tag/v8.1.9), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/console](https://github.com/symfony/console) ([v8.1.9](https://github.com/symfony/console/releases/tag/v8.1.9), today) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.9](https://github.com/symfony/security-bundle/releases/tag/v8.1.9), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.9](https://github.com/symfony/security-http/releases/tag/v8.1.9), today) - Symfony Security Component - HTTP Integration
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.9](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.9), today) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.9](https://github.com/symfony/validator/releases/tag/v8.1.9), today) - Provides tools to validate values
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.5.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.5.0), 3 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.3](https://github.com/api-platform/core/releases/tag/v5.0.3), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.9](https://github.com/symfony/symfony/releases/tag/v8.1.9), 1 day ago) - The Symfony PHP framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.9](https://github.com/symfony/security-core/releases/tag/v8.1.9), 1 day ago) - Symfony Security Component - Core Library
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.9](https://github.com/symfony/framework-bundle/releases/tag/v8.1.9), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/console](https://github.com/symfony/console) ([v8.1.9](https://github.com/symfony/console/releases/tag/v8.1.9), 1 day ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.9](https://github.com/symfony/security-bundle/releases/tag/v8.1.9), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.9](https://github.com/symfony/security-http/releases/tag/v8.1.9), 1 day ago) - Symfony Security Component - HTTP Integration
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.9](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.9), 1 day ago) - Provides a development tool that gives detailed information about the execution of any request
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.9](https://github.com/symfony/validator/releases/tag/v8.1.9), 1 day ago) - Provides tools to validate values
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.5.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.5.0), 4 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.3](https://github.com/api-platform/core/releases/tag/v5.0.3), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
