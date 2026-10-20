@@ -46,7 +46,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (2 weeks ago)
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (2 weeks ago)
 - [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (2 weeks ago)
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (4 weeks ago)
+- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 4 days ago) - The Symfony PHP framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v5.4.54](https://github.com/symfony/security-http/releases/tag/v5.4.54), 4 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.54](https://github.com/symfony/framework-bundle/releases/tag/v5.4.54), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v5.4.54](https://github.com/symfony/security-bundle/releases/tag/v5.4.54), 4 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/mime](https://github.com/symfony/mime) ([v5.4.54](https://github.com/symfony/mime/releases/tag/v5.4.54), 4 days ago) - Allows manipulating MIME messages
-- [symfony/validator](https://github.com/symfony/validator) ([v5.4.54](https://github.com/symfony/validator/releases/tag/v5.4.54), 4 days ago) - Provides tools to validate values
-- [symfony/console](https://github.com/symfony/console) ([v5.4.54](https://github.com/symfony/console/releases/tag/v5.4.54), 4 days ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/security-core](https://github.com/symfony/security-core) ([v5.4.54](https://github.com/symfony/security-core/releases/tag/v5.4.54), 4 days ago) - Symfony Security Component - Core Library
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.9](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.9), 5 days ago) - Provides a development tool that gives detailed information about the execution of any request
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 5 days ago) - The Symfony PHP framework
+- [symfony/security-http](https://github.com/symfony/security-http) ([v5.4.54](https://github.com/symfony/security-http/releases/tag/v5.4.54), 5 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.54](https://github.com/symfony/framework-bundle/releases/tag/v5.4.54), 5 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v5.4.54](https://github.com/symfony/security-bundle/releases/tag/v5.4.54), 5 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/mime](https://github.com/symfony/mime) ([v5.4.54](https://github.com/symfony/mime/releases/tag/v5.4.54), 5 days ago) - Allows manipulating MIME messages
+- [symfony/validator](https://github.com/symfony/validator) ([v5.4.54](https://github.com/symfony/validator/releases/tag/v5.4.54), 5 days ago) - Provides tools to validate values
+- [symfony/console](https://github.com/symfony/console) ([v5.4.54](https://github.com/symfony/console/releases/tag/v5.4.54), 5 days ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/security-core](https://github.com/symfony/security-core) ([v5.4.54](https://github.com/symfony/security-core/releases/tag/v5.4.54), 5 days ago) - Symfony Security Component - Core Library
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.9](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.9), 6 days ago) - Provides a development tool that gives detailed information about the execution of any request
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
