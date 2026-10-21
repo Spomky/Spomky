@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), today) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 6 days ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.4.54](https://github.com/symfony/security-http/releases/tag/v5.4.54), 6 days ago) - Symfony Security Component - HTTP Integration
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/validator](https://github.com/symfony/validator) ([v5.4.54](https://github.com/symfony/validator/releases/tag/v5.4.54), 6 days ago) - Provides tools to validate values
 - [symfony/console](https://github.com/symfony/console) ([v5.4.54](https://github.com/symfony/console/releases/tag/v5.4.54), 6 days ago) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/security-core](https://github.com/symfony/security-core) ([v5.4.54](https://github.com/symfony/security-core/releases/tag/v5.4.54), 6 days ago) - Symfony Security Component - Core Library
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.9](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.9), 1 week ago) - Provides a development tool that gives detailed information about the execution of any request
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
