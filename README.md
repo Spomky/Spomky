@@ -37,29 +37,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (today)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (today)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (today)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (today)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
 - [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (1 week ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - 🐘 Opinionated CI-ready PHP QA Docker image built on top of jakzal/phpqa, extended with Castor and custom CI tasks. (1 week ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - A CI-ready quality assurance image for PHP, built on jakzal/phpqa and extended with Castor tasks. (1 week ago)
 - [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (2 weeks ago)
 - [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (2 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) - Symfony Doctrine ORM Key Management Bridge (2 weeks ago)
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (2 weeks ago)
-- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (2 weeks ago)
-- [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (2 weeks ago)
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials (DBSC) for Symfony: protect sessions from cookie theft with hardware-bound keys. (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/pki-framework/pull/124) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/cbor-php/pull/179) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/otphp/pull/296) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
+- [docs: Slabs visual identity v2.0](https://github.com/web-token/jwt-framework/pull/737) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [docs: Slabs visual identity v2.0](https://github.com/web-auth/cose-lib/pull/228) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [docs: Slabs visual identity v2.0](https://github.com/web-auth/webauthn-framework/pull/972) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [feat: install ParaTest in the image](https://github.com/Spomky-Labs/phpqa/pull/13) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 week ago)
 - [[KeyManagement] Make reading a self-contained payload a stated choice](https://github.com/symfony/symfony/pull/66639) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [[KeyManagement] Cover the format a column may not be read in](https://github.com/symfony/symfony/pull/66638) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [[KeyManagement] Have the Doctrine type authenticate the context it knows](https://github.com/symfony/symfony/pull/66637) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [[KeyManagement] Test that the envelope records the key id reported by the backend](https://github.com/symfony/symfony/pull/66636) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [[KeyManagement] Let a data key store bind its wrapping context at the backend](https://github.com/symfony/symfony/pull/66635) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [[Security] Let an application reach an endpoint of its OIDC provider through the client](https://github.com/symfony/symfony/pull/66618) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [[Security] Read the keys of an OIDC provider through one object](https://github.com/symfony/symfony/pull/66617) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [[KeyManagement] Let a projection cover several forms of a value, and three fixes](https://github.com/symfony/symfony/pull/66606) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [[KeyManagement] Let a blind index derive its tags under a data key a store holds](https://github.com/symfony/symfony/pull/66531) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
