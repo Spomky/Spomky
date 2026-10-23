@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.15.0](https://github.com/symfony/ai/releases/tag/v0.15.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.15.0](https://github.com/symfony/ai-bundle/releases/tag/v0.15.0), today) - Integration bundle for Symfony AI components
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.15.0](https://github.com/symfony/ai-agent/releases/tag/v0.15.0), today) - PHP library for building agentic applications.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.15.0](https://github.com/symfony/ai-platform/releases/tag/v0.15.0), today) - PHP library for interacting with AI platform provider.
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), 2 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 week ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.4.54](https://github.com/symfony/security-http/releases/tag/v5.4.54), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.54](https://github.com/symfony/framework-bundle/releases/tag/v5.4.54), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v5.4.54](https://github.com/symfony/security-bundle/releases/tag/v5.4.54), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/mime](https://github.com/symfony/mime) ([v5.4.54](https://github.com/symfony/mime/releases/tag/v5.4.54), 1 week ago) - Allows manipulating MIME messages
-- [symfony/validator](https://github.com/symfony/validator) ([v5.4.54](https://github.com/symfony/validator/releases/tag/v5.4.54), 1 week ago) - Provides tools to validate values
-- [symfony/console](https://github.com/symfony/console) ([v5.4.54](https://github.com/symfony/console/releases/tag/v5.4.54), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/security-core](https://github.com/symfony/security-core) ([v5.4.54](https://github.com/symfony/security-core/releases/tag/v5.4.54), 1 week ago) - Symfony Security Component - Core Library
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
