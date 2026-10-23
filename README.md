@@ -37,34 +37,34 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (today)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (today)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (today)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (1 day ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (1 day ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (1 day ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 day ago)
 - [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (1 week ago)
-- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - A CI-ready quality assurance image for PHP, built on jakzal/phpqa and extended with Castor tasks. (1 week ago)
+- [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) - A CI-ready quality assurance image for PHP, built on jakzal/phpqa and extended with Castor tasks. (2 weeks ago)
 - [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (2 weeks ago)
 - [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/pki-framework/pull/124) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
-- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/cbor-php/pull/179) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/otphp/pull/296) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
-- [docs: Slabs visual identity v2.0](https://github.com/web-token/jwt-framework/pull/737) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [docs: Slabs visual identity v2.0](https://github.com/web-auth/cose-lib/pull/228) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [docs: Slabs visual identity v2.0](https://github.com/web-auth/webauthn-framework/pull/972) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [feat: install ParaTest in the image](https://github.com/Spomky-Labs/phpqa/pull/13) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (1 week ago)
+- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/pki-framework/pull/124) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (1 day ago)
+- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/cbor-php/pull/179) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (1 day ago)
+- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/otphp/pull/296) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
+- [docs: Slabs visual identity v2.0](https://github.com/web-token/jwt-framework/pull/737) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [docs: Slabs visual identity v2.0](https://github.com/web-auth/cose-lib/pull/228) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (1 day ago)
+- [docs: Slabs visual identity v2.0](https://github.com/web-auth/webauthn-framework/pull/972) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [feat: install ParaTest in the image](https://github.com/Spomky-Labs/phpqa/pull/13) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (2 weeks ago)
 - [[KeyManagement] Make reading a self-contained payload a stated choice](https://github.com/symfony/symfony/pull/66639) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [[KeyManagement] Cover the format a column may not be read in](https://github.com/symfony/symfony/pull/66638) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [[KeyManagement] Have the Doctrine type authenticate the context it knows](https://github.com/symfony/symfony/pull/66637) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), 1 day ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), 2 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 week ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.4.54](https://github.com/symfony/security-http/releases/tag/v5.4.54), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.54](https://github.com/symfony/framework-bundle/releases/tag/v5.4.54), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
