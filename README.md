@@ -37,16 +37,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (today)
+- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) - Symfony Doctrine ORM Key Management Bridge (today)
+- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (today)
+- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (1 day ago)
 - [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (1 day ago)
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 day ago)
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (2 days ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (2 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (2 days ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (2 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (2 days ago)
 
 #### 🔨 My recent Pull Requests
 
