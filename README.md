@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.1](https://github.com/jakzal/toolbox/releases/tag/v1.112.1), today) - Helps to discover and install tools
 - [symfony/ai](https://github.com/symfony/ai) ([v0.15.0](https://github.com/symfony/ai/releases/tag/v0.15.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.15.0](https://github.com/symfony/ai-bundle/releases/tag/v0.15.0), 1 day ago) - Integration bundle for Symfony AI components
 - [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.15.0](https://github.com/symfony/ai-agent/releases/tag/v0.15.0), 1 day ago) - PHP library for building agentic applications.
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 week ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.4.54](https://github.com/symfony/security-http/releases/tag/v5.4.54), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.54](https://github.com/symfony/framework-bundle/releases/tag/v5.4.54), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v5.4.54](https://github.com/symfony/security-bundle/releases/tag/v5.4.54), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
