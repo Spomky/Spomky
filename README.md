@@ -37,39 +37,39 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (today)
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) - Symfony Doctrine ORM Key Management Bridge (today)
-- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (today)
-- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (1 day ago)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (1 day ago)
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 day ago)
-- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (1 day ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (2 days ago)
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (1 day ago)
+- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) - Symfony Doctrine ORM Key Management Bridge (1 day ago)
+- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (1 day ago)
+- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (2 days ago)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (2 days ago)
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (2 days ago)
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration (2 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (3 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[Security][SecurityBundle] Add Privacy Pass support](https://github.com/symfony/symfony/pull/67399) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[SecurityBundle] Add the discovery_uri option to the oidc_login authenticator](https://github.com/symfony/symfony/pull/67382) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/pki-framework/pull/124) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (2 days ago)
-- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/cbor-php/pull/179) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (2 days ago)
-- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/otphp/pull/296) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (2 days ago)
-- [docs: Slabs visual identity v2.0](https://github.com/web-token/jwt-framework/pull/737) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
-- [docs: Slabs visual identity v2.0](https://github.com/web-auth/cose-lib/pull/228) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (2 days ago)
-- [docs: Slabs visual identity v2.0](https://github.com/web-auth/webauthn-framework/pull/972) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [[Security][SecurityBundle] Add Privacy Pass support](https://github.com/symfony/symfony/pull/67399) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [[SecurityBundle] Add the discovery_uri option to the oidc_login authenticator](https://github.com/symfony/symfony/pull/67382) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/pki-framework/pull/124) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 days ago)
+- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/cbor-php/pull/179) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
+- [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/otphp/pull/296) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 days ago)
+- [docs: Slabs visual identity v2.0](https://github.com/web-token/jwt-framework/pull/737) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 days ago)
+- [docs: Slabs visual identity v2.0](https://github.com/web-auth/cose-lib/pull/228) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (3 days ago)
+- [docs: Slabs visual identity v2.0](https://github.com/web-auth/webauthn-framework/pull/972) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [feat: install ParaTest in the image](https://github.com/Spomky-Labs/phpqa/pull/13) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (2 weeks ago)
 - [[KeyManagement] Make reading a self-contained payload a stated choice](https://github.com/symfony/symfony/pull/66639) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.1](https://github.com/jakzal/toolbox/releases/tag/v1.112.1), today) - Helps to discover and install tools
-- [symfony/ai](https://github.com/symfony/ai) ([v0.15.0](https://github.com/symfony/ai/releases/tag/v0.15.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.15.0](https://github.com/symfony/ai-bundle/releases/tag/v0.15.0), 1 day ago) - Integration bundle for Symfony AI components
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.15.0](https://github.com/symfony/ai-agent/releases/tag/v0.15.0), 1 day ago) - PHP library for building agentic applications.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.15.0](https://github.com/symfony/ai-platform/releases/tag/v0.15.0), 1 day ago) - PHP library for interacting with AI platform provider.
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), 3 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.1](https://github.com/jakzal/toolbox/releases/tag/v1.112.1), 1 day ago) - Helps to discover and install tools
+- [symfony/ai](https://github.com/symfony/ai) ([v0.15.0](https://github.com/symfony/ai/releases/tag/v0.15.0), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.15.0](https://github.com/symfony/ai-bundle/releases/tag/v0.15.0), 2 days ago) - Integration bundle for Symfony AI components
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.15.0](https://github.com/symfony/ai-agent/releases/tag/v0.15.0), 2 days ago) - PHP library for building agentic applications.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.15.0](https://github.com/symfony/ai-platform/releases/tag/v0.15.0), 2 days ago) - PHP library for interacting with AI platform provider.
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), 4 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 week ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.4.54](https://github.com/symfony/security-http/releases/tag/v5.4.54), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.54](https://github.com/symfony/framework-bundle/releases/tag/v5.4.54), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
