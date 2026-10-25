@@ -39,27 +39,27 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework. (today)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (today)
+- [Spomky-Labs/brand](https://github.com/Spomky-Labs/brand) - The brand and visual identity of Slabs: logotype, project marks, palette, typefaces and templates. (today)
 - [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (today)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - Documentation of the PWA bundle. (today)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) - Documentation of Web Push. (today)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (today)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (today)
+- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation of JWT Framework. (today)
 - [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (1 day ago)
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) - Symfony Doctrine ORM Key Management Bridge (1 day ago)
-- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (1 day ago)
-- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (2 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [The projects of the guidelines, their marks, and a tool to copy a mark for the web](https://github.com/Spomky-Labs/docs/pull/4) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
-- [The header carries the project mark of Web Push Framework](https://github.com/Spomky-Labs/web-push-doc/pull/3) on [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) (today)
-- [Web Push is migrated](https://github.com/Spomky-Labs/docs/pull/3) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
-- [What the migration of Web Push taught: the version order, and the name beside a logo](https://github.com/Spomky-Labs/access-control-doc/pull/7) on [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) (today)
-- [The documentation site: MkDocs on GitHub Pages, under web-push.spomky-labs.com](https://github.com/Spomky-Labs/web-push-doc/pull/2) on [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) (today)
-- [How a documentation leaves GitBook](https://github.com/Spomky-Labs/docs/pull/2) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
-- [The tab of the home page names the site once](https://github.com/Spomky-Labs/docs/pull/1) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
-- [The footer leads to the central documentation site](https://github.com/Spomky-Labs/access-control-doc/pull/6) on [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) (today)
-- [A wider navigation that answers the pointer, and text at 18 px](https://github.com/Spomky-Labs/access-control-doc/pull/5) on [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) (today)
-- [The header carries the project mark of Access Control Framework](https://github.com/Spomky-Labs/access-control-doc/pull/4) on [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) (today)
+- [What the code does, where the pages said a little more or a little else](https://github.com/beffroi-auth/docs/pull/3) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [SAML 2.0 in both roles, the floor of a tenant, the acts of an account](https://github.com/beffroi-auth/docs/pull/2) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [1.6: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/25) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (today)
+- [1.5: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/24) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (today)
+- [1.4: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/23) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (today)
+- [5.4: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/66) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [5.3: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/65) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [5.2: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/64) on [web-auth/doc](https://github.com/web-auth/doc) (today)
+- [4.3: the name of the project, the end of GitBook](https://github.com/web-token/jwt-doc/pull/62) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
+- [4.2: the name of the project, the end of GitBook](https://github.com/web-token/jwt-doc/pull/61) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
 
 #### 🔭 Latest releases I've contributed to
 
