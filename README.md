@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [The documentation site: MkDocs on GitHub Pages, under acf.spomky-labs.com](https://github.com/Spomky-Labs/access-control-doc/pull/1) on [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) (today)
 - [[Security][SecurityBundle] Add Privacy Pass support](https://github.com/symfony/symfony/pull/67399) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - [[SecurityBundle] Add the discovery_uri option to the oidc_login authenticator](https://github.com/symfony/symfony/pull/67382) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - [docs: Slabs visual identity v2.0](https://github.com/Spomky-Labs/pki-framework/pull/124) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [docs: Slabs visual identity v2.0](https://github.com/web-auth/cose-lib/pull/228) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (3 days ago)
 - [docs: Slabs visual identity v2.0](https://github.com/web-auth/webauthn-framework/pull/972) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 - [feat: install ParaTest in the image](https://github.com/Spomky-Labs/phpqa/pull/13) on [Spomky-Labs/phpqa](https://github.com/Spomky-Labs/phpqa) (2 weeks ago)
-- [[KeyManagement] Make reading a self-contained payload a stated choice](https://github.com/symfony/symfony/pull/66639) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
