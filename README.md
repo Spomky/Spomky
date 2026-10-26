@@ -37,19 +37,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) - A container image for a self-hosted GitHub Actions runner. (today)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (today)
 - [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework. (1 day ago)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (1 day ago)
 - [Spomky-Labs/brand](https://github.com/Spomky-Labs/brand) - The brand and visual identity of Slabs: logotype, project marks, palette, typefaces and templates. (1 day ago)
 - [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (1 day ago)
 - [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - Documentation of the PWA bundle. (1 day ago)
 - [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) - Documentation of Web Push. (1 day ago)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (1 day ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (1 day ago)
 - [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation of JWT Framework. (1 day ago)
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (2 days ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Labels, a token file, a host directory for container jobs, and a runner removed when it stops](https://github.com/Spomky-Labs/gh-runner/pull/2) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
+- [Build the image every month with the latest runner release, on Ubuntu 26.04](https://github.com/Spomky-Labs/gh-runner/pull/1) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
 - [The Symfony bundle, page by page, and every option of its configuration](https://github.com/beffroi-auth/docs/pull/7) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [OAuth 2.0 and OpenID Connect, from the client to the logout](https://github.com/beffroi-auth/docs/pull/6) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [The identity core, its credentials, its ports and its events](https://github.com/beffroi-auth/docs/pull/5) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [SAML 2.0 in both roles, the floor of a tenant, the acts of an account](https://github.com/beffroi-auth/docs/pull/2) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
 - [1.6: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/25) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
 - [1.5: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/24) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
-- [1.4: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/23) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
-- [5.4: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/66) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
