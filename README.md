@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [The Symfony bundle, page by page, and every option of its configuration](https://github.com/beffroi-auth/docs/pull/7) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [OAuth 2.0 and OpenID Connect, from the client to the logout](https://github.com/beffroi-auth/docs/pull/6) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [The identity core, its credentials, its ports and its events](https://github.com/beffroi-auth/docs/pull/5) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [The standalone application and the getting started pages](https://github.com/beffroi-auth/docs/pull/4) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [What the code does, where the pages said a little more or a little else](https://github.com/beffroi-auth/docs/pull/3) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
 - [SAML 2.0 in both roles, the floor of a tenant, the acts of an account](https://github.com/beffroi-auth/docs/pull/2) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
 - [1.6: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/25) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
 - [1.5: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/24) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
 - [1.4: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/23) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
 - [5.4: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/66) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
-- [5.3: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/65) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
-- [5.2: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/64) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
-- [4.3: the name of the project, the end of GitBook](https://github.com/web-token/jwt-doc/pull/62) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (1 day ago)
-- [4.2: the name of the project, the end of GitBook](https://github.com/web-token/jwt-doc/pull/61) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
