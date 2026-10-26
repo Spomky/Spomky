@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [The runner runs as the docker user, uid 1001, with RUNNER_DIR too](https://github.com/Spomky-Labs/gh-runner/pull/3) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
+- [The site is served at doc.beffroi.tech](https://github.com/beffroi-auth/docs/pull/9) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [The secret that binds the data keys, the hint of a pairwise client, and the request objects a client is held to sign](https://github.com/beffroi-auth/docs/pull/8) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [Labels, a token file, a host directory for container jobs, and a runner removed when it stops](https://github.com/Spomky-Labs/gh-runner/pull/2) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
 - [Build the image every month with the latest runner release, on Ubuntu 26.04](https://github.com/Spomky-Labs/gh-runner/pull/1) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
 - [The Symfony bundle, page by page, and every option of its configuration](https://github.com/beffroi-auth/docs/pull/7) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
@@ -57,17 +60,14 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [The identity core, its credentials, its ports and its events](https://github.com/beffroi-auth/docs/pull/5) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [The standalone application and the getting started pages](https://github.com/beffroi-auth/docs/pull/4) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [What the code does, where the pages said a little more or a little else](https://github.com/beffroi-auth/docs/pull/3) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [SAML 2.0 in both roles, the floor of a tenant, the acts of an account](https://github.com/beffroi-auth/docs/pull/2) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [1.6: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/25) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
-- [1.5: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/24) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v1.0.0-BETA1](https://github.com/symfony/ai/releases/tag/v1.0.0-BETA1), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v1.0.0-BETA1](https://github.com/symfony/ai-bundle/releases/tag/v1.0.0-BETA1), today) - Integration bundle for Symfony AI components
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v1.0.0-BETA1](https://github.com/symfony/ai-agent/releases/tag/v1.0.0-BETA1), today) - PHP library for building agentic applications.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v1.0.0-BETA1](https://github.com/symfony/ai-platform/releases/tag/v1.0.0-BETA1), today) - PHP library for interacting with AI platform provider.
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.1](https://github.com/jakzal/toolbox/releases/tag/v1.112.1), 2 days ago) - Helps to discover and install tools
-- [symfony/ai](https://github.com/symfony/ai) ([v0.15.0](https://github.com/symfony/ai/releases/tag/v0.15.0), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.15.0](https://github.com/symfony/ai-bundle/releases/tag/v0.15.0), 3 days ago) - Integration bundle for Symfony AI components
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.15.0](https://github.com/symfony/ai-agent/releases/tag/v0.15.0), 3 days ago) - PHP library for building agentic applications.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.15.0](https://github.com/symfony/ai-platform/releases/tag/v0.15.0), 3 days ago) - PHP library for interacting with AI platform provider.
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), 5 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 week ago) - The Symfony PHP framework
