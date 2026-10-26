@@ -37,39 +37,39 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework. (today)
-- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (today)
-- [Spomky-Labs/brand](https://github.com/Spomky-Labs/brand) - The brand and visual identity of Slabs: logotype, project marks, palette, typefaces and templates. (today)
-- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (today)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - Documentation of the PWA bundle. (today)
-- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) - Documentation of Web Push. (today)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (today)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (today)
-- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation of JWT Framework. (today)
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (1 day ago)
+- [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework. (1 day ago)
+- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (1 day ago)
+- [Spomky-Labs/brand](https://github.com/Spomky-Labs/brand) - The brand and visual identity of Slabs: logotype, project marks, palette, typefaces and templates. (1 day ago)
+- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (1 day ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - Documentation of the PWA bundle. (1 day ago)
+- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) - Documentation of Web Push. (1 day ago)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (1 day ago)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (1 day ago)
+- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation of JWT Framework. (1 day ago)
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) - Symfony Doctrine DBAL Key Management Bridge (2 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [What the code does, where the pages said a little more or a little else](https://github.com/beffroi-auth/docs/pull/3) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [SAML 2.0 in both roles, the floor of a tenant, the acts of an account](https://github.com/beffroi-auth/docs/pull/2) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [1.6: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/25) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (today)
-- [1.5: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/24) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (today)
-- [1.4: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/23) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (today)
-- [5.4: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/66) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [5.3: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/65) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [5.2: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/64) on [web-auth/doc](https://github.com/web-auth/doc) (today)
-- [4.3: the name of the project, the end of GitBook](https://github.com/web-token/jwt-doc/pull/62) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
-- [4.2: the name of the project, the end of GitBook](https://github.com/web-token/jwt-doc/pull/61) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
+- [What the code does, where the pages said a little more or a little else](https://github.com/beffroi-auth/docs/pull/3) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [SAML 2.0 in both roles, the floor of a tenant, the acts of an account](https://github.com/beffroi-auth/docs/pull/2) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [1.6: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/25) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
+- [1.5: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/24) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
+- [1.4: the name of the project, the end of GitBook](https://github.com/Spomky-Labs/phpwa-doc/pull/23) on [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) (1 day ago)
+- [5.4: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/66) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
+- [5.3: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/65) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
+- [5.2: the name of the project, the end of GitBook](https://github.com/web-auth/doc/pull/64) on [web-auth/doc](https://github.com/web-auth/doc) (1 day ago)
+- [4.3: the name of the project, the end of GitBook](https://github.com/web-token/jwt-doc/pull/62) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (1 day ago)
+- [4.2: the name of the project, the end of GitBook](https://github.com/web-token/jwt-doc/pull/61) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.1](https://github.com/jakzal/toolbox/releases/tag/v1.112.1), 1 day ago) - Helps to discover and install tools
-- [symfony/ai](https://github.com/symfony/ai) ([v0.15.0](https://github.com/symfony/ai/releases/tag/v0.15.0), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.15.0](https://github.com/symfony/ai-bundle/releases/tag/v0.15.0), 2 days ago) - Integration bundle for Symfony AI components
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.15.0](https://github.com/symfony/ai-agent/releases/tag/v0.15.0), 2 days ago) - PHP library for building agentic applications.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.15.0](https://github.com/symfony/ai-platform/releases/tag/v0.15.0), 2 days ago) - PHP library for interacting with AI platform provider.
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), 4 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.1](https://github.com/jakzal/toolbox/releases/tag/v1.112.1), 2 days ago) - Helps to discover and install tools
+- [symfony/ai](https://github.com/symfony/ai) ([v0.15.0](https://github.com/symfony/ai/releases/tag/v0.15.0), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v0.15.0](https://github.com/symfony/ai-bundle/releases/tag/v0.15.0), 3 days ago) - Integration bundle for Symfony AI components
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v0.15.0](https://github.com/symfony/ai-agent/releases/tag/v0.15.0), 3 days ago) - PHP library for building agentic applications.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v0.15.0](https://github.com/symfony/ai-platform/releases/tag/v0.15.0), 3 days ago) - PHP library for interacting with AI platform provider.
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), 5 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 week ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.4.54](https://github.com/symfony/security-http/releases/tag/v5.4.54), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.54](https://github.com/symfony/framework-bundle/releases/tag/v5.4.54), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
