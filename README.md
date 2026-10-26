@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [A Docker daemon of the container's own when the host's socket is not mounted](https://github.com/Spomky-Labs/gh-runner/pull/5) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
+- [Publish the container for linux/arm64 too, each platform built natively](https://github.com/laminas/automatic-releases/pull/312) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (today)
+- [The GitHub CLI, the Compose and Buildx plugins of Docker, and passwordless sudo for the runner user](https://github.com/Spomky-Labs/gh-runner/pull/4) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
 - [The runner runs as the docker user, uid 1001, with RUNNER_DIR too](https://github.com/Spomky-Labs/gh-runner/pull/3) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
 - [The site is served at doc.beffroi.tech](https://github.com/beffroi-auth/docs/pull/9) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [The secret that binds the data keys, the hint of a pairwise client, and the request objects a client is held to sign](https://github.com/beffroi-auth/docs/pull/8) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
@@ -57,9 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Build the image every month with the latest runner release, on Ubuntu 26.04](https://github.com/Spomky-Labs/gh-runner/pull/1) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
 - [The Symfony bundle, page by page, and every option of its configuration](https://github.com/beffroi-auth/docs/pull/7) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [OAuth 2.0 and OpenID Connect, from the client to the logout](https://github.com/beffroi-auth/docs/pull/6) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [The identity core, its credentials, its ports and its events](https://github.com/beffroi-auth/docs/pull/5) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [The standalone application and the getting started pages](https://github.com/beffroi-auth/docs/pull/4) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [What the code does, where the pages said a little more or a little else](https://github.com/beffroi-auth/docs/pull/3) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
