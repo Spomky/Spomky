@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [[KeyManagement] Rewrap data keys through wrapDataKey(), not encrypt()](https://github.com/symfony/symfony/pull/67562) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[KeyManagement] Bring the docs in line with the component](https://github.com/symfony/symfony-docs/pull/23438) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - [A Docker daemon of the container's own when the host's socket is not mounted](https://github.com/Spomky-Labs/gh-runner/pull/5) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (1 day ago)
 - [Publish the container for linux/arm64 too, each platform built natively](https://github.com/laminas/automatic-releases/pull/312) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (1 day ago)
 - [The GitHub CLI, the Compose and Buildx plugins of Docker, and passwordless sudo for the runner user](https://github.com/Spomky-Labs/gh-runner/pull/4) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (1 day ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [The secret that binds the data keys, the hint of a pairwise client, and the request objects a client is held to sign](https://github.com/beffroi-auth/docs/pull/8) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
 - [Labels, a token file, a host directory for container jobs, and a runner removed when it stops](https://github.com/Spomky-Labs/gh-runner/pull/2) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (1 day ago)
 - [Build the image every month with the latest runner release, on Ubuntu 26.04](https://github.com/Spomky-Labs/gh-runner/pull/1) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (1 day ago)
-- [The Symfony bundle, page by page, and every option of its configuration](https://github.com/beffroi-auth/docs/pull/7) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [OAuth 2.0 and OpenID Connect, from the client to the logout](https://github.com/beffroi-auth/docs/pull/6) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
