@@ -37,39 +37,39 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) - A container image for a self-hosted GitHub Actions runner. (today)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (today)
-- [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework. (1 day ago)
-- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (1 day ago)
-- [Spomky-Labs/brand](https://github.com/Spomky-Labs/brand) - The brand and visual identity of Slabs: logotype, project marks, palette, typefaces and templates. (1 day ago)
-- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (1 day ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - Documentation of the PWA bundle. (1 day ago)
-- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) - Documentation of Web Push. (1 day ago)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (1 day ago)
-- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation of JWT Framework. (1 day ago)
+- [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) - A container image for a self-hosted GitHub Actions runner. (1 day ago)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (1 day ago)
+- [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework. (2 days ago)
+- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (2 days ago)
+- [Spomky-Labs/brand](https://github.com/Spomky-Labs/brand) - The brand and visual identity of Slabs: logotype, project marks, palette, typefaces and templates. (2 days ago)
+- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (2 days ago)
+- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - Documentation of the PWA bundle. (2 days ago)
+- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) - Documentation of Web Push. (2 days ago)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (2 days ago)
+- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation of JWT Framework. (2 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [A Docker daemon of the container's own when the host's socket is not mounted](https://github.com/Spomky-Labs/gh-runner/pull/5) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
-- [Publish the container for linux/arm64 too, each platform built natively](https://github.com/laminas/automatic-releases/pull/312) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (today)
-- [The GitHub CLI, the Compose and Buildx plugins of Docker, and passwordless sudo for the runner user](https://github.com/Spomky-Labs/gh-runner/pull/4) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
-- [The runner runs as the docker user, uid 1001, with RUNNER_DIR too](https://github.com/Spomky-Labs/gh-runner/pull/3) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
-- [The site is served at doc.beffroi.tech](https://github.com/beffroi-auth/docs/pull/9) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [The secret that binds the data keys, the hint of a pairwise client, and the request objects a client is held to sign](https://github.com/beffroi-auth/docs/pull/8) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [Labels, a token file, a host directory for container jobs, and a runner removed when it stops](https://github.com/Spomky-Labs/gh-runner/pull/2) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
-- [Build the image every month with the latest runner release, on Ubuntu 26.04](https://github.com/Spomky-Labs/gh-runner/pull/1) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (today)
-- [The Symfony bundle, page by page, and every option of its configuration](https://github.com/beffroi-auth/docs/pull/7) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [OAuth 2.0 and OpenID Connect, from the client to the logout](https://github.com/beffroi-auth/docs/pull/6) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [A Docker daemon of the container's own when the host's socket is not mounted](https://github.com/Spomky-Labs/gh-runner/pull/5) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (1 day ago)
+- [Publish the container for linux/arm64 too, each platform built natively](https://github.com/laminas/automatic-releases/pull/312) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (1 day ago)
+- [The GitHub CLI, the Compose and Buildx plugins of Docker, and passwordless sudo for the runner user](https://github.com/Spomky-Labs/gh-runner/pull/4) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (1 day ago)
+- [The runner runs as the docker user, uid 1001, with RUNNER_DIR too](https://github.com/Spomky-Labs/gh-runner/pull/3) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (1 day ago)
+- [The site is served at doc.beffroi.tech](https://github.com/beffroi-auth/docs/pull/9) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [The secret that binds the data keys, the hint of a pairwise client, and the request objects a client is held to sign](https://github.com/beffroi-auth/docs/pull/8) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [Labels, a token file, a host directory for container jobs, and a runner removed when it stops](https://github.com/Spomky-Labs/gh-runner/pull/2) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (1 day ago)
+- [Build the image every month with the latest runner release, on Ubuntu 26.04](https://github.com/Spomky-Labs/gh-runner/pull/1) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (1 day ago)
+- [The Symfony bundle, page by page, and every option of its configuration](https://github.com/beffroi-auth/docs/pull/7) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [OAuth 2.0 and OpenID Connect, from the client to the logout](https://github.com/beffroi-auth/docs/pull/6) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v1.0.0-BETA1](https://github.com/symfony/ai/releases/tag/v1.0.0-BETA1), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v1.0.0-BETA1](https://github.com/symfony/ai-bundle/releases/tag/v1.0.0-BETA1), today) - Integration bundle for Symfony AI components
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v1.0.0-BETA1](https://github.com/symfony/ai-agent/releases/tag/v1.0.0-BETA1), today) - PHP library for building agentic applications.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v1.0.0-BETA1](https://github.com/symfony/ai-platform/releases/tag/v1.0.0-BETA1), today) - PHP library for interacting with AI platform provider.
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.1](https://github.com/jakzal/toolbox/releases/tag/v1.112.1), 2 days ago) - Helps to discover and install tools
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), 5 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
+- [symfony/ai](https://github.com/symfony/ai) ([v1.0.0-BETA1](https://github.com/symfony/ai/releases/tag/v1.0.0-BETA1), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v1.0.0-BETA1](https://github.com/symfony/ai-bundle/releases/tag/v1.0.0-BETA1), 1 day ago) - Integration bundle for Symfony AI components
+- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v1.0.0-BETA1](https://github.com/symfony/ai-agent/releases/tag/v1.0.0-BETA1), 1 day ago) - PHP library for building agentic applications.
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v1.0.0-BETA1](https://github.com/symfony/ai-platform/releases/tag/v1.0.0-BETA1), 1 day ago) - PHP library for interacting with AI platform provider.
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.1](https://github.com/jakzal/toolbox/releases/tag/v1.112.1), 3 days ago) - Helps to discover and install tools
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), 6 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 week ago) - The Symfony PHP framework
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.4.54](https://github.com/symfony/security-http/releases/tag/v5.4.54), 1 week ago) - Symfony Security Component - HTTP Integration
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.54](https://github.com/symfony/framework-bundle/releases/tag/v5.4.54), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
