@@ -37,19 +37,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/aws-key-management](https://github.com/symfony/aws-key-management) - Symfony AWS Key Management Bridge (1 day ago)
+- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (1 day ago)
+- [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (1 day ago)
+- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (1 day ago)
+- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) - A container image for a self-hosted GitHub Actions runner. (2 days ago)
 - [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (2 days ago)
 - [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework. (3 days ago)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (3 days ago)
-- [Spomky-Labs/brand](https://github.com/Spomky-Labs/brand) - The brand and visual identity of Slabs: logotype, project marks, palette, typefaces and templates. (3 days ago)
-- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (3 days ago)
-- [Spomky-Labs/phpwa-doc](https://github.com/Spomky-Labs/phpwa-doc) - Documentation of the PWA bundle. (3 days ago)
-- [Spomky-Labs/web-push-doc](https://github.com/Spomky-Labs/web-push-doc) - Documentation of Web Push. (3 days ago)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (3 days ago)
-- [web-token/jwt-doc](https://github.com/web-token/jwt-doc) - Documentation of JWT Framework. (3 days ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Every variable of the image, the value it takes there and its bounds, and whole deployments written with them](https://github.com/beffroi-auth/docs/pull/11) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [[KeyManagement] Rewrap data keys through wrapDataKey(), not encrypt()](https://github.com/symfony/symfony/pull/67562) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [[KeyManagement] Bring the docs in line with the component](https://github.com/symfony/symfony-docs/pull/23438) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - [A Docker daemon of the container's own when the host's socket is not mounted](https://github.com/Spomky-Labs/gh-runner/pull/5) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (2 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [The site is served at doc.beffroi.tech](https://github.com/beffroi-auth/docs/pull/9) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
 - [The secret that binds the data keys, the hint of a pairwise client, and the request objects a client is held to sign](https://github.com/beffroi-auth/docs/pull/8) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
 - [Labels, a token file, a host directory for container jobs, and a runner removed when it stops](https://github.com/Spomky-Labs/gh-runner/pull/2) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (2 days ago)
-- [Build the image every month with the latest runner release, on Ubuntu 26.04](https://github.com/Spomky-Labs/gh-runner/pull/1) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
