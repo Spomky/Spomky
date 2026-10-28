@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v1.0.0-BETA1](https://github.com/symfony/ai/releases/tag/v1.0.0-BETA1), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/ai-bundle](https://github.com/symfony/ai-bundle) ([v1.0.0-BETA1](https://github.com/symfony/ai-bundle/releases/tag/v1.0.0-BETA1), 2 days ago) - Integration bundle for Symfony AI components
-- [symfony/ai-agent](https://github.com/symfony/ai-agent) ([v1.0.0-BETA1](https://github.com/symfony/ai-agent/releases/tag/v1.0.0-BETA1), 2 days ago) - PHP library for building agentic applications.
-- [symfony/ai-platform](https://github.com/symfony/ai-platform) ([v1.0.0-BETA1](https://github.com/symfony/ai-platform/releases/tag/v1.0.0-BETA1), 2 days ago) - PHP library for interacting with AI platform provider.
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.112.1](https://github.com/jakzal/toolbox/releases/tag/v1.112.1), 4 days ago) - Helps to discover and install tools
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.6.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.6.0), 1 week ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 week ago) - The Symfony PHP framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v5.4.54](https://github.com/symfony/security-http/releases/tag/v5.4.54), 1 week ago) - Symfony Security Component - HTTP Integration
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.54](https://github.com/symfony/framework-bundle/releases/tag/v5.4.54), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.10](https://github.com/symfony/framework-bundle/releases/tag/v8.1.10), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.10](https://github.com/symfony/security-core/releases/tag/v8.1.10), today) - Symfony Security Component - Core Library
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.10](https://github.com/symfony/security-http/releases/tag/v8.1.10), today) - Symfony Security Component - HTTP Integration
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.10](https://github.com/symfony/security-bundle/releases/tag/v8.1.10), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/console](https://github.com/symfony/console) ([v8.1.10](https://github.com/symfony/console/releases/tag/v8.1.10), today) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.10](https://github.com/symfony/mailer/releases/tag/v8.1.10), today) - Helps sending emails
+- [symfony/mime](https://github.com/symfony/mime) ([v8.1.10](https://github.com/symfony/mime/releases/tag/v8.1.10), today) - Allows manipulating MIME messages
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.10](https://github.com/symfony/validator/releases/tag/v8.1.10), today) - Provides tools to validate values
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.10](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.10), today) - Provides a development tool that gives detailed information about the execution of any request
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
