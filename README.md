@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.7.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.7.0), today) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 1 day ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.10](https://github.com/symfony/framework-bundle/releases/tag/v8.1.10), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.10](https://github.com/symfony/security-core/releases/tag/v8.1.10), 1 day ago) - Symfony Security Component - Core Library
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.10](https://github.com/symfony/mailer/releases/tag/v8.1.10), 1 day ago) - Helps sending emails
 - [symfony/mime](https://github.com/symfony/mime) ([v8.1.10](https://github.com/symfony/mime/releases/tag/v8.1.10), 1 day ago) - Allows manipulating MIME messages
 - [symfony/validator](https://github.com/symfony/validator) ([v8.1.10](https://github.com/symfony/validator/releases/tag/v8.1.10), 1 day ago) - Provides tools to validate values
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.10](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.10), 1 day ago) - Provides a development tool that gives detailed information about the execution of any request
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
