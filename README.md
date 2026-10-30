@@ -42,14 +42,17 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (3 days ago)
 - [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (3 days ago)
 - [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (3 days ago)
+- [symfony/scaleway-key-management](https://github.com/symfony/scaleway-key-management) - Symfony Scaleway Key Management Bridge (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
 - [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) - A container image for a self-hosted GitHub Actions runner. (4 days ago)
 - [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (4 days ago)
 - [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework. (5 days ago)
-- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (5 days ago)
 
 #### 🔨 My recent Pull Requests
 
+- [ci: make ECS, Rector and PHPStan pass with the updated phpqa image](https://github.com/web-token/jwt-framework/pull/741) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [feat(encryption): HPKE for JWE — Integrated Encryption and Key Encryption (draft-ietf-jose-hpke-encrypt)](https://github.com/web-token/jwt-framework/pull/740) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(bundle): load the profiled keys when collecting and report the failures](https://github.com/web-token/jwt-framework/pull/739) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Behind a proxy that terminates TLS, the site of SERVER_NAME on plain HTTP, the proxies Symfony trusts and the address of the client](https://github.com/beffroi-auth/docs/pull/13) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [Every variable of the image, the value it takes there and its bounds, and whole deployments written with them](https://github.com/beffroi-auth/docs/pull/11) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
 - [[KeyManagement] Rewrap data keys through wrapDataKey(), not encrypt()](https://github.com/symfony/symfony/pull/67562) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
@@ -57,9 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [A Docker daemon of the container's own when the host's socket is not mounted](https://github.com/Spomky-Labs/gh-runner/pull/5) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (4 days ago)
 - [Publish the container for linux/arm64 too, each platform built natively](https://github.com/laminas/automatic-releases/pull/312) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (4 days ago)
 - [The GitHub CLI, the Compose and Buildx plugins of Docker, and passwordless sudo for the runner user](https://github.com/Spomky-Labs/gh-runner/pull/4) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (4 days ago)
-- [The runner runs as the docker user, uid 1001, with RUNNER_DIR too](https://github.com/Spomky-Labs/gh-runner/pull/3) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (4 days ago)
-- [The site is served at doc.beffroi.tech](https://github.com/beffroi-auth/docs/pull/9) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (4 days ago)
-- [The secret that binds the data keys, the hint of a pairwise client, and the request objects a client is held to sign](https://github.com/beffroi-auth/docs/pull/8) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
