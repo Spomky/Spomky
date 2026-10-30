@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Behind a proxy that terminates TLS, the site of SERVER_NAME on plain HTTP, the proxies Symfony trusts and the address of the client](https://github.com/beffroi-auth/docs/pull/13) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [Every variable of the image, the value it takes there and its bounds, and whole deployments written with them](https://github.com/beffroi-auth/docs/pull/11) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
 - [[KeyManagement] Rewrap data keys through wrapDataKey(), not encrypt()](https://github.com/symfony/symfony/pull/67562) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - [[KeyManagement] Bring the docs in line with the component](https://github.com/symfony/symfony-docs/pull/23438) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [The runner runs as the docker user, uid 1001, with RUNNER_DIR too](https://github.com/Spomky-Labs/gh-runner/pull/3) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (4 days ago)
 - [The site is served at doc.beffroi.tech](https://github.com/beffroi-auth/docs/pull/9) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (4 days ago)
 - [The secret that binds the data keys, the hint of a pairwise client, and the request objects a client is held to sign](https://github.com/beffroi-auth/docs/pull/8) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (4 days ago)
-- [Labels, a token file, a host directory for container jobs, and a runner removed when it stops](https://github.com/Spomky-Labs/gh-runner/pull/2) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
