@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/aws-key-management](https://github.com/symfony/aws-key-management) - Symfony AWS Key Management Bridge (3 days ago)
-- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (3 days ago)
-- [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (3 days ago)
-- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (3 days ago)
-- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (3 days ago)
-- [symfony/scaleway-key-management](https://github.com/symfony/scaleway-key-management) - Symfony Scaleway Key Management Bridge (3 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
-- [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) - A container image for a self-hosted GitHub Actions runner. (4 days ago)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (4 days ago)
-- [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework. (5 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
+- [symfony/aws-key-management](https://github.com/symfony/aws-key-management) - Symfony AWS Key Management Bridge (4 days ago)
+- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (4 days ago)
+- [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (4 days ago)
+- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (4 days ago)
+- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (4 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
+- [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) - A container image for a self-hosted GitHub Actions runner. (5 days ago)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (5 days ago)
+- [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework. (6 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [ci: make ECS, Rector and PHPStan pass with the updated phpqa image](https://github.com/web-token/jwt-framework/pull/741) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(encryption): HPKE for JWE — Integrated Encryption and Key Encryption (draft-ietf-jose-hpke-encrypt)](https://github.com/web-token/jwt-framework/pull/740) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(bundle): load the profiled keys when collecting and report the failures](https://github.com/web-token/jwt-framework/pull/739) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Behind a proxy that terminates TLS, the site of SERVER_NAME on plain HTTP, the proxies Symfony trusts and the address of the client](https://github.com/beffroi-auth/docs/pull/13) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [Every variable of the image, the value it takes there and its bounds, and whole deployments written with them](https://github.com/beffroi-auth/docs/pull/11) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
-- [[KeyManagement] Rewrap data keys through wrapDataKey(), not encrypt()](https://github.com/symfony/symfony/pull/67562) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- [[KeyManagement] Bring the docs in line with the component](https://github.com/symfony/symfony-docs/pull/23438) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- [A Docker daemon of the container's own when the host's socket is not mounted](https://github.com/Spomky-Labs/gh-runner/pull/5) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (4 days ago)
-- [Publish the container for linux/arm64 too, each platform built natively](https://github.com/laminas/automatic-releases/pull/312) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (4 days ago)
-- [The GitHub CLI, the Compose and Buildx plugins of Docker, and passwordless sudo for the runner user](https://github.com/Spomky-Labs/gh-runner/pull/4) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (4 days ago)
+- [ci: mutation testing on the lines of the diff only, for pull requests and pushes](https://github.com/web-token/jwt-framework/pull/748) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(sd-jwt): Selective Disclosure for JWTs, the Issuer, Holder and Verifier roles (RFC 9901)](https://github.com/web-token/jwt-framework/pull/742) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [ci: make ECS, Rector and PHPStan pass with the updated phpqa image](https://github.com/web-token/jwt-framework/pull/741) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(encryption): HPKE for JWE — Integrated Encryption and Key Encryption (draft-ietf-jose-hpke-encrypt)](https://github.com/web-token/jwt-framework/pull/740) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(bundle): load the profiled keys when collecting and report the failures](https://github.com/web-token/jwt-framework/pull/739) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [Behind a proxy that terminates TLS, the site of SERVER_NAME on plain HTTP, the proxies Symfony trusts and the address of the client](https://github.com/beffroi-auth/docs/pull/13) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [Every variable of the image, the value it takes there and its bounds, and whole deployments written with them](https://github.com/beffroi-auth/docs/pull/11) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (3 days ago)
+- [[KeyManagement] Rewrap data keys through wrapDataKey(), not encrypt()](https://github.com/symfony/symfony/pull/67562) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- [[KeyManagement] Bring the docs in line with the component](https://github.com/symfony/symfony-docs/pull/23438) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- [A Docker daemon of the container's own when the host's socket is not mounted](https://github.com/Spomky-Labs/gh-runner/pull/5) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.7.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.7.0), 1 day ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 2 days ago) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.10](https://github.com/symfony/framework-bundle/releases/tag/v8.1.10), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.10](https://github.com/symfony/security-core/releases/tag/v8.1.10), 2 days ago) - Symfony Security Component - Core Library
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.10](https://github.com/symfony/security-http/releases/tag/v8.1.10), 2 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.10](https://github.com/symfony/security-bundle/releases/tag/v8.1.10), 2 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/console](https://github.com/symfony/console) ([v8.1.10](https://github.com/symfony/console/releases/tag/v8.1.10), 2 days ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.10](https://github.com/symfony/mailer/releases/tag/v8.1.10), 2 days ago) - Helps sending emails
-- [symfony/mime](https://github.com/symfony/mime) ([v8.1.10](https://github.com/symfony/mime/releases/tag/v8.1.10), 2 days ago) - Allows manipulating MIME messages
-- [symfony/validator](https://github.com/symfony/validator) ([v8.1.10](https://github.com/symfony/validator/releases/tag/v8.1.10), 2 days ago) - Provides tools to validate values
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.4](https://github.com/web-token/jwt-framework/releases/tag/4.2.4), 1 day ago) - JSON Web Tokens: JWS, JWE and JWK.
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.7.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.7.0), 2 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 3 days ago) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.10](https://github.com/symfony/framework-bundle/releases/tag/v8.1.10), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.10](https://github.com/symfony/security-core/releases/tag/v8.1.10), 3 days ago) - Symfony Security Component - Core Library
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.10](https://github.com/symfony/security-http/releases/tag/v8.1.10), 3 days ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.10](https://github.com/symfony/security-bundle/releases/tag/v8.1.10), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/console](https://github.com/symfony/console) ([v8.1.10](https://github.com/symfony/console/releases/tag/v8.1.10), 3 days ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.10](https://github.com/symfony/mailer/releases/tag/v8.1.10), 3 days ago) - Helps sending emails
+- [symfony/mime](https://github.com/symfony/mime) ([v8.1.10](https://github.com/symfony/mime/releases/tag/v8.1.10), 3 days ago) - Allows manipulating MIME messages
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
