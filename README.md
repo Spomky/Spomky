@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [4.3: Selective Disclosure for JWTs (SD-JWT)](https://github.com/web-token/jwt-doc/pull/63) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
 - [ci: mutation testing on the lines of the diff only, for pull requests and pushes](https://github.com/web-token/jwt-framework/pull/748) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [feat(sd-jwt): Selective Disclosure for JWTs, the Issuer, Holder and Verifier roles (RFC 9901)](https://github.com/web-token/jwt-framework/pull/742) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [ci: make ECS, Rector and PHPStan pass with the updated phpqa image](https://github.com/web-token/jwt-framework/pull/741) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Every variable of the image, the value it takes there and its bounds, and whole deployments written with them](https://github.com/beffroi-auth/docs/pull/11) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (3 days ago)
 - [[KeyManagement] Rewrap data keys through wrapDataKey(), not encrypt()](https://github.com/symfony/symfony/pull/67562) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - [[KeyManagement] Bring the docs in line with the component](https://github.com/symfony/symfony-docs/pull/23438) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
-- [A Docker daemon of the container's own when the host's socket is not mounted](https://github.com/Spomky-Labs/gh-runner/pull/5) on [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
