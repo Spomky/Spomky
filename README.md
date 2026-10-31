@@ -37,29 +37,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
+- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (today)
 - [symfony/aws-key-management](https://github.com/symfony/aws-key-management) - Symfony AWS Key Management Bridge (4 days ago)
 - [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (4 days ago)
 - [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (4 days ago)
 - [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (4 days ago)
 - [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
-- [Spomky-Labs/gh-runner](https://github.com/Spomky-Labs/gh-runner) - A container image for a self-hosted GitHub Actions runner. (5 days ago)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (5 days ago)
-- [Spomky-Labs/access-control-doc](https://github.com/Spomky-Labs/access-control-doc) - Documentation of the Access Control framework. (6 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [4.3: Selective Disclosure for JWTs (SD-JWT)](https://github.com/web-token/jwt-doc/pull/63) on [web-token/jwt-doc](https://github.com/web-token/jwt-doc) (today)
-- [ci: mutation testing on the lines of the diff only, for pull requests and pushes](https://github.com/web-token/jwt-framework/pull/748) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [feat(sd-jwt): Selective Disclosure for JWTs, the Issuer, Holder and Verifier roles (RFC 9901)](https://github.com/web-token/jwt-framework/pull/742) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [ci: make ECS, Rector and PHPStan pass with the updated phpqa image](https://github.com/web-token/jwt-framework/pull/741) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [feat(encryption): HPKE for JWE — Integrated Encryption and Key Encryption (draft-ietf-jose-hpke-encrypt)](https://github.com/web-token/jwt-framework/pull/740) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [fix(bundle): load the profiled keys when collecting and report the failures](https://github.com/web-token/jwt-framework/pull/739) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [Behind a proxy that terminates TLS, the site of SERVER_NAME on plain HTTP, the proxies Symfony trusts and the address of the client](https://github.com/beffroi-auth/docs/pull/13) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [Every variable of the image, the value it takes there and its bounds, and whole deployments written with them](https://github.com/beffroi-auth/docs/pull/11) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (3 days ago)
-- [[KeyManagement] Rewrap data keys through wrapDataKey(), not encrypt()](https://github.com/symfony/symfony/pull/67562) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- [[KeyManagement] Bring the docs in line with the component](https://github.com/symfony/symfony-docs/pull/23438) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- [ci: adapt the QA configuration to the current phpqa tools](https://github.com/Spomky-Labs/otphp/pull/298) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
+- [chore(security): add the OSS Scanner build and threat model](https://github.com/Spomky-Labs/pki-framework/pull/125) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [chore(security): add the OSS Scanner build and threat model](https://github.com/web-token/jwt-framework/pull/751) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [Enrol otphp](https://github.com/anthropics/oss-scanner/pull/1256) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (today)
+- [chore(security): add the OSS Scanner build and threat model](https://github.com/web-auth/cose-lib/pull/229) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [chore(security): add the OSS Scanner build and threat model](https://github.com/Spomky-Labs/cbor-php/pull/180) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [chore(security): add the OSS Scanner build and threat model](https://github.com/Spomky-Labs/otphp/pull/297) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
+- [Enrol webauthn-framework](https://github.com/anthropics/oss-scanner/pull/1255) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (today)
+- [fix(denormalizer): reject malformed response objects and mistyped credential members](https://github.com/web-auth/webauthn-framework/pull/982) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [fix(assertion)!: reject assertions that change the backup eligibility of a credential](https://github.com/web-auth/webauthn-framework/pull/981) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 
 #### 🔭 Latest releases I've contributed to
 
