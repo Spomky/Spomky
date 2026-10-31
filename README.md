@@ -37,32 +37,33 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (today)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (today)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (today)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (today)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (today)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
 - [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (today)
 - [symfony/aws-key-management](https://github.com/symfony/aws-key-management) - Symfony AWS Key Management Bridge (4 days ago)
 - [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (4 days ago)
 - [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) - Symfony Google Cloud Key Management Bridge (4 days ago)
-- [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) - Symfony HashiCorp Vault Key Management Bridge (4 days ago)
-- [symfony/key-management](https://github.com/symfony/key-management) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface (4 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Enrol aes-key-wrap](https://github.com/anthropics/oss-scanner/pull/1263) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (today)
+- [ci: repair the 1.7.x pipeline](https://github.com/Spomky-Labs/pki-framework/pull/126) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
+- [chore(security): add the OSS Scanner build, threat model and security policy](https://github.com/Spomky-Labs/aes-key-wrap/pull/15) on [Spomky-Labs/aes-key-wrap](https://github.com/Spomky-Labs/aes-key-wrap) (today)
+- [Enrol pki-framework](https://github.com/anthropics/oss-scanner/pull/1261) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (today)
+- [Enrol jwt-framework](https://github.com/anthropics/oss-scanner/pull/1260) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (today)
+- [Enrol cbor-php](https://github.com/anthropics/oss-scanner/pull/1259) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (today)
+- [Enrol cose-lib](https://github.com/anthropics/oss-scanner/pull/1258) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (today)
+- [ci: green 4.9.x again with PHPStan 2.3.2 and Rector 2.7.0](https://github.com/web-auth/cose-lib/pull/230) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
+- [fix(stream): drop readonly so StringStream parses on PHP 8.0](https://github.com/Spomky-Labs/cbor-php/pull/181) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
 - [ci: adapt the QA configuration to the current phpqa tools](https://github.com/Spomky-Labs/otphp/pull/298) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
-- [chore(security): add the OSS Scanner build and threat model](https://github.com/Spomky-Labs/pki-framework/pull/125) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (today)
-- [chore(security): add the OSS Scanner build and threat model](https://github.com/web-token/jwt-framework/pull/751) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [Enrol otphp](https://github.com/anthropics/oss-scanner/pull/1256) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (today)
-- [chore(security): add the OSS Scanner build and threat model](https://github.com/web-auth/cose-lib/pull/229) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (today)
-- [chore(security): add the OSS Scanner build and threat model](https://github.com/Spomky-Labs/cbor-php/pull/180) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [chore(security): add the OSS Scanner build and threat model](https://github.com/Spomky-Labs/otphp/pull/297) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
-- [Enrol webauthn-framework](https://github.com/anthropics/oss-scanner/pull/1255) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (today)
-- [fix(denormalizer): reject malformed response objects and mistyped credential members](https://github.com/web-auth/webauthn-framework/pull/982) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [fix(assertion)!: reject assertions that change the backup eligibility of a credential](https://github.com/web-auth/webauthn-framework/pull/981) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.10](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.10), today) - WebAuthn and passkeys for PHP and Symfony.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.4](https://github.com/web-token/jwt-framework/releases/tag/4.2.4), 1 day ago) - JSON Web Tokens: JWS, JWE and JWK.
 - [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.7.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.7.0), 2 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 3 days ago) - The Symfony PHP framework
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.10](https://github.com/symfony/security-bundle/releases/tag/v8.1.10), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/console](https://github.com/symfony/console) ([v8.1.10](https://github.com/symfony/console/releases/tag/v8.1.10), 3 days ago) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.10](https://github.com/symfony/mailer/releases/tag/v8.1.10), 3 days ago) - Helps sending emails
-- [symfony/mime](https://github.com/symfony/mime) ([v8.1.10](https://github.com/symfony/mime/releases/tag/v8.1.10), 3 days ago) - Allows manipulating MIME messages
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
