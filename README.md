@@ -37,29 +37,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (today)
 - [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (1 day ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (3 days ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (3 days ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (3 days ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (3 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (3 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (3 days ago)
 - [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (3 days ago)
 - [symfony/aws-key-management](https://github.com/symfony/aws-key-management) - Symfony AWS Key Management Bridge (1 week ago)
-- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) - Symfony Azure Key Vault Key Management Bridge (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
+- [fix(client-data): bind the client data type to the ceremony](https://github.com/web-auth/webauthn-framework/pull/997) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [fix(denormalizer): reject a public key credential whose type is not public-key](https://github.com/web-auth/webauthn-framework/pull/996) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [ci: remove the OpenSSF Scorecard workflow](https://github.com/web-auth/webauthn-framework/pull/995) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [fix(denormalizer): decode authenticatorData, signature and userHandle as base64url only](https://github.com/web-auth/webauthn-framework/pull/993) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [fix(client-data): refuse a malformed tokenBinding member](https://github.com/web-auth/webauthn-framework/pull/992) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [ci: skip EventSubscriberToAttributeRector to keep the Rector job green](https://github.com/web-auth/webauthn-framework/pull/991) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Enrol aes-key-wrap](https://github.com/anthropics/oss-scanner/pull/1263) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (3 days ago)
 - [ci: repair the 1.7.x pipeline](https://github.com/Spomky-Labs/pki-framework/pull/126) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 days ago)
 - [chore(security): add the OSS Scanner build, threat model and security policy](https://github.com/Spomky-Labs/aes-key-wrap/pull/15) on [Spomky-Labs/aes-key-wrap](https://github.com/Spomky-Labs/aes-key-wrap) (3 days ago)
 - [Enrol pki-framework](https://github.com/anthropics/oss-scanner/pull/1261) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (3 days ago)
-- [Enrol jwt-framework](https://github.com/anthropics/oss-scanner/pull/1260) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (3 days ago)
-- [Enrol cbor-php](https://github.com/anthropics/oss-scanner/pull/1259) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (3 days ago)
-- [Enrol cose-lib](https://github.com/anthropics/oss-scanner/pull/1258) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (3 days ago)
-- [ci: green 4.9.x again with PHPStan 2.3.2 and Rector 2.7.0](https://github.com/web-auth/cose-lib/pull/230) on [web-auth/cose-lib](https://github.com/web-auth/cose-lib) (3 days ago)
-- [fix(stream): drop readonly so StringStream parses on PHP 8.0](https://github.com/Spomky-Labs/cbor-php/pull/181) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (3 days ago)
-- [ci: adapt the QA configuration to the current phpqa tools](https://github.com/Spomky-Labs/otphp/pull/298) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
