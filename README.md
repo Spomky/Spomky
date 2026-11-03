@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [The provider is one application, and the pages of its integration are pages of the application](https://github.com/beffroi-auth/docs/pull/19) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [A refusal of UserInfo is challenged under the scheme the token was presented under, and every challenge under DPoP names the algorithms a proof may be signed with](https://github.com/beffroi-auth/docs/pull/18) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [fix(tpm): verify a TPM attestation signed with SHA-1 when the application asks for it](https://github.com/web-auth/webauthn-framework/pull/1000) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix(client-data): bind the client data type to the ceremony](https://github.com/web-auth/webauthn-framework/pull/997) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix(client-data): refuse a malformed tokenBinding member](https://github.com/web-auth/webauthn-framework/pull/992) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [ci: skip EventSubscriberToAttributeRector to keep the Rector job green](https://github.com/web-auth/webauthn-framework/pull/991) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Enrol aes-key-wrap](https://github.com/anthropics/oss-scanner/pull/1263) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (3 days ago)
-- [ci: repair the 1.7.x pipeline](https://github.com/Spomky-Labs/pki-framework/pull/126) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
