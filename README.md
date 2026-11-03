@@ -50,6 +50,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [A refusal of UserInfo is challenged under the scheme the token was presented under, and every challenge under DPoP names the algorithms a proof may be signed with](https://github.com/beffroi-auth/docs/pull/18) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [fix(tpm): verify a TPM attestation signed with SHA-1 when the application asks for it](https://github.com/web-auth/webauthn-framework/pull/1000) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix(client-data): bind the client data type to the ceremony](https://github.com/web-auth/webauthn-framework/pull/997) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [fix(denormalizer): reject a public key credential whose type is not public-key](https://github.com/web-auth/webauthn-framework/pull/996) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [ci: remove the OpenSSF Scorecard workflow](https://github.com/web-auth/webauthn-framework/pull/995) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
@@ -58,12 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [ci: skip EventSubscriberToAttributeRector to keep the Rector job green](https://github.com/web-auth/webauthn-framework/pull/991) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Enrol aes-key-wrap](https://github.com/anthropics/oss-scanner/pull/1263) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (3 days ago)
 - [ci: repair the 1.7.x pipeline](https://github.com/Spomky-Labs/pki-framework/pull/126) on [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) (3 days ago)
-- [chore(security): add the OSS Scanner build, threat model and security policy](https://github.com/Spomky-Labs/aes-key-wrap/pull/15) on [Spomky-Labs/aes-key-wrap](https://github.com/Spomky-Labs/aes-key-wrap) (3 days ago)
-- [Enrol pki-framework](https://github.com/anthropics/oss-scanner/pull/1261) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.10](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.10), 3 days ago) - WebAuthn and passkeys for PHP and Symfony.
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.12](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.12), today) - WebAuthn and passkeys for PHP and Symfony.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.4](https://github.com/web-token/jwt-framework/releases/tag/4.2.4), 4 days ago) - JSON Web Tokens: JWS, JWE and JWK.
 - [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.7.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.7.0), 5 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 6 days ago) - The Symfony PHP framework
