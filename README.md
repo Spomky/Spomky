@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (today)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the identity core, OAuth 2.0 and OpenID Connect, the Symfony bundle and the standalone application. A static site on GitHub Pages, one branch per version. (1 day ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (3 days ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (3 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (3 days ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (3 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (3 days ago)
-- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (3 days ago)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (1 day ago)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (1 day ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (4 days ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (4 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (4 days ago)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (4 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (4 days ago)
+- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (4 days ago)
 - [symfony/aws-key-management](https://github.com/symfony/aws-key-management) - Symfony AWS Key Management Bridge (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [The provider is one application, and the pages of its integration are pages of the application](https://github.com/beffroi-auth/docs/pull/19) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [A refusal of UserInfo is challenged under the scheme the token was presented under, and every challenge under DPoP names the algorithms a proof may be signed with](https://github.com/beffroi-auth/docs/pull/18) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [fix(tpm): verify a TPM attestation signed with SHA-1 when the application asks for it](https://github.com/web-auth/webauthn-framework/pull/1000) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [fix(client-data): bind the client data type to the ceremony](https://github.com/web-auth/webauthn-framework/pull/997) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [fix(denormalizer): reject a public key credential whose type is not public-key](https://github.com/web-auth/webauthn-framework/pull/996) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [ci: remove the OpenSSF Scorecard workflow](https://github.com/web-auth/webauthn-framework/pull/995) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [fix(denormalizer): decode authenticatorData, signature and userHandle as base64url only](https://github.com/web-auth/webauthn-framework/pull/993) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [fix(client-data): refuse a malformed tokenBinding member](https://github.com/web-auth/webauthn-framework/pull/992) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [ci: skip EventSubscriberToAttributeRector to keep the Rector job green](https://github.com/web-auth/webauthn-framework/pull/991) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [Enrol aes-key-wrap](https://github.com/anthropics/oss-scanner/pull/1263) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (3 days ago)
+- [The provider is one application, and the pages of its integration are pages of the application](https://github.com/beffroi-auth/docs/pull/19) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [A refusal of UserInfo is challenged under the scheme the token was presented under, and every challenge under DPoP names the algorithms a proof may be signed with](https://github.com/beffroi-auth/docs/pull/18) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [fix(tpm): verify a TPM attestation signed with SHA-1 when the application asks for it](https://github.com/web-auth/webauthn-framework/pull/1000) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [fix(client-data): bind the client data type to the ceremony](https://github.com/web-auth/webauthn-framework/pull/997) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [fix(denormalizer): reject a public key credential whose type is not public-key](https://github.com/web-auth/webauthn-framework/pull/996) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [ci: remove the OpenSSF Scorecard workflow](https://github.com/web-auth/webauthn-framework/pull/995) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [fix(denormalizer): decode authenticatorData, signature and userHandle as base64url only](https://github.com/web-auth/webauthn-framework/pull/993) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [fix(client-data): refuse a malformed tokenBinding member](https://github.com/web-auth/webauthn-framework/pull/992) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [ci: skip EventSubscriberToAttributeRector to keep the Rector job green](https://github.com/web-auth/webauthn-framework/pull/991) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [Enrol aes-key-wrap](https://github.com/anthropics/oss-scanner/pull/1263) on [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.12](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.12), today) - WebAuthn and passkeys for PHP and Symfony.
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.4](https://github.com/web-token/jwt-framework/releases/tag/4.2.4), 4 days ago) - JSON Web Tokens: JWS, JWE and JWK.
-- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.7.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.7.0), 5 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 6 days ago) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.10](https://github.com/symfony/framework-bundle/releases/tag/v8.1.10), 6 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.10](https://github.com/symfony/security-core/releases/tag/v8.1.10), 6 days ago) - Symfony Security Component - Core Library
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.10](https://github.com/symfony/security-http/releases/tag/v8.1.10), 6 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.10](https://github.com/symfony/security-bundle/releases/tag/v8.1.10), 6 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/console](https://github.com/symfony/console) ([v8.1.10](https://github.com/symfony/console/releases/tag/v8.1.10), 6 days ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.10](https://github.com/symfony/mailer/releases/tag/v8.1.10), 6 days ago) - Helps sending emails
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.12](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.12), 1 day ago) - WebAuthn and passkeys for PHP and Symfony.
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.4](https://github.com/web-token/jwt-framework/releases/tag/4.2.4), 5 days ago) - JSON Web Tokens: JWS, JWE and JWK.
+- [leo-gan/GLD.SerializerBenchmark](https://github.com/leo-gan/GLD.SerializerBenchmark) ([v0.7.0](https://github.com/leo-gan/GLD.SerializerBenchmark/releases/tag/v0.7.0), 6 days ago) - Serialization benchmarks (14 languages, ~20 standards, ~300 serializers), Compliance tests, Serialization 101–401 courses
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 1 week ago) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.1.10](https://github.com/symfony/framework-bundle/releases/tag/v8.1.10), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.10](https://github.com/symfony/security-core/releases/tag/v8.1.10), 1 week ago) - Symfony Security Component - Core Library
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.1.10](https://github.com/symfony/security-http/releases/tag/v8.1.10), 1 week ago) - Symfony Security Component - HTTP Integration
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.1.10](https://github.com/symfony/security-bundle/releases/tag/v8.1.10), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/console](https://github.com/symfony/console) ([v8.1.10](https://github.com/symfony/console/releases/tag/v8.1.10), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.1.10](https://github.com/symfony/mailer/releases/tag/v8.1.10), 1 week ago) - Helps sending emails
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
