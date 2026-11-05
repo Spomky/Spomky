@@ -37,19 +37,21 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (today)
+- [web-auth/webauthn-demos](https://github.com/web-auth/webauthn-demos) - Runnable demos of WebAuthn Framework: passkeys, usernameless, passkey upgrade, Signal API and extensions. (today)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
 - [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (1 day ago)
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (2 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (2 days ago)
 - [Spomky-Labs/aes-key-wrap](https://github.com/Spomky-Labs/aes-key-wrap) - AES key wrapping for PHP, RFC 3394 and RFC 5649. (5 days ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (5 days ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (5 days ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (5 days ago)
 - [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) -  (5 days ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (5 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (5 days ago)
 
 #### 🔨 My recent Pull Requests
 
+- [ci: skip EventSubscriberToAttributeRector on the 4.2 line](https://github.com/web-token/jwt-framework/pull/753) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(signature): a payload member that is present but empty is not a detached payload](https://github.com/web-token/jwt-framework/pull/752) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [docs: the issuer of the tenant is an origin, an issuer with a path is refused, and the choice of a theme is a route of the interaction plane](https://github.com/beffroi-auth/docs/pull/23) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
 - [Every example is what a deployment of the image writes, and the statements the code contradicted say what it holds](https://github.com/beffroi-auth/docs/pull/22) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
 - [The provider is one application, and the pages of its integration are pages of the application](https://github.com/beffroi-auth/docs/pull/19) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
@@ -58,11 +60,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix(client-data): bind the client data type to the ceremony](https://github.com/web-auth/webauthn-framework/pull/997) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [fix(denormalizer): reject a public key credential whose type is not public-key](https://github.com/web-auth/webauthn-framework/pull/996) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 - [ci: remove the OpenSSF Scorecard workflow](https://github.com/web-auth/webauthn-framework/pull/995) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [fix(denormalizer): decode authenticatorData, signature and userHandle as base64url only](https://github.com/web-auth/webauthn-framework/pull/993) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [fix(client-data): refuse a malformed tokenBinding member](https://github.com/web-auth/webauthn-framework/pull/992) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.5](https://github.com/web-token/jwt-framework/releases/tag/4.2.5), today) - JSON Web Tokens: JWS, JWE and JWK.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 1 day ago) - The Symfony PHP framework
 - [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) ([v8.2.0-BETA1](https://github.com/symfony/azure-keyvault-key-management/releases/tag/v8.2.0-BETA1), 1 day ago) - Symfony Azure Key Vault Key Management Bridge
 - [symfony/flysystem-key-management](https://github.com/symfony/flysystem-key-management) ([v8.2.0-BETA1](https://github.com/symfony/flysystem-key-management/releases/tag/v8.2.0-BETA1), 1 day ago) - Symfony Flysystem Key Management Bridge
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA1](https://github.com/symfony/console/releases/tag/v8.2.0-BETA1), 1 day ago) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-dbal-key-management/releases/tag/v8.2.0-BETA1), 1 day ago) - Symfony Doctrine DBAL Key Management Bridge
 - [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-BETA1](https://github.com/symfony/key-management/releases/tag/v8.2.0-BETA1), 1 day ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.2.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v8.2.0-BETA1), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
