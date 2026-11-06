@@ -37,32 +37,33 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-php-doc](https://github.com/Spomky-Labs/cbor-php-doc) - The documentation of CBOR PHP, published at cbor.spomky-labs.com (today)
+- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (today)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (today)
 - [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (today)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (1 day ago)
-- [web-auth/webauthn-demos](https://github.com/web-auth/webauthn-demos) - Runnable demos of WebAuthn Framework: passkeys, usernameless, passkey upgrade, Signal API and extensions. (1 day ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 day ago)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (2 days ago)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (3 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (3 days ago)
-- [Spomky-Labs/aes-key-wrap](https://github.com/Spomky-Labs/aes-key-wrap) - AES key wrapping for PHP, RFC 3394 and RFC 5649. (6 days ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (6 days ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (today)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (today)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - Progressive web apps for Symfony: manifest, service worker and offline support. (today)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - Web push notifications for PHP and Symfony. (today)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (today)
+- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (today)
 
 #### 🔨 My recent Pull Requests
 
-- [The documentation moves to cbor.spomky-labs.com (4.0)](https://github.com/Spomky-Labs/cbor-bundle/pull/92) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
-- [The documentation moves to cbor.spomky-labs.com (3.2)](https://github.com/Spomky-Labs/cbor-bundle/pull/91) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
-- [The documentation moves to cbor.spomky-labs.com (3.1)](https://github.com/Spomky-Labs/cbor-bundle/pull/90) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
-- [The documentation moves to cbor.spomky-labs.com (4.0)](https://github.com/Spomky-Labs/cbor-php/pull/188) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [The documentation moves to cbor.spomky-labs.com (3.5)](https://github.com/Spomky-Labs/cbor-php/pull/187) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [The documentation moves to cbor.spomky-labs.com (3.4)](https://github.com/Spomky-Labs/cbor-php/pull/186) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [The documentation moves to cbor.spomky-labs.com (3.3)](https://github.com/Spomky-Labs/cbor-php/pull/185) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
-- [CBOR PHP has a documentation site](https://github.com/Spomky-Labs/docs/pull/10) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
-- [PKI Framework has a documentation site](https://github.com/Spomky-Labs/docs/pull/9) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
-- [ci: skip EventSubscriberToAttributeRector on the 4.2 line](https://github.com/web-token/jwt-framework/pull/753) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix: the theme a reader picks follows them across the whole site](https://github.com/Spomky-Labs/docs/pull/34) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [fix: the cards come back, and a block on a dark ground is a Schiste surface](https://github.com/Spomky-Labs/docs/pull/33) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [docs: the record says what is true today](https://github.com/Spomky-Labs/docs/pull/32) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [chore: the nine repositories are gone, and nothing points at them any more](https://github.com/Spomky-Labs/docs/pull/31) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [docs: the navigation folds again, the cards are styled again, the legal links lead somewhere](https://github.com/Spomky-Labs/docs/pull/30) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [chore: every documentation lives here](https://github.com/Spomky-Labs/docs/pull/29) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [docs: the former domains keep the paths they published](https://github.com/Spomky-Labs/docs/pull/21) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [docs: the sections of the navigation fold](https://github.com/Spomky-Labs/docs/pull/20) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [docs: the documentation is at docs.spomky-labs.com/jwt/](https://github.com/web-token/jwt-framework/pull/755) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [docs: the documentation is at docs.spomky-labs.com/webauthn/](https://github.com/web-auth/webauthn-framework/pull/1006) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.5](https://github.com/web-token/jwt-framework/releases/tag/4.2.5), 1 day ago) - JSON Web Tokens: JWS, JWE and JWK.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 2 days ago) - The Symfony PHP framework
 - [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) ([v8.2.0-BETA1](https://github.com/symfony/azure-keyvault-key-management/releases/tag/v8.2.0-BETA1), 2 days ago) - Symfony Azure Key Vault Key Management Bridge
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/web-link](https://github.com/symfony/web-link) ([v8.2.0-BETA1](https://github.com/symfony/web-link/releases/tag/v8.2.0-BETA1), 2 days ago) - Manages links between resources
 - [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA1](https://github.com/symfony/console/releases/tag/v8.2.0-BETA1), 2 days ago) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-dbal-key-management/releases/tag/v8.2.0-BETA1), 2 days ago) - Symfony Doctrine DBAL Key Management Bridge
-- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-BETA1](https://github.com/symfony/key-management/releases/tag/v8.2.0-BETA1), 2 days ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
