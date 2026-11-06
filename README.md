@@ -37,6 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/cbor-php-doc](https://github.com/Spomky-Labs/cbor-php-doc) - The documentation of CBOR PHP, published at cbor.spomky-labs.com (today)
+- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (today)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (1 day ago)
 - [web-auth/webauthn-demos](https://github.com/web-auth/webauthn-demos) - Runnable demos of WebAuthn Framework: passkeys, usernameless, passkey upgrade, Signal API and extensions. (1 day ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 day ago)
@@ -45,21 +47,19 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (3 days ago)
 - [Spomky-Labs/aes-key-wrap](https://github.com/Spomky-Labs/aes-key-wrap) - AES key wrapping for PHP, RFC 3394 and RFC 5649. (6 days ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (6 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (6 days ago)
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) -  (6 days ago)
 
 #### 🔨 My recent Pull Requests
 
+- [The documentation moves to cbor.spomky-labs.com (4.0)](https://github.com/Spomky-Labs/cbor-bundle/pull/92) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
+- [The documentation moves to cbor.spomky-labs.com (3.2)](https://github.com/Spomky-Labs/cbor-bundle/pull/91) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
+- [The documentation moves to cbor.spomky-labs.com (3.1)](https://github.com/Spomky-Labs/cbor-bundle/pull/90) on [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) (today)
+- [The documentation moves to cbor.spomky-labs.com (4.0)](https://github.com/Spomky-Labs/cbor-php/pull/188) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [The documentation moves to cbor.spomky-labs.com (3.5)](https://github.com/Spomky-Labs/cbor-php/pull/187) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [The documentation moves to cbor.spomky-labs.com (3.4)](https://github.com/Spomky-Labs/cbor-php/pull/186) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [The documentation moves to cbor.spomky-labs.com (3.3)](https://github.com/Spomky-Labs/cbor-php/pull/185) on [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) (today)
+- [CBOR PHP has a documentation site](https://github.com/Spomky-Labs/docs/pull/10) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [PKI Framework has a documentation site](https://github.com/Spomky-Labs/docs/pull/9) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
 - [ci: skip EventSubscriberToAttributeRector on the 4.2 line](https://github.com/web-token/jwt-framework/pull/753) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [fix(signature): a payload member that is present but empty is not a detached payload](https://github.com/web-token/jwt-framework/pull/752) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [docs: the issuer of the tenant is an origin, an issuer with a path is refused, and the choice of a theme is a route of the interaction plane](https://github.com/beffroi-auth/docs/pull/23) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
-- [Every example is what a deployment of the image writes, and the statements the code contradicted say what it holds](https://github.com/beffroi-auth/docs/pull/22) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
-- [The provider is one application, and the pages of its integration are pages of the application](https://github.com/beffroi-auth/docs/pull/19) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (3 days ago)
-- [A refusal of UserInfo is challenged under the scheme the token was presented under, and every challenge under DPoP names the algorithms a proof may be signed with](https://github.com/beffroi-auth/docs/pull/18) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (3 days ago)
-- [fix(tpm): verify a TPM attestation signed with SHA-1 when the application asks for it](https://github.com/web-auth/webauthn-framework/pull/1000) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [fix(client-data): bind the client data type to the ceremony](https://github.com/web-auth/webauthn-framework/pull/997) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [fix(denormalizer): reject a public key credential whose type is not public-key](https://github.com/web-auth/webauthn-framework/pull/996) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
-- [ci: remove the OpenSSF Scorecard workflow](https://github.com/web-auth/webauthn-framework/pull/995) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
