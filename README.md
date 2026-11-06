@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (today)
-- [web-auth/webauthn-demos](https://github.com/web-auth/webauthn-demos) - Runnable demos of WebAuthn Framework: passkeys, usernameless, passkey upgrade, Signal API and extensions. (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (1 day ago)
-- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (2 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (2 days ago)
-- [Spomky-Labs/aes-key-wrap](https://github.com/Spomky-Labs/aes-key-wrap) - AES key wrapping for PHP, RFC 3394 and RFC 5649. (5 days ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (5 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (5 days ago)
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) -  (5 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (1 day ago)
+- [web-auth/webauthn-demos](https://github.com/web-auth/webauthn-demos) - Runnable demos of WebAuthn Framework: passkeys, usernameless, passkey upgrade, Signal API and extensions. (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 day ago)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (2 days ago)
+- [web-auth/doc](https://github.com/web-auth/doc) - Documentation of WebAuthn Framework. (3 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (3 days ago)
+- [Spomky-Labs/aes-key-wrap](https://github.com/Spomky-Labs/aes-key-wrap) - AES key wrapping for PHP, RFC 3394 and RFC 5649. (6 days ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (6 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (6 days ago)
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) -  (6 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [ci: skip EventSubscriberToAttributeRector on the 4.2 line](https://github.com/web-token/jwt-framework/pull/753) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(signature): a payload member that is present but empty is not a detached payload](https://github.com/web-token/jwt-framework/pull/752) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [docs: the issuer of the tenant is an origin, an issuer with a path is refused, and the choice of a theme is a route of the interaction plane](https://github.com/beffroi-auth/docs/pull/23) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [Every example is what a deployment of the image writes, and the statements the code contradicted say what it holds](https://github.com/beffroi-auth/docs/pull/22) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [The provider is one application, and the pages of its integration are pages of the application](https://github.com/beffroi-auth/docs/pull/19) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
-- [A refusal of UserInfo is challenged under the scheme the token was presented under, and every challenge under DPoP names the algorithms a proof may be signed with](https://github.com/beffroi-auth/docs/pull/18) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
-- [fix(tpm): verify a TPM attestation signed with SHA-1 when the application asks for it](https://github.com/web-auth/webauthn-framework/pull/1000) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [fix(client-data): bind the client data type to the ceremony](https://github.com/web-auth/webauthn-framework/pull/997) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [fix(denormalizer): reject a public key credential whose type is not public-key](https://github.com/web-auth/webauthn-framework/pull/996) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [ci: remove the OpenSSF Scorecard workflow](https://github.com/web-auth/webauthn-framework/pull/995) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
+- [ci: skip EventSubscriberToAttributeRector on the 4.2 line](https://github.com/web-token/jwt-framework/pull/753) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(signature): a payload member that is present but empty is not a detached payload](https://github.com/web-token/jwt-framework/pull/752) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [docs: the issuer of the tenant is an origin, an issuer with a path is refused, and the choice of a theme is a route of the interaction plane](https://github.com/beffroi-auth/docs/pull/23) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
+- [Every example is what a deployment of the image writes, and the statements the code contradicted say what it holds](https://github.com/beffroi-auth/docs/pull/22) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
+- [The provider is one application, and the pages of its integration are pages of the application](https://github.com/beffroi-auth/docs/pull/19) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (3 days ago)
+- [A refusal of UserInfo is challenged under the scheme the token was presented under, and every challenge under DPoP names the algorithms a proof may be signed with](https://github.com/beffroi-auth/docs/pull/18) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (3 days ago)
+- [fix(tpm): verify a TPM attestation signed with SHA-1 when the application asks for it](https://github.com/web-auth/webauthn-framework/pull/1000) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [fix(client-data): bind the client data type to the ceremony](https://github.com/web-auth/webauthn-framework/pull/997) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [fix(denormalizer): reject a public key credential whose type is not public-key](https://github.com/web-auth/webauthn-framework/pull/996) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [ci: remove the OpenSSF Scorecard workflow](https://github.com/web-auth/webauthn-framework/pull/995) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.5](https://github.com/web-token/jwt-framework/releases/tag/4.2.5), today) - JSON Web Tokens: JWS, JWE and JWK.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 1 day ago) - The Symfony PHP framework
-- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) ([v8.2.0-BETA1](https://github.com/symfony/azure-keyvault-key-management/releases/tag/v8.2.0-BETA1), 1 day ago) - Symfony Azure Key Vault Key Management Bridge
-- [symfony/flysystem-key-management](https://github.com/symfony/flysystem-key-management) ([v8.2.0-BETA1](https://github.com/symfony/flysystem-key-management/releases/tag/v8.2.0-BETA1), 1 day ago) - Symfony Flysystem Key Management Bridge
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA1), 1 day ago) - Symfony Doctrine ORM Key Management Bridge
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA1), 1 day ago) - Symfony Security Component - Core Library
-- [symfony/web-link](https://github.com/symfony/web-link) ([v8.2.0-BETA1](https://github.com/symfony/web-link/releases/tag/v8.2.0-BETA1), 1 day ago) - Manages links between resources
-- [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA1](https://github.com/symfony/console/releases/tag/v8.2.0-BETA1), 1 day ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-dbal-key-management/releases/tag/v8.2.0-BETA1), 1 day ago) - Symfony Doctrine DBAL Key Management Bridge
-- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-BETA1](https://github.com/symfony/key-management/releases/tag/v8.2.0-BETA1), 1 day ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.5](https://github.com/web-token/jwt-framework/releases/tag/4.2.5), 1 day ago) - JSON Web Tokens: JWS, JWE and JWK.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 2 days ago) - The Symfony PHP framework
+- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) ([v8.2.0-BETA1](https://github.com/symfony/azure-keyvault-key-management/releases/tag/v8.2.0-BETA1), 2 days ago) - Symfony Azure Key Vault Key Management Bridge
+- [symfony/flysystem-key-management](https://github.com/symfony/flysystem-key-management) ([v8.2.0-BETA1](https://github.com/symfony/flysystem-key-management/releases/tag/v8.2.0-BETA1), 2 days ago) - Symfony Flysystem Key Management Bridge
+- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA1), 2 days ago) - Symfony Doctrine ORM Key Management Bridge
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA1), 2 days ago) - Symfony Security Component - Core Library
+- [symfony/web-link](https://github.com/symfony/web-link) ([v8.2.0-BETA1](https://github.com/symfony/web-link/releases/tag/v8.2.0-BETA1), 2 days ago) - Manages links between resources
+- [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA1](https://github.com/symfony/console/releases/tag/v8.2.0-BETA1), 2 days ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-dbal-key-management/releases/tag/v8.2.0-BETA1), 2 days ago) - Symfony Doctrine DBAL Key Management Bridge
+- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-BETA1](https://github.com/symfony/key-management/releases/tag/v8.2.0-BETA1), 2 days ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
