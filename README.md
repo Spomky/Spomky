@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [ci: get the CI of 11.4.x green again](https://github.com/Spomky-Labs/otphp/pull/305) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (today)
 - [fix: the theme a reader picks follows them across the whole site](https://github.com/Spomky-Labs/docs/pull/34) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 day ago)
 - [fix: the cards come back, and a block on a dark ground is a Schiste surface](https://github.com/Spomky-Labs/docs/pull/33) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 day ago)
 - [docs: the record says what is true today](https://github.com/Spomky-Labs/docs/pull/32) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [docs: the former domains keep the paths they published](https://github.com/Spomky-Labs/docs/pull/21) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 day ago)
 - [docs: the sections of the navigation fold](https://github.com/Spomky-Labs/docs/pull/20) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 day ago)
 - [docs: the documentation is at docs.spomky-labs.com/jwt/](https://github.com/web-token/jwt-framework/pull/755) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [docs: the documentation is at docs.spomky-labs.com/webauthn/](https://github.com/web-auth/webauthn-framework/pull/1006) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
