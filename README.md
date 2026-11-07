@@ -37,10 +37,10 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (today)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (1 day ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (1 day ago)
 - [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (1 day ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (1 day ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (1 day ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - Progressive web apps for Symfony: manifest, service worker and offline support. (1 day ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - Web push notifications for PHP and Symfony. (1 day ago)
@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.1), today) - TOTP and HOTP one-time passwords.
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.5](https://github.com/web-token/jwt-framework/releases/tag/4.2.5), 2 days ago) - JSON Web Tokens: JWS, JWE and JWK.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 3 days ago) - The Symfony PHP framework
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA1), 3 days ago) - Symfony Security Component - Core Library
 - [symfony/web-link](https://github.com/symfony/web-link) ([v8.2.0-BETA1](https://github.com/symfony/web-link/releases/tag/v8.2.0-BETA1), 3 days ago) - Manages links between resources
 - [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA1](https://github.com/symfony/console/releases/tag/v8.2.0-BETA1), 3 days ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-dbal-key-management/releases/tag/v8.2.0-BETA1), 3 days ago) - Symfony Doctrine DBAL Key Management Bridge
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
