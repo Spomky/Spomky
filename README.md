@@ -37,6 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (1 day ago)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (2 days ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (2 days ago)
@@ -46,7 +47,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - Web push notifications for PHP and Symfony. (2 days ago)
 - [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (2 days ago)
 - [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (2 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (2 days ago)
 
 #### 🔨 My recent Pull Requests
 
