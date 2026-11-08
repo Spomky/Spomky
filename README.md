@@ -38,6 +38,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 #### 👷 Check out what I'm currently working on
 
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
+- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (today)
+- [web-token/jwt-unsecured](https://github.com/web-token/jwt-unsecured) - The unsecured JWS algorithm, none, of JWT Framework, kept apart. (today)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (1 day ago)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (2 days ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (2 days ago)
@@ -45,27 +47,25 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (2 days ago)
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - Progressive web apps for Symfony: manifest, service worker and offline support. (2 days ago)
 - [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - Web push notifications for PHP and Symfony. (2 days ago)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (2 days ago)
-- [web-auth/cose-lib](https://github.com/web-auth/cose-lib) - COSE signing, encryption and key management. (2 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [ci: get the CI of 11.4.x green again](https://github.com/Spomky-Labs/otphp/pull/305) on [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) (1 day ago)
-- [fix: the theme a reader picks follows them across the whole site](https://github.com/Spomky-Labs/docs/pull/34) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
-- [fix: the cards come back, and a block on a dark ground is a Schiste surface](https://github.com/Spomky-Labs/docs/pull/33) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
-- [docs: the record says what is true today](https://github.com/Spomky-Labs/docs/pull/32) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
-- [chore: the nine repositories are gone, and nothing points at them any more](https://github.com/Spomky-Labs/docs/pull/31) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
-- [docs: the navigation folds again, the cards are styled again, the legal links lead somewhere](https://github.com/Spomky-Labs/docs/pull/30) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
-- [chore: every documentation lives here](https://github.com/Spomky-Labs/docs/pull/29) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
-- [docs: the former domains keep the paths they published](https://github.com/Spomky-Labs/docs/pull/21) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
-- [docs: the sections of the navigation fold](https://github.com/Spomky-Labs/docs/pull/20) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
-- [docs: the documentation is at docs.spomky-labs.com/jwt/](https://github.com/web-token/jwt-framework/pull/755) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 days ago)
+- [fix(bundle): merge the SD-JWT alias lists like the other lists](https://github.com/web-token/jwt-framework/pull/792) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix: require a header checker manager factory in the loader factories](https://github.com/web-token/jwt-framework/pull/790) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(bundle): keep the key attribute of the alias lists](https://github.com/web-token/jwt-framework/pull/789) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix: deprecate loader factories without a header checker manager factory](https://github.com/web-token/jwt-framework/pull/788) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(key-mgmt): keep the JKU/X5U requests whose headers cannot be serialized](https://github.com/web-token/jwt-framework/pull/787) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(bundle): refuse two services tagged with the same alias](https://github.com/web-token/jwt-framework/pull/786) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(bundle): stop merging the alias lists of a service by position](https://github.com/web-token/jwt-framework/pull/785) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(bundle): deprecate tagging two services with the same alias](https://github.com/web-token/jwt-framework/pull/784) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(checker): reject a second checker of the same claim or header parameter](https://github.com/web-token/jwt-framework/pull/783) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(core): Base64UrlSafe rejects the bytes outside the alphabet when ext-sodium is loaded](https://github.com/web-token/jwt-framework/pull/782) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.7](https://github.com/web-token/jwt-framework/releases/tag/4.2.7), today) - JSON Web Tokens: JWS, JWE and JWK.
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.1), 1 day ago) - TOTP and HOTP one-time passwords.
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.5](https://github.com/web-token/jwt-framework/releases/tag/4.2.5), 3 days ago) - JSON Web Tokens: JWS, JWE and JWK.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 4 days ago) - The Symfony PHP framework
 - [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) ([v8.2.0-BETA1](https://github.com/symfony/azure-keyvault-key-management/releases/tag/v8.2.0-BETA1), 4 days ago) - Symfony Azure Key Vault Key Management Bridge
 - [symfony/flysystem-key-management](https://github.com/symfony/flysystem-key-management) ([v8.2.0-BETA1](https://github.com/symfony/flysystem-key-management/releases/tag/v8.2.0-BETA1), 4 days ago) - Symfony Flysystem Key Management Bridge
