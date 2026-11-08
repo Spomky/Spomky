@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [fix(bundle): merge the SD-JWT alias lists like the other lists](https://github.com/web-token/jwt-framework/pull/792) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix: require a header checker manager factory in the loader factories](https://github.com/web-token/jwt-framework/pull/790) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(bundle): keep the key attribute of the alias lists](https://github.com/web-token/jwt-framework/pull/789) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix: deprecate loader factories without a header checker manager factory](https://github.com/web-token/jwt-framework/pull/788) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(key-mgmt): keep the JKU/X5U requests whose headers cannot be serialized](https://github.com/web-token/jwt-framework/pull/787) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(bundle): refuse two services tagged with the same alias](https://github.com/web-token/jwt-framework/pull/786) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(bundle): stop merging the alias lists of a service by position](https://github.com/web-token/jwt-framework/pull/785) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(bundle): deprecate tagging two services with the same alias](https://github.com/web-token/jwt-framework/pull/784) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(checker): reject a second checker of the same claim or header parameter](https://github.com/web-token/jwt-framework/pull/783) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(core): Base64UrlSafe rejects the bytes outside the alphabet when ext-sodium is loaded](https://github.com/web-token/jwt-framework/pull/782) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(encryption): refuse "dir" JWEs without protected header and without "aad"](https://github.com/web-token/jwt-framework/pull/807) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(encryption): refuse "dir" keys without the content operation in "key_ops"](https://github.com/web-token/jwt-framework/pull/806) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(sd-jwt): serialize the objects of the Disclosures as the payload](https://github.com/web-token/jwt-framework/pull/804) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [feat(nested-token): make the refusal of an unprotected "cty" an option](https://github.com/web-token/jwt-framework/pull/803) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(sd-jwt): keep the pure enums disclosable](https://github.com/web-token/jwt-framework/pull/801) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [feat(key-mgmt): let JKUFactory and X5UFactory refuse HTTP redirects](https://github.com/web-token/jwt-framework/pull/800) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(encryption): check the size of an AES key wrapped key before unwrapping it](https://github.com/web-token/jwt-framework/pull/799) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(sd-jwt): refuse the reserved claim names in the objects of the claims](https://github.com/web-token/jwt-framework/pull/798) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(encryption): read "key_ops" according to the key management mode](https://github.com/web-token/jwt-framework/pull/797) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(encryption): deprecate "dir" JWEs without protected header and without "aad"](https://github.com/web-token/jwt-framework/pull/796) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 
 #### 🔭 Latest releases I've contributed to
 
