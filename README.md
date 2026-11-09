@@ -37,8 +37,8 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 day ago)
-- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
+- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (today)
 - [web-token/jwt-unsecured](https://github.com/web-token/jwt-unsecured) - The unsecured JWS algorithm, none, of JWT Framework, kept apart. (1 day ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (2 days ago)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (3 days ago)
@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [fix(console): inject the key factory into the generator commands through a setter](https://github.com/web-token/jwt-framework/pull/812) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix: every documentation shows its version; JWT follows the recent releases](https://github.com/Spomky-Labs/docs/pull/35) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [ci: remove the Scorecards workflow](https://github.com/web-token/jwt-framework/pull/811) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [fix(sd-jwt): create only the Disclosures that can be parsed](https://github.com/web-token/jwt-framework/pull/810) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [SD-JWT: refuse at issuance the SD-JWTs the Holder and the Verifier reject](https://github.com/web-token/jwt-framework/pull/809) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [fix(encryption): refuse "dir" JWEs without protected header and without "aad"](https://github.com/web-token/jwt-framework/pull/807) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
@@ -57,9 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix(sd-jwt): serialize the objects of the Disclosures as the payload](https://github.com/web-token/jwt-framework/pull/804) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [feat(nested-token): make the refusal of an unprotected "cty" an option](https://github.com/web-token/jwt-framework/pull/803) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [fix(sd-jwt): keep the pure enums disclosable](https://github.com/web-token/jwt-framework/pull/801) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [feat(key-mgmt): let JKUFactory and X5UFactory refuse HTTP redirects](https://github.com/web-token/jwt-framework/pull/800) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [fix(encryption): check the size of an AES key wrapped key before unwrapping it](https://github.com/web-token/jwt-framework/pull/799) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [fix(sd-jwt): refuse the reserved claim names in the objects of the claims](https://github.com/web-token/jwt-framework/pull/798) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
