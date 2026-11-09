@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
-- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (today)
-- [web-token/jwt-unsecured](https://github.com/web-token/jwt-unsecured) - The unsecured JWS algorithm, none, of JWT Framework, kept apart. (today)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (1 day ago)
-- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (2 days ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (2 days ago)
-- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (2 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (2 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - Progressive web apps for Symfony: manifest, service worker and offline support. (2 days ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - Web push notifications for PHP and Symfony. (2 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 day ago)
+- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (1 day ago)
+- [web-token/jwt-unsecured](https://github.com/web-token/jwt-unsecured) - The unsecured JWS algorithm, none, of JWT Framework, kept apart. (1 day ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (2 days ago)
+- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (3 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (3 days ago)
+- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (3 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (3 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - Progressive web apps for Symfony: manifest, service worker and offline support. (3 days ago)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - Web push notifications for PHP and Symfony. (3 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(encryption): refuse "dir" JWEs without protected header and without "aad"](https://github.com/web-token/jwt-framework/pull/807) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(encryption): refuse "dir" keys without the content operation in "key_ops"](https://github.com/web-token/jwt-framework/pull/806) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(sd-jwt): serialize the objects of the Disclosures as the payload](https://github.com/web-token/jwt-framework/pull/804) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(nested-token): make the refusal of an unprotected "cty" an option](https://github.com/web-token/jwt-framework/pull/803) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(sd-jwt): keep the pure enums disclosable](https://github.com/web-token/jwt-framework/pull/801) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [feat(key-mgmt): let JKUFactory and X5UFactory refuse HTTP redirects](https://github.com/web-token/jwt-framework/pull/800) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(encryption): check the size of an AES key wrapped key before unwrapping it](https://github.com/web-token/jwt-framework/pull/799) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(sd-jwt): refuse the reserved claim names in the objects of the claims](https://github.com/web-token/jwt-framework/pull/798) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(encryption): read "key_ops" according to the key management mode](https://github.com/web-token/jwt-framework/pull/797) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(encryption): deprecate "dir" JWEs without protected header and without "aad"](https://github.com/web-token/jwt-framework/pull/796) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(sd-jwt): create only the Disclosures that can be parsed](https://github.com/web-token/jwt-framework/pull/810) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [SD-JWT: refuse at issuance the SD-JWTs the Holder and the Verifier reject](https://github.com/web-token/jwt-framework/pull/809) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(encryption): refuse "dir" JWEs without protected header and without "aad"](https://github.com/web-token/jwt-framework/pull/807) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(encryption): refuse "dir" keys without the content operation in "key_ops"](https://github.com/web-token/jwt-framework/pull/806) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(sd-jwt): serialize the objects of the Disclosures as the payload](https://github.com/web-token/jwt-framework/pull/804) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(nested-token): make the refusal of an unprotected "cty" an option](https://github.com/web-token/jwt-framework/pull/803) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(sd-jwt): keep the pure enums disclosable](https://github.com/web-token/jwt-framework/pull/801) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [feat(key-mgmt): let JKUFactory and X5UFactory refuse HTTP redirects](https://github.com/web-token/jwt-framework/pull/800) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(encryption): check the size of an AES key wrapped key before unwrapping it](https://github.com/web-token/jwt-framework/pull/799) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(sd-jwt): refuse the reserved claim names in the objects of the claims](https://github.com/web-token/jwt-framework/pull/798) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.7](https://github.com/web-token/jwt-framework/releases/tag/4.2.7), today) - JSON Web Tokens: JWS, JWE and JWK.
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.1), 1 day ago) - TOTP and HOTP one-time passwords.
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 4 days ago) - The Symfony PHP framework
-- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) ([v8.2.0-BETA1](https://github.com/symfony/azure-keyvault-key-management/releases/tag/v8.2.0-BETA1), 4 days ago) - Symfony Azure Key Vault Key Management Bridge
-- [symfony/flysystem-key-management](https://github.com/symfony/flysystem-key-management) ([v8.2.0-BETA1](https://github.com/symfony/flysystem-key-management/releases/tag/v8.2.0-BETA1), 4 days ago) - Symfony Flysystem Key Management Bridge
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA1), 4 days ago) - Symfony Doctrine ORM Key Management Bridge
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA1), 4 days ago) - Symfony Security Component - Core Library
-- [symfony/web-link](https://github.com/symfony/web-link) ([v8.2.0-BETA1](https://github.com/symfony/web-link/releases/tag/v8.2.0-BETA1), 4 days ago) - Manages links between resources
-- [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA1](https://github.com/symfony/console/releases/tag/v8.2.0-BETA1), 4 days ago) - Eases the creation of beautiful and testable command line interfaces
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.7](https://github.com/web-token/jwt-framework/releases/tag/4.2.7), 1 day ago) - JSON Web Tokens: JWS, JWE and JWK.
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.1), 2 days ago) - TOTP and HOTP one-time passwords.
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 5 days ago) - The Symfony PHP framework
+- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) ([v8.2.0-BETA1](https://github.com/symfony/azure-keyvault-key-management/releases/tag/v8.2.0-BETA1), 5 days ago) - Symfony Azure Key Vault Key Management Bridge
+- [symfony/flysystem-key-management](https://github.com/symfony/flysystem-key-management) ([v8.2.0-BETA1](https://github.com/symfony/flysystem-key-management/releases/tag/v8.2.0-BETA1), 5 days ago) - Symfony Flysystem Key Management Bridge
+- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA1), 5 days ago) - Symfony Doctrine ORM Key Management Bridge
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA1), 5 days ago) - Symfony Security Component - Core Library
+- [symfony/web-link](https://github.com/symfony/web-link) ([v8.2.0-BETA1](https://github.com/symfony/web-link/releases/tag/v8.2.0-BETA1), 5 days ago) - Manages links between resources
+- [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA1](https://github.com/symfony/console/releases/tag/v8.2.0-BETA1), 5 days ago) - Eases the creation of beautiful and testable command line interfaces
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
