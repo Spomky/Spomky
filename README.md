@@ -37,29 +37,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (1 day ago)
+- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (today)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (1 day ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 day ago)
 - [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (1 day ago)
 - [web-token/jwt-unsecured](https://github.com/web-token/jwt-unsecured) - The unsecured JWS algorithm, none, of JWT Framework, kept apart. (2 days ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (3 days ago)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (4 days ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (4 days ago)
 - [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (4 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - Progressive web apps for Symfony: manifest, service worker and offline support. (4 days ago)
 
 #### 🔨 My recent Pull Requests
 
+- [docs(webauthn): the application maps its own credential entity](https://github.com/Spomky-Labs/docs/pull/39) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [Remove the Doctrine mapping and DoctrineCredentialSourceRepository](https://github.com/web-auth/webauthn-framework/pull/1010) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Deprecate the Doctrine mapping of the bundle and store the whole counter range](https://github.com/web-auth/webauthn-framework/pull/1009) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [docs(webauthn): the payment controller finds the transaction in its URL](https://github.com/Spomky-Labs/docs/pull/38) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [docs: the Secure Payment Confirmation page lives in the documentation](https://github.com/web-auth/webauthn-framework/pull/1008) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [docs(jwt): what else changes from 4.2 to 4.3, after a backward compatibility audit](https://github.com/Spomky-Labs/docs/pull/37) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
 - [fix(bundle): keep the service ids of the library "none" and "RSA1_5" classes, deprecated](https://github.com/web-token/jwt-framework/pull/822) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [fix(key-management): JKUFactory and X5UFactory extend UrlKeySetFactory again](https://github.com/web-token/jwt-framework/pull/821) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [fix(composer): require web-token/jwt-library ^4.3 in the bundle and experimental packages](https://github.com/web-token/jwt-framework/pull/820) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [fix(json): bound the JSON documents decoded outside of a token](https://github.com/web-token/jwt-framework/pull/819) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [docs(jwt): the bounds of the JSON decoder are named, for tokens and SD-JWTs](https://github.com/Spomky-Labs/docs/pull/36) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 day ago)
-- [fix(serializers): chain the reason of the serializer a token belongs to](https://github.com/web-token/jwt-framework/pull/818) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [fix(serializers): chain the bound a token goes beyond in the serializer managers](https://github.com/web-token/jwt-framework/pull/817) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [fix(serializers): name the bound a token goes beyond when it is decoded](https://github.com/web-token/jwt-framework/pull/816) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [fix(sd-jwt): refuse the unparsable unprotected headers as the other claims](https://github.com/web-token/jwt-framework/pull/815) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
