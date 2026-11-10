@@ -50,6 +50,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [docs(jwt): what else changes from 4.2 to 4.3, after a backward compatibility audit](https://github.com/Spomky-Labs/docs/pull/37) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
 - [fix(bundle): keep the service ids of the library "none" and "RSA1_5" classes, deprecated](https://github.com/web-token/jwt-framework/pull/822) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [fix(key-management): JKUFactory and X5UFactory extend UrlKeySetFactory again](https://github.com/web-token/jwt-framework/pull/821) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [fix(composer): require web-token/jwt-library ^4.3 in the bundle and experimental packages](https://github.com/web-token/jwt-framework/pull/820) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
@@ -59,7 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix(serializers): chain the bound a token goes beyond in the serializer managers](https://github.com/web-token/jwt-framework/pull/817) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [fix(serializers): name the bound a token goes beyond when it is decoded](https://github.com/web-token/jwt-framework/pull/816) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 - [fix(sd-jwt): refuse the unparsable unprotected headers as the other claims](https://github.com/web-token/jwt-framework/pull/815) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [fix(sd-jwt): name the bound a Disclosure factory hits](https://github.com/web-token/jwt-framework/pull/814) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
