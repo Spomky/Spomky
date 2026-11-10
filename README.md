@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (today)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (today)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (today)
-- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (today)
-- [web-token/jwt-unsecured](https://github.com/web-token/jwt-unsecured) - The unsecured JWS algorithm, none, of JWT Framework, kept apart. (1 day ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (2 days ago)
-- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (3 days ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (3 days ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (3 days ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - Progressive web apps for Symfony: manifest, service worker and offline support. (3 days ago)
+- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (1 day ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (1 day ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 day ago)
+- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (1 day ago)
+- [web-token/jwt-unsecured](https://github.com/web-token/jwt-unsecured) - The unsecured JWS algorithm, none, of JWT Framework, kept apart. (2 days ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (3 days ago)
+- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (4 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (4 days ago)
+- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (4 days ago)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - Progressive web apps for Symfony: manifest, service worker and offline support. (4 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(json): bound the JSON documents decoded outside of a token](https://github.com/web-token/jwt-framework/pull/819) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [docs(jwt): the bounds of the JSON decoder are named, for tokens and SD-JWTs](https://github.com/Spomky-Labs/docs/pull/36) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
-- [fix(serializers): chain the reason of the serializer a token belongs to](https://github.com/web-token/jwt-framework/pull/818) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(serializers): chain the bound a token goes beyond in the serializer managers](https://github.com/web-token/jwt-framework/pull/817) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(serializers): name the bound a token goes beyond when it is decoded](https://github.com/web-token/jwt-framework/pull/816) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(sd-jwt): refuse the unparsable unprotected headers as the other claims](https://github.com/web-token/jwt-framework/pull/815) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(sd-jwt): name the bound a Disclosure factory hits](https://github.com/web-token/jwt-framework/pull/814) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(sd-jwt): tell the decoding bounds apart from invalid JSON](https://github.com/web-token/jwt-framework/pull/813) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix(console): inject the key factory into the generator commands through a setter](https://github.com/web-token/jwt-framework/pull/812) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
-- [fix: every documentation shows its version; JWT follows the recent releases](https://github.com/Spomky-Labs/docs/pull/35) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [fix(bundle): keep the service ids of the library "none" and "RSA1_5" classes, deprecated](https://github.com/web-token/jwt-framework/pull/822) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(key-management): JKUFactory and X5UFactory extend UrlKeySetFactory again](https://github.com/web-token/jwt-framework/pull/821) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(composer): require web-token/jwt-library ^4.3 in the bundle and experimental packages](https://github.com/web-token/jwt-framework/pull/820) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(json): bound the JSON documents decoded outside of a token](https://github.com/web-token/jwt-framework/pull/819) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [docs(jwt): the bounds of the JSON decoder are named, for tokens and SD-JWTs](https://github.com/Spomky-Labs/docs/pull/36) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 day ago)
+- [fix(serializers): chain the reason of the serializer a token belongs to](https://github.com/web-token/jwt-framework/pull/818) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(serializers): chain the bound a token goes beyond in the serializer managers](https://github.com/web-token/jwt-framework/pull/817) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(serializers): name the bound a token goes beyond when it is decoded](https://github.com/web-token/jwt-framework/pull/816) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(sd-jwt): refuse the unparsable unprotected headers as the other claims](https://github.com/web-token/jwt-framework/pull/815) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
+- [fix(sd-jwt): name the bound a Disclosure factory hits](https://github.com/web-token/jwt-framework/pull/814) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.7](https://github.com/web-token/jwt-framework/releases/tag/4.2.7), 1 day ago) - JSON Web Tokens: JWS, JWE and JWK.
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.1), 2 days ago) - TOTP and HOTP one-time passwords.
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 5 days ago) - The Symfony PHP framework
-- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) ([v8.2.0-BETA1](https://github.com/symfony/azure-keyvault-key-management/releases/tag/v8.2.0-BETA1), 5 days ago) - Symfony Azure Key Vault Key Management Bridge
-- [symfony/flysystem-key-management](https://github.com/symfony/flysystem-key-management) ([v8.2.0-BETA1](https://github.com/symfony/flysystem-key-management/releases/tag/v8.2.0-BETA1), 5 days ago) - Symfony Flysystem Key Management Bridge
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA1), 5 days ago) - Symfony Doctrine ORM Key Management Bridge
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA1), 5 days ago) - Symfony Security Component - Core Library
-- [symfony/web-link](https://github.com/symfony/web-link) ([v8.2.0-BETA1](https://github.com/symfony/web-link/releases/tag/v8.2.0-BETA1), 5 days ago) - Manages links between resources
-- [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA1](https://github.com/symfony/console/releases/tag/v8.2.0-BETA1), 5 days ago) - Eases the creation of beautiful and testable command line interfaces
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.7](https://github.com/web-token/jwt-framework/releases/tag/4.2.7), 2 days ago) - JSON Web Tokens: JWS, JWE and JWK.
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.1), 3 days ago) - TOTP and HOTP one-time passwords.
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 6 days ago) - The Symfony PHP framework
+- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) ([v8.2.0-BETA1](https://github.com/symfony/azure-keyvault-key-management/releases/tag/v8.2.0-BETA1), 6 days ago) - Symfony Azure Key Vault Key Management Bridge
+- [symfony/flysystem-key-management](https://github.com/symfony/flysystem-key-management) ([v8.2.0-BETA1](https://github.com/symfony/flysystem-key-management/releases/tag/v8.2.0-BETA1), 6 days ago) - Symfony Flysystem Key Management Bridge
+- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA1), 6 days ago) - Symfony Doctrine ORM Key Management Bridge
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA1), 6 days ago) - Symfony Security Component - Core Library
+- [symfony/web-link](https://github.com/symfony/web-link) ([v8.2.0-BETA1](https://github.com/symfony/web-link/releases/tag/v8.2.0-BETA1), 6 days ago) - Manages links between resources
+- [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA1](https://github.com/symfony/console/releases/tag/v8.2.0-BETA1), 6 days ago) - Eases the creation of beautiful and testable command line interfaces
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
