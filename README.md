@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [Read the serial number of an enterprise attestation](https://github.com/web-auth/webauthn-framework/pull/1013) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [feat(metadata): verify an enterprise attestation up to the trust anchors the relying party pins](https://github.com/web-auth/webauthn-framework/pull/1012) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [fix(packed): accept the Enterprise Attestation unit of an enterprise attestation certificate](https://github.com/web-auth/webauthn-framework/pull/1011) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [ci(github): use a closing keyword in the pull request template](https://github.com/web-token/jwt-framework/pull/826) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
+- [fix(key-mgmt): analyze RSA n and e and EC coordinates by their integer value](https://github.com/web-token/jwt-framework/pull/825) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [docs(webauthn): the application maps its own credential entity](https://github.com/Spomky-Labs/docs/pull/39) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
 - [Remove the Doctrine mapping and DoctrineCredentialSourceRepository](https://github.com/web-auth/webauthn-framework/pull/1010) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [Deprecate the Doctrine mapping of the bundle and store the whole counter range](https://github.com/web-auth/webauthn-framework/pull/1009) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [docs(webauthn): the payment controller finds the transaction in its URL](https://github.com/Spomky-Labs/docs/pull/38) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
 - [docs: the Secure Payment Confirmation page lives in the documentation](https://github.com/web-auth/webauthn-framework/pull/1008) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [docs(jwt): what else changes from 4.2 to 4.3, after a backward compatibility audit](https://github.com/Spomky-Labs/docs/pull/37) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
-- [fix(bundle): keep the service ids of the library "none" and "RSA1_5" classes, deprecated](https://github.com/web-token/jwt-framework/pull/822) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [fix(key-management): JKUFactory and X5UFactory extend UrlKeySetFactory again](https://github.com/web-token/jwt-framework/pull/821) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [fix(composer): require web-token/jwt-library ^4.3 in the bundle and experimental packages](https://github.com/web-token/jwt-framework/pull/820) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
-- [fix(json): bound the JSON documents decoded outside of a token](https://github.com/web-token/jwt-framework/pull/819) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
