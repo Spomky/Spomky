@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.7](https://github.com/web-token/jwt-framework/releases/tag/4.2.7), 5 days ago) - JSON Web Tokens: JWS, JWE and JWK.
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.1](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.1), 6 days ago) - TOTP and HOTP one-time passwords.
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 1 week ago) - The Symfony PHP framework
-- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) ([v8.2.0-BETA1](https://github.com/symfony/azure-keyvault-key-management/releases/tag/v8.2.0-BETA1), 1 week ago) - Symfony Azure Key Vault Key Management Bridge
-- [symfony/flysystem-key-management](https://github.com/symfony/flysystem-key-management) ([v8.2.0-BETA1](https://github.com/symfony/flysystem-key-management/releases/tag/v8.2.0-BETA1), 1 week ago) - Symfony Flysystem Key Management Bridge
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA1](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA1), 1 week ago) - Symfony Doctrine ORM Key Management Bridge
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA1), 1 week ago) - Symfony Security Component - Core Library
-- [symfony/web-link](https://github.com/symfony/web-link) ([v8.2.0-BETA1](https://github.com/symfony/web-link/releases/tag/v8.2.0-BETA1), 1 week ago) - Manages links between resources
-- [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA1](https://github.com/symfony/console/releases/tag/v8.2.0-BETA1), 1 week ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), today) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.2.0-BETA2), today) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-BETA2), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-BETA2](https://github.com/symfony/key-management/releases/tag/v8.2.0-BETA2), today) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.2.0-BETA2](https://github.com/symfony/mailer/releases/tag/v8.2.0-BETA2), today) - Helps sending emails
+- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA2](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA2), today) - Symfony Doctrine ORM Key Management Bridge
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.2.0-BETA2](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.2.0-BETA2), today) - Provides a development tool that gives detailed information about the execution of any request
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA2](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA2), today) - Symfony Security Component - Core Library
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.2.0-BETA2](https://github.com/symfony/security-http/releases/tag/v8.2.0-BETA2), today) - Symfony Security Component - HTTP Integration
+- [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA2](https://github.com/symfony/console/releases/tag/v8.2.0-BETA2), today) - Eases the creation of beautiful and testable command line interfaces
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
