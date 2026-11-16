@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.8](https://github.com/api-platform/core/releases/tag/v5.0.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 3 days ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.2.0-BETA2), 3 days ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-BETA2), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.2.0-BETA2](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.2.0-BETA2), 3 days ago) - Provides a development tool that gives detailed information about the execution of any request
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA2](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA2), 3 days ago) - Symfony Security Component - Core Library
 - [symfony/security-http](https://github.com/symfony/security-http) ([v8.2.0-BETA2](https://github.com/symfony/security-http/releases/tag/v8.2.0-BETA2), 3 days ago) - Symfony Security Component - HTTP Integration
-- [symfony/console](https://github.com/symfony/console) ([v8.2.0-BETA2](https://github.com/symfony/console/releases/tag/v8.2.0-BETA2), 3 days ago) - Eases the creation of beautiful and testable command line interfaces
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
