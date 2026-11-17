@@ -37,9 +37,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (6 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (6 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (6 days ago)
+- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (1 week ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (1 week ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (1 week ago)
 - [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (1 week ago)
 - [web-token/jwt-unsecured](https://github.com/web-token/jwt-unsecured) - The unsecured JWS algorithm, none, of JWT Framework, kept apart. (1 week ago)
@@ -50,29 +50,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [Read the serial number of an enterprise attestation](https://github.com/web-auth/webauthn-framework/pull/1013) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [feat(metadata): verify an enterprise attestation up to the trust anchors the relying party pins](https://github.com/web-auth/webauthn-framework/pull/1012) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [fix(packed): accept the Enterprise Attestation unit of an enterprise attestation certificate](https://github.com/web-auth/webauthn-framework/pull/1011) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [ci(github): use a closing keyword in the pull request template](https://github.com/web-token/jwt-framework/pull/826) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
-- [fix(key-mgmt): analyze RSA n and e and EC coordinates by their integer value](https://github.com/web-token/jwt-framework/pull/825) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
-- [docs(webauthn): the application maps its own credential entity](https://github.com/Spomky-Labs/docs/pull/39) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (6 days ago)
-- [Remove the Doctrine mapping and DoctrineCredentialSourceRepository](https://github.com/web-auth/webauthn-framework/pull/1010) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [Deprecate the Doctrine mapping of the bundle and store the whole counter range](https://github.com/web-auth/webauthn-framework/pull/1009) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
-- [docs(webauthn): the payment controller finds the transaction in its URL](https://github.com/Spomky-Labs/docs/pull/38) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (6 days ago)
-- [docs: the Secure Payment Confirmation page lives in the documentation](https://github.com/web-auth/webauthn-framework/pull/1008) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (6 days ago)
+- [Read the serial number of an enterprise attestation](https://github.com/web-auth/webauthn-framework/pull/1013) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [feat(metadata): verify an enterprise attestation up to the trust anchors the relying party pins](https://github.com/web-auth/webauthn-framework/pull/1012) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [fix(packed): accept the Enterprise Attestation unit of an enterprise attestation certificate](https://github.com/web-auth/webauthn-framework/pull/1011) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [ci(github): use a closing keyword in the pull request template](https://github.com/web-token/jwt-framework/pull/826) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
+- [fix(key-mgmt): analyze RSA n and e and EC coordinates by their integer value](https://github.com/web-token/jwt-framework/pull/825) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
+- [docs(webauthn): the application maps its own credential entity](https://github.com/Spomky-Labs/docs/pull/39) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 week ago)
+- [Remove the Doctrine mapping and DoctrineCredentialSourceRepository](https://github.com/web-auth/webauthn-framework/pull/1010) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [Deprecate the Doctrine mapping of the bundle and store the whole counter range](https://github.com/web-auth/webauthn-framework/pull/1009) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
+- [docs(webauthn): the payment controller finds the transaction in its URL](https://github.com/Spomky-Labs/docs/pull/38) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 week ago)
+- [docs: the Secure Payment Confirmation page lives in the documentation](https://github.com/web-auth/webauthn-framework/pull/1008) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.8](https://github.com/api-platform/core/releases/tag/v5.0.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 3 days ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.2.0-BETA2), 3 days ago) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-BETA2), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-BETA2](https://github.com/symfony/key-management/releases/tag/v8.2.0-BETA2), 3 days ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.2.0-BETA2](https://github.com/symfony/mailer/releases/tag/v8.2.0-BETA2), 3 days ago) - Helps sending emails
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA2](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA2), 3 days ago) - Symfony Doctrine ORM Key Management Bridge
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.2.0-BETA2](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.2.0-BETA2), 3 days ago) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA2](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA2), 3 days ago) - Symfony Security Component - Core Library
-- [symfony/security-http](https://github.com/symfony/security-http) ([v8.2.0-BETA2](https://github.com/symfony/security-http/releases/tag/v8.2.0-BETA2), 3 days ago) - Symfony Security Component - HTTP Integration
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.8](https://github.com/api-platform/core/releases/tag/v5.0.8), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 4 days ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.2.0-BETA2), 4 days ago) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-BETA2), 4 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-BETA2](https://github.com/symfony/key-management/releases/tag/v8.2.0-BETA2), 4 days ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.2.0-BETA2](https://github.com/symfony/mailer/releases/tag/v8.2.0-BETA2), 4 days ago) - Helps sending emails
+- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA2](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA2), 4 days ago) - Symfony Doctrine ORM Key Management Bridge
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.2.0-BETA2](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.2.0-BETA2), 4 days ago) - Provides a development tool that gives detailed information about the execution of any request
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA2](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA2), 4 days ago) - Symfony Security Component - Core Library
+- [symfony/security-http](https://github.com/symfony/security-http) ([v8.2.0-BETA2](https://github.com/symfony/security-http/releases/tag/v8.2.0-BETA2), 4 days ago) - Symfony Security Component - HTTP Integration
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
