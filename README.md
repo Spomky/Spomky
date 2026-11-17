@@ -37,6 +37,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (today)
 - [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (1 week ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 week ago)
@@ -46,10 +47,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (1 week ago)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (1 week ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (1 week ago)
-- [Spomky-Labs/pki-framework](https://github.com/Spomky-Labs/pki-framework) - X.509 certificates, ASN.1 and public key infrastructure. (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
+- [docs: the application is beffroi/beffroi, in apps/beffroi, mirrored as beffroi-auth/application, and its image is ghcr.io/beffroi-auth/beffroi](https://github.com/beffroi-auth/docs/pull/30) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [docs: BEFFROI_PLANE=provider serves the interaction and protocol planes, and the administration API is a third plane](https://github.com/beffroi-auth/docs/pull/29) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 - [Read the serial number of an enterprise attestation](https://github.com/web-auth/webauthn-framework/pull/1013) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [feat(metadata): verify an enterprise attestation up to the trust anchors the relying party pins](https://github.com/web-auth/webauthn-framework/pull/1012) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [fix(packed): accept the Enterprise Attestation unit of an enterprise attestation certificate](https://github.com/web-auth/webauthn-framework/pull/1011) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
@@ -58,8 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [docs(webauthn): the application maps its own credential entity](https://github.com/Spomky-Labs/docs/pull/39) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 week ago)
 - [Remove the Doctrine mapping and DoctrineCredentialSourceRepository](https://github.com/web-auth/webauthn-framework/pull/1010) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 - [Deprecate the Doctrine mapping of the bundle and store the whole counter range](https://github.com/web-auth/webauthn-framework/pull/1009) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
-- [docs(webauthn): the payment controller finds the transaction in its URL](https://github.com/Spomky-Labs/docs/pull/38) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 week ago)
-- [docs: the Secure Payment Confirmation page lives in the documentation](https://github.com/web-auth/webauthn-framework/pull/1008) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
