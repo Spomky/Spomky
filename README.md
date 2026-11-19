@@ -50,6 +50,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
+- [docs(webauthn): browser-bound key, client extension results and server extensions in 5.4](https://github.com/Spomky-Labs/docs/pull/45) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
+- [fix(spc): verify the browser-bound signature, keep the extensions set by the server](https://github.com/web-auth/webauthn-framework/pull/1025) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
+- [Merge 5.3.x into 5.4.x](https://github.com/web-auth/webauthn-framework/pull/1024) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [docs(stimulus): document the events of the dedicated controllers and the PRF results](https://github.com/web-auth/webauthn-framework/pull/1023) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [docs(webauthn): the security fixes of 5.3.15](https://github.com/Spomky-Labs/docs/pull/44) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
 - [docs(webauthn): conditional create override example at the root node](https://github.com/Spomky-Labs/docs/pull/43) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (today)
@@ -57,9 +60,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [feat(metadata): verify an attestation against the metadata when they know its authenticator, and accept it unverified when they do not](https://github.com/web-auth/webauthn-framework/pull/1019) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [fix(certificate-chain): end the certification path at the trust anchor](https://github.com/web-auth/webauthn-framework/pull/1017) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
 - [docs: the pages follow the code that 0.0.0 is tagged from](https://github.com/beffroi-auth/docs/pull/33) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
-- [chore: the demonstration is under MIT, and its provider by default is the development stack of Beffroi](https://github.com/beffroi-auth/oidc-demo/pull/16) on [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) (2 days ago)
-- [feat: the demonstration is built into an image, which a workflow publishes on demand from main](https://github.com/beffroi-auth/oidc-demo/pull/15) on [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) (2 days ago)
-- [ci: a site of one version branch publishes it as latest without reading the tags of the code repository](https://github.com/beffroi-auth/docs/pull/32) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
