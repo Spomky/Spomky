@@ -37,11 +37,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (today)
-- [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) - Reference relying party of Beffroi: a Symfony application on the oidc_login authenticator, a resource server checking the same access token five ways, and the ladder of demonstration clients. Driven by "castor demo" of beffroi-auth/beffroi. (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (today)
-- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (1 day ago)
-- [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (1 day ago)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (1 day ago)
+- [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) - Reference relying party of Beffroi: a Symfony application on the oidc_login authenticator, a resource server checking the same access token five ways, and the ladder of demonstration clients. Driven by "castor demo" of beffroi-auth/beffroi. (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (1 day ago)
+- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (2 days ago)
+- [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (2 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (1 week ago)
 - [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (1 week ago)
@@ -50,29 +50,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [feat(metadata): verify an attestation against the metadata when they know its authenticator, and accept it unverified when they do not](https://github.com/web-auth/webauthn-framework/pull/1019) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [fix(certificate-chain): end the certification path at the trust anchor](https://github.com/web-auth/webauthn-framework/pull/1017) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
-- [docs: the pages follow the code that 0.0.0 is tagged from](https://github.com/beffroi-auth/docs/pull/33) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [chore: the demonstration is under MIT, and its provider by default is the development stack of Beffroi](https://github.com/beffroi-auth/oidc-demo/pull/16) on [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) (1 day ago)
-- [feat: the demonstration is built into an image, which a workflow publishes on demand from main](https://github.com/beffroi-auth/oidc-demo/pull/15) on [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) (1 day ago)
-- [ci: a site of one version branch publishes it as latest without reading the tags of the code repository](https://github.com/beffroi-auth/docs/pull/32) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [docs: the site documents 0.0.0 under 0.0 and the next minor under 0.1, and latest follows the newest released version](https://github.com/beffroi-auth/docs/pull/31) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [docs: the profile says what Beffroi is, a provider deployed on its own, what it serves, how it is judged and where things are](https://github.com/beffroi-auth/.github/pull/1) on [beffroi-auth/.github](https://github.com/beffroi-auth/.github) (1 day ago)
-- [docs(webauthn): the breaking and behavior changes of 5.3.13](https://github.com/Spomky-Labs/docs/pull/41) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 day ago)
-- [docs(webauthn): the firewall provider loads WebauthnPassport users (GHSA-4485)](https://github.com/Spomky-Labs/docs/pull/40) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (1 day ago)
+- [feat(metadata): verify an attestation against the metadata when they know its authenticator, and accept it unverified when they do not](https://github.com/web-auth/webauthn-framework/pull/1019) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [fix(certificate-chain): end the certification path at the trust anchor](https://github.com/web-auth/webauthn-framework/pull/1017) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (1 day ago)
+- [docs: the pages follow the code that 0.0.0 is tagged from](https://github.com/beffroi-auth/docs/pull/33) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
+- [chore: the demonstration is under MIT, and its provider by default is the development stack of Beffroi](https://github.com/beffroi-auth/oidc-demo/pull/16) on [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) (2 days ago)
+- [feat: the demonstration is built into an image, which a workflow publishes on demand from main](https://github.com/beffroi-auth/oidc-demo/pull/15) on [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) (2 days ago)
+- [ci: a site of one version branch publishes it as latest without reading the tags of the code repository](https://github.com/beffroi-auth/docs/pull/32) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
+- [docs: the site documents 0.0.0 under 0.0 and the next minor under 0.1, and latest follows the newest released version](https://github.com/beffroi-auth/docs/pull/31) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (2 days ago)
+- [docs: the profile says what Beffroi is, a provider deployed on its own, what it serves, how it is judged and where things are](https://github.com/beffroi-auth/.github/pull/1) on [beffroi-auth/.github](https://github.com/beffroi-auth/.github) (2 days ago)
+- [docs(webauthn): the breaking and behavior changes of 5.3.13](https://github.com/Spomky-Labs/docs/pull/41) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
+- [docs(webauthn): the firewall provider loads WebauthnPassport users (GHSA-4485)](https://github.com/Spomky-Labs/docs/pull/40) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.14](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.14), today) - WebAuthn and passkeys for PHP and Symfony.
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.8](https://github.com/api-platform/core/releases/tag/v5.0.8), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 5 days ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.2.0-BETA2), 5 days ago) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-BETA2), 5 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-BETA2](https://github.com/symfony/key-management/releases/tag/v8.2.0-BETA2), 5 days ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.2.0-BETA2](https://github.com/symfony/mailer/releases/tag/v8.2.0-BETA2), 5 days ago) - Helps sending emails
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA2](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA2), 5 days ago) - Symfony Doctrine ORM Key Management Bridge
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.2.0-BETA2](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.2.0-BETA2), 5 days ago) - Provides a development tool that gives detailed information about the execution of any request
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-BETA2](https://github.com/symfony/security-core/releases/tag/v8.2.0-BETA2), 5 days ago) - Symfony Security Component - Core Library
+- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([6.3.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/6.3.1), 1 day ago) - The missing audit log library
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.14](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.14), 1 day ago) - WebAuthn and passkeys for PHP and Symfony.
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.8](https://github.com/api-platform/core/releases/tag/v5.0.8), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 6 days ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.2.0-BETA2), 6 days ago) - Provides tools to validate values
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-BETA2), 6 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-BETA2](https://github.com/symfony/key-management/releases/tag/v8.2.0-BETA2), 6 days ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.2.0-BETA2](https://github.com/symfony/mailer/releases/tag/v8.2.0-BETA2), 6 days ago) - Helps sending emails
+- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA2](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA2), 6 days ago) - Symfony Doctrine ORM Key Management Bridge
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.2.0-BETA2](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.2.0-BETA2), 6 days ago) - Provides a development tool that gives detailed information about the execution of any request
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
