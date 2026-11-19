@@ -37,9 +37,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (today)
 - [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (1 day ago)
 - [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) - Reference relying party of Beffroi: a Symfony application on the oidc_login authenticator, a resource server checking the same access token five ways, and the ladder of demonstration clients. Driven by "castor demo" of beffroi-auth/beffroi. (1 day ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (1 day ago)
 - [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (2 days ago)
 - [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (2 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 week ago)
