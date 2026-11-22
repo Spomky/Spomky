@@ -39,9 +39,9 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 - [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (today)
 - [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (today)
+- [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) - Reference relying party of Beffroi: a Symfony application on the oidc_login authenticator, a resource server checking the same access token five ways, and the ladder of demonstration clients. Driven by "castor demo" of beffroi-auth/beffroi. (today)
 - [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (2 days ago)
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (2 days ago)
-- [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) - Reference relying party of Beffroi: a Symfony application on the oidc_login authenticator, a resource server checking the same access token five ways, and the ladder of demonstration clients. Driven by "castor demo" of beffroi-auth/beffroi. (4 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 week ago)
 - [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (1 week ago)
 - [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (1 week ago)
@@ -50,16 +50,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔨 My recent Pull Requests
 
-- [chore: the site is built by zensical, which reads mkdocs.yml as it is](https://github.com/beffroi-auth/docs/pull/38) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [style: the version is a bordered tag beside the lockup, and its list a panel drawn the same way](https://github.com/beffroi-auth/docs/pull/37) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs: the home page of a version in development says what it documents and sends to the versions page](https://github.com/beffroi-auth/docs/pull/36) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs: the profile names the website of beffroi and its accounts on bluesky and linkedin (beffroi-auth/beffroi#1024)](https://github.com/beffroi-auth/.github/pull/2) on [beffroi-auth/.github](https://github.com/beffroi-auth/.github) (today)
-- [docs: the footer and the home page link the website of beffroi and its accounts on bluesky and linkedin](https://github.com/beffroi-auth/docs/pull/35) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [style: the version selector shows beside the lockup, the header hiding only the site name](https://github.com/beffroi-auth/docs/pull/34) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [feat(spc): type the browser-bound public key at registration and give its algorithm](https://github.com/web-auth/webauthn-framework/pull/1029) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [docs(webauthn): read the browser-bound public key through the typed models in 5.4](https://github.com/Spomky-Labs/docs/pull/48) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
-- [docs(webauthn): fix the UV flag check on the user verification pages](https://github.com/Spomky-Labs/docs/pull/47) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
-- [docs(webauthn): read credProps from the client extension results in 5.2 and 5.3](https://github.com/Spomky-Labs/docs/pull/46) on [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) (2 days ago)
+- [docs(0.0): the relay of a mail keeps its links as the provider wrote them, click tracking off for the domain a mail is sent from](https://github.com/beffroi-auth/docs/pull/59) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [docs: the relay of a mail keeps its links as the provider wrote them, click tracking off for the domain a mail is sent from](https://github.com/beffroi-auth/docs/pull/58) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [docs(0.0): the image texts through Sweego, the one bridge of symfony/notifier it installs, by a DSN that keeps the links of a text as they are](https://github.com/beffroi-auth/docs/pull/57) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [docs: the image texts through Sweego, the one bridge of symfony/notifier it installs, by a DSN that keeps the links of a text as they are](https://github.com/beffroi-auth/docs/pull/56) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [docs(0.0): six endpoints are aliased under the host of mutual TLS, which changes the methods announced, and the reference application is described as its tree lays it out](https://github.com/beffroi-auth/docs/pull/55) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [docs: six endpoints are aliased under the host of mutual TLS, which changes the methods announced, and the reference application is described as its tree lays it out](https://github.com/beffroi-auth/docs/pull/54) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [docs(0.0): the home page links the website of beffroi and its accounts on bluesky and linkedin](https://github.com/beffroi-auth/docs/pull/53) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [docs(0.0): the reference application is a tree of the features of the provider, and its API verifies a token addressed to it on its own](https://github.com/beffroi-auth/docs/pull/52) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [docs(0.0): mutual TLS is served only while BEFFROI_MTLS_ORIGIN names the host that asks for a certificate](https://github.com/beffroi-auth/docs/pull/51) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [docs(0.0): a pending approval reaches a person by mail and by SMS at the address and the number marked verified, each channel turned on by its DSN](https://github.com/beffroi-auth/docs/pull/50) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
 
 #### 🔭 Latest releases I've contributed to
 
