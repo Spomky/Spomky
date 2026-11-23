@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (today)
+- [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - The Castor commands used across the projects. (today)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - The Symfony bundle of CBOR PHP. (today)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (today)
+- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials for Symfony: sessions tied to hardware keys. (today)
+- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (today)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (today)
+- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - Progressive web apps for Symfony: manifest, service worker and offline support. (today)
+- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - Web push notifications for PHP and Symfony. (today)
 - [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (today)
-- [beffroi-auth/application](https://github.com/beffroi-auth/application) - Read-only split of apps/beffroi of beffroi-auth/beffroi. The identity provider application of Beffroi: Symfony on FrankenPHP, its image set by the environment, the one way Beffroi is deployed. (today)
-- [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) - Beffroi: an identity provider for the Symfony ecosystem. OAuth 2.0 / OpenID Connect first, pure-PHP components, one complete application. (today)
-- [beffroi-auth/core](https://github.com/beffroi-auth/core) - Read-only split of src/core of beffroi-auth/beffroi. Identity core: tenants, users, credentials, linked identities, groups, authentication sessions, keys. Pure PHP. (today)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (today)
-- [beffroi-auth/oidc](https://github.com/beffroi-auth/oidc) - Read-only split of src/oidc of beffroi-auth/beffroi. OAuth 2.0 and OpenID Connect: clients, authorization requests, grants, tokens, discovery, JWKS, UserInfo, logout. Pure PHP. (today)
-- [beffroi-auth/saml](https://github.com/beffroi-auth/saml) - Read-only split of src/saml of beffroi-auth/beffroi. SAML 2.0 for the identity provider: the identity provider and service provider roles of a tenant, metadata, attribute mapping, single logout on the session of the core. Pure PHP. (today)
-- [beffroi-auth/saml2-bindings](https://github.com/beffroi-auth/saml2-bindings) - Read-only split of src/saml2-bindings of beffroi-auth/beffroi. The HTTP-Redirect and HTTP-POST bindings of SAML 2.0 for PHP, strings and arrays in and out. No HTTP object. (today)
-- [beffroi-auth/saml2-model](https://github.com/beffroi-auth/saml2-model) - Read-only split of src/saml2-model of beffroi-auth/beffroi. The SAML 2.0 model for PHP: the samlp, saml and md objects of Web Browser SSO and Single Logout, read strictly and validated in code. No HTTP. (today)
-- [beffroi-auth/tui](https://github.com/beffroi-auth/tui) - Read-only split of apps/tui of beffroi-auth/beffroi. The terminal client of the administration of a Beffroi instance: a confidential client of its provider, signed in by a phishing-resistant proof, holding tokens bound to a key of its run. (today)
 
 #### 🔨 My recent Pull Requests
 
-- [ci: every workflow runs on the runners github hosts, x86_64 and arm64, now that the repository is public (issue #1141)](https://github.com/beffroi-auth/beffroi/pull/1143) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
-- [ci: every job runs on a runner GitHub hosts, the repository being public (issue #1140)](https://github.com/beffroi-auth/beffroi/pull/1142) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
-- [fix(tui): bin/beffroi-tui takes the autoloader the proxy of Composer names, so that an install as a dependency starts (issue #1136)](https://github.com/beffroi-auth/beffroi/pull/1138) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
-- [docs: every repository of the organisation without a security policy of its own sends a vulnerability to the advisories of the monorepo](https://github.com/beffroi-auth/.github/pull/3) on [beffroi-auth/.github](https://github.com/beffroi-auth/.github) (today)
-- [feat(tui, ci): the screen says the version of the program, and whether a newer release of its line is out (issue #1134)](https://github.com/beffroi-auth/beffroi/pull/1135) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
-- [docs: the pages quote the words the provider writes now, the titles of the account pages, the buttons that take something back and the sentences of a refusal](https://github.com/beffroi-auth/docs/pull/67) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [feat(app): every table of the account is narrowed by what its columns say, the revoked passkeys left out until they are asked for (issues #1131, #1092)](https://github.com/beffroi-auth/beffroi/pull/1132) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
-- [chore(app): the pages of the provider say what a person needs in few words, and repeat neither their title nor their card (issue #1129)](https://github.com/beffroi-auth/beffroi/pull/1130) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
-- [fix(app): the field of a certificate or a key on the page of encrypted mail is drawn as a field and fills its panel, and its two formats stand apart](https://github.com/beffroi-auth/beffroi/pull/1128) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
-- [feat(tui): the administrator lists the mail signing keys of the tenant, draws its OpenPGP key, sets its S/MIME key from two PEM files and removes one (issue #1124)](https://github.com/beffroi-auth/beffroi/pull/1127) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [fix(app): the table of the queues is created by a migration as the owner of the tables, and no transport creates it at its first message (issue #1389)](https://github.com/beffroi-auth/beffroi/pull/1391) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [fix(app): each worker of the image runs a number of threads the environment sets, not twice the cores of the host, each thread holding a connection to the database (issue #1387)](https://github.com/beffroi-auth/beffroi/pull/1390) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [ci(tui): the releases are signed by a new key of the project, whose private half the maintainer holds](https://github.com/beffroi-auth/beffroi/pull/1388) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [fix(app): the entrypoint reads the database urls from their _file twins too, and BEFFROI_MIGRATIONS_DATABASE_URL gets one (issue #1385)](https://github.com/beffroi-auth/beffroi/pull/1386) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [ci: every job that reads the release key runs in the environment release, the milestone release as the signature of the terminal client (issue #1235)](https://github.com/beffroi-auth/beffroi/pull/1384) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [Bring the CI fixes of 3.2.x to 3.3.x (linear)](https://github.com/Spomky-Labs/web-push/pull/102) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (today)
+- [fix(app): a session opens on the connection Doctrine holds then, so that a worker outlives the loss of the one it used before (issue #1382)](https://github.com/beffroi-auth/beffroi/pull/1383) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [test(oidc): the client metadata test imports sprintf once](https://github.com/beffroi-auth/beffroi/pull/1381) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [fix(app): the processes of a deployment run as a role that rewrites no row of a chained record and forgets them through the retention alone, the role that owns the tables playing the migrations (issue #1331)](https://github.com/beffroi-auth/beffroi/pull/1380) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [test(app): a hash of every algorithm the provider reads without making it is one it would replace, which decision 0058 holds to the time of the decoy (issue #1358)](https://github.com/beffroi-auth/beffroi/pull/1379) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.3.0](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.3.0), today) - The missing audit log library
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.16](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.16), today) - WebAuthn and passkeys for PHP and Symfony.
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.8](https://github.com/web-token/jwt-framework/releases/tag/4.2.8), today) - JSON Web Tokens: JWS, JWE and JWK.
 - [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.4.0](https://github.com/DamienHarper/auditor/releases/tag/4.4.0), 1 day ago) - auditor, the missing audit log library
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.9](https://github.com/api-platform/core/releases/tag/v5.0.9), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.15](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.15), 4 days ago) - WebAuthn and passkeys for PHP and Symfony.
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([6.3.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/6.3.1), 5 days ago) - The missing audit log library
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 1 week ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.2.0-BETA2), 1 week ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-BETA2), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-BETA2](https://github.com/symfony/key-management/releases/tag/v8.2.0-BETA2), 1 week ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
 - [symfony/mailer](https://github.com/symfony/mailer) ([v8.2.0-BETA2](https://github.com/symfony/mailer/releases/tag/v8.2.0-BETA2), 1 week ago) - Helps sending emails
-- [symfony/doctrine-orm-key-management](https://github.com/symfony/doctrine-orm-key-management) ([v8.2.0-BETA2](https://github.com/symfony/doctrine-orm-key-management/releases/tag/v8.2.0-BETA2), 1 week ago) - Symfony Doctrine ORM Key Management Bridge
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
