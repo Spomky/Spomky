@@ -37,36 +37,36 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (today)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (today)
-- [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) - Reference relying party of Beffroi: a Symfony application on the oidc_login authenticator, a resource server checking the same access token five ways, and the ladder of demonstration clients. Driven by "castor demo" of beffroi-auth/beffroi. (today)
-- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (2 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (2 days ago)
+- [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (1 day ago)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (1 day ago)
+- [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) - Reference relying party of Beffroi: a Symfony application on the oidc_login authenticator, a resource server checking the same access token five ways, and the ladder of demonstration clients. Driven by "castor demo" of beffroi-auth/beffroi. (1 day ago)
+- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (3 days ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (3 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 week ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (1 week ago)
-- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (1 week ago)
+- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (2 weeks ago)
+- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (2 weeks ago)
 - [web-token/jwt-unsecured](https://github.com/web-token/jwt-unsecured) - The unsecured JWS algorithm, none, of JWT Framework, kept apart. (2 weeks ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [docs(0.0): the relay of a mail keeps its links as the provider wrote them, click tracking off for the domain a mail is sent from](https://github.com/beffroi-auth/docs/pull/59) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs: the relay of a mail keeps its links as the provider wrote them, click tracking off for the domain a mail is sent from](https://github.com/beffroi-auth/docs/pull/58) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs(0.0): the image texts through Sweego, the one bridge of symfony/notifier it installs, by a DSN that keeps the links of a text as they are](https://github.com/beffroi-auth/docs/pull/57) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs: the image texts through Sweego, the one bridge of symfony/notifier it installs, by a DSN that keeps the links of a text as they are](https://github.com/beffroi-auth/docs/pull/56) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs(0.0): six endpoints are aliased under the host of mutual TLS, which changes the methods announced, and the reference application is described as its tree lays it out](https://github.com/beffroi-auth/docs/pull/55) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs: six endpoints are aliased under the host of mutual TLS, which changes the methods announced, and the reference application is described as its tree lays it out](https://github.com/beffroi-auth/docs/pull/54) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs(0.0): the home page links the website of beffroi and its accounts on bluesky and linkedin](https://github.com/beffroi-auth/docs/pull/53) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs(0.0): the reference application is a tree of the features of the provider, and its API verifies a token addressed to it on its own](https://github.com/beffroi-auth/docs/pull/52) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs(0.0): mutual TLS is served only while BEFFROI_MTLS_ORIGIN names the host that asks for a certificate](https://github.com/beffroi-auth/docs/pull/51) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs(0.0): a pending approval reaches a person by mail and by SMS at the address and the number marked verified, each channel turned on by its DSN](https://github.com/beffroi-auth/docs/pull/50) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [fix: the routes beside the API each check a token one way, the token of the session on three of them](https://github.com/beffroi-auth/oidc-demo/pull/22) on [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) (1 day ago)
+- [docs(0.0): a refused token request is presented again as a new one, and the stack's key sets, Vault token and link of alice are named](https://github.com/beffroi-auth/docs/pull/65) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [docs: a refused token request is presented again as a new one, and the stack's key sets, Vault token and link of alice are named](https://github.com/beffroi-auth/docs/pull/64) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [docs(0.0): the logout token and sender-constrained pages follow their review](https://github.com/beffroi-auth/docs/pull/63) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [docs: the logout token and sender-constrained pages follow their review](https://github.com/beffroi-auth/docs/pull/62) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [docs(0.0): a logout token is encrypted like the ID tokens of its client, and the citations and the variable of mutual TLS are the ones the code and the specifications hold](https://github.com/beffroi-auth/docs/pull/61) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [docs: a logout token is encrypted like the ID tokens of its client, and the citations and the variable of mutual TLS are the ones the code and the specifications hold](https://github.com/beffroi-auth/docs/pull/60) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [docs(0.0): the relay of a mail keeps its links as the provider wrote them, click tracking off for the domain a mail is sent from](https://github.com/beffroi-auth/docs/pull/59) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [docs: the relay of a mail keeps its links as the provider wrote them, click tracking off for the domain a mail is sent from](https://github.com/beffroi-auth/docs/pull/58) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [docs(0.0): the image texts through Sweego, the one bridge of symfony/notifier it installs, by a DSN that keeps the links of a text as they are](https://github.com/beffroi-auth/docs/pull/57) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.4.0](https://github.com/DamienHarper/auditor/releases/tag/4.4.0), today) - auditor, the missing audit log library
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.9](https://github.com/api-platform/core/releases/tag/v5.0.9), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.15](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.15), 3 days ago) - WebAuthn and passkeys for PHP and Symfony.
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([6.3.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/6.3.1), 4 days ago) - The missing audit log library
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.4.0](https://github.com/DamienHarper/auditor/releases/tag/4.4.0), 1 day ago) - auditor, the missing audit log library
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.9](https://github.com/api-platform/core/releases/tag/v5.0.9), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.15](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.15), 4 days ago) - WebAuthn and passkeys for PHP and Symfony.
+- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([6.3.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/6.3.1), 5 days ago) - The missing audit log library
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 1 week ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.2.0-BETA2), 1 week ago) - Provides tools to validate values
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-BETA2), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
