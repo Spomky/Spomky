@@ -37,29 +37,29 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (1 day ago)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (1 day ago)
-- [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) - Reference relying party of Beffroi: a Symfony application on the oidc_login authenticator, a resource server checking the same access token five ways, and the ladder of demonstration clients. Driven by "castor demo" of beffroi-auth/beffroi. (1 day ago)
-- [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (3 days ago)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (3 days ago)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK. (1 week ago)
-- [Spomky-Labs/meteofony](https://github.com/Spomky-Labs/meteofony) - A community-driven weather application, written to demonstrate Symfony and not to be used. (2 weeks ago)
-- [web-token/jwt-selective-disclosure](https://github.com/web-token/jwt-selective-disclosure) - Selective Disclosure for JWTs (SD-JWT, RFC 9901) of JWT Framework. (2 weeks ago)
-- [web-token/jwt-unsecured](https://github.com/web-token/jwt-unsecured) - The unsecured JWS algorithm, none, of JWT Framework, kept apart. (2 weeks ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (2 weeks ago)
+- [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (today)
+- [beffroi-auth/application](https://github.com/beffroi-auth/application) - Read-only split of apps/beffroi of beffroi-auth/beffroi. The identity provider application of Beffroi: Symfony on FrankenPHP, its image set by the environment, the one way Beffroi is deployed. (today)
+- [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) - Beffroi: an identity provider for the Symfony ecosystem. OAuth 2.0 / OpenID Connect first, pure-PHP components, one complete application. (today)
+- [beffroi-auth/core](https://github.com/beffroi-auth/core) - Read-only split of src/core of beffroi-auth/beffroi. Identity core: tenants, users, credentials, linked identities, groups, authentication sessions, keys. Pure PHP. (today)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (today)
+- [beffroi-auth/oidc](https://github.com/beffroi-auth/oidc) - Read-only split of src/oidc of beffroi-auth/beffroi. OAuth 2.0 and OpenID Connect: clients, authorization requests, grants, tokens, discovery, JWKS, UserInfo, logout. Pure PHP. (today)
+- [beffroi-auth/saml](https://github.com/beffroi-auth/saml) - Read-only split of src/saml of beffroi-auth/beffroi. SAML 2.0 for the identity provider: the identity provider and service provider roles of a tenant, metadata, attribute mapping, single logout on the session of the core. Pure PHP. (today)
+- [beffroi-auth/saml2-bindings](https://github.com/beffroi-auth/saml2-bindings) - Read-only split of src/saml2-bindings of beffroi-auth/beffroi. The HTTP-Redirect and HTTP-POST bindings of SAML 2.0 for PHP, strings and arrays in and out. No HTTP object. (today)
+- [beffroi-auth/saml2-model](https://github.com/beffroi-auth/saml2-model) - Read-only split of src/saml2-model of beffroi-auth/beffroi. The SAML 2.0 model for PHP: the samlp, saml and md objects of Web Browser SSO and Single Logout, read strictly and validated in code. No HTTP. (today)
+- [beffroi-auth/tui](https://github.com/beffroi-auth/tui) - Read-only split of apps/tui of beffroi-auth/beffroi. The terminal client of the administration of a Beffroi instance: a confidential client of its provider, signed in by a phishing-resistant proof, holding tokens bound to a key of its run. (today)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: the routes beside the API each check a token one way, the token of the session on three of them](https://github.com/beffroi-auth/oidc-demo/pull/22) on [beffroi-auth/oidc-demo](https://github.com/beffroi-auth/oidc-demo) (1 day ago)
-- [docs(0.0): a refused token request is presented again as a new one, and the stack's key sets, Vault token and link of alice are named](https://github.com/beffroi-auth/docs/pull/65) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [docs: a refused token request is presented again as a new one, and the stack's key sets, Vault token and link of alice are named](https://github.com/beffroi-auth/docs/pull/64) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [docs(0.0): the logout token and sender-constrained pages follow their review](https://github.com/beffroi-auth/docs/pull/63) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [docs: the logout token and sender-constrained pages follow their review](https://github.com/beffroi-auth/docs/pull/62) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [docs(0.0): a logout token is encrypted like the ID tokens of its client, and the citations and the variable of mutual TLS are the ones the code and the specifications hold](https://github.com/beffroi-auth/docs/pull/61) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [docs: a logout token is encrypted like the ID tokens of its client, and the citations and the variable of mutual TLS are the ones the code and the specifications hold](https://github.com/beffroi-auth/docs/pull/60) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [docs(0.0): the relay of a mail keeps its links as the provider wrote them, click tracking off for the domain a mail is sent from](https://github.com/beffroi-auth/docs/pull/59) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [docs: the relay of a mail keeps its links as the provider wrote them, click tracking off for the domain a mail is sent from](https://github.com/beffroi-auth/docs/pull/58) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
-- [docs(0.0): the image texts through Sweego, the one bridge of symfony/notifier it installs, by a DSN that keeps the links of a text as they are](https://github.com/beffroi-auth/docs/pull/57) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [ci: every workflow runs on the runners github hosts, x86_64 and arm64, now that the repository is public (issue #1141)](https://github.com/beffroi-auth/beffroi/pull/1143) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [ci: every job runs on a runner GitHub hosts, the repository being public (issue #1140)](https://github.com/beffroi-auth/beffroi/pull/1142) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [fix(tui): bin/beffroi-tui takes the autoloader the proxy of Composer names, so that an install as a dependency starts (issue #1136)](https://github.com/beffroi-auth/beffroi/pull/1138) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [docs: every repository of the organisation without a security policy of its own sends a vulnerability to the advisories of the monorepo](https://github.com/beffroi-auth/.github/pull/3) on [beffroi-auth/.github](https://github.com/beffroi-auth/.github) (today)
+- [feat(tui, ci): the screen says the version of the program, and whether a newer release of its line is out (issue #1134)](https://github.com/beffroi-auth/beffroi/pull/1135) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [docs: the pages quote the words the provider writes now, the titles of the account pages, the buttons that take something back and the sentences of a refusal](https://github.com/beffroi-auth/docs/pull/67) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
+- [feat(app): every table of the account is narrowed by what its columns say, the revoked passkeys left out until they are asked for (issues #1131, #1092)](https://github.com/beffroi-auth/beffroi/pull/1132) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [chore(app): the pages of the provider say what a person needs in few words, and repeat neither their title nor their card (issue #1129)](https://github.com/beffroi-auth/beffroi/pull/1130) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [fix(app): the field of a certificate or a key on the page of encrypted mail is drawn as a field and fills its panel, and its two formats stand apart](https://github.com/beffroi-auth/beffroi/pull/1128) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
+- [feat(tui): the administrator lists the mail signing keys of the tenant, draws its OpenPGP key, sets its S/MIME key from two PEM files and removes one (issue #1124)](https://github.com/beffroi-auth/beffroi/pull/1127) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
 
 #### 🔭 Latest releases I've contributed to
 
