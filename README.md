@@ -37,19 +37,20 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
+- [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) - Beffroi: an identity provider for the Symfony ecosystem. OAuth 2.0 / OpenID Connect first, pure-PHP components, one complete application. (today)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (today)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (today)
+- [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories (1 day ago)
 - [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (1 day ago)
 - [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - The Castor commands used across the projects. (1 day ago)
 - [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - The Symfony bundle of CBOR PHP. (1 day ago)
 - [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (1 day ago)
 - [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials for Symfony: sessions tied to hardware keys. (1 day ago)
 - [Spomky-Labs/docs](https://github.com/Spomky-Labs/docs) - The documentation of the open-source security libraries for PHP published by Slabs. (1 day ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords. (1 day ago)
-- [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - Progressive web apps for Symfony: manifest, service worker and offline support. (1 day ago)
-- [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) - Web push notifications for PHP and Symfony. (1 day ago)
-- [beffroi-auth/.github](https://github.com/beffroi-auth/.github) -  (1 day ago)
 
 #### 🔨 My recent Pull Requests
 
+- [test(symfony): cover the attestation conveyance override through the firewall](https://github.com/web-auth/webauthn-framework/pull/1033) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (today)
 - [docs: sign-anew refuses under a role that may not delete a link, a chain is not signed past its changed signed row, and a username is 255 characters (beffroi-auth/beffroi#1392)](https://github.com/beffroi-auth/docs/pull/79) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
 - [fix(core, app): a chain is not signed past its signed row changed in the database, and the doctor, sign-anew and the descriptions say what the code does (issue #1392)](https://github.com/beffroi-auth/beffroi/pull/1393) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (1 day ago)
 - [docs: the four documentations follow 0.1.x at 365f3904, the security fixes before 0.1.0 included](https://github.com/beffroi-auth/docs/pull/78) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
@@ -59,12 +60,11 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [fix(app): the entrypoint reads the database urls from their _file twins too, and BEFFROI_MIGRATIONS_DATABASE_URL gets one (issue #1385)](https://github.com/beffroi-auth/beffroi/pull/1386) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (1 day ago)
 - [ci: every job that reads the release key runs in the environment release, the milestone release as the signature of the terminal client (issue #1235)](https://github.com/beffroi-auth/beffroi/pull/1384) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (1 day ago)
 - [Bring the CI fixes of 3.2.x to 3.3.x (linear)](https://github.com/Spomky-Labs/web-push/pull/102) on [Spomky-Labs/web-push](https://github.com/Spomky-Labs/web-push) (1 day ago)
-- [fix(app): a session opens on the connection Doctrine holds then, so that a worker outlives the loss of the one it used before (issue #1382)](https://github.com/beffroi-auth/beffroi/pull/1383) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.17](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.17), today) - WebAuthn and passkeys for PHP and Symfony.
 - [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.3.0](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.3.0), 1 day ago) - The missing audit log library
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.16](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.16), 1 day ago) - WebAuthn and passkeys for PHP and Symfony.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.8](https://github.com/web-token/jwt-framework/releases/tag/4.2.8), 1 day ago) - JSON Web Tokens: JWS, JWE and JWK.
 - [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.4.0](https://github.com/DamienHarper/auditor/releases/tag/4.4.0), 2 days ago) - auditor, the missing audit log library
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.9](https://github.com/api-platform/core/releases/tag/v5.0.9), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
