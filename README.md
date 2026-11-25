@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ([5.3.17](https://github.com/web-auth/webauthn-framework/releases/tag/5.3.17), 1 day ago) - WebAuthn and passkeys for PHP and Symfony.
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.3.0](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.3.0), 2 days ago) - The missing audit log library
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([4.2.8](https://github.com/web-token/jwt-framework/releases/tag/4.2.8), 2 days ago) - JSON Web Tokens: JWS, JWE and JWK.
-- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([4.4.0](https://github.com/DamienHarper/auditor/releases/tag/4.4.0), 3 days ago) - auditor, the missing audit log library
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.9](https://github.com/api-platform/core/releases/tag/v5.0.9), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 1 week ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-BETA2](https://github.com/symfony/validator/releases/tag/v8.2.0-BETA2), 1 week ago) - Provides tools to validate values
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-BETA2](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-BETA2), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-BETA2](https://github.com/symfony/key-management/releases/tag/v8.2.0-BETA2), 1 week ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.2.0-BETA2](https://github.com/symfony/mailer/releases/tag/v8.2.0-BETA2), 1 week ago) - Helps sending emails
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1), today) - The Symfony PHP framework
+- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-RC1](https://github.com/symfony/key-management/releases/tag/v8.2.0-RC1), today) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) ([v8.2.0-RC1](https://github.com/symfony/doctrine-dbal-key-management/releases/tag/v8.2.0-RC1), today) - Symfony Doctrine DBAL Key Management Bridge
+- [symfony/console](https://github.com/symfony/console) ([v8.2.0-RC1](https://github.com/symfony/console/releases/tag/v8.2.0-RC1), today) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.2.0-RC1](https://github.com/symfony/mailer/releases/tag/v8.2.0-RC1), today) - Helps sending emails
+- [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-RC1](https://github.com/symfony/validator/releases/tag/v8.2.0-RC1), today) - Provides tools to validate values
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-RC1](https://github.com/symfony/security-core/releases/tag/v8.2.0-RC1), today) - Symfony Security Component - Core Library
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-RC1](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-RC1), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.2.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v8.2.0-RC1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/mime](https://github.com/symfony/mime) ([v8.2.0-RC1](https://github.com/symfony/mime/releases/tag/v8.2.0-RC1), today) - Allows manipulating MIME messages
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
