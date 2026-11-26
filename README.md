@@ -63,6 +63,7 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
+- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.3.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.3.1), today) - The missing audit log library
 - [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) ([0.1.0](https://github.com/beffroi-auth/beffroi/releases/tag/0.1.0), today) - Beffroi: an identity provider for the Symfony ecosystem. OAuth 2.0 / OpenID Connect first, pure-PHP components, one complete application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1), 1 day ago) - The Symfony PHP framework
 - [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-RC1](https://github.com/symfony/key-management/releases/tag/v8.2.0-RC1), 1 day ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
@@ -72,7 +73,6 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 - [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-RC1](https://github.com/symfony/validator/releases/tag/v8.2.0-RC1), 1 day ago) - Provides tools to validate values
 - [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-RC1](https://github.com/symfony/security-core/releases/tag/v8.2.0-RC1), 1 day ago) - Symfony Security Component - Core Library
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-RC1](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-RC1), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v8.2.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v8.2.0-RC1), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
