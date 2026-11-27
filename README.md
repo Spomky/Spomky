@@ -63,16 +63,16 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/web-link](https://github.com/symfony/web-link) ([v8.2.0-RC1](https://github.com/symfony/web-link/releases/tag/v8.2.0-RC1), today) - Manages links between resources
+- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([8.0.0](https://github.com/DamienHarper/auditor-bundle/releases/tag/8.0.0), today) - The missing audit log library
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) ([5.0.0](https://github.com/DamienHarper/auditor/releases/tag/5.0.0), today) - auditor, the missing audit log library
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.13](https://github.com/symfony/symfony/releases/tag/v8.1.13), today) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v8.1.13](https://github.com/symfony/validator/releases/tag/v8.1.13), today) - Provides tools to validate values
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.1.13](https://github.com/symfony/security-core/releases/tag/v8.1.13), today) - Symfony Security Component - Core Library
+- [symfony/web-link](https://github.com/symfony/web-link) ([v7.4.25](https://github.com/symfony/web-link/releases/tag/v7.4.25), today) - Manages links between resources
 - [symfony/scaleway-key-management](https://github.com/symfony/scaleway-key-management) ([v8.2.0-RC1](https://github.com/symfony/scaleway-key-management/releases/tag/v8.2.0-RC1), today) - Symfony Scaleway Key Management Bridge
 - [symfony/kmip-key-management](https://github.com/symfony/kmip-key-management) ([v8.2.0-RC1](https://github.com/symfony/kmip-key-management/releases/tag/v8.2.0-RC1), today) - Symfony KMIP Key Management Bridge
 - [symfony/hashicorp-vault-key-management](https://github.com/symfony/hashicorp-vault-key-management) ([v8.2.0-RC1](https://github.com/symfony/hashicorp-vault-key-management/releases/tag/v8.2.0-RC1), today) - Symfony HashiCorp Vault Key Management Bridge
 - [symfony/google-cloud-key-management](https://github.com/symfony/google-cloud-key-management) ([v8.2.0-RC1](https://github.com/symfony/google-cloud-key-management/releases/tag/v8.2.0-RC1), today) - Symfony Google Cloud Key Management Bridge
-- [symfony/flysystem-key-management](https://github.com/symfony/flysystem-key-management) ([v8.2.0-RC1](https://github.com/symfony/flysystem-key-management/releases/tag/v8.2.0-RC1), today) - Symfony Flysystem Key Management Bridge
-- [symfony/azure-keyvault-key-management](https://github.com/symfony/azure-keyvault-key-management) ([v8.2.0-RC1](https://github.com/symfony/azure-keyvault-key-management/releases/tag/v8.2.0-RC1), today) - Symfony Azure Key Vault Key Management Bridge
-- [symfony/aws-key-management](https://github.com/symfony/aws-key-management) ([v8.2.0-RC1](https://github.com/symfony/aws-key-management/releases/tag/v8.2.0-RC1), today) - Symfony AWS Key Management Bridge
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.3.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.3.1), 1 day ago) - The missing audit log library
-- [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) ([0.1.0](https://github.com/beffroi-auth/beffroi/releases/tag/0.1.0), 1 day ago) - Beffroi: an identity provider for the Symfony ecosystem. OAuth 2.0 / OpenID Connect first, pure-PHP components, one complete application.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
