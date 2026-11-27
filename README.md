@@ -37,42 +37,42 @@ If you wish, you can sponsor me. The [GitHub Sponsors page](https://github.com/s
 
 #### 👷 Check out what I'm currently working on
 
-- [beffroi-auth/application](https://github.com/beffroi-auth/application) - Read-only split of apps/beffroi of beffroi-auth/beffroi. The identity provider application of Beffroi: Symfony on FrankenPHP, its image set by the environment, the one way Beffroi is deployed. (today)
-- [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) - Beffroi: an identity provider for the Symfony ecosystem. OAuth 2.0 / OpenID Connect first, pure-PHP components, one complete application. (today)
-- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (today)
-- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (2 days ago)
-- [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories (3 days ago)
-- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (3 days ago)
-- [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - The Castor commands used across the projects. (3 days ago)
-- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - The Symfony bundle of CBOR PHP. (3 days ago)
-- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (3 days ago)
-- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials for Symfony: sessions tied to hardware keys. (3 days ago)
+- [beffroi-auth/application](https://github.com/beffroi-auth/application) - Read-only split of apps/beffroi of beffroi-auth/beffroi. The identity provider application of Beffroi: Symfony on FrankenPHP, its image set by the environment, the one way Beffroi is deployed. (1 day ago)
+- [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) - Beffroi: an identity provider for the Symfony ecosystem. OAuth 2.0 / OpenID Connect first, pure-PHP components, one complete application. (1 day ago)
+- [beffroi-auth/docs](https://github.com/beffroi-auth/docs) - Documentation of Beffroi, an identity provider for the Symfony ecosystem: the application that is the provider, and the identity core, OAuth 2.0 and OpenID Connect, and SAML 2.0 it is built on. A static site on GitHub Pages, one branch per version. (1 day ago)
+- [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - WebAuthn and passkeys for PHP and Symfony. (3 days ago)
+- [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories (4 days ago)
+- [Spomky-Labs/access-control-framework](https://github.com/Spomky-Labs/access-control-framework) - Authorization for PHP and Symfony: decides whether a requester may act on a subject. (4 days ago)
+- [Spomky-Labs/beaver](https://github.com/Spomky-Labs/beaver) - The Castor commands used across the projects. (4 days ago)
+- [Spomky-Labs/cbor-bundle](https://github.com/Spomky-Labs/cbor-bundle) - The Symfony bundle of CBOR PHP. (4 days ago)
+- [Spomky-Labs/cbor-php](https://github.com/Spomky-Labs/cbor-php) - CBOR encoding and decoding. (4 days ago)
+- [Spomky-Labs/dbsc-bundle](https://github.com/Spomky-Labs/dbsc-bundle) - Device Bound Session Credentials for Symfony: sessions tied to hardware keys. (4 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [docs: the pages of 0.2 document 0.2.x, not released yet, and read its files from 0.2.x](https://github.com/beffroi-auth/docs/pull/84) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [docs: the table of the versions names 0.2, in development on 0.2.x](https://github.com/beffroi-auth/docs/pull/83) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [test(conformance): oidcc-registration-tos-uri is a gap the plans name, its tos_uri being on a host none of its redirection URIs names (issue #1399)](https://github.com/beffroi-auth/beffroi/pull/1400) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
-- [docs: the production image is built on debian 13.8-slim (beffroi-auth/beffroi#1394)](https://github.com/beffroi-auth/docs/pull/81) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (today)
-- [fix(app): the image of 0.1.0 carries twig 3.31.1 and debian 13.8-slim, which fix the advisories against twig 3.30.0, zlib and glibc (issue #1394)](https://github.com/beffroi-auth/beffroi/pull/1398) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (today)
-- [test(symfony): cover the attestation conveyance override through the firewall](https://github.com/web-auth/webauthn-framework/pull/1033) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (2 days ago)
-- [docs: sign-anew refuses under a role that may not delete a link, a chain is not signed past its changed signed row, and a username is 255 characters (beffroi-auth/beffroi#1392)](https://github.com/beffroi-auth/docs/pull/79) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (3 days ago)
-- [fix(core, app): a chain is not signed past its signed row changed in the database, and the doctor, sign-anew and the descriptions say what the code does (issue #1392)](https://github.com/beffroi-auth/beffroi/pull/1393) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (3 days ago)
-- [docs: the four documentations follow 0.1.x at 365f3904, the security fixes before 0.1.0 included](https://github.com/beffroi-auth/docs/pull/78) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (3 days ago)
-- [fix(app): the table of the queues is created by a migration as the owner of the tables, and no transport creates it at its first message (issue #1389)](https://github.com/beffroi-auth/beffroi/pull/1391) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (3 days ago)
+- [docs: the pages of 0.2 document 0.2.x, not released yet, and read its files from 0.2.x](https://github.com/beffroi-auth/docs/pull/84) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [docs: the table of the versions names 0.2, in development on 0.2.x](https://github.com/beffroi-auth/docs/pull/83) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [test(conformance): oidcc-registration-tos-uri is a gap the plans name, its tos_uri being on a host none of its redirection URIs names (issue #1399)](https://github.com/beffroi-auth/beffroi/pull/1400) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (1 day ago)
+- [docs: the production image is built on debian 13.8-slim (beffroi-auth/beffroi#1394)](https://github.com/beffroi-auth/docs/pull/81) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (1 day ago)
+- [fix(app): the image of 0.1.0 carries twig 3.31.1 and debian 13.8-slim, which fix the advisories against twig 3.30.0, zlib and glibc (issue #1394)](https://github.com/beffroi-auth/beffroi/pull/1398) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (1 day ago)
+- [test(symfony): cover the attestation conveyance override through the firewall](https://github.com/web-auth/webauthn-framework/pull/1033) on [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) (3 days ago)
+- [docs: sign-anew refuses under a role that may not delete a link, a chain is not signed past its changed signed row, and a username is 255 characters (beffroi-auth/beffroi#1392)](https://github.com/beffroi-auth/docs/pull/79) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (4 days ago)
+- [fix(core, app): a chain is not signed past its signed row changed in the database, and the doctor, sign-anew and the descriptions say what the code does (issue #1392)](https://github.com/beffroi-auth/beffroi/pull/1393) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (4 days ago)
+- [docs: the four documentations follow 0.1.x at 365f3904, the security fixes before 0.1.0 included](https://github.com/beffroi-auth/docs/pull/78) on [beffroi-auth/docs](https://github.com/beffroi-auth/docs) (4 days ago)
+- [fix(app): the table of the queues is created by a migration as the owner of the tables, and no transport creates it at its first message (issue #1389)](https://github.com/beffroi-auth/beffroi/pull/1391) on [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.3.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.3.1), today) - The missing audit log library
-- [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) ([0.1.0](https://github.com/beffroi-auth/beffroi/releases/tag/0.1.0), today) - Beffroi: an identity provider for the Symfony ecosystem. OAuth 2.0 / OpenID Connect first, pure-PHP components, one complete application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1), 1 day ago) - The Symfony PHP framework
-- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-RC1](https://github.com/symfony/key-management/releases/tag/v8.2.0-RC1), 1 day ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
-- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) ([v8.2.0-RC1](https://github.com/symfony/doctrine-dbal-key-management/releases/tag/v8.2.0-RC1), 1 day ago) - Symfony Doctrine DBAL Key Management Bridge
-- [symfony/console](https://github.com/symfony/console) ([v8.2.0-RC1](https://github.com/symfony/console/releases/tag/v8.2.0-RC1), 1 day ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/mailer](https://github.com/symfony/mailer) ([v8.2.0-RC1](https://github.com/symfony/mailer/releases/tag/v8.2.0-RC1), 1 day ago) - Helps sending emails
-- [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-RC1](https://github.com/symfony/validator/releases/tag/v8.2.0-RC1), 1 day ago) - Provides tools to validate values
-- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-RC1](https://github.com/symfony/security-core/releases/tag/v8.2.0-RC1), 1 day ago) - Symfony Security Component - Core Library
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-RC1](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-RC1), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) ([7.3.1](https://github.com/DamienHarper/auditor-bundle/releases/tag/7.3.1), 1 day ago) - The missing audit log library
+- [beffroi-auth/beffroi](https://github.com/beffroi-auth/beffroi) ([0.1.0](https://github.com/beffroi-auth/beffroi/releases/tag/0.1.0), 1 day ago) - Beffroi: an identity provider for the Symfony ecosystem. OAuth 2.0 / OpenID Connect first, pure-PHP components, one complete application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1), 2 days ago) - The Symfony PHP framework
+- [symfony/key-management](https://github.com/symfony/key-management) ([v8.2.0-RC1](https://github.com/symfony/key-management/releases/tag/v8.2.0-RC1), 2 days ago) - Abstracts Key Management Systems (AWS KMS, Azure Key Vault, Google Cloud KMS, HashiCorp Vault Transit, Scaleway Key Manager, KMIP, ...) behind a single interface
+- [symfony/doctrine-dbal-key-management](https://github.com/symfony/doctrine-dbal-key-management) ([v8.2.0-RC1](https://github.com/symfony/doctrine-dbal-key-management/releases/tag/v8.2.0-RC1), 2 days ago) - Symfony Doctrine DBAL Key Management Bridge
+- [symfony/console](https://github.com/symfony/console) ([v8.2.0-RC1](https://github.com/symfony/console/releases/tag/v8.2.0-RC1), 2 days ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/mailer](https://github.com/symfony/mailer) ([v8.2.0-RC1](https://github.com/symfony/mailer/releases/tag/v8.2.0-RC1), 2 days ago) - Helps sending emails
+- [symfony/validator](https://github.com/symfony/validator) ([v8.2.0-RC1](https://github.com/symfony/validator/releases/tag/v8.2.0-RC1), 2 days ago) - Provides tools to validate values
+- [symfony/security-core](https://github.com/symfony/security-core) ([v8.2.0-RC1](https://github.com/symfony/security-core/releases/tag/v8.2.0-RC1), 2 days ago) - Symfony Security Component - Core Library
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v8.2.0-RC1](https://github.com/symfony/security-bundle/releases/tag/v8.2.0-RC1), 2 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
